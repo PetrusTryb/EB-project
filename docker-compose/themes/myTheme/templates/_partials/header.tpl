@@ -22,6 +22,26 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
+
+<div id="bf_banner">
+	<span class="bf_banner_span">
+		✨BLACK FRIDAY:
+	</span>
+	<span class="bf_banner_span">
+		Pomiń kolejkę! 🥳
+	</span>			
+</div>
+
+<nav id="navbar">
+	<strong> kontakt@hobbii.pl </strong>
+	<div class="navbar-right">
+		<span> Blog </span>
+		<span> Point Store </span>
+		<span> Pomoc i Kontakt </span>
+		<span> O Hobbii </span>
+	</div>
+</nav>
+
 {block name='header_banner'}
   <div class="header-banner">
     {hook h='displayBanner'}
@@ -35,11 +55,8 @@
         <div class="hidden-sm-down">
           <div class="col-md-5 col-xs-12">
 					<div class="header1">
-						<strong> kontakt@hobbii.pl </strong>
-						<span> Blog </span>
-						<span> Point Store </span>
-						<span> Pomoc i Kontakt </span>
-						<span> O Hobbii </span>
+
+
 					</div>
 
           </div>
