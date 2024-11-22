@@ -1,7 +1,7 @@
 import json
 import os
-
 import requests
+import re
 from tqdm import tqdm
 
 
@@ -10,8 +10,11 @@ class Scraper:
         self.url = url
         self.results_dir = results_dir
         self.pretty_print = pretty_print
+        self.images_dir = os.path.join(results_dir, 'images')
         if not os.path.exists(results_dir):
             os.makedirs(results_dir)
+        if not os.path.exists(self.images_dir):
+            os.makedirs(self.images_dir)
 
     def get_all_collections(self):
         collections = self.get_and_save_one('collections', ['id', 'title', 'handle', 'products_count'],
@@ -65,6 +68,30 @@ class Scraper:
         print(f'Downloaded {filename}')
         return response
 
+    def download_images(self, product_data):
+        for product in product_data:
+            product_id = product['id']
+            images = product.get('images', [])
+            counter = 0
+            for image in images:
+                image_url = image.get('src', '')
+                if not image_url:
+                    continue
+                sanitized_url = re.sub(r'\?.*$', '', image_url)
+                image_filename = os.path.join(self.images_dir, f'{product_id}_{os.path.basename(sanitized_url)}')
+                if counter > 3:
+                    break
+                try:
+                    response = requests.get(f'{image_url}', stream=True)
+                    if response.status_code == 200:
+                        with open(image_filename, 'wb') as image_file:
+                            for chunk in response.iter_content(1024):
+                                image_file.write(chunk)
+                        #print(f"Downloaded image: {image_filename}")
+                        counter += 1
+                except Exception as e:
+                    print(f"Failed to download image from {image_url}: {e}")
+
 
 if __name__ == '__main__':
     scraper = Scraper('https://hobbii.pl', 'results', True)
@@ -72,5 +99,10 @@ if __name__ == '__main__':
     with tqdm(total=len(collections)) as bar:
         for collection in collections:
             scraper.get_collection_products(collection)
+            # Load product data from the saved file
+            products_file = os.path.join('results', f"{collection['handle']}_products.json")
+            with open(products_file, 'r') as file:
+                products = json.load(file)
+            scraper.download_images(products)
             bar.update(1)
         bar.close()
