@@ -25,7 +25,7 @@
 {foreach $stylesheets.external as $stylesheet}
   <link rel="stylesheet" href="{$stylesheet.uri}" type="text/css" media="{$stylesheet.media}">
 {/foreach}
-
+<link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/header.css" type="text/css" media="all">
 {foreach $stylesheets.inline as $stylesheet}
   <style>
     {$stylesheet.content}
