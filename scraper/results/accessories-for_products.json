@@ -1,0 +1,3903 @@
+[
+  {
+    "id": 7856007676093,
+    "title": "Zapi\u0119cie do szala",
+    "handle": "hp-1003252-shawl-pin-qty-2",
+    "body_html": "<p>Zapi\u0119cie do szala to fantastyczny dodatek, kt\u00f3rym podkr\u0119cisz sw\u00f3j projekt albo te\u017c i ca\u0142y str\u00f3j. Opr\u00f3cz przytrzymywania chust, mo\u017ce s\u0142u\u017cy\u0107 tak\u017ce w torebkach albo na w\u0142osach - jako ozdoba. Tylko Twoja fantazja wyznacza granice jego u\u017cycia. W zestawie otrzymujesz 2 zapi\u0119cia wykonane z metalu.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421048303805,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2008",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "11.00",
+        "grams": 9,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856007676093,
+        "created_at": "2024-08-05T10:33:14+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185011785917,
+        "created_at": "2024-08-05T11:54:21+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:54:22+02:00",
+        "product_id": 7856007676093,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbi-19-11-2019-47827jpg.jpg?v=1722851662",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185011884221,
+        "created_at": "2024-08-05T11:54:21+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:54:23+02:00",
+        "product_id": 7856007676093,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1574425737-hb-2008jpg.jpg?v=1722851663",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855925723325,
+    "title": "Grzebie\u0144 do we\u0142ny",
+    "handle": "hp-1004809-wool-comb-1004809",
+    "body_html": "<p>Ten delikatny grzebie\u0144 do we\u0142ny pomaga zachowa\u0107 we\u0142niane wyroby w pi\u0119knym stanie, usuwaj\u0105c zmechacenia bez ryzyka uszkodzenia dzianiny. Nawet najlepszej jako\u015bci we\u0142na b\u0119dzie si\u0119 mechaci\u0107 w miejscach, gdzie dzianiny ocieraj\u0105 si\u0119 o siebie.</p><p>Grzebie\u0144 do we\u0142ny zapakowany jest w \u0142adny p\u0142\u00f3cienny woreczek.</p><p>Spos\u00f3b u\u017cycia: Po\u0142\u00f3\u017c dzianin\u0119 na p\u0142askiej powierzchni i za pomoc\u0105 grzebienia usu\u0144 k\u0142aczki/kulki i nadmiar we\u0142ny, delikatnie przesuwaj\u0105c grzebie\u0144 po dzianinie. Grzebie\u0144 do we\u0142ny nie nadaje si\u0119 do wyrob\u00f3w wykonanych z bardzo puszystej we\u0142ny lub bardzo lu\u017ano wydzierganych projekt\u00f3w.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420657840317,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "19220",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "40.00",
+        "grams": 25,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855925723325,
+        "created_at": "2024-08-05T10:23:20+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183990800573,
+        "created_at": "2024-08-05T10:52:29+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:52:32+02:00",
+        "product_id": 7855925723325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-1050-1200x1200pxjpg.jpg?v=1722847952",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183990538429,
+        "created_at": "2024-08-05T10:52:30+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:52:32+02:00",
+        "product_id": 7855925723325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-1042-1200x1200pxjpg.jpg?v=1722847952",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183990505661,
+        "created_at": "2024-08-05T10:52:30+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:52:32+02:00",
+        "product_id": 7855925723325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-12-19-15-57-20-1200x1200pxjpg.jpg?v=1722847952",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183990702269,
+        "created_at": "2024-08-05T10:52:30+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:52:32+02:00",
+        "product_id": 7855925723325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/woolcool-1-1-picture-katrina-1jpg.jpg?v=1722847952",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35183990735037,
+        "created_at": "2024-08-05T10:52:30+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:52:32+02:00",
+        "product_id": 7855925723325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/woolcool-1-1-picture-katrina-2jpg.jpg?v=1722847952",
+        "width": 2731,
+        "height": 2731
+      },
+      {
+        "id": 71415805444474,
+        "created_at": "2024-10-23T17:34:10+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:34:11+02:00",
+        "product_id": 7855925723325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/87b305827c715f14994cf7ed8d5fed9c.jpg?v=1729697651",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856012329149,
+    "title": "Szklane Pere\u0142ki - 30g",
+    "handle": "hp-1004499-glass-beads-30-g-1-oz",
+    "body_html": "<p>Prze\u015bliczne szklane pere\u0142ki firmy Go Handmade!\n</p><p>Szklane pere\u0142ki rocailles firmy Go Handmade nale\u017c\u0105 do najlepszych dost\u0119pnych na rynku. Gotowe pere\u0142ki przesz\u0142y wiele etap\u00f3w produkcji, od surowca do pi\u0119knych, w pe\u0142ni uformowanych, gotowych pere\u0142ek. Fabryka stworzy\u0142a produkt wysokiej jako\u015bci, zapewniaj\u0105c dobr\u0105 jednorodno\u015b\u0107 pere\u0142 - zar\u00f3wno pod wzgl\u0119dem wielko\u015bci jak i koloru. Wi\u0119kszo\u015b\u0107 pi\u0119knych kolor\u00f3w pere\u0142 posiada tak zwane wyko\u0144czenie Baked finish, czyli wypalanie i szkliwienie.</p><p>Szklane pere\u0142ki idealnie nadaj\u0105 si\u0119 do szyde\u0142kowania np. bransoletek lub uchwyt\u00f3w do koszyk\u00f3w. Zalecamy zakup ig\u0142y do pere\u0142ek/koralik\u00f3w - nie po\u017ca\u0142ujesz. Link znajduje si\u0119 wy\u017cej na stronie.</p><p>Dzi\u0119ki tym pere\u0142kom b\u0119dziesz rozpieszczona bogactwem pi\u0119knych kolor\u00f3w! Pere\u0142ki s\u0105 zapakowane w ma\u0142ej buteleczce, kt\u00f3ra zosta\u0142a wykonana z mocnego akrylu i ma solidn\u0105 zakr\u0119tk\u0119 z aluminium.</p><p><strong>Piel\u0119gnacja pere\u0142: </strong>Mimo i\u017c pere\u0142ki maj\u0105 trwa\u0142\u0105 powierzchni\u0119, nie powinny przez d\u0142ugi czas mie\u0107 bezpo\u015bredni kontakt z wod\u0105 i myd\u0142em. Aby wi\u0119c zabezpieczy\u0107 pere\u0142ki i ich kolory przed zu\u017cyciem, zalecamy delikatne pranie r\u0119czne w letniej wodzie.\n<strong>Materia\u0142</strong>: Szk\u0142o\n<strong>Rozmiar</strong>: 2,1 - 2,3 mm\n<strong>Otw\u00f3r</strong>: 0,9 - 1,0 mm</p><p>\u017byczymy udanej zabawy!</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421066260669,
+        "title": "White (15010)",
+        "option1": "White (15010)",
+        "option2": null,
+        "option3": null,
+        "sku": "15010",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097703613,
+          "product_id": 7856012329149,
+          "position": 13,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:26+02:00",
+          "alt": "15010-white-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15010-white-1200x1200pxjpg.jpg?v=1722852146",
+          "variant_ids": [
+            44421066260669
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066293437,
+        "title": "Pearl White (15011)",
+        "option1": "Pearl White (15011)",
+        "option2": null,
+        "option3": null,
+        "sku": "15011",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096687805,
+          "product_id": 7856012329149,
+          "position": 14,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15011-pearl-white-1200x1200px-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15011-pearl-white-1200x1200px-1jpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066293437
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066326205,
+        "title": "Pearl Creme (15012)",
+        "option1": "Pearl Creme (15012)",
+        "option2": null,
+        "option3": null,
+        "sku": "15012",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096163517,
+          "product_id": 7856012329149,
+          "position": 15,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15012-pearl-creme-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15012-pearl-creme-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066326205
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066358973,
+        "title": "Vanilla (15013)",
+        "option1": "Vanilla (15013)",
+        "option2": null,
+        "option3": null,
+        "sku": "15013",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097113789,
+          "product_id": 7856012329149,
+          "position": 16,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15013-vanilla-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15013-vanilla-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066358973
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066391741,
+        "title": "Light Pink (15014)",
+        "option1": "Light Pink (15014)",
+        "option2": null,
+        "option3": null,
+        "sku": "15014",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185095966909,
+          "product_id": 7856012329149,
+          "position": 17,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15014-light-pink-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15014-light-pink-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066391741
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066424509,
+        "title": "Pink (15015)",
+        "option1": "Pink (15015)",
+        "option2": null,
+        "option3": null,
+        "sku": "15015",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096851645,
+          "product_id": 7856012329149,
+          "position": 18,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15015-pink-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15015-pink-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066424509
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066457277,
+        "title": "Purple (15016)",
+        "option1": "Purple (15016)",
+        "option2": null,
+        "option3": null,
+        "sku": "15016",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096589501,
+          "product_id": 7856012329149,
+          "position": 19,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15016-purple-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15016-purple-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066457277
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066490045,
+        "title": "Dark Purple (15017)",
+        "option1": "Dark Purple (15017)",
+        "option2": null,
+        "option3": null,
+        "sku": "15017",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097244861,
+          "product_id": 7856012329149,
+          "position": 20,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15017-dark-purple-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15017-dark-purple-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066490045
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066522813,
+        "title": "Metallic Grey (15018)",
+        "option1": "Metallic Grey (15018)",
+        "option2": null,
+        "option3": null,
+        "sku": "15018",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097507005,
+          "product_id": 7856012329149,
+          "position": 21,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:25+02:00",
+          "alt": "15018-metallic-grey-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15018-metallic-grey-1200x1200pxjpg.jpg?v=1722852145",
+          "variant_ids": [
+            44421066522813
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 9,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066555581,
+        "title": "Grey (15019)",
+        "option1": "Grey (15019)",
+        "option2": null,
+        "option3": null,
+        "sku": "15019",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097146557,
+          "product_id": 7856012329149,
+          "position": 22,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15019-grey-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15019-grey-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066555581
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 10,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066588349,
+        "title": "Silver (15020)",
+        "option1": "Silver (15020)",
+        "option2": null,
+        "option3": null,
+        "sku": "15020",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097441469,
+          "product_id": 7856012329149,
+          "position": 23,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15020-silver-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15020-silver-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066588349
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 11,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066621117,
+        "title": "Red (15021)",
+        "option1": "Red (15021)",
+        "option2": null,
+        "option3": null,
+        "sku": "15021",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096523965,
+          "product_id": 7856012329149,
+          "position": 24,
+          "created_at": "2024-08-05T12:02:19+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15021-red-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15021-red-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066621117
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 12,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066653885,
+        "title": "Metallic Red (15022)",
+        "option1": "Metallic Red (15022)",
+        "option2": null,
+        "option3": null,
+        "sku": "15022",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096655037,
+          "product_id": 7856012329149,
+          "position": 25,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15022-metallic-red-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15022-metallic-red-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066653885
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 13,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066686653,
+        "title": "Kiwi Green (15023)",
+        "option1": "Kiwi Green (15023)",
+        "option2": null,
+        "option3": null,
+        "sku": "15023",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096229053,
+          "product_id": 7856012329149,
+          "position": 26,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15023-kiwi-green-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15023-kiwi-green-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066686653
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 14,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066719421,
+        "title": "Smaragd Green (15024)",
+        "option1": "Smaragd Green (15024)",
+        "option2": null,
+        "option3": null,
+        "sku": "15024",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097015485,
+          "product_id": 7856012329149,
+          "position": 27,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15024-smaragd-green-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15024-smaragd-green-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066719421
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 15,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066752189,
+        "title": "Green (15025)",
+        "option1": "Green (15025)",
+        "option2": null,
+        "option3": null,
+        "sku": "15025",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096491197,
+          "product_id": 7856012329149,
+          "position": 28,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15025-green-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15025-green-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066752189
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 16,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066784957,
+        "title": "Dark Green (15026)",
+        "option1": "Dark Green (15026)",
+        "option2": null,
+        "option3": null,
+        "sku": "15026",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096949949,
+          "product_id": 7856012329149,
+          "position": 29,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15026-dark-green-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15026-dark-green-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066784957
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 17,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066817725,
+        "title": "Turquoise (15027)",
+        "option1": "Turquoise (15027)",
+        "option2": null,
+        "option3": null,
+        "sku": "15027",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096065213,
+          "product_id": 7856012329149,
+          "position": 30,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15027-turquoise-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15027-turquoise-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066817725
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 18,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066850493,
+        "title": "Sea Blue (15028)",
+        "option1": "Sea Blue (15028)",
+        "option2": null,
+        "option3": null,
+        "sku": "15028",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097048253,
+          "product_id": 7856012329149,
+          "position": 31,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15028-sea-blue-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15028-sea-blue-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066850493
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 19,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066883261,
+        "title": "Persian Green (15029)",
+        "option1": "Persian Green (15029)",
+        "option2": null,
+        "option3": null,
+        "sku": "15029",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096327357,
+          "product_id": 7856012329149,
+          "position": 32,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15029-persian-green-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15029-persian-green-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066883261
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 20,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066916029,
+        "title": "Blue (15030)",
+        "option1": "Blue (15030)",
+        "option2": null,
+        "option3": null,
+        "sku": "15030",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096360125,
+          "product_id": 7856012329149,
+          "position": 33,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15030-blue-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15030-blue-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066916029
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 21,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066948797,
+        "title": "Petrol (15031)",
+        "option1": "Petrol (15031)",
+        "option2": null,
+        "option3": null,
+        "sku": "15031",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097474237,
+          "product_id": 7856012329149,
+          "position": 34,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:25+02:00",
+          "alt": "15031-petrol-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15031-petrol-1200x1200pxjpg.jpg?v=1722852145",
+          "variant_ids": [
+            44421066948797
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 22,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421066981565,
+        "title": "Metallic Smaragd Green (15032)",
+        "option1": "Metallic Smaragd Green (15032)",
+        "option2": null,
+        "option3": null,
+        "sku": "15032",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097277629,
+          "product_id": 7856012329149,
+          "position": 35,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15032-metallic-smaragd-green-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15032-metallic-smaragd-green-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421066981565
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 23,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067014333,
+        "title": "Metallic Blue (15033)",
+        "option1": "Metallic Blue (15033)",
+        "option2": null,
+        "option3": null,
+        "sku": "15033",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185095999677,
+          "product_id": 7856012329149,
+          "position": 36,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15033-metallic-blue-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15033-metallic-blue-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067014333
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 24,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067047101,
+        "title": "Yellow (15034)",
+        "option1": "Yellow (15034)",
+        "option2": null,
+        "option3": null,
+        "sku": "15034",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097343165,
+          "product_id": 7856012329149,
+          "position": 37,
+          "created_at": "2024-08-05T12:02:20+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15034-yellow-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15034-yellow-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067047101
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 25,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067079869,
+        "title": "Pearl Beige (15035)",
+        "option1": "Pearl Beige (15035)",
+        "option2": null,
+        "option3": null,
+        "sku": "15035",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096818877,
+          "product_id": 7856012329149,
+          "position": 38,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15035-pearl-beige-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15035-pearl-beige-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067079869
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 26,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067112637,
+        "title": "Beige (15036)",
+        "option1": "Beige (15036)",
+        "option2": null,
+        "option3": null,
+        "sku": "15036",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096884413,
+          "product_id": 7856012329149,
+          "position": 39,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15036-beige-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15036-beige-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067112637
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 27,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067145405,
+        "title": "Nougat (15037)",
+        "option1": "Nougat (15037)",
+        "option2": null,
+        "option3": null,
+        "sku": "15037",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097081021,
+          "product_id": 7856012329149,
+          "position": 40,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15037-nougat-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15037-nougat-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067145405
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 28,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067178173,
+        "title": "Terracotta (15038)",
+        "option1": "Terracotta (15038)",
+        "option2": null,
+        "option3": null,
+        "sku": "15038",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097375933,
+          "product_id": 7856012329149,
+          "position": 41,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15038-terracotta-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15038-terracotta-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067178173
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 29,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067210941,
+        "title": "Apricot (15039)",
+        "option1": "Apricot (15039)",
+        "option2": null,
+        "option3": null,
+        "sku": "15039",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097212093,
+          "product_id": 7856012329149,
+          "position": 42,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15039-apricot-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15039-apricot-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067210941
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 30,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067243709,
+        "title": "Orange (15040)",
+        "option1": "Orange (15040)",
+        "option2": null,
+        "option3": null,
+        "sku": "15040",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096786109,
+          "product_id": 7856012329149,
+          "position": 43,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15040-orange-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15040-orange-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067243709
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 31,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067276477,
+        "title": "Espresso (15041)",
+        "option1": "Espresso (15041)",
+        "option2": null,
+        "option3": null,
+        "sku": "15041",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185097736381,
+          "product_id": 7856012329149,
+          "position": 44,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:26+02:00",
+          "alt": "15041-espresso-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15041-espresso-1200x1200pxjpg.jpg?v=1722852146",
+          "variant_ids": [
+            44421067276477
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 32,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067309245,
+        "title": "Metallic Gold (15042)",
+        "option1": "Metallic Gold (15042)",
+        "option2": null,
+        "option3": null,
+        "sku": "15042",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096720573,
+          "product_id": 7856012329149,
+          "position": 45,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15042-metallic-gold-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15042-metallic-gold-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067309245
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 33,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067342013,
+        "title": "Black (15043)",
+        "option1": "Black (15043)",
+        "option2": null,
+        "option3": null,
+        "sku": "15043",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096622269,
+          "product_id": 7856012329149,
+          "position": 46,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15043-black-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15043-black-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067342013
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 34,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421067374781,
+        "title": "Caramel (15044)",
+        "option1": "Caramel (15044)",
+        "option2": null,
+        "option3": null,
+        "sku": "15044",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185096753341,
+          "product_id": 7856012329149,
+          "position": 47,
+          "created_at": "2024-08-05T12:02:21+02:00",
+          "updated_at": "2024-08-05T12:02:24+02:00",
+          "alt": "15044-caramel-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15044-caramel-1200x1200pxjpg.jpg?v=1722852144",
+          "variant_ids": [
+            44421067374781
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 35,
+        "product_id": 7856012329149,
+        "created_at": "2024-08-05T10:33:49+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185096130749,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/image-from-ios-6jpg.jpg?v=1722852144",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35185097179325,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hkleperlerjpg.jpg?v=1722852144",
+        "width": 2642,
+        "height": 2642
+      },
+      {
+        "id": 35185095311549,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T12:02:23+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-0934-frit-1200x1200pxjpg.jpg?v=1722852143",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185095803069,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-0944-frit-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096982717,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-0930-frit-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185095737533,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-12-19-15-27-58-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096294589,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-12-19-15-34-52-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097310397,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-12-19-15-34-46-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185095835837,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-12-19-15-30-11-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096458429,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-12-19-15-33-08-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096556733,
+        "created_at": "2024-08-05T12:02:18+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-12-19-15-36-34-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185095671997,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 12,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-12-20-16-10-24-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097703613,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 13,
+        "updated_at": "2024-08-05T12:02:26+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066260669
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15010-white-1200x1200pxjpg.jpg?v=1722852146",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096687805,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 14,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066293437
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15011-pearl-white-1200x1200px-1jpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096163517,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 15,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066326205
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15012-pearl-creme-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097113789,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 16,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066358973
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15013-vanilla-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185095966909,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 17,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066391741
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15014-light-pink-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096851645,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 18,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066424509
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15015-pink-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096589501,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 19,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066457277
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15016-purple-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097244861,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 20,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066490045
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15017-dark-purple-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097507005,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 21,
+        "updated_at": "2024-08-05T12:02:25+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066522813
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15018-metallic-grey-1200x1200pxjpg.jpg?v=1722852145",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097146557,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 22,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066555581
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15019-grey-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097441469,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 23,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066588349
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15020-silver-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096523965,
+        "created_at": "2024-08-05T12:02:19+02:00",
+        "position": 24,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066621117
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15021-red-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096655037,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 25,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066653885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15022-metallic-red-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096229053,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 26,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066686653
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15023-kiwi-green-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097015485,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 27,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066719421
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15024-smaragd-green-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096491197,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 28,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066752189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15025-green-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096949949,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 29,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066784957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15026-dark-green-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096065213,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 30,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066817725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15027-turquoise-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097048253,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 31,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066850493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15028-sea-blue-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096327357,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 32,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066883261
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15029-persian-green-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096360125,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 33,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066916029
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15030-blue-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097474237,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 34,
+        "updated_at": "2024-08-05T12:02:25+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066948797
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15031-petrol-1200x1200pxjpg.jpg?v=1722852145",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097277629,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 35,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421066981565
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15032-metallic-smaragd-green-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185095999677,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 36,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067014333
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15033-metallic-blue-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097343165,
+        "created_at": "2024-08-05T12:02:20+02:00",
+        "position": 37,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067047101
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15034-yellow-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096818877,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 38,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067079869
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15035-pearl-beige-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096884413,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 39,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067112637
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15036-beige-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097081021,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 40,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067145405
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15037-nougat-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097375933,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 41,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067178173
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15038-terracotta-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097212093,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 42,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067210941
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15039-apricot-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096786109,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 43,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067243709
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15040-orange-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185097736381,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 44,
+        "updated_at": "2024-08-05T12:02:26+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067276477
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15041-espresso-1200x1200pxjpg.jpg?v=1722852146",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096720573,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 45,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067309245
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15042-metallic-gold-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096622269,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 46,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067342013
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15043-black-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185096753341,
+        "created_at": "2024-08-05T12:02:21+02:00",
+        "position": 47,
+        "updated_at": "2024-08-05T12:02:24+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [
+          44421067374781
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15044-caramel-1200x1200pxjpg.jpg?v=1722852144",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71379702874490,
+        "created_at": "2024-10-16T15:50:24+02:00",
+        "position": 48,
+        "updated_at": "2024-10-16T15:50:26+02:00",
+        "product_id": 7856012329149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/forsidejpg_10d0ebb7-901e-4b5e-9246-e188587391b1.jpg?v=1729086626",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "White (15010)",
+          "Pearl White (15011)",
+          "Pearl Creme (15012)",
+          "Vanilla (15013)",
+          "Light Pink (15014)",
+          "Pink (15015)",
+          "Purple (15016)",
+          "Dark Purple (15017)",
+          "Metallic Grey (15018)",
+          "Grey (15019)",
+          "Silver (15020)",
+          "Red (15021)",
+          "Metallic Red (15022)",
+          "Kiwi Green (15023)",
+          "Smaragd Green (15024)",
+          "Green (15025)",
+          "Dark Green (15026)",
+          "Turquoise (15027)",
+          "Sea Blue (15028)",
+          "Persian Green (15029)",
+          "Blue (15030)",
+          "Petrol (15031)",
+          "Metallic Smaragd Green (15032)",
+          "Metallic Blue (15033)",
+          "Yellow (15034)",
+          "Pearl Beige (15035)",
+          "Beige (15036)",
+          "Nougat (15037)",
+          "Terracotta (15038)",
+          "Apricot (15039)",
+          "Orange (15040)",
+          "Espresso (15041)",
+          "Metallic Gold (15042)",
+          "Black (15043)",
+          "Caramel (15044)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855946563773,
+    "title": "Pompon - Bia\u0142y",
+    "handle": "hp-1001229-pompon-hvid",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm), \u015bredni (11 cm) oraz du\u017cy (13 cm).\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420756177085,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "gohandmade-17266",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184300261565,
+          "product_id": 7855946563773,
+          "position": 5,
+          "created_at": "2024-08-05T11:06:11+02:00",
+          "updated_at": "2024-08-05T11:06:13+02:00",
+          "alt": "white-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-10cmjpg.jpg?v=1722848773",
+          "variant_ids": [
+            44420756177085
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855946563773,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420756209853,
+        "title": "13 cm",
+        "option1": "13 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "gohandmade-17267",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184300392637,
+          "product_id": 7855946563773,
+          "position": 6,
+          "created_at": "2024-08-05T11:06:11+02:00",
+          "updated_at": "2024-08-05T11:06:13+02:00",
+          "alt": "white-13cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-13cmjpg.jpg?v=1722848773",
+          "variant_ids": [
+            44420756209853
+          ]
+        },
+        "available": true,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855946563773,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420756242621,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17252",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184300327101,
+          "product_id": 7855946563773,
+          "position": 7,
+          "created_at": "2024-08-05T11:06:11+02:00",
+          "updated_at": "2024-08-05T11:06:13+02:00",
+          "alt": "white-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-11cmjpg.jpg?v=1722848773",
+          "variant_ids": [
+            44420756242621
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855946563773,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184300228797,
+        "created_at": "2024-08-05T11:06:10+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:06:12+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1572859337-hobbii-30-09-201945162-1jpg.jpg?v=1722848772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300130493,
+        "created_at": "2024-08-05T11:06:10+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:06:12+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2019-11-17-15-25-32-1200x1200pxjpg.jpg?v=1722848772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300196029,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:06:12+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-1200x1200-1jpg.jpg?v=1722848772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300163261,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:06:12+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-1200x1200jpg.jpg?v=1722848772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300261565,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:06:13+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [
+          44420756177085
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-10cmjpg.jpg?v=1722848773",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300392637,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:06:13+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [
+          44420756209853
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-13cmjpg.jpg?v=1722848773",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300327101,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:06:13+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [
+          44420756242621
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-11cmjpg.jpg?v=1722848773",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71379523469690,
+        "created_at": "2024-10-16T15:35:13+02:00",
+        "position": 8,
+        "updated_at": "2024-10-16T15:35:14+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471153-multi-1200x1200jpg_f764b5c8-499a-44f5-8243-30d46ea41369.jpg?v=1729085714",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "10 cm",
+          "13 cm",
+          "11 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855958753469,
+    "title": "DIY Opaska do w\u0142os\u00f3w",
+    "handle": "hp-1006274-diy-headbands",
+    "body_html": "<p>Idealny dodatek na wyj\u0105tkow\u0105 okazj\u0119!\n</p><p>W naszym sklepie internetowym mo\u017cesz teraz zdoby\u0107 opaski do w\u0142os\u00f3w. Ten zestaw zawiera trzy opaski, kt\u00f3re mo\u017cesz ozdobi\u0107 wed\u0142ug w\u0142asnego uznania, niezale\u017cnie od tego, czy potrzebujesz ich na co dzie\u0144, czy na imprez\u0119. Mo\u017cesz je ozdobi\u0107 szyde\u0142kowymi kwiatami, kocimi uszami, pomponami lub czym\u015b zupe\u0142nie innym.</p><p>Kidy sko\u0144czysz, mo\u017cesz za\u0142o\u017cy\u0107 spersonalizowan\u0105 opask\u0119 i cieszy\u0107 si\u0119 rezultatem.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420805230781,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0516",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "19.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855958753469,
+        "created_at": "2024-08-05T10:27:14+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184433529021,
+        "created_at": "2024-08-05T11:13:04+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:13:06+02:00",
+        "product_id": 7855958753469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/headbands-nefjpg.jpg?v=1722849186",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184433594557,
+        "created_at": "2024-08-05T11:13:04+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:13:06+02:00",
+        "product_id": 7855958753469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/headband-corchet-1-1-picture-katrina-diy-3jpg.jpg?v=1722849186",
+        "width": 2563,
+        "height": 2563
+      },
+      {
+        "id": 35184433365181,
+        "created_at": "2024-08-05T11:13:04+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:13:06+02:00",
+        "product_id": 7855958753469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/headband-corchet-1-1-picture-katrina-diy-2jpg.jpg?v=1722849186",
+        "width": 2453,
+        "height": 2453
+      },
+      {
+        "id": 35184433266877,
+        "created_at": "2024-08-05T11:13:04+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:13:06+02:00",
+        "product_id": 7855958753469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/headband-corchet-1-1-picture-katrina-diy-1jpg.jpg?v=1722849186",
+        "width": 2701,
+        "height": 2701
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855995355325,
+    "title": "Grzebie\u0144 do we\u0142ny 7,5 cm",
+    "handle": "hp-1003761-wool-comb-7-5-cm-2-95-inches",
+    "body_html": "<p>Je\u015bli nie podobaj\u0105 Ci si\u0119 zmechacenia na \u015bwie\u017co wydzierganym swetrze, to ten grzebie\u0144 rozwi\u0105\u017ce Tw\u00f3j problem. Zaprojektowano go tak, aby od\u015bwie\u017ca\u0142 dzianiny o g\u0119stym splocie. Wystarczy, \u017ce przejedziesz metalow\u0105 cz\u0119\u015bci\u0105 po ubraniu, le\u017c\u0105cym na twardej i p\u0142askiej powierzchni, a usuniesz niepotrzebne zmechacenia z we\u0142ny i sweter b\u0119dzie wygl\u0105da\u0142 jak nowy. Zwr\u00f3\u0107 prosz\u0119 uwag\u0119, \u017ce to narz\u0119dzie nie dzia\u0142a, je\u015bli dzianina jest lu\u017ana i o rzadkim splocie.\n</p><p>Zaokr\u0105glona r\u0105czka grzebienia zosta\u0142a zrobiona w plastiku w \u015bliwkowym kolorze i dobrze le\u017cy w d\u0142oni, co sprawia, \u017ce praca przebiega \u0142atwo.</p><p><strong>Wymiary</strong>: 45 x 75 mm\n<strong>Materia\u0142</strong>: plastik i metal</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420992696509,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "611733",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 16,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855995355325,
+        "created_at": "2024-08-05T10:31:46+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184925933757,
+        "created_at": "2024-08-05T11:47:11+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:47:13+02:00",
+        "product_id": 7855995355325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16117330-f-ajpg.jpg?v=1722851233",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184925835453,
+        "created_at": "2024-08-05T11:47:11+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:47:12+02:00",
+        "product_id": 7855995355325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16117330-ps-ajpg.jpg?v=1722851232",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184925868221,
+        "created_at": "2024-08-05T11:47:11+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:47:13+02:00",
+        "product_id": 7855995355325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16117330-d-ajpg.jpg?v=1722851233",
+        "width": 2560,
+        "height": 2560
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855971107005,
+    "title": "Jajko (grzybek) do cerowania",
+    "handle": "hp-6927-stoppeaeg-af-trae",
+    "body_html": "<p>Jajko do cerowania to niezwykle pomocny przyb\u00f3r do naprawiania skarpet. Wystarczy umie\u015bci\u0107 je wewn\u0105trz skarpety i upewnic si\u0119, \u017ce materia\u0142 jest napi\u0119ty a nast\u0119pnie przyst\u0105pic do naprawiania.</p><p>Materia\u0142: Drewno\n</p><p>\u015arednica: ca. 55 mm\nWysoko\u015b\u0107: ca. 105 mm</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420870668477,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "611+266",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "31.00",
+        "grams": 45,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855971107005,
+        "created_at": "2024-08-05T10:28:53+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 71837605233018,
+        "created_at": "2024-11-04T14:30:46+01:00",
+        "position": 1,
+        "updated_at": "2024-11-04T14:30:48+01:00",
+        "product_id": 7855971107005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2bd6c07626b922c3b9eeeb86ff0377f6.jpg?v=1730727048",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71837605265786,
+        "created_at": "2024-11-04T14:30:46+01:00",
+        "position": 2,
+        "updated_at": "2024-11-04T14:30:48+01:00",
+        "product_id": 7855971107005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/592677ca4b814520629f652ed5ebc215.jpg?v=1730727048",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71837605298554,
+        "created_at": "2024-11-04T14:30:46+01:00",
+        "position": 3,
+        "updated_at": "2024-11-04T14:30:48+01:00",
+        "product_id": 7855971107005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/27640e4de8775da0e98229a3b3d41296.png?v=1730727048",
+        "width": 3840,
+        "height": 3669
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855955017917,
+    "title": "Plastikowa \u017cy\u0142ka - 4 mm - 1 metr",
+    "handle": "hp-1001937-plastikwire-1-meter",
+    "body_html": "<p>Ta plastikowa \u017cy\u0142ka mo\u017ce by\u0107 u\u017cyta do Twoim domowych projekt\u00f3w takich jak np letniego kapelusza.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420791140541,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HO8440-0001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "16.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855955017917,
+        "created_at": "2024-08-05T10:26:50+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184360161469,
+        "created_at": "2024-08-05T11:09:54+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:09:56+02:00",
+        "product_id": 7855955017917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1526633642-ho8440-000128129jpg.jpg?v=1722848996",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855926051005,
+    "title": "Antypo\u015blizgowy latex do skarpetek i kapci - Bia\u0142y 250 ml",
+    "handle": "hp-6846-latex-gummimaelk-hvid-250-ml",
+    "body_html": "<p>ROC naturalny lateks to samoschn\u0105cy p\u0142ynny lateks, kt\u00f3ry nadaje si\u0119 do filcowanej we\u0142ny, dywan\u00f3w i skarpet wykonanych na szyde\u0142ku lub drutach, aby nie \u015blizga\u0142y si\u0119 na \u015bliskich powierzchniach.\nNa\u0142\u00f3\u017c 3-5 warstw na sp\u00f3d projektu za pomoc\u0105 p\u0119dzla i pozostaw lateks do wyschni\u0119cia mi\u0119dzy ka\u017cd\u0105 warstw\u0105. W razie potrzeby przed na\u0142o\u017ceniem lateksu w\u0142\u00f3\u017c w skarpetki kawa\u0142ek kartonu o odpowiednim rozmiarze.</p><p>Lateks mo\u017ce by\u0107 r\u00f3wnie\u017c u\u017cywany jako klej tekstylny, nak\u0142adaj\u0105c go na oba przedmioty i dociskaj\u0105c je do siebie. Instrukcja prania:</p><p>Projekt, do kt\u00f3rego zosta\u0142 zastosowany lateks mo\u017cna pra\u0107 w temperaturze maksymalnie 30\u00b0C\nZawarto\u015b\u0107: 60% naturalny lateks, woda, &lt;0,3% amoniak</p><p>Uwaga: p\u0119dzel nale\u017cy wyczy\u015bci\u0107 natychmiast po aplikacji. Lateks nie toleruje mrozu i musi by\u0107 przechowywany w miejscu niedost\u0119pnym dla dzieci.\nNale\u017cy wstrz\u0105sn\u0105\u0107 przed u\u017cyciem.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420659249341,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "8987-White",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "60.00",
+        "grams": 270,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855926051005,
+        "created_at": "2024-08-05T10:23:22+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183992209597,
+        "created_at": "2024-08-05T10:52:34+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:52:35+02:00",
+        "product_id": 7855926051005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34484jpg.jpg?v=1722847955",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183992111293,
+        "created_at": "2024-08-05T10:52:34+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:52:35+02:00",
+        "product_id": 7855926051005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/villy-jensen-latex-gummimaelk-sort-250-ml-1jpg.jpg?v=1722847955",
+        "width": 480,
+        "height": 480
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855890825405,
+    "title": "Wieszaki z drewna cedrowego",
+    "handle": "hp-1005230-cedar-woods-blocks-w-hanger-4-pcs",
+    "body_html": "<p>Chcesz w naturalny spos\u00f3b zadba\u0107 o swoje projekty? Wieszaki na ubrania z drewna cedrowego, kt\u00f3re naturalnie odpycha mole i poch\u0142ania wilgo\u0107 i zapachy.\n</p><p>Naturalna ochrona na twoje kreacje i ubrania, kt\u00f3ra idealnie sprawdzi si\u0119 w twojej garderobie.</p><p>Twoje ubrania pokochaj\u0105 kulki cedrowe. Gdy drewniane kulki zaczn\u0105 traci\u0107 zapach oraz skuteczno\u015b\u0107 dzia\u0142ania, wystarczy przetrze\u0107 je drobnym papierem \u015bciernym, a b\u0119d\u0105 jak nowe.</p><p>Je\u015bli kulki s\u0105 przechowywane przez d\u0142u\u017cszy czas w zamkni\u0119tym pomieszczeniu, olej cedrowy mo\u017ce wnikn\u0105\u0107 we w\u0142\u00f3kna drewna i tworzy\u0107 ma\u0142e bia\u0142e kryszta\u0142ki. W \u0142atwy spos\u00f3b usuniesz je mi\u0119kk\u0105 szczoteczk\u0105 lub mi\u0119kk\u0105 szmatk\u0105.</p><p><em>Opakowanie zawiera 4 wieszaki z drewna cedrowego, idealne do zawieszenia w szafie.</em></p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420516118717,
+        "title": "Naturalny",
+        "option1": "Naturalny",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0462",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "49.00",
+        "grams": 235,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855890825405,
+        "created_at": "2024-08-05T10:16:23+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183637299389,
+        "created_at": "2024-08-05T10:36:46+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:36:48+02:00",
+        "product_id": 7855890825405,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-05-04-2022-16708jpg.jpg?v=1722847008",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Naturalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856011477181,
+    "title": "Antypo\u015blizgowy latex do skarpetek i kapci - Czarny 250 ml",
+    "handle": "hp-6848-latex-gummimaelk-sort-250-ml",
+    "body_html": "<p>ROC naturalny lateks to samoschn\u0105cy p\u0142ynny lateks, kt\u00f3ry nadaje si\u0119 do filcowanej we\u0142ny, dywan\u00f3w i skarpet wykonanych na szyde\u0142ku lub drutach, aby nie \u015blizga\u0142y si\u0119 na \u015bliskich powierzchniach.\nNa\u0142\u00f3\u017c 3-5 warstw na sp\u00f3d projektu za pomoc\u0105 p\u0119dzla i pozostaw lateks do wyschni\u0119cia mi\u0119dzy ka\u017cd\u0105 warstw\u0105. W razie potrzeby przed na\u0142o\u017ceniem lateksu w\u0142\u00f3\u017c w skarpetki kawa\u0142ek kartonu o odpowiednim rozmiarze.</p><p>Lateks mo\u017ce by\u0107 r\u00f3wnie\u017c u\u017cywany jako klej tekstylny, nak\u0142adaj\u0105c go na oba przedmioty i dociskaj\u0105c je do siebie. Instrukcja prania:</p><p>Projekt, do kt\u00f3rego zosta\u0142 zastosowany lateks mo\u017cna pra\u0107 w temperaturze maksymalnie 30\u00b0C\nZawarto\u015b\u0107: 60% naturalny lateks, woda, &lt;0,3% amoniak</p><p>Uwaga: p\u0119dzel nale\u017cy wyczy\u015bci\u0107 natychmiast po aplikacji. Lateks nie toleruje mrozu i musi by\u0107 przechowywany w miejscu niedost\u0119pnym dla dzieci.\nNale\u017cy wstrz\u0105sn\u0105\u0107 przed u\u017cyciem.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421064884413,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "8984-Black",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "65.00",
+        "grams": 270,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856011477181,
+        "created_at": "2024-08-05T10:33:41+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185028858045,
+        "created_at": "2024-08-05T11:56:08+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:56:10+02:00",
+        "product_id": 7856011477181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1567152733-hobbii-19-04-2019-34487jpg.jpg?v=1722851770",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71416025448826,
+        "created_at": "2024-10-23T17:56:39+02:00",
+        "position": 2,
+        "updated_at": "2024-10-23T17:56:41+02:00",
+        "product_id": 7856011477181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/93fd783b38819e51e3cc933cc25d6ec8.jpg?v=1729699001",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856010723517,
+    "title": "Kompaktowa Golarka do ubra\u0144 Gleener \u2013 Rozmiar podr\u00f3\u017cny",
+    "handle": "hp-1007411-gleener-compact-fabric-shaver-lint-brush-travelsize",
+    "body_html": "<p>Golarka marki Gleener to doskona\u0142y przyjaciel, kt\u00f3rego mo\u017cesz mie\u0107 przy sobie na wakacjach lub w podr\u00f3\u017cy. Zajmuje nie wi\u0119cej ni\u017c etui na okulary, a mo\u017ce uratowa\u0107 ka\u017cd\u0105 sytuacj\u0119, gdy Twoje ubrania wymagaj\u0105 od\u015bwie\u017cenia. Usuwa zmechacenia i nieestetyczne k\u0142aczki z wi\u0119kszo\u015bci tekstyli\u00f3w \u2013 ca\u0142kowicie bez u\u017cycia baterii.\n</p><p>Praktyczny rozmiar, kt\u00f3ry naprawd\u0119 dobrze le\u017cy w d\u0142oni, kryje w sobie tak\u017ce kilka mo\u017cliwo\u015bci. Gleener mo\u017cna otworzy\u0107, a w \u015brodku znajdziesz dwie dodatkowe wymienne ko\u0144c\u00f3wki.</p><p>KO\u0143C\u00d3WKA 1 idealnie nadaje si\u0119 do grubych materia\u0142\u00f3w, takich jak grube dzianiny i tkaniny obiciowe.</p><p>KO\u0143C\u00d3WKA 2 jest najlepsza do czyszczenia delikatnych materia\u0142\u00f3w, takich jak we\u0142na i kaszmir. Doskonale nadaje si\u0119 r\u00f3wnie\u017c do polaru.</p><p>KO\u0143C\u00d3WKA 3 o\u017cywia letnie dzianiny, T-shirty, mieszanki jedwabiu, len i szlachetne materia\u0142y.</p><p>Z ty\u0142u urz\u0105dzenia znajduje si\u0119 zintegrowana szczotka do k\u0142aczk\u00f3w, kt\u00f3ra doskonale nadaje si\u0119 do usuwania sier\u015bci zwierz\u0105t, usuwania \u0142upie\u017cu i piel\u0119gnacji projekt\u00f3w. Do przechowywania do\u0142\u0105czona jest ma\u0142a materia\u0142owa torba.</p><p>Golarka ta NIE jest zasilana bateryjnie \u2013 co naszym zdaniem jest genialne zar\u00f3wno dla Ciebie, jak i dla \u015brodowiska!</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421061640381,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "9159",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "109.00",
+        "grams": 120,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856010723517,
+        "created_at": "2024-08-05T10:33:36+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185031217341,
+        "created_at": "2024-08-05T11:56:27+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:56:29+02:00",
+        "product_id": 7856010723517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1705661341-9159-5jpg.jpg?v=1722851789",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": 35185031282877,
+        "created_at": "2024-08-05T11:56:27+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:56:29+02:00",
+        "product_id": 7856010723517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1705661348-9159-2jpg.jpg?v=1722851789",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": 35185031151805,
+        "created_at": "2024-08-05T11:56:27+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:56:28+02:00",
+        "product_id": 7856010723517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9159-1jpg.jpg?v=1722851788",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": 35185031250109,
+        "created_at": "2024-08-05T11:56:27+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:56:29+02:00",
+        "product_id": 7856010723517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9159png.png?v=1722851789",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": 35185031184573,
+        "created_at": "2024-08-05T11:56:27+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:56:28+02:00",
+        "product_id": 7856010723517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9159-3jpg.jpg?v=1722851788",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856004169917,
+    "title": "Kolczyki DIY",
+    "handle": "hp-1005383-diy-earrings-10-pairs",
+    "body_html": "<p>Niezale\u017cnie od tego, czy chcesz robi\u0107 na drutach, szyde\u0142ku, czy u\u017cy\u0107 innej techniki, takiej jak np. makrama, te haczyki b\u0119d\u0105 wszystkim, czego potrzebujesz, aby zaprojektowa\u0107 sw\u00f3j niepowtarzalny zestaw kolczyk\u00f3w.</p><p>W opakowaniu znajduje si\u0119 10 par haczyk\u00f3w oraz 10 bilecik\u00f3w prezentowych z napisem \u201cMade by me\u201d. Bileciki nadadz\u0105 twoim prezentom osobistego charakteru i znacznie u\u0142atwi\u0105 zapakowanie kolczyk\u00f3w.</p><p>Baw si\u0119, tworz\u0105c wyj\u0105tkowe kolczyki dla siebie i bliskich.\n<strong>\u015arednica otworu</strong>: 2 mm\n<strong>Rozmiar bilecik\u00f3w:</strong> 9x6 cm\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421029888189,
+        "title": "Gold",
+        "option1": "Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0474",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186358649021,
+          "product_id": 7856004169917,
+          "position": 4,
+          "created_at": "2024-08-05T22:01:45+02:00",
+          "updated_at": "2024-08-05T22:01:47+02:00",
+          "alt": "1663929667-golden-hooks-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1663929667-golden-hooks-1200x1200jpg.jpg?v=1722888107",
+          "variant_ids": [
+            44421029888189
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 20,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856004169917,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44421029920957,
+        "title": "Silver",
+        "option1": "Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0475",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186358583485,
+          "product_id": 7856004169917,
+          "position": 5,
+          "created_at": "2024-08-05T22:01:45+02:00",
+          "updated_at": "2024-08-05T22:01:47+02:00",
+          "alt": "silver-hooks-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/silver-hooks-1200x1200jpg.jpg?v=1722888107",
+          "variant_ids": [
+            44421029920957
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 20,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856004169917,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35186358616253,
+        "created_at": "2024-08-05T22:01:45+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T22:01:47+02:00",
+        "product_id": 7856004169917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ear-rings-pompom-1200x1200jpg.jpg?v=1722888107",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186358550717,
+        "created_at": "2024-08-05T22:01:45+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T22:01:47+02:00",
+        "product_id": 7856004169917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20220808-204642-700xautojpg.jpg?v=1722888107",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35186358517949,
+        "created_at": "2024-08-05T22:01:45+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T22:01:47+02:00",
+        "product_id": 7856004169917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20220808-204657-700xautojpg.jpg?v=1722888107",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35186358649021,
+        "created_at": "2024-08-05T22:01:45+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T22:01:47+02:00",
+        "product_id": 7856004169917,
+        "variant_ids": [
+          44421029888189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1663929667-golden-hooks-1200x1200jpg.jpg?v=1722888107",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186358583485,
+        "created_at": "2024-08-05T22:01:45+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T22:01:47+02:00",
+        "product_id": 7856004169917,
+        "variant_ids": [
+          44421029920957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/silver-hooks-1200x1200jpg.jpg?v=1722888107",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71416017813882,
+        "created_at": "2024-10-23T17:56:01+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:56:03+02:00",
+        "product_id": 7856004169917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/213deaa35e2d48600c0e33973b192a67.jpg?v=1729698963",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Gold",
+          "Silver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855997452477,
+    "title": "Szczotka do Moheru",
+    "handle": "hp-1006387-mohair-brush",
+    "body_html": "<p>Ta szczoteczka zosta\u0142a zaprojektowana specjalnie do od\u015bwie\u017cenia ubra\u0144 wykonanych z moheru i innych puszystych w\u0142\u00f3czek.</p><p>Sk\u0142ada si\u0119 z solidnej r\u0105czki i szczotki o d\u0142ugo\u015bci 7,5 cm z mi\u0119kkim w\u0142osiem. Gdy delikatnie przesuniesz szczotk\u0105 po we\u0142nie, wygl\u0105d i puszyste w\u0142\u00f3kna zostan\u0105 od\u015bwie\u017cone.</p><p>Wystarczy wyczesa\u0107 szczotk\u0119 albo wyp\u0142uka\u0107 k\u0142aczki i w\u0142\u00f3kna.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421000429757,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "611734",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "46.00",
+        "grams": 30,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855997452477,
+        "created_at": "2024-08-05T10:32:00+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184896540861,
+        "created_at": "2024-08-05T11:44:25+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:44:27+02:00",
+        "product_id": 7855997452477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/80611734-2jpg.jpg?v=1722851067",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184896639165,
+        "created_at": "2024-08-05T11:44:25+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:44:27+02:00",
+        "product_id": 7855997452477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/80611734-1jpg.jpg?v=1722851067",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184896409789,
+        "created_at": "2024-08-05T11:44:25+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:44:27+02:00",
+        "product_id": 7855997452477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/80611734jpg.jpg?v=1722851067",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184896573629,
+        "created_at": "2024-08-05T11:44:25+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:44:27+02:00",
+        "product_id": 7855997452477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-5618jpg.jpg?v=1722851067",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35184896377021,
+        "created_at": "2024-08-05T11:44:25+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:44:27+02:00",
+        "product_id": 7855997452477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-5667jpg.jpg?v=1722851067",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855992635581,
+    "title": "Ko\u0142nierz z ekologicznego futerka",
+    "handle": "hp-1002454-fake-fur-collar",
+    "body_html": "<p>Lubisz futra, ale nie chcesz si\u0119 przyczynia\u0107 do cierpienia zwierz\u0105t? W takim razie dobrze trafi\u0142e\u015b!</p><p>Ten pi\u0119kny ko\u0142nierz od Go Handmade wykonany jest z akrylu i b\u0119dzie stanowi\u0142 eleganck\u0105 ozdob\u0119 dla Twojego ponczo, swetra itp. Opr\u00f3cz \u0142adnego wygl\u0105du, ko\u0142nierz ociepli Twoj\u0105 szyj\u0119 w ch\u0142odniejsze dni.</p><p>Dodatek ten ma d\u0142ugo\u015b\u0107 70 cm, dost\u0119pny jest w r\u00f3\u017cnych kolorach jak r\u00f3wnie\u017c w dw\u00f3ch szeroko\u015bciach: 3 cm i 8 cm.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420978245821,
+        "title": "8 cm - Czarny",
+        "option1": "8 cm - Czarny",
+        "option2": null,
+        "option3": null,
+        "sku": "16140",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184864886973,
+          "product_id": 7855992635581,
+          "position": 1,
+          "created_at": "2024-08-05T11:41:18+02:00",
+          "updated_at": "2024-08-05T11:41:21+02:00",
+          "alt": "16140-fake-fur-string-70x8cm-blackjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16140-fake-fur-string-70x8cm-blackjpg.jpg?v=1722850881",
+          "variant_ids": [
+            44420978245821
+          ]
+        },
+        "available": false,
+        "price": "76.00",
+        "grams": 85,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855992635581,
+        "created_at": "2024-08-05T10:31:29+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420978278589,
+        "title": "8 cm - Bia\u0142y",
+        "option1": "8 cm - Bia\u0142y",
+        "option2": null,
+        "option3": null,
+        "sku": "16142",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184864821437,
+          "product_id": 7855992635581,
+          "position": 2,
+          "created_at": "2024-08-05T11:41:18+02:00",
+          "updated_at": "2024-08-05T11:41:21+02:00",
+          "alt": "16142-fake-fur-string-70x8cm-whitejpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16142-fake-fur-string-70x8cm-whitejpg.jpg?v=1722850881",
+          "variant_ids": [
+            44420978278589
+          ]
+        },
+        "available": false,
+        "price": "76.00",
+        "grams": 85,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855992635581,
+        "created_at": "2024-08-05T10:31:29+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420978311357,
+        "title": "3 cm - Czarny",
+        "option1": "3 cm - Czarny",
+        "option2": null,
+        "option3": null,
+        "sku": "16143",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184864854205,
+          "product_id": 7855992635581,
+          "position": 3,
+          "created_at": "2024-08-05T11:41:18+02:00",
+          "updated_at": "2024-08-05T11:41:21+02:00",
+          "alt": "16143-fake-fur-string-70x3cm-blackjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16143-fake-fur-string-70x3cm-blackjpg.jpg?v=1722850881",
+          "variant_ids": [
+            44420978311357
+          ]
+        },
+        "available": false,
+        "price": "47.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855992635581,
+        "created_at": "2024-08-05T10:31:29+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420978344125,
+        "title": "3 cm - Bia\u0142y",
+        "option1": "3 cm - Bia\u0142y",
+        "option2": null,
+        "option3": null,
+        "sku": "16145",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184864952509,
+          "product_id": 7855992635581,
+          "position": 4,
+          "created_at": "2024-08-05T11:41:19+02:00",
+          "updated_at": "2024-08-05T11:41:21+02:00",
+          "alt": "16145-fake-fur-string-70x3cm-whitejpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16145-fake-fur-string-70x3cm-whitejpg.jpg?v=1722850881",
+          "variant_ids": [
+            44420978344125
+          ]
+        },
+        "available": false,
+        "price": "47.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855992635581,
+        "created_at": "2024-08-05T10:31:29+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420978376893,
+        "title": "3 cm - Naturalny",
+        "option1": "3 cm - Naturalny",
+        "option2": null,
+        "option3": null,
+        "sku": "16144",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184864919741,
+          "product_id": 7855992635581,
+          "position": 5,
+          "created_at": "2024-08-05T11:41:19+02:00",
+          "updated_at": "2024-08-05T11:41:21+02:00",
+          "alt": "16144-3mm-natural-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16144-3mm-natural-1jpg.jpg?v=1722850881",
+          "variant_ids": [
+            44420978376893
+          ]
+        },
+        "available": false,
+        "price": "47.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855992635581,
+        "created_at": "2024-08-05T10:31:29+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420978409661,
+        "title": "8 cm - Naturalny",
+        "option1": "8 cm - Naturalny",
+        "option2": null,
+        "option3": null,
+        "sku": "16141",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184865083581,
+          "product_id": 7855992635581,
+          "position": 6,
+          "created_at": "2024-08-05T11:41:19+02:00",
+          "updated_at": "2024-08-05T11:41:21+02:00",
+          "alt": "fake-fur1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fake-fur1jpg.jpg?v=1722850881",
+          "variant_ids": [
+            44420978409661
+          ]
+        },
+        "available": false,
+        "price": "76.00",
+        "grams": 85,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7855992635581,
+        "created_at": "2024-08-05T10:31:29+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420978442429,
+        "title": "3 cm - Czerwony",
+        "option1": "3 cm - Czerwony",
+        "option2": null,
+        "option3": null,
+        "sku": "16132",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184864788669,
+          "product_id": 7855992635581,
+          "position": 7,
+          "created_at": "2024-08-05T11:41:19+02:00",
+          "updated_at": "2024-08-05T11:41:21+02:00",
+          "alt": "16132-pelskrave-3cm-redjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16132-pelskrave-3cm-redjpg.jpg?v=1722850881",
+          "variant_ids": [
+            44420978442429
+          ]
+        },
+        "available": false,
+        "price": "47.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7855992635581,
+        "created_at": "2024-08-05T10:31:29+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184864886973,
+        "created_at": "2024-08-05T11:41:18+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:41:21+02:00",
+        "product_id": 7855992635581,
+        "variant_ids": [
+          44420978245821
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16140-fake-fur-string-70x8cm-blackjpg.jpg?v=1722850881",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184864821437,
+        "created_at": "2024-08-05T11:41:18+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:41:21+02:00",
+        "product_id": 7855992635581,
+        "variant_ids": [
+          44420978278589
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16142-fake-fur-string-70x8cm-whitejpg.jpg?v=1722850881",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184864854205,
+        "created_at": "2024-08-05T11:41:18+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:41:21+02:00",
+        "product_id": 7855992635581,
+        "variant_ids": [
+          44420978311357
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16143-fake-fur-string-70x3cm-blackjpg.jpg?v=1722850881",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184864952509,
+        "created_at": "2024-08-05T11:41:19+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:41:21+02:00",
+        "product_id": 7855992635581,
+        "variant_ids": [
+          44420978344125
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16145-fake-fur-string-70x3cm-whitejpg.jpg?v=1722850881",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184864919741,
+        "created_at": "2024-08-05T11:41:19+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:41:21+02:00",
+        "product_id": 7855992635581,
+        "variant_ids": [
+          44420978376893
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16144-3mm-natural-1jpg.jpg?v=1722850881",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184865083581,
+        "created_at": "2024-08-05T11:41:19+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:41:21+02:00",
+        "product_id": 7855992635581,
+        "variant_ids": [
+          44420978409661
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fake-fur1jpg.jpg?v=1722850881",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184864788669,
+        "created_at": "2024-08-05T11:41:19+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:41:21+02:00",
+        "product_id": 7855992635581,
+        "variant_ids": [
+          44420978442429
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16132-pelskrave-3cm-redjpg.jpg?v=1722850881",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415984390522,
+        "created_at": "2024-10-23T17:52:51+02:00",
+        "position": 8,
+        "updated_at": "2024-10-23T17:52:53+02:00",
+        "product_id": 7855992635581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d330f967354e26638a50cc738ce3da7a.jpg?v=1729698773",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "8 cm - Czarny",
+          "8 cm - Bia\u0142y",
+          "3 cm - Czarny",
+          "3 cm - Bia\u0142y",
+          "3 cm - Naturalny",
+          "8 cm - Naturalny",
+          "3 cm - Czerwony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855959900349,
+    "title": "Gleener Golarka do ubra\u0144",
+    "handle": "hp-1007412-gleener-fabric-shaver-lint-brush",
+    "body_html": "<p>Golarka Gleener pomo\u017ce Twoim ubraniom odzyska\u0107 pi\u0119kny wygl\u0105d. Twoje we\u0142niane swetry zmechaci\u0142y si\u0119 w praniu, nie martw si\u0119 z pomocn\u0105 golarki w szybki spos\u00f3b pozb\u0119dziesz si\u0119 nieestetycznych k\u0142aczk\u00f3w. Wystarczy wyg\u0142adzi\u0107 materia\u0142 na przyk\u0142ad na desce do prasowania, a nast\u0119pnie przyst\u0105pi\u0107 do usuwania zmechace\u0144 i k\u0142aczk\u00f3w ze swojego projektu.\n</p><p>W zestawie znajduj\u0105 si\u0119 trzy wymienne ko\u0144c\u00f3wki usuwaj\u0105ce k\u0142aczki, wbudowana szczotka oraz torba podr\u00f3\u017cna. Dzi\u0119ki funkcjonalnym ko\u0144c\u00f3wkom mo\u017cesz od\u015bwie\u017cy\u0107 odzie\u017c, meble oraz po\u015bciel \u2013 wystarczy wybra\u0107 odpowiedni\u0105 ko\u0144c\u00f3wk\u0119 do swojego zadania.</p><p>KO\u0143C\u00d3WKA 1 idealnie nadaje si\u0119 do grubych materia\u0142\u00f3w, takich jak grube dzianiny i tkaniny obiciowe.</p><p>KO\u0143C\u00d3WKA 2 jest najlepsza do czyszczenia delikatnych materia\u0142\u00f3w, takich jak we\u0142na i kaszmir. Doskonale nadaje si\u0119 r\u00f3wnie\u017c do polaru.</p><p>KO\u0143C\u00d3WKA 3 o\u017cywia letnie dzianiny, T-shirty, mieszanki jedwabiu, len i szlachetne materia\u0142y.</p><p>Zintegrowana szczotka do k\u0142aczk\u00f3w Gleener doskonale nadaje si\u0119 do usuwania sier\u015bci zwierz\u0105t, usuwania \u0142upie\u017cu i piel\u0119gnacji projekt\u00f3w.</p><p>Golarka ta NIE jest zasilana bateryjnie \u2013 co naszym zdaniem jest genialne zar\u00f3wno dla Ciebie, jak i dla \u015brodowiska!</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420808605885,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "9158",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "139.00",
+        "grams": 226,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855959900349,
+        "created_at": "2024-08-05T10:27:21+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184450764989,
+        "created_at": "2024-08-05T11:13:56+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:13:58+02:00",
+        "product_id": 7855959900349,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9158-1jpg.jpg?v=1722849238",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": 35184450928829,
+        "created_at": "2024-08-05T11:13:56+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:13:59+02:00",
+        "product_id": 7855959900349,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9158-4jpg.jpg?v=1722849239",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": 35184451158205,
+        "created_at": "2024-08-05T11:13:57+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:13:59+02:00",
+        "product_id": 7855959900349,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9158-3jpg.jpg?v=1722849239",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": 35184450863293,
+        "created_at": "2024-08-05T11:13:57+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:13:59+02:00",
+        "product_id": 7855959900349,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9158png.png?v=1722849239",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": 35184450994365,
+        "created_at": "2024-08-05T11:13:57+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:13:59+02:00",
+        "product_id": 7855959900349,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9158-2jpg.jpg?v=1722849239",
+        "width": 3617,
+        "height": 3617
+      },
+      {
+        "id": 35184451092669,
+        "created_at": "2024-08-05T11:13:57+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:13:59+02:00",
+        "product_id": 7855959900349,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9158-5-1jpg.jpg?v=1722849239",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855954034877,
+    "title": "Kwiaty z drewna cedrowego",
+    "handle": "hp-1005231-cedar-woods-blocks-flowers-6-pcs",
+    "body_html": "<p>Chcesz w naturalny spos\u00f3b zadba\u0107 o swoje projekty? Aromatyczne cedrowe bloki, kt\u00f3re ochroni\u0105 twoje kreacje i ubrania przed molami. Spraw, aby \u015bwie\u017co\u015b\u0107 cedru wype\u0142ni\u0142a twoj\u0105 szaf\u0119.\n</p><p>Cedr jest naturalnie antybakteryjny i poch\u0142ania wilgo\u0107 oraz nieprzyjemny zapach. Dlatego warto mie\u0107 ten produkt w szafach, szufladach lub innych miejscach, w kt\u00f3rych trzymasz swoje ubrania.</p><p>Twoje ubrania pokochaj\u0105 kulki cedrowe. Gdy drewniane kulki zaczn\u0105 traci\u0107 zapach oraz skuteczno\u015b\u0107 dzia\u0142ania, wystarczy przetrze\u0107 je drobnym papierem \u015bciernym, a b\u0119d\u0105 jak nowe.</p><p>Je\u015bli kulki s\u0105 przechowywane przez d\u0142u\u017cszy czas w zamkni\u0119tym pomieszczeniu, olej cedrowy mo\u017ce wnikn\u0105\u0107 we w\u0142\u00f3kna drewna i tworzy\u0107 ma\u0142e bia\u0142e kryszta\u0142ki. W \u0142atwy spos\u00f3b usuniesz je mi\u0119kk\u0105 szczoteczk\u0105 lub mi\u0119kk\u0105 szmatk\u0105.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420787142845,
+        "title": "Naturalny",
+        "option1": "Naturalny",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0463",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 60,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855954034877,
+        "created_at": "2024-08-05T10:26:45+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184386605245,
+        "created_at": "2024-08-05T11:11:13+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:11:15+02:00",
+        "product_id": 7855954034877,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1663919162-hobbii-05-04-2022-16706-1jpg.jpg?v=1722849075",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Naturalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855953838269,
+    "title": "Antypo\u015blizgowy latex do skarpetek i kapci - Bia\u0142y 500ml",
+    "handle": "hp-6847-latex-gummimaelk-hvid-500ml",
+    "body_html": "<p>ROC naturalny lateks to samoschn\u0105cy p\u0142ynny lateks, kt\u00f3ry nadaje si\u0119 do filcowanej we\u0142ny, dywan\u00f3w i skarpet wykonanych na szyde\u0142ku lub drutach, aby nie \u015blizga\u0142y si\u0119 na \u015bliskich powierzchniach.\nNa\u0142\u00f3\u017c 3-5 warstw na sp\u00f3d projektu za pomoc\u0105 p\u0119dzla i pozostaw lateks do wyschni\u0119cia mi\u0119dzy ka\u017cd\u0105 warstw\u0105. W razie potrzeby przed na\u0142o\u017ceniem lateksu w\u0142\u00f3\u017c w skarpetki kawa\u0142ek kartonu o odpowiednim rozmiarze.</p><p>Lateks mo\u017ce by\u0107 r\u00f3wnie\u017c u\u017cywany jako klej tekstylny, nak\u0142adaj\u0105c go na oba przedmioty i dociskaj\u0105c je do siebie. Instrukcja prania:</p><p>Projekt, do kt\u00f3rego zosta\u0142 zastosowany lateks mo\u017cna pra\u0107 w temperaturze maksymalnie 30\u00b0C\nZawarto\u015b\u0107: 60% naturalny lateks, woda, &lt;0,3% amoniak</p><p>Uwaga: p\u0119dzel nale\u017cy wyczy\u015bci\u0107 natychmiast po aplikacji. Lateks nie toleruje mrozu i musi by\u0107 przechowywany w miejscu niedost\u0119pnym dla dzieci.\nNale\u017cy wstrz\u0105sn\u0105\u0107 przed u\u017cyciem.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420786323645,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "8988-White",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "98.00",
+        "grams": 515,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855953838269,
+        "created_at": "2024-08-05T10:26:44+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184406134973,
+        "created_at": "2024-08-05T11:12:02+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:12:04+02:00",
+        "product_id": 7855953838269,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34488jpg.jpg?v=1722849124",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855949086909,
+    "title": "Blokery do skarpet Aqua",
+    "handle": "hp-1000277-aqua-sock-blockers",
+    "body_html": "<p>Blokery do skarpet to genialny gad\u017cet dla tych, kt\u00f3rzy chc\u0105 si\u0119 upewni\u0107, \u017ce ich dopiero co zrobione skarpety nie strac\u0105 fasonu i rozmiaru.\n</p><p>Za\u0142\u00f3\u017c skarpety na blokery a nadadz\u0105 im one odpowiedni\u0105 form\u0119. Blokery dost\u0119pne s\u0105 w 3 rozmiarach:</p><p>Small (35-37,5)</p><p>Medium (38-40)</p><p>Large (41+)</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420770136253,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "10828",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184320381117,
+          "product_id": 7855949086909,
+          "position": 1,
+          "created_at": "2024-08-05T11:07:19+02:00",
+          "updated_at": "2024-08-05T11:07:21+02:00",
+          "alt": "27869670215png",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/27869670215png.png?v=1722848841",
+          "variant_ids": [
+            44420770136253,
+            44420770169021,
+            44420770201789
+          ]
+        },
+        "available": true,
+        "price": "131.00",
+        "grams": 275,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855949086909,
+        "created_at": "2024-08-05T10:26:13+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420770169021,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "10829",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184320381117,
+          "product_id": 7855949086909,
+          "position": 1,
+          "created_at": "2024-08-05T11:07:19+02:00",
+          "updated_at": "2024-08-05T11:07:21+02:00",
+          "alt": "27869670215png",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/27869670215png.png?v=1722848841",
+          "variant_ids": [
+            44420770136253,
+            44420770169021,
+            44420770201789
+          ]
+        },
+        "available": false,
+        "price": "119.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855949086909,
+        "created_at": "2024-08-05T10:26:13+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420770201789,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "10830",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184320381117,
+          "product_id": 7855949086909,
+          "position": 1,
+          "created_at": "2024-08-05T11:07:19+02:00",
+          "updated_at": "2024-08-05T11:07:21+02:00",
+          "alt": "27869670215png",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/27869670215png.png?v=1722848841",
+          "variant_ids": [
+            44420770136253,
+            44420770169021,
+            44420770201789
+          ]
+        },
+        "available": true,
+        "price": "109.00",
+        "grams": 220,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855949086909,
+        "created_at": "2024-08-05T10:26:13+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184320381117,
+        "created_at": "2024-08-05T11:07:19+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:07:21+02:00",
+        "product_id": 7855949086909,
+        "variant_ids": [
+          44420770136253,
+          44420770169021,
+          44420770201789
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/27869670215png.png?v=1722848841",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184320446653,
+        "created_at": "2024-08-05T11:07:19+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:07:21+02:00",
+        "product_id": 7855949086909,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/aqua-sock-blockerjpg.jpg?v=1722848841",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35184320577725,
+        "created_at": "2024-08-05T11:07:20+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:07:22+02:00",
+        "product_id": 7855949086909,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/aqua-sock-blockers-1jpg.jpg?v=1722848842",
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Large",
+          "Medium",
+          "Small"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855942009021,
+    "title": "Kulki cedrowe",
+    "handle": "hp-1005229-cedar-woods-balls-20-pcs",
+    "body_html": "<p>Chcesz w naturalny spos\u00f3b zadba\u0107 o swoje projekty? Drewno cedrowe dzia\u0142a odstraszaj\u0105co na mole, wi\u0119c kulki te \u015bwietnie nadaj\u0105 si\u0119 do ochrony twoich ubra\u0144. Spraw, aby \u015bwie\u017co\u015b\u0107 cedru wype\u0142ni\u0142a twoj\u0105 szaf\u0119.</p><p>Cedr jest naturalnie antybakteryjny i poch\u0142ania wilgo\u0107 oraz nieprzyjemny zapach. Dlatego warto mie\u0107 ten produkt w szafach, szufladach lub innych miejscach, w kt\u00f3rych trzymasz swoje ubrania.</p><p>Twoje ubrania pokochaj\u0105 kulki cedrowe. Gdy drewniane kulki zaczn\u0105 traci\u0107 zapach oraz skuteczno\u015b\u0107 dzia\u0142ania, wystarczy przetrze\u0107 je drobnym papierem \u015bciernym, a b\u0119d\u0105 jak nowe.</p><p>Je\u015bli kulki s\u0105 przechowywane przez d\u0142u\u017cszy czas w zamkni\u0119tym pomieszczeniu, olej cedrowy mo\u017ce wnikn\u0105\u0107 we w\u0142\u00f3kna drewna i tworzy\u0107 ma\u0142e bia\u0142e kryszta\u0142ki. W \u0142atwy spos\u00f3b usuniesz je mi\u0119kk\u0105 szczoteczk\u0105 lub mi\u0119kk\u0105 szmatk\u0105.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420732715197,
+        "title": "Naturalny",
+        "option1": "Naturalny",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0460",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184232988861,
+          "product_id": 7855942009021,
+          "position": 1,
+          "created_at": "2024-08-05T11:03:20+02:00",
+          "updated_at": "2024-08-05T11:03:21+02:00",
+          "alt": "hobbii-05-04-2022-16705jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-05-04-2022-16705jpg.jpg?v=1722848601",
+          "variant_ids": [
+            44420732715197
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 75,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855942009021,
+        "created_at": "2024-08-05T10:25:27+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      },
+      {
+        "id": 44420732747965,
+        "title": "Lawenda",
+        "option1": "Lawenda",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0461",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184232825021,
+          "product_id": 7855942009021,
+          "position": 2,
+          "created_at": "2024-08-05T11:03:20+02:00",
+          "updated_at": "2024-08-05T11:03:21+02:00",
+          "alt": "1663919382-hobbii-05-04-2022-16707-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1663919382-hobbii-05-04-2022-16707-1jpg.jpg?v=1722848601",
+          "variant_ids": [
+            44420732747965
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 75,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855942009021,
+        "created_at": "2024-08-05T10:25:27+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184232988861,
+        "created_at": "2024-08-05T11:03:20+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:03:21+02:00",
+        "product_id": 7855942009021,
+        "variant_ids": [
+          44420732715197
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-05-04-2022-16705jpg.jpg?v=1722848601",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184232825021,
+        "created_at": "2024-08-05T11:03:20+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:03:21+02:00",
+        "product_id": 7855942009021,
+        "variant_ids": [
+          44420732747965
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1663919382-hobbii-05-04-2022-16707-1jpg.jpg?v=1722848601",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Naturalny",
+          "Lawenda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855919399101,
+    "title": "Gumka z dziurkami na guziki",
+    "handle": "hp-1006773-elastic-band-3m",
+    "body_html": "<p>Tutaj otrzymasz 3 metry czarnej gumki, kt\u00f3ra jest absolutnie genialna dla tych z Was, kt\u00f3re robi\u0105 na drutach, szyde\u0142ku lub szyj\u0105 ubrania, kt\u00f3re wymagaj\u0105 regulacji rozmiaru.\n</p><p>Gumka ma na ca\u0142ej d\u0142ugo\u015bci dziurki na guziki, dzi\u0119ki czemu mo\u017cna j\u0105 zacisn\u0105\u0107 lub poluzowa\u0107 na przyk\u0142ad w spodniach, sp\u00f3dnicy, spodniach niemowl\u0119cych, spodenkach itp.</p><p>Taka gumka zapewnia dobr\u0105 elastyczno\u015b\u0107 i wygod\u0119, kt\u00f3rej \u017cadna tasiemka nie mo\u017ce dor\u00f3wna\u0107.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420621303997,
+        "title": "Black",
+        "option1": "Black",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1144",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183913435325,
+          "product_id": 7855919399101,
+          "position": 1,
+          "created_at": "2024-08-05T10:48:23+02:00",
+          "updated_at": "2024-08-05T10:48:25+02:00",
+          "alt": "elastic-band-with-buttonholes-2-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/elastic-band-with-buttonholes-2-nefjpg.jpg?v=1722847705",
+          "variant_ids": [
+            44420621303997
+          ]
+        },
+        "available": true,
+        "price": "13.00",
+        "grams": 26,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855919399101,
+        "created_at": "2024-08-05T10:22:33+02:00",
+        "updated_at": "2024-11-22T22:07:38+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183913435325,
+        "created_at": "2024-08-05T10:48:23+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:48:25+02:00",
+        "product_id": 7855919399101,
+        "variant_ids": [
+          44420621303997
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/elastic-band-with-buttonholes-2-nefjpg.jpg?v=1722847705",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183913468093,
+        "created_at": "2024-08-05T10:48:23+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:48:25+02:00",
+        "product_id": 7855919399101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/elastic-band-with-buttonholes-main-nefjpg.jpg?v=1722847705",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183913631933,
+        "created_at": "2024-08-05T10:48:23+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:48:25+02:00",
+        "product_id": 7855919399101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/elastic-band-with-buttonholes-3-nefjpg.jpg?v=1722847705",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183913533629,
+        "created_at": "2024-08-05T10:48:23+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:48:25+02:00",
+        "product_id": 7855919399101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/elastic-band-with-buttonholesjpg.jpg?v=1722847705",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415792927098,
+        "created_at": "2024-10-23T17:33:20+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:33:21+02:00",
+        "product_id": 7855919399101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/05f9bce8b3c0fd5fb60d60c55eff8d51.jpg?v=1729697601",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      }
+    ]
+  }
+]

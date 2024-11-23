@@ -1,0 +1,1470 @@
+[
+  {
+    "id": 7864210063549,
+    "title": "Str\u00f3j \u015bwi\u0105teczny - Ubranko dla lalki",
+    "handle": "hp-1008314-christmas-outfit-doll-clothes",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>Jeden rozmiar. Pasuje na lalk\u0119 Ida wysok\u0105 na 30 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Ubranko to jest przeznaczone dla lalki Ida. Wz\u00f3r lalki jest dost\u0119pny osobno:\u00a0<a href=\"https://hobbii.pl/products/hp-1008235-ida-doll?_pos=2&_psq=Ida&_ss=e&_v=1.0\">https://shop.hobbii.pl/ida-doll</a></p><p>\n</p><p>Wz\u00f3r przerabia si\u0119 na p\u0142asko, na prostych drutach a nast\u0119pnie zszywa \u015bciegiem materacowym. \u015awi\u0105teczna sukienka jest przerabiana od g\u00f3ry do do\u0142u. Oczka r\u0119kaw\u00f3w umieszcza si\u0119 na uchwytach na oczka i przerabia po zako\u0144czeniu g\u00f3ry sukienki i sp\u00f3dnicy. Elementy wyko\u0144czenia sukienki i but\u00f3w s\u0105 dziergane oddzielnie i przyszyte. Czapka elfa jest przerabiana od bia\u0142ego paska do czubka. Buty przerabiane s\u0105 jako jeden element.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44451229466813,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2439-243-3015",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7864210063549,
+        "created_at": "2024-08-20T16:45:26+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35254564880573,
+        "created_at": "2024-08-20T16:51:12+02:00",
+        "position": 1,
+        "updated_at": "2024-08-20T16:51:14+02:00",
+        "product_id": 7864210063549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/75fb60958bfa64affb300f28428932e0a4d83508-2992x2992jpg.jpg?v=1724165474",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35328764707005,
+        "created_at": "2024-09-04T14:44:19+02:00",
+        "position": 2,
+        "updated_at": "2024-09-04T14:44:21+02:00",
+        "product_id": 7864210063549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d1e4e1b3ca3f2a8b27803f5e054bb676bab86348-2992x2992jpg.jpg?v=1725453861",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35328764805309,
+        "created_at": "2024-09-04T14:44:19+02:00",
+        "position": 3,
+        "updated_at": "2024-09-04T14:44:21+02:00",
+        "product_id": 7864210063549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/99ef1479ed5d41ef11eb42a1cab1a443c8314727-2992x2992jpg.jpg?v=1725453861",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35328764739773,
+        "created_at": "2024-09-04T14:44:19+02:00",
+        "position": 4,
+        "updated_at": "2024-09-04T14:44:21+02:00",
+        "product_id": 7864210063549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d05f586a0ea765d239236dca2908f5765faff810-2992x2992jpg.jpg?v=1725453861",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35328764772541,
+        "created_at": "2024-09-04T14:44:19+02:00",
+        "position": 5,
+        "updated_at": "2024-09-04T14:44:21+02:00",
+        "product_id": 7864210063549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f05b24c056f62d300fb6e9654ebfef7add6034ea-2992x2992jpg.jpg?v=1725453861",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35328764838077,
+        "created_at": "2024-09-04T14:44:19+02:00",
+        "position": 6,
+        "updated_at": "2024-09-04T14:44:21+02:00",
+        "product_id": 7864210063549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e1bbd37afbc8b35b9b0bb969eefc8280a26bfb85-2992x2992jpg.jpg?v=1725453861",
+        "width": 2992,
+        "height": 2992
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7864171331773,
+    "title": "Str\u00f3j dyni - Ubranko dla lalki",
+    "handle": "hp-1008313-pumpkin-outfit-doll-clothes",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>Jeden rozmiar. Pasuje na lalk\u0119 Ida wysok\u0105 na 30 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Ubranko to jest przeznaczone dla lalki Ida. Wz\u00f3r lalki jest dost\u0119pny osobno:\u00a0<a href=\"https://hobbii.pl/products/hp-1008235-ida-doll?_pos=2&_psq=Ida&_ss=e&_v=1.0\">https://shop.hobbii.pl/ida-doll</a></p><p>\n</p><p>Wz\u00f3r przerabia si\u0119 na p\u0142asko, na prostych drutach a nast\u0119pnie zszywa \u015bciegiem materacowym. Sukienka dynia jest przerabiana od g\u00f3ry do do\u0142u. Sp\u00f3dnica ma prosty \u015bci\u0105gaczowy wz\u00f3r, ozdobne wyko\u0144czenie szyi jest wykonane osobno \u015bciegiem francuskim i przyszyte do ko\u0142nierzyka. Urocza czapka przypominaj\u0105ca dyni\u0119 idealnie pasuje do sukienki i ma ozdob\u0119 w kszta\u0142cie \u0142odygi dyni. Buty i skarpetki przerabia si\u0119 jako jeden element.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44451012116669,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2439-243-3824",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7864171331773,
+        "created_at": "2024-08-20T15:10:18+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35254183100605,
+        "created_at": "2024-08-20T15:11:15+02:00",
+        "position": 1,
+        "updated_at": "2024-08-20T15:11:17+02:00",
+        "product_id": 7864171331773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7b3ac72a150883e46117d4d7df4cb164e0a44fc7-2992x2992jpg.jpg?v=1724159477",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35254183067837,
+        "created_at": "2024-08-20T15:11:15+02:00",
+        "position": 2,
+        "updated_at": "2024-08-20T15:11:17+02:00",
+        "product_id": 7864171331773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/192a21da15838991376b50750391ca4909d24834-2992x2992jpg.jpg?v=1724159477",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35254183133373,
+        "created_at": "2024-08-20T15:11:15+02:00",
+        "position": 3,
+        "updated_at": "2024-08-20T15:11:17+02:00",
+        "product_id": 7864171331773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3d234a19e58e5c8cf86cdb04b1f16a8273020ab5-2000x2000jpg.jpg?v=1724159477",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 35254183198909,
+        "created_at": "2024-08-20T15:11:15+02:00",
+        "position": 4,
+        "updated_at": "2024-08-20T15:11:17+02:00",
+        "product_id": 7864171331773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/64ae2e560798a011f7fcb0f6b4b7015618b78312-2000x2000jpg.jpg?v=1724159477",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 35254183166141,
+        "created_at": "2024-08-20T15:11:15+02:00",
+        "position": 5,
+        "updated_at": "2024-08-20T15:11:17+02:00",
+        "product_id": 7864171331773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/43105c7793c6513a2409f0213a4a3ffd7e30523e-2000x1978jpg.jpg?v=1724159477",
+        "width": 2000,
+        "height": 1978
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857066803389,
+    "title": "Siostry Ada i Kat - Halloween",
+    "handle": "hp-1004824-the-sisters-ada-and-kat-halloween",
+    "body_html": "<p>Pi\u0119kne siostry Ada i Kat s\u0105 teraz dost\u0119pne w cudownym Halloween-owym wydaniu! S\u0105 przebrane za czarownic\u0119 i kota i s\u0105 gotowe stworzy\u0107 przytuln\u0105 lub upiorn\u0105 atmosfer\u0119. Zosta\u0142y wykonane na szyde\u0142ku z Rainbow Cotton 8/8 i maj\u0105 ok. 20 cm wysoko\u015bci.\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423572160701,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1015-213-4003",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857066803389,
+        "created_at": "2024-08-06T10:26:50+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377404608701,
+        "created_at": "2024-09-17T12:11:38+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:11:40+02:00",
+        "product_id": 7857066803389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/71dfac77df653542bb7d5d2c40dbd960bae4a02e-2867x2867jpg.jpg?v=1726567900",
+        "width": 2867,
+        "height": 2867
+      },
+      {
+        "id": 35377404707005,
+        "created_at": "2024-09-17T12:11:38+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:11:40+02:00",
+        "product_id": 7857066803389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7ffa81117ae9a15c5dd50fd2f229ef6e6f849a3c-3120x3120jpg.jpg?v=1726567900",
+        "width": 3120,
+        "height": 3120
+      },
+      {
+        "id": 35377404510397,
+        "created_at": "2024-09-17T12:11:38+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:11:40+02:00",
+        "product_id": 7857066803389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac8ee0e5a3b1c2d44c20953cfa175129fc4db282-3040x3040jpg.jpg?v=1726567900",
+        "width": 3040,
+        "height": 3040
+      },
+      {
+        "id": 35377404772541,
+        "created_at": "2024-09-17T12:11:38+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:11:40+02:00",
+        "product_id": 7857066803389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6743c57734544de908c990fdea8fe543584d4c17-3132x3132jpg.jpg?v=1726567900",
+        "width": 3132,
+        "height": 3132
+      },
+      {
+        "id": 35377404674237,
+        "created_at": "2024-09-17T12:11:38+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:11:40+02:00",
+        "product_id": 7857066803389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d70eb4a7fffb5e2cd947699a8279f0238993babb-3148x3148jpg.jpg?v=1726567900",
+        "width": 3148,
+        "height": 3148
+      },
+      {
+        "id": 35377404805309,
+        "created_at": "2024-09-17T12:11:38+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T12:11:40+02:00",
+        "product_id": 7857066803389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e7af76c13dc8266d537b29eaa45dba88a5da9d7f-2872x2872jpg.jpg?v=1726567900",
+        "width": 2872,
+        "height": 2872
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857058840765,
+    "title": "Siostry Ada i Kat",
+    "handle": "hp-1003591-sisters-ada-and-kat",
+    "body_html": "<p>Urocze siostry Ada i Kat s\u0105 kolorowe i gotowe na przyj\u0119cie. Zawsze maj\u0105 dobry humor, kochaj\u0105 ta\u0144czy\u0107 i si\u0119 \u015bmia\u0107. Wykonano je szyde\u0142kiem z Rainbow Cotton 8/4 i Rainbow Cotton 8/4 Melange. Mo\u017cesz spo\u015br\u00f3d nich wybra\u0107 te kolory, kt\u00f3re wed\u0142ug Ciebie najlepiej pasuj\u0105 do si\u00f3str.</p><p>\n</p><p><strong>Ups! Ten wz\u00f3r jest wykonany z w\u0142\u00f3czki, kt\u00f3rej ju\u017c nie mamy w sprzeda\u017cy. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423550566589,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1015-201-1914",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857058840765,
+        "created_at": "2024-08-06T10:26:02+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35216205316285,
+        "created_at": "2024-08-13T10:54:14+02:00",
+        "position": 1,
+        "updated_at": "2024-08-13T10:54:16+02:00",
+        "product_id": 7857058840765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/30acf995f54e7545bba399e63da684c6df04a995-3024x3024jpg.jpg?v=1723539256",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35216205283517,
+        "created_at": "2024-08-13T10:54:14+02:00",
+        "position": 2,
+        "updated_at": "2024-08-13T10:54:16+02:00",
+        "product_id": 7857058840765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/839d988972e77f48516ff6bf5901347ce8a55a00-2844x2844jpg.jpg?v=1723539256",
+        "width": 2844,
+        "height": 2844
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857051271357,
+    "title": "Elliot - Lalka",
+    "handle": "hp-1003864-elliot-doll",
+    "body_html": "<p>Elliot to urocza lalka, kt\u00f3ra wywo\u0142a rado\u015b\u0107 u ka\u017cdego dziecka. Ch\u0142opiec nosi spodnie na szelkach i fajn\u0105 czapk\u0119 z daszkiem. Wykonano go szyde\u0142kiem z Baby Cotton, wyst\u0119puj\u0105cej w najcudowniejszych kolorach. Wybierz ulubione i czym pr\u0119dzej wyszyde\u0142kuj Eliota ;)</p><p>Je\u015bli chcesz da\u0107 Elliotowi przyjaciela, to mo\u017cesz wykona\u0107 lalk\u0119 Ingrid, tak\u017ce z Baby Cotton.</p><p>Dobrej zabawy!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423527727293,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-202-8711",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857051271357,
+        "created_at": "2024-08-06T10:25:12+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373643006141,
+        "created_at": "2024-09-16T14:43:28+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:43:30+02:00",
+        "product_id": 7857051271357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/09fbdfa9a51d65f901ca9c7572b431e780c7ce64-1440x1437jpg.jpg?v=1726490610",
+        "width": 1440,
+        "height": 1437
+      },
+      {
+        "id": 35373642907837,
+        "created_at": "2024-09-16T14:43:28+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:43:30+02:00",
+        "product_id": 7857051271357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/954b3d9c4d3bac233fba9bf3586d8f8461f9dff6-1440x1437jpg.jpg?v=1726490610",
+        "width": 1440,
+        "height": 1437
+      },
+      {
+        "id": 35373642875069,
+        "created_at": "2024-09-16T14:43:28+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:43:30+02:00",
+        "product_id": 7857051271357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f3045e5c95462723322372bdb769b2fb7e0a9757-1440x1437jpg.jpg?v=1726490610",
+        "width": 1440,
+        "height": 1437
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857044324541,
+    "title": "Siostry Ada i Kat - Bo\u017ce Narodzenie",
+    "handle": "hp-1005760-the-sisters-ada-and-kat-christmas",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Wysoko\u015b\u0107: ok. 20 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Cudowne siostry Ada i Kat s\u0105 teraz dost\u0119pne w wyj\u0105tkowym \u015bwi\u0105tecznym wydaniu!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423508132029,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1015-222-1986",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857044324541,
+        "created_at": "2024-08-06T10:24:29+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377653219517,
+        "created_at": "2024-09-17T12:53:53+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:53:55+02:00",
+        "product_id": 7857044324541,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/82499b12fa55fc34bd9951bff4dbdcd0e5e53f88-2744x2744jpg.jpg?v=1726570435",
+        "width": 2744,
+        "height": 2744
+      },
+      {
+        "id": 35377653252285,
+        "created_at": "2024-09-17T12:53:53+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:53:55+02:00",
+        "product_id": 7857044324541,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/911fccb0cfcee8d5771427de4765656f81688677-3472x3472jpg.jpg?v=1726570435",
+        "width": 3472,
+        "height": 3472
+      },
+      {
+        "id": 35377653153981,
+        "created_at": "2024-09-17T12:53:53+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:53:54+02:00",
+        "product_id": 7857044324541,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/225732d4a0329ba45a1dd60e44249038eab427df-1915x1915jpg.jpg?v=1726570434",
+        "width": 1915,
+        "height": 1915
+      },
+      {
+        "id": 35377653285053,
+        "created_at": "2024-09-17T12:53:53+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:53:55+02:00",
+        "product_id": 7857044324541,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e1b7a2e66d50e93b2caefd9d09def57260048fdc-3236x3236jpg.jpg?v=1726570435",
+        "width": 3236,
+        "height": 3236
+      },
+      {
+        "id": 35377653186749,
+        "created_at": "2024-09-17T12:53:53+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:53:55+02:00",
+        "product_id": 7857044324541,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e85fe4f4dfe0413bd62c700062657b8e441ac4b0-2712x2712jpg.jpg?v=1726570435",
+        "width": 2712,
+        "height": 2712
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857041014973,
+    "title": "Pumpkin Head Doll - Amigurumi",
+    "handle": "hp-1004825-pumpkin-head-doll-amigurumi",
+    "body_html": "<p>Wyszyde\u0142kuj lalke\u0328 Dyniowa G\u0142owa, jako &quot;upiornie s\u0142odka\u0328&quot; ozdobe\u0328 amigurumi na Halloween!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423499808957,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1025-213-9709",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857041014973,
+        "created_at": "2024-08-06T10:24:07+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377405100221,
+        "created_at": "2024-09-17T12:11:39+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:11:42+02:00",
+        "product_id": 7857041014973,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/443ae7b741a2b5f2ec0a98f27d086947cab7f959-3355x3355jpg.jpg?v=1726567902",
+        "width": 3355,
+        "height": 3355
+      },
+      {
+        "id": 35377404969149,
+        "created_at": "2024-09-17T12:11:40+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:11:41+02:00",
+        "product_id": 7857041014973,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dac23667968633bbcf69e55f560a4a42ea0bd69d-3376x3376jpg.jpg?v=1726567901",
+        "width": 3376,
+        "height": 3376
+      },
+      {
+        "id": 35377404838077,
+        "created_at": "2024-09-17T12:11:40+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:11:41+02:00",
+        "product_id": 7857041014973,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cecdaf41424c51c449391432d0fe2c917a1a2f75-3376x3376jpg.jpg?v=1726567901",
+        "width": 3376,
+        "height": 3376
+      },
+      {
+        "id": 35377404936381,
+        "created_at": "2024-09-17T12:11:40+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:11:41+02:00",
+        "product_id": 7857041014973,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4fbbc10d4554651d0d3a77977b5995bb68ae263b-3376x3376jpg.jpg?v=1726567901",
+        "width": 3376,
+        "height": 3376
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857038885053,
+    "title": "Sara - Lalka",
+    "handle": "hp-1005344-sara-doll",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Wysoko\u015b\u0107 ok. 30 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Lalka Sara bardzo modnie si\u0119 ubra\u0142a i jest gotowa, aby sprawi\u0107 rado\u015b\u0107 ma\u0142emu ch\u0142opcu lub dziewczynce. Jej najlepszy przyjaciel ma na imi\u0119 Sungi. Uwielbiaj\u0105 wsp\u00f3lne spacery i zabaw\u0119.</p><p>\n\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423494009021,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-221-5608",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857038885053,
+        "created_at": "2024-08-06T10:23:54+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377516150973,
+        "created_at": "2024-09-17T12:35:49+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:35:51+02:00",
+        "product_id": 7857038885053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/64992e5c26875feef4ed4d28f319792d0876b4bc-2730x2730jpg.jpg?v=1726569351",
+        "width": 2730,
+        "height": 2730
+      },
+      {
+        "id": 35377516118205,
+        "created_at": "2024-09-17T12:35:49+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:35:51+02:00",
+        "product_id": 7857038885053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ecdc81fb806381d95fd6ec6c5f3df300259a2666-2234x2234jpg.jpg?v=1726569351",
+        "width": 2234,
+        "height": 2234
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857033511101,
+    "title": "Sungi - Lalka",
+    "handle": "hp-1005369-sungi-doll",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Wysoko\u015b\u0107 ok. 30 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Lalka Sungi elegancko si\u0119 ubra\u0142a i jest gotowa, aby sprawi\u0107 rado\u015b\u0107 ma\u0142emu ch\u0142opcu lub dziewczynce. Jego najlepsza przyjaci\u00f3\u0142ka ma na imi\u0119 Sara. Uwielbiaj\u0105 wsp\u00f3lne spacery i zabaw\u0119.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423480279229,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-221-2199",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857033511101,
+        "created_at": "2024-08-06T10:23:20+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377519100093,
+        "created_at": "2024-09-17T12:36:14+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:36:16+02:00",
+        "product_id": 7857033511101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7f1ecfe3eec95ae2f914226598c848615cd71e4d-2726x2726jpg.jpg?v=1726569376",
+        "width": 2726,
+        "height": 2726
+      },
+      {
+        "id": 35377518969021,
+        "created_at": "2024-09-17T12:36:14+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:36:15+02:00",
+        "product_id": 7857033511101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e298395f0ec03dcb7433dbff4f0c883c48804be8-2726x2726jpg.jpg?v=1726569375",
+        "width": 2726,
+        "height": 2726
+      },
+      {
+        "id": 35377519034557,
+        "created_at": "2024-09-17T12:36:14+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:36:15+02:00",
+        "product_id": 7857033511101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/edc9f0e6281af4448c676a254b399e1deabc7f18-2730x2730jpg.jpg?v=1726569375",
+        "width": 2730,
+        "height": 2730
+      },
+      {
+        "id": 35377518936253,
+        "created_at": "2024-09-17T12:36:14+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:36:15+02:00",
+        "product_id": 7857033511101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ecdc81fb806381d95fd6ec6c5f3df300259a2666-2234x2234jpg_f0f07a71-33eb-4ab1-9cfc-62e8b76b30ee.jpg?v=1726569375",
+        "width": 2234,
+        "height": 2234
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857014505661,
+    "title": "Pierniczkowa Lalka",
+    "handle": "hp-1003315-gingerbread-doll",
+    "body_html": "<p></p><p>Ta urocza lala piernikowa z niecierpliwo\u015bci\u0105 czeka na choink\u0119. Mo\u017ce w tym roku sp\u0119dzi \u015bwi\u0119ta w Twoim domu?</p><p>\nDesign: Jennifer Santos</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423429390525,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1011-194-8346",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857014505661,
+        "created_at": "2024-08-06T10:21:31+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373572751549,
+        "created_at": "2024-09-16T14:31:06+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:31:08+02:00",
+        "product_id": 7857014505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3b2d970b3792d13c858d862368103ed77894e123-1386x1386jpg.jpg?v=1726489868",
+        "width": 1386,
+        "height": 1386
+      },
+      {
+        "id": 35373572718781,
+        "created_at": "2024-09-16T14:31:06+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:31:08+02:00",
+        "product_id": 7857014505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/50c4c7e3fad9d702de90b0abd73b1183ace8d08f-512x512jpg.jpg?v=1726489868",
+        "width": 512,
+        "height": 512
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857000054973,
+    "title": "Lalka \u2013 \u015awi\u0105teczna Choinka",
+    "handle": "hp-1003263-christmas-tree-doll",
+    "body_html": "<p>Ozd\u00f3b dom na \u015bwi\u0119ta nasz\u0105 lalk\u0105-choink\u0105. Wykonano j\u0105 z w\u0142\u00f3czki Rainbow 8/4 i przystrojono drobnymi pere\u0142kami. Powodzenia!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423388135613,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1011-194-2239",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857000054973,
+        "created_at": "2024-08-06T10:20:01+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373559578813,
+        "created_at": "2024-09-16T14:28:28+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:28:30+02:00",
+        "product_id": 7857000054973,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1e41f6f0a0af36b8b5f1ac615f19535e583b6280-1386x1386jpg.jpg?v=1726489710",
+        "width": 1386,
+        "height": 1386
+      },
+      {
+        "id": 35373559611581,
+        "created_at": "2024-09-16T14:28:29+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:28:31+02:00",
+        "product_id": 7857000054973,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/392c0e50e7512952428a93c1b2ca2439b059d355-1386x1386jpg.jpg?v=1726489711",
+        "width": 1386,
+        "height": 1386
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856998875325,
+    "title": "Miv - Lalka",
+    "handle": "hp-1005340-miv-doll",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Wysoko\u015b\u0107 ok. 30 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Lalka Miv to jedna z najs\u0142odszych rzeczy, kt\u00f3re mo\u017cesz wyszyde\u0142kowa\u0107! Ma na sobie pi\u0119kn\u0105 sukienk\u0119 i torebk\u0119. Lalka Miv zna si\u0119 na \u015bwietnej zabawie i rozweseli ka\u017cdego malucha.</p><p>\n<strong>Ups! Wz\u00f3r na zdj\u0119ciu zosta\u0142 wykonany przy u\u017cyciu jednego lub wi\u0119cej wycofanych kolor\u00f3w. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce kolory.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423384072381,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-221-9388",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856998875325,
+        "created_at": "2024-08-06T10:19:54+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377514512573,
+        "created_at": "2024-09-17T12:35:30+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:35:32+02:00",
+        "product_id": 7856998875325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6fd264938a80eb63d24d5f0599d7c44627f95664-2730x2730jpg.jpg?v=1726569332",
+        "width": 2730,
+        "height": 2730
+      },
+      {
+        "id": 35377514479805,
+        "created_at": "2024-09-17T12:35:30+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:35:32+02:00",
+        "product_id": 7856998875325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f4f488c466fda2375db38bb26168da35eb17759f-2726x2726jpg.jpg?v=1726569332",
+        "width": 2726,
+        "height": 2726
+      },
+      {
+        "id": 35377514447037,
+        "created_at": "2024-09-17T12:35:30+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:35:32+02:00",
+        "product_id": 7856998875325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/53ee7ef30c8f8baaeb625caf6829a1081ed63c68-2730x2730jpg.jpg?v=1726569332",
+        "width": 2730,
+        "height": 2730
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856978198717,
+    "title": "Maxoo - Tour de France",
+    "handle": "hp-1005511-maxoo-tour-de-france",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Ostateczny wymiar gotowej lalki to 22 cm wysoko\u015bci.</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Stw\u00f3rz w\u0142asnego ma\u0142ego rowerzyst\u0119 w ci\u0105gu kilku godzin! Ten \u0142atwy do wykonania wz\u00f3r zawiera szczeg\u00f3\u0142owe instrukcje i zdj\u0119cia opisuj\u0105ce, jak szyde\u0142kowa\u0107 i sk\u0142ada\u0107 wszystkie cz\u0119\u015bci, aby stworzy\u0107 tego malucha!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423323156669,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1069-222-4037",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856978198717,
+        "created_at": "2024-08-06T10:17:13+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377554358461,
+        "created_at": "2024-09-17T12:42:53+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:42:54+02:00",
+        "product_id": 7856978198717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e18e16934a01e1a0408fc94255a09d0d1499b02e-675x675jpg.jpg?v=1726569774",
+        "width": 675,
+        "height": 675
+      },
+      {
+        "id": 35377554456765,
+        "created_at": "2024-09-17T12:42:53+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:42:54+02:00",
+        "product_id": 7856978198717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/21b042a0e19cab1b64b2aa6f491194a7370da31f-675x675jpg.jpg?v=1726569774",
+        "width": 675,
+        "height": 675
+      },
+      {
+        "id": 35377554292925,
+        "created_at": "2024-09-17T12:42:53+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:42:54+02:00",
+        "product_id": 7856978198717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7aac0dcba53062c96cd754526c2867a5be74c45b-675x675jpg.jpg?v=1726569774",
+        "width": 675,
+        "height": 675
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856975184061,
+    "title": "Mermaid - Lalka",
+    "handle": "hp-1007606-mermaid-doll",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Wysoko\u015b\u0107: 35 cm</p><p></p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Urocza ma\u0142a syrenka do wykonania r\u0119cznie dla wyj\u0105tkowej osoby, kt\u00f3ra b\u0119dzie mog\u0142a sp\u0119dzi\u0107 wiele godzin na zabawie.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423313785021,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2127-241-4674",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856975184061,
+        "created_at": "2024-08-06T10:16:49+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35188205060285,
+        "created_at": "2024-08-06T10:49:36+02:00",
+        "position": 1,
+        "updated_at": "2024-08-06T10:49:38+02:00",
+        "product_id": 7856975184061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7139243fe9f0394e9cd312951ef2cf2f538daf1a-3024x3024jpg.jpg?v=1722934178",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35188205125821,
+        "created_at": "2024-08-06T10:49:36+02:00",
+        "position": 2,
+        "updated_at": "2024-08-06T10:49:39+02:00",
+        "product_id": 7856975184061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8e587c41e4371402f566b3c2e010017a76630253-3024x3024jpg.jpg?v=1722934179",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35188205256893,
+        "created_at": "2024-08-06T10:49:36+02:00",
+        "position": 3,
+        "updated_at": "2024-08-06T10:49:39+02:00",
+        "product_id": 7856975184061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/218b7a210699b6fbb513c87b3f6d383203231151-3024x3024jpg.jpg?v=1722934179",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35188205027517,
+        "created_at": "2024-08-06T10:49:36+02:00",
+        "position": 4,
+        "updated_at": "2024-08-06T10:49:38+02:00",
+        "product_id": 7856975184061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9260218cfa8da84bcac2bec35d8bb54cbf8e82bc-3024x3024jpg.jpg?v=1722934178",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35188205093053,
+        "created_at": "2024-08-06T10:49:36+02:00",
+        "position": 5,
+        "updated_at": "2024-08-06T10:49:38+02:00",
+        "product_id": 7856975184061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/59111ae06e23acac3827596d59a7f19deb2fc0ff-3024x3024jpg.jpg?v=1722934178",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35188205191357,
+        "created_at": "2024-08-06T10:49:36+02:00",
+        "position": 6,
+        "updated_at": "2024-08-06T10:49:39+02:00",
+        "product_id": 7856975184061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/abda1e85140e9d6b91fcf34f3756d0aabe26959f-3024x3024jpg.jpg?v=1722934179",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35188204994749,
+        "created_at": "2024-08-06T10:49:37+02:00",
+        "position": 7,
+        "updated_at": "2024-08-06T10:49:38+02:00",
+        "product_id": 7856975184061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8e24c382424e0f05aa24fbed5655d1eb49b2122e-3024x3024jpg.jpg?v=1722934178",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856968433853,
+    "title": "Baby Mermaid",
+    "handle": "hp-1003911-baby-mermaid",
+    "body_html": "<p>Ju\u017c mo\u017cesz zrobi\u0107 szyde\u0142kiem z w\u0142\u00f3czki Amigo XL t\u0119 urocz\u0105 syrenk\u0119. Nadaj jej w\u0142asny charakter wybieraj\u0105c swoje ulubione kolory.</p><p>Mi\u0142ego szyde\u0142kowania!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423297499325,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1025-203-9210",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856968433853,
+        "created_at": "2024-08-06T10:15:50+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373655392445,
+        "created_at": "2024-09-16T14:45:27+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:45:28+02:00",
+        "product_id": 7856968433853,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d14d92dde629691dbb8d18b79fb2c599730ebd11-1512x1512jpg.jpg?v=1726490728",
+        "width": 1512,
+        "height": 1512
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856960667837,
+    "title": "Ingrid - Lalka",
+    "handle": "hp-1003865-ingrid-doll",
+    "body_html": "<p>Ingrid to urocza lalka, kt\u00f3ra sprawi rado\u015b\u0107 ka\u017cdemu dziecku. Ubrano j\u0105 w pi\u0119kn\u0105 sukienk\u0119 i wytwornie uczesano dwiema wst\u0105\u017ckami. Lalk\u0119 wykonano szyde\u0142kiem z Baby Cotton, wyst\u0119puj\u0105cej w najwspanialszych kolorach. Wybierz ulubiony i bierz si\u0119 do pracy. Ingrid czeka ;)</p><p>Je\u015bli masz ochot\u0119 wykona\u0107 towarzysza dla Ingrid, to mo\u017cesz zrobi\u0107 lalk\u0119 Elliot, r\u00f3wnie\u017c z w\u0142\u00f3czki Baby Cotton.</p><p>Powodzenia!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423278100669,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-202-6094",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856960667837,
+        "created_at": "2024-08-06T10:14:36+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373643104445,
+        "created_at": "2024-09-16T14:43:30+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:43:32+02:00",
+        "product_id": 7856960667837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3bd518c20f324b1ab1539c98ccd367dfe52f203b-1440x1437jpg.jpg?v=1726490612",
+        "width": 1440,
+        "height": 1437
+      },
+      {
+        "id": 35373643071677,
+        "created_at": "2024-09-16T14:43:30+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:43:31+02:00",
+        "product_id": 7856960667837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b1d031aa3397fd8c19e6a17b8e0a40e97649558d-1440x1437jpg.jpg?v=1726490611",
+        "width": 1440,
+        "height": 1437
+      },
+      {
+        "id": 35376966336701,
+        "created_at": "2024-09-17T09:07:13+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T09:07:15+02:00",
+        "product_id": 7856960667837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f3045e5c95462723322372bdb769b2fb7e0a9757-1440x1437jpg_227f2301-6fda-4612-aaeb-84ac50cec2e1.jpg?v=1726556835",
+        "width": 1440,
+        "height": 1437
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856954147005,
+    "title": "Lalka - Ba\u0142wanek",
+    "handle": "hp-1003262-snowman-doll",
+    "body_html": "<p>Ta s\u0142odka lala-ba\u0142wanek za\u0142o\u017cy\u0142a swoje najlepsze zimowe ubranie i niecierpliwie wyczekuje pierwszego \u015bniegu. Mo\u017ce w tym roku sp\u0119dzi \u015bwi\u0119ta u Ciebie?</p><p>\nDesign: Jennifer Santos\n</p><p>\n\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423262109885,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1011-194-7606",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856954147005,
+        "created_at": "2024-08-06T10:13:34+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373558825149,
+        "created_at": "2024-09-16T14:28:11+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:28:13+02:00",
+        "product_id": 7856954147005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4322e155e686f3e114dac8fa594afa9b757b74dd-1385x1385jpg.jpg?v=1726489693",
+        "width": 1385,
+        "height": 1385
+      },
+      {
+        "id": 35373558792381,
+        "created_at": "2024-09-16T14:28:11+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:28:13+02:00",
+        "product_id": 7856954147005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ae146288a78d0687cf15e58855cd1b25430fd840-1386x1386jpg.jpg?v=1726489693",
+        "width": 1386,
+        "height": 1386
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7854768980157,
+    "title": "Ida - Lalka",
+    "handle": "hp-1008235-ida-doll",
+    "body_html": "<p>WYMIARY</p><p>25 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Zar\u00f3wno lalka, jak i jej ubranka s\u0105 dziergane na p\u0142asko na prostych drutach i zszyte \u015bciegiem materacowym. Bielizna jest przerabiana z korpusem lalki (nie mo\u017cna jej zdj\u0105\u0107). W\u0142osy s\u0105 dziergane osobno i przyszyte. Dziergaj na drutach 3,25 mm, aby rob\u00f3tka by\u0142a bardziej \u015bcis\u0142a ni\u017c zwykle.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44416385679549,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2439-242-7706",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7854768980157,
+        "created_at": "2024-08-02T10:26:22+02:00",
+        "updated_at": "2024-11-22T22:49:36+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35174904823997,
+        "created_at": "2024-08-02T10:27:34+02:00",
+        "position": 1,
+        "updated_at": "2024-08-02T10:27:36+02:00",
+        "product_id": 7854768980157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/677a10974ca0d7c49bbcf45b729e8799c9766f10-2000x2000jpg.jpg?v=1722587256",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 35174904922301,
+        "created_at": "2024-08-02T10:27:34+02:00",
+        "position": 2,
+        "updated_at": "2024-08-02T10:27:36+02:00",
+        "product_id": 7854768980157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/665f06b3160e4cc1cd6f2a517ca37c629d8a554a-2000x2000jpg.jpg?v=1722587256",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 35174904856765,
+        "created_at": "2024-08-02T10:27:34+02:00",
+        "position": 3,
+        "updated_at": "2024-08-02T10:27:36+02:00",
+        "product_id": 7854768980157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5b21c2901d70b5c0f12c3b8d12fdb0d1732064b6-2000x2000jpg.jpg?v=1722587256",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 35174905020605,
+        "created_at": "2024-08-02T10:27:34+02:00",
+        "position": 4,
+        "updated_at": "2024-08-02T10:27:36+02:00",
+        "product_id": 7854768980157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b3122f1e375d09cce802d0d0e36e9403a214fa5e-2992x2992jpg.jpg?v=1722587256",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35174904987837,
+        "created_at": "2024-08-02T10:27:34+02:00",
+        "position": 5,
+        "updated_at": "2024-08-02T10:27:36+02:00",
+        "product_id": 7854768980157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b81f1451a7bd22ea1cadb70ef48ea26bbf2b03fb-2992x2992jpg.jpg?v=1722587256",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35174904955069,
+        "created_at": "2024-08-02T10:27:34+02:00",
+        "position": 6,
+        "updated_at": "2024-08-02T10:27:36+02:00",
+        "product_id": 7854768980157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/23a3fce3d1a0297595eaf08d664e01d3cbef5562-2992x2992jpg.jpg?v=1722587256",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35174905053373,
+        "created_at": "2024-08-02T10:27:34+02:00",
+        "position": 7,
+        "updated_at": "2024-08-02T10:27:36+02:00",
+        "product_id": 7854768980157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8b2cc1e4629990c945e614ee6e6fe931f16a7582-2992x2992jpg.jpg?v=1722587256",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35174904889533,
+        "created_at": "2024-08-02T10:27:34+02:00",
+        "position": 8,
+        "updated_at": "2024-08-02T10:27:36+02:00",
+        "product_id": 7854768980157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2cb2521b802bb529b1759ae024ae998ad564830d-2992x2992jpg.jpg?v=1722587256",
+        "width": 2992,
+        "height": 2992
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

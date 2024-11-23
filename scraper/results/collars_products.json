@@ -1,0 +1,236 @@
+[
+  {
+    "id": 7857020403901,
+    "title": "Old Shale - Ko\u0142nierzyk",
+    "handle": "hp-1003919-old-shale-collar",
+    "body_html": "<p>Chcesz wygl\u0105da\u0107 naprawd\u0119 znakomicie? Zr\u00f3b na drutach ko\u0142nierz Old Shale.\n</p><p>Stanowi on prawdziwie wytworny dodatek do garderoby, kt\u00f3ry podkr\u0119ci ka\u017cdy str\u00f3j.</p><p>Old Shale wyst\u0119puje tak\u017ce w wersji dzieci\u0119cej - znajdziesz j\u0105 <a href=\"https://hobbii.pl/opskrifter/old-shale-mini-kolnierzyk\">tutaj</a>.</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423444299965,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2016-203-7708",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857020403901,
+        "created_at": "2024-08-06T10:22:04+02:00",
+        "updated_at": "2024-11-22T22:47:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373661814973,
+        "created_at": "2024-09-16T14:47:00+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:47:01+02:00",
+        "product_id": 7857020403901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a8b6857e818967daf2078736eea9496f15697eed-2048x2048jpg.jpg?v=1726490821",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373661847741,
+        "created_at": "2024-09-16T14:47:00+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:47:01+02:00",
+        "product_id": 7857020403901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/aca5465ec169e8f52f658a52ffe0e0da1c3859b0-2048x2048jpg.jpg?v=1726490821",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373661880509,
+        "created_at": "2024-09-16T14:47:00+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:47:02+02:00",
+        "product_id": 7857020403901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ea0d1e2eb477e2d868826c808f5ace5a98f511a4-2048x2048jpg.jpg?v=1726490822",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373661946045,
+        "created_at": "2024-09-16T14:47:00+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:47:02+02:00",
+        "product_id": 7857020403901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9ea8011160a9d6266b3f058fe335b981a21eff83-2048x2048jpg.jpg?v=1726490822",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373661749437,
+        "created_at": "2024-09-16T14:47:00+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:47:01+02:00",
+        "product_id": 7857020403901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f0e82ee861df200b70839beb644f35196dd7572c-2048x2048jpg.jpg?v=1726490821",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373661913277,
+        "created_at": "2024-09-16T14:47:00+02:00",
+        "position": 6,
+        "updated_at": "2024-09-16T14:47:02+02:00",
+        "product_id": 7857020403901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3fa5d2d78dd76713a8e8e92d1a8f52e9586eefe3-1530x1530jpg.jpg?v=1726490822",
+        "width": 1530,
+        "height": 1530
+      },
+      {
+        "id": 35373661782205,
+        "created_at": "2024-09-16T14:47:00+02:00",
+        "position": 7,
+        "updated_at": "2024-09-16T14:47:01+02:00",
+        "product_id": 7857020403901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/990743fc21e427fac42a13e89e08b0ffb956dd93-2048x2048jpg.jpg?v=1726490821",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856980918461,
+    "title": "Old Shale Mini - Ko\u0142nierzyk",
+    "handle": "hp-1003918-old-shale-mini-collar",
+    "body_html": "<p>Trzeba si\u0119 wystroi\u0107? Zr\u00f3b na drutach Old Shale Mini - ko\u0142nierz najm\u0142odszych cz\u0142onk\u00f3w rodziny.\n</p><p>B\u0119dzie on prawdziwie wytwornym dodatkiem do garderoby, kt\u00f3ry podkr\u0119ci ka\u017cdy str\u00f3j.</p><p>Old Shale jest te\u017c w wersji dla doros\u0142ych - znajdziesz j\u0105 <a href=\"https://hobbii.pl/opskrifter/old-shale-kolnierzyk\">tutaj.</a></p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423332888765,
+        "title": "All",
+        "option1": "All",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2016-203-8665",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856980918461,
+        "created_at": "2024-08-06T10:17:36+02:00",
+        "updated_at": "2024-11-22T22:47:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373655949501,
+        "created_at": "2024-09-16T14:45:36+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:45:38+02:00",
+        "product_id": 7856980918461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c2737a94cf7334beb6c704b62a530e53b4baec83-2048x2048jpg.jpg?v=1726490738",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373656113341,
+        "created_at": "2024-09-16T14:45:36+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:45:38+02:00",
+        "product_id": 7856980918461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/152519a7486ccc4d26951913c88bb22c23c5898f-2048x2048jpg.jpg?v=1726490738",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373656178877,
+        "created_at": "2024-09-16T14:45:36+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:45:38+02:00",
+        "product_id": 7856980918461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1070ec5ade8d3b0dd00a868f3d63ed9624e5a0dc-2048x2048jpg.jpg?v=1726490738",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373656080573,
+        "created_at": "2024-09-16T14:45:36+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:45:38+02:00",
+        "product_id": 7856980918461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d09d0b29ba7360eff59e26a8c4b899b11a44de98-2048x2048jpg.jpg?v=1726490738",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373656047805,
+        "created_at": "2024-09-16T14:45:36+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:45:38+02:00",
+        "product_id": 7856980918461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1e1f6c176beadb6c5e10920163bcf82cbf7709ed-2048x2048jpg.jpg?v=1726490738",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373655982269,
+        "created_at": "2024-09-16T14:45:36+02:00",
+        "position": 6,
+        "updated_at": "2024-09-16T14:45:38+02:00",
+        "product_id": 7856980918461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1f2ea3f4b698ba56cce0b34631549fe1eb38aace-2048x2048jpg.jpg?v=1726490738",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373655916733,
+        "created_at": "2024-09-16T14:45:36+02:00",
+        "position": 7,
+        "updated_at": "2024-09-16T14:45:38+02:00",
+        "product_id": 7856980918461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/08eff3551d48448aaf9a36404af9803a065f3c8d-2048x2048jpg.jpg?v=1726490738",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "All"
+        ]
+      }
+    ]
+  }
+]

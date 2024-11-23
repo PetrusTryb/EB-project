@@ -1,0 +1,1297 @@
+[
+  {
+    "id": 7856015409341,
+    "title": "Torba na w\u0142\u00f3czki",
+    "handle": "hp-1002439-yarn-bag",
+    "body_html": "<p>Praktyczna, lekka i pojemna torba na przechowywanie w\u0142\u00f3czek, akcesori\u00f3w, wzor\u00f3w, drut\u00f3w itp. Torba pomie\u015bci oko\u0142o 25 k\u0142\u0119bk\u00f3w (50 g ka\u017cdy) - w zale\u017cno\u015bci od tego czy s\u0105 one wykonane z we\u0142ny, bawe\u0142ny czy akrylu. Na wierzchu torby znajduj\u0105 si\u0119 2 otwory, przez kt\u00f3re mo\u017cesz przeci\u0105gn\u0105\u0107 nici, dzi\u0119ki czemu mo\u017cesz w niej u\u0142o\u017cy\u0107 prz\u0119dze na czas pracy z rob\u00f3tk\u0105.\n</p><p>Razem z torb\u0105 otrzymasz ma\u0142e etui z paskiem na rami\u0119, kt\u00f3ry mo\u017ce zosta\u0107 przymocowany do torby tak aby\u015b mog\u0142a j\u0105 zabra\u0107 w podr\u00f3\u017c.</p><p>Torba wyposa\u017cona jest w:</p><ul><li><p>1 przegrod\u0119 zamykan\u0105 na zamek b\u0142yskawiczny</p></li><li><p>2 otwarte przegrody z kieszonkami</p></li><li><p>10 ma\u0142ych kieszonek na druty</p></li><li><p>8 ma\u0142ych kieszonek na szyde\u0142ka w r\u00f3\u017cnych rozmiarach</p></li></ul><p>Torba jest po prostu idealna, je\u015bli chcesz zabra\u0107 swoje przyrz\u0105dy do dziergania w podr\u00f3\u017c.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421083037885,
+        "title": "Grey",
+        "option1": "Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1005",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35332814405821,
+          "product_id": 7856015409341,
+          "position": 3,
+          "created_at": "2024-09-05T08:45:43+02:00",
+          "updated_at": "2024-09-05T08:45:46+02:00",
+          "alt": "02d76245f8534faa6f0650a3237a6a15c698c8da-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/02d76245f8534faa6f0650a3237a6a15c698c8da-1200x1200jpg.jpg?v=1725518746",
+          "variant_ids": [
+            44421083037885
+          ]
+        },
+        "available": true,
+        "price": "110.70",
+        "grams": 770,
+        "compare_at_price": "205.00",
+        "position": 1,
+        "product_id": 7856015409341,
+        "created_at": "2024-08-05T10:34:15+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44421083070653,
+        "title": "Black",
+        "option1": "Black",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1002",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "110.70",
+        "grams": 770,
+        "compare_at_price": "205.00",
+        "position": 2,
+        "product_id": 7856015409341,
+        "created_at": "2024-08-05T10:34:15+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44421083103421,
+        "title": "Dark Forest",
+        "option1": "Dark Forest",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1008",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35332814176445,
+          "product_id": 7856015409341,
+          "position": 9,
+          "created_at": "2024-09-05T08:45:43+02:00",
+          "updated_at": "2024-09-05T08:45:46+02:00",
+          "alt": "1624e8415bfea6a4eecaa6b6fb844ccc9129d9d5-1500x1500jpg",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1624e8415bfea6a4eecaa6b6fb844ccc9129d9d5-1500x1500jpg.jpg?v=1725518746",
+          "variant_ids": [
+            44421083103421
+          ]
+        },
+        "available": false,
+        "price": "110.70",
+        "grams": 650,
+        "compare_at_price": "205.00",
+        "position": 3,
+        "product_id": 7856015409341,
+        "created_at": "2024-08-05T10:34:15+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44421083136189,
+        "title": "Dark Forest / Charcoal",
+        "option1": "Dark Forest / Charcoal",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1004",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35332814438589,
+          "product_id": 7856015409341,
+          "position": 10,
+          "created_at": "2024-09-05T08:45:43+02:00",
+          "updated_at": "2024-09-05T08:45:46+02:00",
+          "alt": "930011b148f4a29fa465ae7d4287ad92f0f71fd2-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/930011b148f4a29fa465ae7d4287ad92f0f71fd2-1200x1200jpg.jpg?v=1725518746",
+          "variant_ids": [
+            44421083136189
+          ]
+        },
+        "available": false,
+        "price": "110.70",
+        "grams": 770,
+        "compare_at_price": "205.00",
+        "position": 4,
+        "product_id": 7856015409341,
+        "created_at": "2024-08-05T10:34:15+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44421083168957,
+        "title": "Deep Blue",
+        "option1": "Deep Blue",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1003",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35332814110909,
+          "product_id": 7856015409341,
+          "position": 11,
+          "created_at": "2024-09-05T08:45:44+02:00",
+          "updated_at": "2024-09-05T08:45:46+02:00",
+          "alt": "b57e255cf2c88bdd4942970acab0d664b0b0305a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b57e255cf2c88bdd4942970acab0d664b0b0305a-1200x1200jpg.jpg?v=1725518746",
+          "variant_ids": [
+            44421083168957
+          ]
+        },
+        "available": true,
+        "price": "110.70",
+        "grams": 770,
+        "compare_at_price": "205.00",
+        "position": 5,
+        "product_id": 7856015409341,
+        "created_at": "2024-08-05T10:34:15+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44421083201725,
+        "title": "Purple",
+        "option1": "Purple",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1079",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35332814209213,
+          "product_id": 7856015409341,
+          "position": 12,
+          "created_at": "2024-09-05T08:45:44+02:00",
+          "updated_at": "2024-09-05T08:45:46+02:00",
+          "alt": "d889020121624756795e8fdd73b297263d633d91-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d889020121624756795e8fdd73b297263d633d91-1200x1200jpg.jpg?v=1725518746",
+          "variant_ids": [
+            44421083201725
+          ]
+        },
+        "available": true,
+        "price": "110.70",
+        "grams": 770,
+        "compare_at_price": "205.00",
+        "position": 6,
+        "product_id": 7856015409341,
+        "created_at": "2024-08-05T10:34:15+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35332814143677,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 1,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7a6cd0c49c3df76c2454b30972f52c6178ff581c-700x700jpg.jpg?v=1725518746",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35332814307517,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 2,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac65992f5a9ed842c3ab46ca4664fa6fe73708f2-1200x1200jpg.jpg?v=1725518746",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35332814405821,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 3,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [
+          44421083037885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/02d76245f8534faa6f0650a3237a6a15c698c8da-1200x1200jpg.jpg?v=1725518746",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35332814012605,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 4,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6f804f862501812392bc5182b45a4dab98a56908-1200x1200jpg.jpg?v=1725518746",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35332813979837,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 5,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/58c8f071aa5ae1ea0a823f98f2af0272da54a851-1200x1200jpg.jpg?v=1725518746",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35332814078141,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 6,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8f61917a5b139c49be2a9be0c691926bab38c5a9-1200x1200jpg.jpg?v=1725518746",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35332814373053,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 7,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/51b85a1df3df78e1c10c075537418125b36e9b62-1500x1500jpg.jpg?v=1725518746",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35332814340285,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 8,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/da284439c23e1ffa8c90d55a983d1e674a0bd3fa-4000x4000jpg.jpg?v=1725518746",
+        "width": 4000,
+        "height": 4000
+      },
+      {
+        "id": 35332814176445,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 9,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [
+          44421083103421
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1624e8415bfea6a4eecaa6b6fb844ccc9129d9d5-1500x1500jpg.jpg?v=1725518746",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35332814438589,
+        "created_at": "2024-09-05T08:45:43+02:00",
+        "position": 10,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [
+          44421083136189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/930011b148f4a29fa465ae7d4287ad92f0f71fd2-1200x1200jpg.jpg?v=1725518746",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35332814110909,
+        "created_at": "2024-09-05T08:45:44+02:00",
+        "position": 11,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [
+          44421083168957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b57e255cf2c88bdd4942970acab0d664b0b0305a-1200x1200jpg.jpg?v=1725518746",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35332814209213,
+        "created_at": "2024-09-05T08:45:44+02:00",
+        "position": 12,
+        "updated_at": "2024-09-05T08:45:46+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [
+          44421083201725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d889020121624756795e8fdd73b297263d633d91-1200x1200jpg.jpg?v=1725518746",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71416003297658,
+        "created_at": "2024-10-23T17:54:18+02:00",
+        "position": 13,
+        "updated_at": "2024-10-23T17:54:20+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2cc2e46c2d2bea478b732180cf173596.jpg?v=1729698860",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71416003330426,
+        "created_at": "2024-10-23T17:54:18+02:00",
+        "position": 14,
+        "updated_at": "2024-10-23T17:54:20+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/98909f76840f59cf37369226055b821d.jpg?v=1729698860",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71416003264890,
+        "created_at": "2024-10-23T17:54:18+02:00",
+        "position": 15,
+        "updated_at": "2024-10-23T17:54:20+02:00",
+        "product_id": 7856015409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/02b100eb9f433d5893ac848769d094b1.jpg?v=1729698860",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Grey",
+          "Black",
+          "Dark Forest",
+          "Dark Forest / Charcoal",
+          "Deep Blue",
+          "Purple"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855949119677,
+    "title": "Organizer na Druty Wymienne",
+    "handle": "hp-1007272-organiser-for-interchangeable-circular-needles",
+    "body_html": "<p>Tutaj otrzymujesz pi\u0119kne etui z motywem kwiatowym na wymienne druty na \u017cy\u0142ce.</p><p>Etui jest puste i gotowe do nape\u0142nienia wszystkimi wymiennymi cz\u0119\u015bciami. Je\u015bli lubisz robi\u0107 na wymiennych drutach na \u017cy\u0142ce, wiesz r\u00f3wnie\u017c, \u017ce zorganizowanie wszystkich akcesori\u00f3w zajmuje troch\u0119 czasu. \u017by\u0142ki, stopery, klucze, przed\u0142u\u017cki... Mamy jednak dla Ciebie rozwi\u0105zanie. Praktyczne etui, kt\u00f3re nie zajmuje zbyt wiele miejsca i jest lekkie \u2013 idealne, aby zabra\u0107 je ze sob\u0105 w podr\u00f3\u017c.</p><p>Pomie\u015bci 8 par drut\u00f3w, a w kieszeni zapinanej na zamek zmieszcz\u0105 si\u0119 \u017cy\u0142ki, stopery i inne akcesoria.</p><p>Wszystkie przysmaki s\u0105 bezpiecznie trzymane razem za pomoc\u0105 zapi\u0119cia na rzep.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420770234557,
+        "title": "Red",
+        "option1": "Red",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1208",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184318972093,
+          "product_id": 7855949119677,
+          "position": 5,
+          "created_at": "2024-08-05T11:07:12+02:00",
+          "updated_at": "2024-08-05T11:07:14+02:00",
+          "alt": "1712916740-flower-organizers-main-red-nef-700xautojpg",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1712916740-flower-organizers-main-red-nef-700xautojpg.jpg?v=1722848834",
+          "variant_ids": [
+            44420770234557
+          ]
+        },
+        "available": true,
+        "price": "59.50",
+        "grams": 51,
+        "compare_at_price": "119.00",
+        "position": 1,
+        "product_id": 7855949119677,
+        "created_at": "2024-08-05T10:26:13+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44420770267325,
+        "title": "Dark Blue",
+        "option1": "Dark Blue",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1209",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184319135933,
+          "product_id": 7855949119677,
+          "position": 6,
+          "created_at": "2024-08-05T11:07:13+02:00",
+          "updated_at": "2024-08-05T11:07:15+02:00",
+          "alt": "flower-organizers-main-blue-nef-700xautojpg",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/flower-organizers-main-blue-nef-700xautojpg.jpg?v=1722848835",
+          "variant_ids": [
+            44420770267325
+          ]
+        },
+        "available": true,
+        "price": "59.50",
+        "grams": 51,
+        "compare_at_price": "119.00",
+        "position": 2,
+        "product_id": 7855949119677,
+        "created_at": "2024-08-05T10:26:13+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184319037629,
+        "created_at": "2024-08-05T11:07:12+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:07:14+02:00",
+        "product_id": 7855949119677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/flowers-main-700xautojpg.jpg?v=1722848834",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184319103165,
+        "created_at": "2024-08-05T11:07:12+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:07:15+02:00",
+        "product_id": 7855949119677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/flower-organizer-styled-700xautojpg.jpg?v=1722848835",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184318939325,
+        "created_at": "2024-08-05T11:07:12+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:07:14+02:00",
+        "product_id": 7855949119677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/flower-organizers-styled-3-700xautojpg.jpg?v=1722848834",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184319070397,
+        "created_at": "2024-08-05T11:07:12+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:07:15+02:00",
+        "product_id": 7855949119677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/flower-organizers-styled-700xautojpg.jpg?v=1722848835",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184318972093,
+        "created_at": "2024-08-05T11:07:12+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:07:14+02:00",
+        "product_id": 7855949119677,
+        "variant_ids": [
+          44420770234557
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1712916740-flower-organizers-main-red-nef-700xautojpg.jpg?v=1722848834",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184319135933,
+        "created_at": "2024-08-05T11:07:13+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:07:15+02:00",
+        "product_id": 7855949119677,
+        "variant_ids": [
+          44420770267325
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/flower-organizers-main-blue-nef-700xautojpg.jpg?v=1722848835",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 71402240672122,
+        "created_at": "2024-10-21T13:31:39+02:00",
+        "position": 7,
+        "updated_at": "2024-10-21T13:31:41+02:00",
+        "product_id": 7855949119677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/eb2c883dc6d62e86f285a9f16896a709.jpg?v=1729510301",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Red",
+          "Dark Blue"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855998468285,
+    "title": "Mesh Organizer",
+    "handle": "hp-1007277-mesh-organiser",
+    "body_html": "<p>Mesh Organizer w kolorowe paski i z praktycznym zamkiem b\u0142yskawicznym u g\u00f3ry mo\u017ce by\u0107 u\u017cywany do wszystkiego. Idealnie nadaje si\u0119 do w\u0142\u00f3czkowych projekt\u00f3w, niezale\u017cnie od tego, czy jeste\u015b w podr\u00f3\u017cy, czy w domu. B\u0119dzie skuteczn\u0105 ochron\u0105 w\u0142\u00f3czki i wszystkich potrzebnych akcesori\u00f3w. Dzi\u0119ki przezroczystej konstrukcji masz szybki dost\u0119p do ca\u0142ej zawarto\u015bci. Kolorowy wz\u00f3r w paski dodaje \u0142adnego i \u017cywego wymiaru praktycznemu organizerowi.</p><p>Posiada tak\u017ce mniejsz\u0105, ale pojemn\u0105 kiesze\u0144 zapinan\u0105 na zamek.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421006262461,
+        "title": "Blue",
+        "option1": "Blue",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1214",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184933404861,
+          "product_id": 7855998468285,
+          "position": 1,
+          "created_at": "2024-08-05T11:47:39+02:00",
+          "updated_at": "2024-08-05T11:47:41+02:00",
+          "alt": "mesh-organisers-stripes-blue-main-nef-700xautojpg",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-blue-main-nef-700xautojpg.jpg?v=1722851261",
+          "variant_ids": [
+            44421006262461
+          ]
+        },
+        "available": true,
+        "price": "30.09",
+        "grams": 75,
+        "compare_at_price": "59.00",
+        "position": 1,
+        "product_id": 7855998468285,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44421006295229,
+        "title": "Pink",
+        "option1": "Pink",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1215",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184933503165,
+          "product_id": 7855998468285,
+          "position": 6,
+          "created_at": "2024-08-05T11:47:40+02:00",
+          "updated_at": "2024-08-05T11:47:42+02:00",
+          "alt": "mesh-organisers-stripes-pink-nef-700xautojpg",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-pink-nef-700xautojpg.jpg?v=1722851262",
+          "variant_ids": [
+            44421006295229
+          ]
+        },
+        "available": true,
+        "price": "30.09",
+        "grams": 75,
+        "compare_at_price": "59.00",
+        "position": 2,
+        "product_id": 7855998468285,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44421006327997,
+        "title": "Black",
+        "option1": "Black",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1216",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184933634237,
+          "product_id": 7855998468285,
+          "position": 7,
+          "created_at": "2024-08-05T11:47:40+02:00",
+          "updated_at": "2024-08-05T11:47:42+02:00",
+          "alt": "mesh-organisers-stripes-black-main-nef-700xautojpg",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-black-main-nef-700xautojpg.jpg?v=1722851262",
+          "variant_ids": [
+            44421006327997
+          ]
+        },
+        "available": true,
+        "price": "30.09",
+        "grams": 75,
+        "compare_at_price": "59.00",
+        "position": 3,
+        "product_id": 7855998468285,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184933404861,
+        "created_at": "2024-08-05T11:47:39+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:47:41+02:00",
+        "product_id": 7855998468285,
+        "variant_ids": [
+          44421006262461
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-blue-main-nef-700xautojpg.jpg?v=1722851261",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184933372093,
+        "created_at": "2024-08-05T11:47:39+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:47:41+02:00",
+        "product_id": 7855998468285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-blue-nef-700xautojpg.jpg?v=1722851261",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184933765309,
+        "created_at": "2024-08-05T11:47:40+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:47:42+02:00",
+        "product_id": 7855998468285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-blue-styled-nef-700xautojpg.jpg?v=1722851262",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184933437629,
+        "created_at": "2024-08-05T11:47:40+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:47:41+02:00",
+        "product_id": 7855998468285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organiser-styled-700xautojpg.jpg?v=1722851261",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184933568701,
+        "created_at": "2024-08-05T11:47:40+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:47:42+02:00",
+        "product_id": 7855998468285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-700xautojpg.jpg?v=1722851262",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184933503165,
+        "created_at": "2024-08-05T11:47:40+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:47:42+02:00",
+        "product_id": 7855998468285,
+        "variant_ids": [
+          44421006295229
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-pink-nef-700xautojpg.jpg?v=1722851262",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184933634237,
+        "created_at": "2024-08-05T11:47:40+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:47:42+02:00",
+        "product_id": 7855998468285,
+        "variant_ids": [
+          44421006327997
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mesh-organisers-stripes-black-main-nef-700xautojpg.jpg?v=1722851262",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 71415991206266,
+        "created_at": "2024-10-23T17:53:33+02:00",
+        "position": 8,
+        "updated_at": "2024-10-23T17:53:35+02:00",
+        "product_id": 7855998468285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6fa8d6a5b620377cbdcc7545c864421c.jpg?v=1729698815",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Blue",
+          "Pink",
+          "Black"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855931457725,
+    "title": "Etui do przechowywania z nadrukiem",
+    "handle": "hp-1007270-storage-case-with-print",
+    "body_html": "<p>Twoje r\u0119kodzie\u0142o powinno by\u0107 odpowiednio przechowywane \u2013 zadba o to nasze urocze etui! Znajdziesz tu miejsce zar\u00f3wno na szyde\u0142ka, druty pojedyncze, jak i druty na \u017cy\u0142ce. Jednocze\u015bnie znajdziesz miejsce na drobiazgi, takie jak stopery, markery, agrafki dziewiarskie, centymetr krawiecki i wszystko, bez czego nie mo\u017cesz si\u0119 obej\u015b\u0107.\n</p><p>Pomy\u015bleli\u015bmy nawet o najdrobniejszych szczeg\u00f3\u0142ach, aby osi\u0105gn\u0105\u0107 jak najlepsz\u0105 organizacj\u0119. W razie potrzeby mo\u017cna u\u017cy\u0107 wielu kieszeni o r\u00f3\u017cnych rozmiarach. S\u0105 kieszenie, kt\u00f3re pasuj\u0105 do szerokich drut\u00f3w, kieszenie na zestawy drut\u00f3w po\u0144czoszniczych oraz gumki, kt\u00f3re mog\u0105 utrzyma\u0107 szyde\u0142ka na miejscu. Zobacz zdj\u0119cia i zainspiruj si\u0119!</p><p>Etui jest cz\u0119\u015bci\u0105 wspania\u0142ej serii toreb, organizator\u00f3w oraz etui, z kt\u00f3rych wszystkie s\u0105 wyposa\u017cone w najs\u0142odsze nadruki. Tkanina ma przyjemn\u0105, mi\u0119kk\u0105 powierzchni\u0119.</p><p>Podsumowuj\u0105c, idealne po\u0142\u0105czenie praktyczno\u015bci i doskona\u0142ego wzornictwa dla najwa\u017cniejszych narz\u0119dzi dziewiarskich, gdy na przyk\u0142ad wybierasz si\u0119 w podr\u00f3\u017c - gotowe do spakowania do torby projektowej!</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420687855805,
+        "title": "Strawberry",
+        "option1": "Strawberry",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1204",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217299603645,
+          "product_id": 7855931457725,
+          "position": 1,
+          "created_at": "2024-08-13T15:06:20+02:00",
+          "updated_at": "2024-08-13T15:06:23+02:00",
+          "alt": "be2bfb18d5a2b0244b9bc929e8e6dff0bba95890-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be2bfb18d5a2b0244b9bc929e8e6dff0bba95890-1200x1200jpg.jpg?v=1723554383",
+          "variant_ids": [
+            44420687855805
+          ]
+        },
+        "available": false,
+        "price": "84.50",
+        "grams": 142,
+        "compare_at_price": "169.00",
+        "position": 1,
+        "product_id": 7855931457725,
+        "created_at": "2024-08-05T10:24:03+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44420687888573,
+        "title": "Lemon",
+        "option1": "Lemon",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1205",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217299669181,
+          "product_id": 7855931457725,
+          "position": 9,
+          "created_at": "2024-08-13T15:06:21+02:00",
+          "updated_at": "2024-08-13T15:06:23+02:00",
+          "alt": "9caa91f2b4518b4c698d53a96cfd9ef3f39ca4ea-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9caa91f2b4518b4c698d53a96cfd9ef3f39ca4ea-1200x1200jpg.jpg?v=1723554383",
+          "variant_ids": [
+            44420687888573
+          ]
+        },
+        "available": true,
+        "price": "84.50",
+        "grams": 142,
+        "compare_at_price": "169.00",
+        "position": 2,
+        "product_id": 7855931457725,
+        "created_at": "2024-08-05T10:24:03+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 51807051907450,
+        "title": "Dog",
+        "option1": "Dog",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1558",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "84.50",
+        "grams": 0,
+        "compare_at_price": "169.00",
+        "position": 3,
+        "product_id": 7855931457725,
+        "created_at": "2024-10-23T17:11:35+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 51807051940218,
+        "title": "Cat",
+        "option1": "Cat",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1559",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "84.50",
+        "grams": 0,
+        "compare_at_price": "169.00",
+        "position": 4,
+        "product_id": 7855931457725,
+        "created_at": "2024-10-23T17:11:35+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35217299603645,
+        "created_at": "2024-08-13T15:06:20+02:00",
+        "position": 1,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [
+          44420687855805
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be2bfb18d5a2b0244b9bc929e8e6dff0bba95890-1200x1200jpg.jpg?v=1723554383",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35217299898557,
+        "created_at": "2024-08-13T15:06:20+02:00",
+        "position": 2,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9edfb3c44c1e97369bc64aab0461804d108af6ca-3024x3024jpg.jpg?v=1723554383",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35217299800253,
+        "created_at": "2024-08-13T15:06:20+02:00",
+        "position": 3,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/964d072a107c4c81b5da6eb42af9457da733e156-3024x3024jpg.jpg?v=1723554383",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35217299833021,
+        "created_at": "2024-08-13T15:06:21+02:00",
+        "position": 4,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/488e5f88a1b70d204e281a8f20164576b63199b3-2970x2970jpg.jpg?v=1723554383",
+        "width": 2970,
+        "height": 2970
+      },
+      {
+        "id": 35217299767485,
+        "created_at": "2024-08-13T15:06:21+02:00",
+        "position": 5,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8301aa6f2905dc018ee23de5ff5d45cafdfb67d1-2890x2890jpg.jpg?v=1723554383",
+        "width": 2890,
+        "height": 2890
+      },
+      {
+        "id": 35217299865789,
+        "created_at": "2024-08-13T15:06:21+02:00",
+        "position": 6,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e4fd8fb7b04356dec417324a95c53240d888b14e-2843x2843jpg.jpg?v=1723554383",
+        "width": 2843,
+        "height": 2843
+      },
+      {
+        "id": 35217299734717,
+        "created_at": "2024-08-13T15:06:21+02:00",
+        "position": 7,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8d65a50719225fd998682a53471a6818ec80becf-1200x1200jpg.jpg?v=1723554383",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35217299636413,
+        "created_at": "2024-08-13T15:06:21+02:00",
+        "position": 8,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/671aa588c131f708b99fcb56a6d32f8e0d4477e8-1200x1200jpg.jpg?v=1723554383",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35217299669181,
+        "created_at": "2024-08-13T15:06:21+02:00",
+        "position": 9,
+        "updated_at": "2024-08-13T15:06:23+02:00",
+        "product_id": 7855931457725,
+        "variant_ids": [
+          44420687888573
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9caa91f2b4518b4c698d53a96cfd9ef3f39ca4ea-1200x1200jpg.jpg?v=1723554383",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Strawberry",
+          "Lemon",
+          "Dog",
+          "Cat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855955673277,
+    "title": "Pude\u0142ko na mulin\u0119",
+    "handle": "hp-1007119-embroidery-thread-storage-box",
+    "body_html": "<p>Pude\u0142ko do przechowywania nici hafciarskich to \u015bwietne rozwi\u0105zanie, je\u015bli masz du\u017c\u0105 kolekcj\u0119 i chcesz je uporz\u0105dkowa\u0107. Pude\u0142ko mo\u017cna podzieli\u0107 na 6 - 36 pomieszcze\u0144 za pomoc\u0105 do\u0142\u0105czonych 15 przegr\u00f3dek, co umo\u017cliwia podzielenie pude\u0142ka na wi\u0119ksze lub mniejsze pomieszczenia. W zestawie znajduje si\u0119 100 bobinek, na kt\u00f3re mo\u017cesz nawin\u0105\u0107 mulin\u0119.</p><p>Na ka\u017cd\u0105 bobink\u0119 mo\u017cesz nawin\u0105\u0107 jeden wi\u0105zek muliny o d\u0142ugo\u015bci 8 m. Do\u0142\u0105czony arkusz ma\u0142ych, okr\u0105g\u0142ych samoprzylepnych naklejek zapewnia porz\u0105dek w pude\u0142ku. Na przyk\u0142ad zapisz numery kolor\u00f3w nici na naklejkach i przyklej je na bobinki.</p><p>To czy chcesz wykorzysta\u0107 pude\u0142ko wy\u0142\u0105cznie na mulin\u0119, czy te\u017c chcesz przechowywa\u0107 inne drobne akcesoria, zale\u017cy od Ciebie. B\u0119dzie doskonale pasowa\u0107 do Twoich narz\u0119dzi do szycia, takich jak szpulki, guziki i ig\u0142y.</p><p>Pude\u0142ko zamykane jest na dwa zewn\u0119trzne klipsy, a przezroczyste tworzywo sztuczne, z kt\u00f3rego wykonane jest pude\u0142ko, u\u0142atwia dostrze\u017cenie zawarto\u015bci.</p><p>Pude\u0142ko do przechowywania Hobbii to praktyczne, trwa\u0142e i przyjazne dla u\u017cytkownik\u00f3w rozwi\u0105zanie do porz\u0105dkowania kolekcji mulin.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420792942781,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1185",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "41.65",
+        "grams": 350,
+        "compare_at_price": "85.00",
+        "position": 1,
+        "product_id": 7855955673277,
+        "created_at": "2024-08-05T10:26:53+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 72235113349498,
+        "created_at": "2024-11-21T14:32:25+01:00",
+        "position": 1,
+        "updated_at": "2024-11-21T14:32:28+01:00",
+        "product_id": 7855955673277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3aa3af347e03837127e758da90ca1f6a.jpg?v=1732195948",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 72235113447802,
+        "created_at": "2024-11-21T14:32:25+01:00",
+        "position": 2,
+        "updated_at": "2024-11-21T14:32:29+01:00",
+        "product_id": 7855955673277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0665a3408d18063425881ef3e222f6da.jpg?v=1732195949",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 72235113415034,
+        "created_at": "2024-11-21T14:32:25+01:00",
+        "position": 3,
+        "updated_at": "2024-11-21T14:32:29+01:00",
+        "product_id": 7855955673277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a9898d97f21f457776a066a3ee183729.jpg?v=1732195949",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 72235113480570,
+        "created_at": "2024-11-21T14:32:25+01:00",
+        "position": 4,
+        "updated_at": "2024-11-21T14:32:29+01:00",
+        "product_id": 7855955673277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/44e3a0d910f3ad78b80ea8eca8e24664.jpg?v=1732195949",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 72235113546106,
+        "created_at": "2024-11-21T14:32:25+01:00",
+        "position": 5,
+        "updated_at": "2024-11-21T14:32:29+01:00",
+        "product_id": 7855955673277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0349c6752a1aa811843c689b245cb3f3.jpg?v=1732195949",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855893610685,
+    "title": "Mesh Torba na rami\u0119",
+    "handle": "hp-1007273-mesh-shoulder-bag",
+    "body_html": "<p>Urocza torba na rami\u0119 o wygl\u0105dzie przezroczystej siateczki, kt\u00f3ra sprawia, \u017ce torba jest zar\u00f3wno sportowa, jak i modna. Idealnie pasuje do projekt\u00f3w, kt\u00f3re chcesz zabra\u0107 ze sob\u0105 w podr\u00f3\u017c, ale oczywi\u015bcie nadaje si\u0119 r\u00f3wnie\u017c do codziennego u\u017cytku lub gdy wychodzisz na zaj\u0119cia sportowe.\n</p><p>Szeroko\u015b\u0107 torby zapewnia, \u017ce masz du\u017co miejsca na wszystko, czego potrzebujesz. Na dole torby znajdziesz r\u00f3wnie\u017c ma\u0142y organizer, kt\u00f3ry pomie\u015bci wszystkie drobiazgi. Ma wymiary 23 x 18 cm i mo\u017cna go przypi\u0105\u0107 i odpi\u0105\u0107, w zale\u017cno\u015bci od potrzeb. Z przodu torby znajdziesz r\u00f3wnie\u017c kiesze\u0144 zapinan\u0105 na zamek.</p><p>Opr\u00f3cz dw\u00f3ch uchwyt\u00f3w torba zawiera r\u00f3wnie\u017c d\u0142u\u017cszy, regulowany i odpinany pasek na rami\u0119. Niezale\u017cnie od tego, czy u\u017cywasz jednego, czy drugiego, torba jest idealna do przewieszenia przez rami\u0119.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420523786429,
+        "title": "Green",
+        "option1": "Green",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1210",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71423967199610,
+          "product_id": 7855893610685,
+          "position": 10,
+          "created_at": "2024-10-24T14:06:49+02:00",
+          "updated_at": "2024-10-24T14:06:51+02:00",
+          "alt": "580dd9972bed2479f97054f465733302",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/580dd9972bed2479f97054f465733302.jpg?v=1729771611",
+          "variant_ids": [
+            44420523786429
+          ]
+        },
+        "available": true,
+        "price": "99.50",
+        "grams": 282,
+        "compare_at_price": "199.00",
+        "position": 1,
+        "product_id": 7855893610685,
+        "created_at": "2024-08-05T10:16:53+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      },
+      {
+        "id": 44420523819197,
+        "title": "Pink",
+        "option1": "Pink",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1211",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71423967265146,
+          "product_id": 7855893610685,
+          "position": 11,
+          "created_at": "2024-10-24T14:06:49+02:00",
+          "updated_at": "2024-10-24T14:06:51+02:00",
+          "alt": "91487299f95f856a788abf09bf626e89",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/91487299f95f856a788abf09bf626e89.jpg?v=1729771611",
+          "variant_ids": [
+            44420523819197
+          ]
+        },
+        "available": true,
+        "price": "99.50",
+        "grams": 282,
+        "compare_at_price": "199.00",
+        "position": 2,
+        "product_id": 7855893610685,
+        "created_at": "2024-08-05T10:16:53+02:00",
+        "updated_at": "2024-11-22T22:58:37+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 71423967134074,
+        "created_at": "2024-10-24T14:06:48+02:00",
+        "position": 1,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5c993762eca6555b4e1a19d6c8a79291.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967527290,
+        "created_at": "2024-10-24T14:06:48+02:00",
+        "position": 2,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3b756a2ef7abaf668570c7dc22419e28.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967428986,
+        "created_at": "2024-10-24T14:06:48+02:00",
+        "position": 3,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9b1615c13700f8c66bc33acf8b99b88d.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967330682,
+        "created_at": "2024-10-24T14:06:48+02:00",
+        "position": 4,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ca4fae609d2e1b84eba9e9e8845cbeee.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967232378,
+        "created_at": "2024-10-24T14:06:48+02:00",
+        "position": 5,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/37a5fe8beb7938b944f023d7afd59b51.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967396218,
+        "created_at": "2024-10-24T14:06:48+02:00",
+        "position": 6,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cb2ac4b053e2d6da15bbbbf604d8999c.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967461754,
+        "created_at": "2024-10-24T14:06:49+02:00",
+        "position": 7,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8c54754a67172d39c7f21707cdbe02f2.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967166842,
+        "created_at": "2024-10-24T14:06:49+02:00",
+        "position": 8,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cbabe92b658c24120ad59453d68f87a7.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967494522,
+        "created_at": "2024-10-24T14:06:49+02:00",
+        "position": 9,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/67c6aa2ceae2884d05f720c3f2b11357.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967199610,
+        "created_at": "2024-10-24T14:06:49+02:00",
+        "position": 10,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [
+          44420523786429
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/580dd9972bed2479f97054f465733302.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71423967265146,
+        "created_at": "2024-10-24T14:06:49+02:00",
+        "position": 11,
+        "updated_at": "2024-10-24T14:06:51+02:00",
+        "product_id": 7855893610685,
+        "variant_ids": [
+          44420523819197
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/91487299f95f856a788abf09bf626e89.jpg?v=1729771611",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Green",
+          "Pink"
+        ]
+      }
+    ]
+  }
+]

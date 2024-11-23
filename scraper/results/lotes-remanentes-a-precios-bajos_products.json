@@ -1,0 +1,2212 @@
+[
+  {
+    "id": 7854162968765,
+    "title": "Milky Way",
+    "handle": "hp-1006483-milky-way",
+    "body_html": "<p><strong>Milky Way</strong> przeniesie Twoje projekty na nowy poziom dzi\u0119ki niebia\u0144skiej, wyprodukowanej we W\u0142oszech mieszance 53% we\u0142ny i 47% akrylu. Ciep\u0142o, mi\u0119kko\u015b\u0107 i komfort to tylko kilka cech, kt\u00f3re idealnie pasuj\u0105 do <strong>Milky Way</strong>.</p><p>W\u0142\u00f3czka ta ma nieziemsk\u0105 struktur\u0119 i wymiar dzi\u0119ki swojej grze kolor\u00f3w. G\u0142\u00f3wny kolor dzia\u0142a jako baza, a nast\u0119pnie dodawane s\u0105 trzy kolejne odcienie, kt\u00f3re spiralnie otaczaj\u0105 g\u0142\u00f3wny, tworz\u0105c fascynuj\u0105cy efekt pask\u00f3w. Paleta jest g\u0142\u00f3wnie pudrowa i delikatna, z dodatkiem kilku odwa\u017cniejszych i ciemniejszych kolor\u00f3w.</p><p>Du\u017ca grubo\u015b\u0107 <strong>Milky Way</strong> pozwala na szybkie tworzenie projekt\u00f3w, dzi\u0119ki czemu jest idealna zar\u00f3wno dla pocz\u0105tkuj\u0105cych, jak i do\u015bwiadczonych tw\u00f3rc\u00f3w. Ju\u017c widzimy te grube koce i poszewki na poduszki, stylowe swetry i kamizelki, ciep\u0142e czapki i szaliki.</p><p>Rozpocznij swoj\u0105 now\u0105 kosmiczn\u0105 przygod\u0119 z <strong>Milky Way</strong>.</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2476-419). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p><p>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44414012588221,
+        "title": "Uranus (01)",
+        "option1": "Uranus (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170967126205,
+          "product_id": 7854162968765,
+          "position": 14,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0003-01jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0003-01jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012588221
+          ]
+        },
+        "available": false,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 1,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44414012620989,
+        "title": "Jupiter (02)",
+        "option1": "Jupiter (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27002",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170966896829,
+          "product_id": 7854162968765,
+          "position": 15,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0008-02jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0008-02jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012620989
+          ]
+        },
+        "available": true,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 2,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44414012653757,
+        "title": "Venus (03)",
+        "option1": "Venus (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27003",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170967060669,
+          "product_id": 7854162968765,
+          "position": 16,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0004-03jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0004-03jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012653757
+          ]
+        },
+        "available": false,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 3,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44414012686525,
+        "title": "Mars (04)",
+        "option1": "Mars (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27004",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170967355581,
+          "product_id": 7854162968765,
+          "position": 17,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0009-04jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0009-04jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012686525
+          ]
+        },
+        "available": true,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 4,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44414012719293,
+        "title": "Saturn (05)",
+        "option1": "Saturn (05)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27005",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170967158973,
+          "product_id": 7854162968765,
+          "position": 18,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0001-05jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0001-05jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012719293
+          ]
+        },
+        "available": true,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 5,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44414012752061,
+        "title": "Earth (06)",
+        "option1": "Earth (06)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27006",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170966995133,
+          "product_id": 7854162968765,
+          "position": 19,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0005-06-2jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0005-06-2jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012752061
+          ]
+        },
+        "available": true,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 6,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44414012784829,
+        "title": "Neptune (07)",
+        "option1": "Neptune (07)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27007",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170966929597,
+          "product_id": 7854162968765,
+          "position": 20,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0007-07jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0007-07jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012784829
+          ]
+        },
+        "available": true,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 7,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44414012817597,
+        "title": "Nebula (08)",
+        "option1": "Nebula (08)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27008",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170967388349,
+          "product_id": 7854162968765,
+          "position": 21,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0006-08jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0006-08jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012817597
+          ]
+        },
+        "available": false,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 8,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44414012850365,
+        "title": "Black Hole (09)",
+        "option1": "Black Hole (09)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-27009",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35170967290045,
+          "product_id": 7854162968765,
+          "position": 22,
+          "created_at": "2024-08-01T11:32:49+02:00",
+          "updated_at": "2024-08-01T11:32:51+02:00",
+          "alt": "milky-way-0002-09jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0002-09jpg.jpg?v=1722504771",
+          "variant_ids": [
+            44414012850365
+          ]
+        },
+        "available": false,
+        "price": "36.00",
+        "grams": 102,
+        "compare_at_price": "72.00",
+        "position": 9,
+        "product_id": 7854162968765,
+        "created_at": "2024-08-01T11:25:56+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35170966798525,
+        "created_at": "2024-08-01T11:32:48+02:00",
+        "position": 1,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-collagepng.png?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967257277,
+        "created_at": "2024-08-01T11:32:48+02:00",
+        "position": 2,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milkyway-1-1-picture-katrina-home-1jpg.jpg?v=1722504771",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35170967224509,
+        "created_at": "2024-08-01T11:32:48+02:00",
+        "position": 3,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milkyway-1-1-picture-katrina-personpattern-1jpg.jpg?v=1722504771",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35170966864061,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 4,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-01jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170966765757,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 5,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-02jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967191741,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 6,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-03jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170966962365,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 7,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-04jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967421117,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 8,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-05jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170966732989,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 9,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-06jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967093437,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 10,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-07jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967453885,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 11,
+        "updated_at": "2024-08-01T11:32:52+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-08jpg.jpg?v=1722504772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967027901,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 12,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-swatch-09jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967322813,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 13,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milkyway-1-1-picture-katrina-swatches-1jpg.jpg?v=1722504771",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35170967126205,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 14,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012588221
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0003-01jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170966896829,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 15,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012620989
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0008-02jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967060669,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 16,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012653757
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0004-03jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967355581,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 17,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012686525
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0009-04jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967158973,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 18,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012719293
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0001-05jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170966995133,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 19,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012752061
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0005-06-2jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170966929597,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 20,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012784829
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0007-07jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967388349,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 21,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012817597
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0006-08jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35170967290045,
+        "created_at": "2024-08-01T11:32:49+02:00",
+        "position": 22,
+        "updated_at": "2024-08-01T11:32:51+02:00",
+        "product_id": 7854162968765,
+        "variant_ids": [
+          44414012850365
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/milky-way-0002-09jpg.jpg?v=1722504771",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Uranus (01)",
+          "Jupiter (02)",
+          "Venus (03)",
+          "Mars (04)",
+          "Saturn (05)",
+          "Earth (06)",
+          "Neptune (07)",
+          "Nebula (08)",
+          "Black Hole (09)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855993520317,
+    "title": "Bingo",
+    "handle": "hp-1005964-bingo-acrylic",
+    "body_html": "<p>Czy tak jak my uwielbiasz gra\u0107 w bingo? W takim razie naprawd\u0119 nie mo\u017cesz przegapi\u0107 naszej w\u0142\u00f3czki <strong>Bingo</strong>.</p><p><strong>Bingo </strong>to w 100% akrylowa w\u0142\u00f3czka, kt\u00f3r\u0105 mo\u017cna przerabia\u0107 na drutach 3,5 mm. \u0141atwo o ni\u0105 dba\u0107, poniewa\u017c mo\u017cna j\u0105 pra\u0107 w pralce w temperaturze 40\u00b0C.</p><p>Paleta jest zabawna, zr\u00f3\u017cnicowana i wszechstronna. Jeste\u015b w stanie stworzy\u0107 swetry, pulowery, kamizelki, akcesoria zar\u00f3wno dla doros\u0142ych, jak i dla dzieci, a tak\u017ce pi\u0119kne produkty do wystroju wn\u0119trz.</p><p><strong>Bingo</strong> to doskona\u0142y spos\u00f3b na zabaw\u0119 z w\u0142\u00f3czk\u0105.</p><p><em>Nasza w\u0142\u00f3czka <strong>Bingo </strong>wyst\u0119puje r\u00f3wnie\u017c w grubszej wersji, sprawd\u017a Bingo XL <a href=\"https://hobbii.pl/bingo-acrylic-xl\">tutaj</a>.</em>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420983619773,
+        "title": "Kelly's Eye (01)",
+        "option1": "Kelly's Eye (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24901",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882319549,
+          "product_id": 7855993520317,
+          "position": 3,
+          "created_at": "2024-08-05T11:42:58+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "8-53-1001jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1001jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983619773
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 1,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983652541,
+        "title": "One Little Duck (02)",
+        "option1": "One Little Duck (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24902",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882188477,
+          "product_id": 7855993520317,
+          "position": 4,
+          "created_at": "2024-08-05T11:42:58+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "8-53-1002jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1002jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983652541
+          ]
+        },
+        "available": true,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 2,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983685309,
+        "title": "Cup of Tea (03)",
+        "option1": "Cup of Tea (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24903",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881729725,
+          "product_id": 7855993520317,
+          "position": 5,
+          "created_at": "2024-08-05T11:42:58+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "8-53-1023jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1023jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983685309
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 3,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983718077,
+        "title": "Just woolin\u2019 around (04)",
+        "option1": "Just woolin\u2019 around (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24904",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882385085,
+          "product_id": 7855993520317,
+          "position": 6,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968706-8-53-1007jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968706-8-53-1007jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983718077
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 4,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983750845,
+        "title": "Man Alive (05)",
+        "option1": "Man Alive (05)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24905",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881631421,
+          "product_id": 7855993520317,
+          "position": 7,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "8-53-1005jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1005jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983750845
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 5,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983783613,
+        "title": "Gorgeous Gea (06)",
+        "option1": "Gorgeous Gea (06)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24906",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881762493,
+          "product_id": 7855993520317,
+          "position": 8,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968722-8-53-1016jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968722-8-53-1016jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983783613
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 6,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983816381,
+        "title": "So Squishy (07)",
+        "option1": "So Squishy (07)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24907",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882254013,
+          "product_id": 7855993520317,
+          "position": 9,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "8-53-1032jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1032jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983816381
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 7,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983849149,
+        "title": "Rasmus Pun-Tastic (08)",
+        "option1": "Rasmus Pun-Tastic (08)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24908",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881696957,
+          "product_id": 7855993520317,
+          "position": 10,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968750-8-53-1018jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968750-8-53-1018jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983849149
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 8,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983881917,
+        "title": "Doctor's Orders (09)",
+        "option1": "Doctor's Orders (09)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24909",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881565885,
+          "product_id": 7855993520317,
+          "position": 11,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "8-53-1014-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1014-1jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983881917
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 9,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983914685,
+        "title": "Mysterious Matt (10)",
+        "option1": "Mysterious Matt (10)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24910",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881828029,
+          "product_id": 7855993520317,
+          "position": 12,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968780-8-53-1013jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968780-8-53-1013jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983914685
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 10,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983947453,
+        "title": "All-round Annika (11)",
+        "option1": "All-round Annika (11)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24911",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882155709,
+          "product_id": 7855993520317,
+          "position": 13,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968794-8-53-1004jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968794-8-53-1004jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420983947453
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 11,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420983980221,
+        "title": "Joyful Julia (12)",
+        "option1": "Joyful Julia (12)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24912",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 12,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984012989,
+        "title": "Hobbii Bingo Lover (13)",
+        "option1": "Hobbii Bingo Lover (13)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24913",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882286781,
+          "product_id": 7855993520317,
+          "position": 14,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968878-8-53-1011jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968878-8-53-1011jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984012989
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 13,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984045757,
+        "title": "Let\u2019s have a ball! (14)",
+        "option1": "Let\u2019s have a ball! (14)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24914",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881533117,
+          "product_id": 7855993520317,
+          "position": 15,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968887-8-53-1012jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968887-8-53-1012jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984045757
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 14,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984078525,
+        "title": "Young and keen (15)",
+        "option1": "Young and keen (15)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24915",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882352317,
+          "product_id": 7855993520317,
+          "position": 16,
+          "created_at": "2024-08-05T11:42:59+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968900-8-53-1003jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968900-8-53-1003jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984078525
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 15,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984111293,
+        "title": "Tiptop Tobias (16)",
+        "option1": "Tiptop Tobias (16)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24916",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881795261,
+          "product_id": 7855993520317,
+          "position": 17,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968913-8-53-1019jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968913-8-53-1019jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984111293
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 16,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984144061,
+        "title": "Amazing Armando (17)",
+        "option1": "Amazing Armando (17)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24917",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882024637,
+          "product_id": 7855993520317,
+          "position": 18,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "8-53-1026jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1026jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984144061
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 17,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984176829,
+        "title": "Coming of age (18)",
+        "option1": "Coming of age (18)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24918",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882221245,
+          "product_id": 7855993520317,
+          "position": 19,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968954-8-53-1020jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968954-8-53-1020jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984176829
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 18,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984209597,
+        "title": "Goodbye teens (19)",
+        "option1": "Goodbye teens (19)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24919",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882122941,
+          "product_id": 7855993520317,
+          "position": 20,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968963-8-53-1010jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968963-8-53-1010jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984209597
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 19,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984242365,
+        "title": "Feelin' lucky (20)",
+        "option1": "Feelin' lucky (20)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24920",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881860797,
+          "product_id": 7855993520317,
+          "position": 21,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676968979-8-53-1021jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968979-8-53-1021jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984242365
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 20,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984275133,
+        "title": "Moneth the Cheerful (21)",
+        "option1": "Moneth the Cheerful (21)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24921",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881664189,
+          "product_id": 7855993520317,
+          "position": 22,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676969046-8-53-1022jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969046-8-53-1022jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984275133
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 21,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984307901,
+        "title": "Two little ducks (22)",
+        "option1": "Two little ducks (22)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24922",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881893565,
+          "product_id": 7855993520317,
+          "position": 23,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676969058-8-53-1025jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969058-8-53-1025jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984307901
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 22,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984340669,
+        "title": "Thee and me (23)",
+        "option1": "Thee and me (23)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24923",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881926333,
+          "product_id": 7855993520317,
+          "position": 24,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676969072-8-53-1006jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969072-8-53-1006jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984340669
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 23,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984373437,
+        "title": "Theo Talisman (24)",
+        "option1": "Theo Talisman (24)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24924",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882090173,
+          "product_id": 7855993520317,
+          "position": 25,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676969083-8-53-1015jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969083-8-53-1015jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984373437
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 24,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984406205,
+        "title": "Duck and dive (25)",
+        "option1": "Duck and dive (25)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24925",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882417853,
+          "product_id": 7855993520317,
+          "position": 26,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676969091-8-53-1009jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969091-8-53-1009jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984406205
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 25,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984438973,
+        "title": "CongaRATS (26)",
+        "option1": "CongaRATS (26)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24926",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184881959101,
+          "product_id": 7855993520317,
+          "position": 27,
+          "created_at": "2024-08-05T11:43:00+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1677577966-12jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1677577966-12jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984438973
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 26,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984471741,
+        "title": "Gateway to heaven (27)",
+        "option1": "Gateway to heaven (27)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24927",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882516157,
+          "product_id": 7855993520317,
+          "position": 28,
+          "created_at": "2024-08-05T11:43:01+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676969138-8-53-1017jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969138-8-53-1017jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984471741
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 27,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420984504509,
+        "title": "Vitamin B (28)",
+        "option1": "Vitamin B (28)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-24928",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184882483389,
+          "product_id": 7855993520317,
+          "position": 29,
+          "created_at": "2024-08-05T11:43:01+02:00",
+          "updated_at": "2024-08-05T11:43:03+02:00",
+          "alt": "1676969146-8-53-1008jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969146-8-53-1008jpg.jpg?v=1722850983",
+          "variant_ids": [
+            44420984504509
+          ]
+        },
+        "available": false,
+        "price": "17.16",
+        "grams": 103,
+        "compare_at_price": "33.00",
+        "position": 28,
+        "product_id": 7855993520317,
+        "created_at": "2024-08-05T10:31:36+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184882450621,
+        "created_at": "2024-08-05T11:42:58+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bingo-frontjpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882057405,
+        "created_at": "2024-08-05T11:42:58+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bingo-1-1-picture-katrina-homejpg.jpg?v=1722850983",
+        "width": 2926,
+        "height": 2926
+      },
+      {
+        "id": 35184882319549,
+        "created_at": "2024-08-05T11:42:58+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983619773
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1001jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882188477,
+        "created_at": "2024-08-05T11:42:58+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983652541
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1002jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881729725,
+        "created_at": "2024-08-05T11:42:58+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983685309
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1023jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882385085,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983718077
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968706-8-53-1007jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881631421,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983750845
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1005jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881762493,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983783613
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968722-8-53-1016jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882254013,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983816381
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1032jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881696957,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983849149
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968750-8-53-1018jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881565885,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983881917
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1014-1jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881828029,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 12,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983914685
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968780-8-53-1013jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882155709,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 13,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420983947453
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968794-8-53-1004jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882286781,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 14,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984012989
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968878-8-53-1011jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881533117,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 15,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984045757
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968887-8-53-1012jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882352317,
+        "created_at": "2024-08-05T11:42:59+02:00",
+        "position": 16,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984078525
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968900-8-53-1003jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881795261,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 17,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984111293
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968913-8-53-1019jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882024637,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 18,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984144061
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-53-1026jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882221245,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 19,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984176829
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968954-8-53-1020jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882122941,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 20,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984209597
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968963-8-53-1010jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881860797,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 21,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984242365
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676968979-8-53-1021jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881664189,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 22,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984275133
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969046-8-53-1022jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881893565,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 23,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984307901
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969058-8-53-1025jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881926333,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 24,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984340669
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969072-8-53-1006jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882090173,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 25,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984373437
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969083-8-53-1015jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882417853,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 26,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984406205
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969091-8-53-1009jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184881959101,
+        "created_at": "2024-08-05T11:43:00+02:00",
+        "position": 27,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984438973
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1677577966-12jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882516157,
+        "created_at": "2024-08-05T11:43:01+02:00",
+        "position": 28,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984471741
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969138-8-53-1017jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184882483389,
+        "created_at": "2024-08-05T11:43:01+02:00",
+        "position": 29,
+        "updated_at": "2024-08-05T11:43:03+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [
+          44420984504509
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1676969146-8-53-1008jpg.jpg?v=1722850983",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415956996474,
+        "created_at": "2024-10-23T17:50:19+02:00",
+        "position": 30,
+        "updated_at": "2024-10-23T17:50:20+02:00",
+        "product_id": 7855993520317,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9cdd6d3d469038b45697449138f118e0.jpg?v=1729698620",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Kelly's Eye (01)",
+          "One Little Duck (02)",
+          "Cup of Tea (03)",
+          "Just woolin\u2019 around (04)",
+          "Man Alive (05)",
+          "Gorgeous Gea (06)",
+          "So Squishy (07)",
+          "Rasmus Pun-Tastic (08)",
+          "Doctor's Orders (09)",
+          "Mysterious Matt (10)",
+          "All-round Annika (11)",
+          "Joyful Julia (12)",
+          "Hobbii Bingo Lover (13)",
+          "Let\u2019s have a ball! (14)",
+          "Young and keen (15)",
+          "Tiptop Tobias (16)",
+          "Amazing Armando (17)",
+          "Coming of age (18)",
+          "Goodbye teens (19)",
+          "Feelin' lucky (20)",
+          "Moneth the Cheerful (21)",
+          "Two little ducks (22)",
+          "Thee and me (23)",
+          "Theo Talisman (24)",
+          "Duck and dive (25)",
+          "CongaRATS (26)",
+          "Gateway to heaven (27)",
+          "Vitamin B (28)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855962947773,
+    "title": "Malaga Color Pack",
+    "handle": "hp-1003319-malaga-color-bags",
+    "body_html": "<p>Od teraz mo\u017cesz kupi\u0107 ulubion\u0105 w\u0142\u00f3czk\u0119 akrylow\u0105 w pi\u0119knych zestawach kolorystycznych. <strong>Malaga </strong>szybko podbi\u0142a serca naszych cudownym klient\u00f3w, to naprawd\u0119 rewelacyjna prz\u0119dza dobrej jako\u015bci.</p><p>Dostawca tak po\u0142\u0105czy\u0142 kolory w zestawy:</p><p><strong>Malaga Color Pack 1:</strong> 1, 5, 7, 9, 10\n</p><p><strong>Malaga Color Pack 3: </strong>2, 31, 32, 33, 34</p><p><strong>Malaga Color Pack 4: </strong>2, 36, 37, 38, 39</p><p><strong>Malaga Color Pack 5: </strong>18, 23, 24, 35, 36</p><p><strong>Malaga Color Pack 6: </strong>13, 20, 25, 28, 39</p><p>Rewelacyjna i mi\u0119kka w\u0142\u00f3czka akrylowa spleciona z 4 nitek w motku typu pull skein. Oznacza to, \u017ce prz\u0119dz\u0119 wyci\u0105ga si\u0119 ze \u015brodka. Wiele os\u00f3b cieszy si\u0119, \u017ce motek nie turla si\u0119 po pod\u0142odze wpadaj\u0105c za kanap\u0119 podczas pracy. Albo \u017ce si\u0119 nie rozwija w torebce!</p><p><strong>Malaga</strong> wyst\u0119puje w du\u017cej ilo\u015bci kolor\u00f3w, a dobry akryl nadaje jej uroku i lekko\u015bci. Jest to wspania\u0142a i ciep\u0142a alternatywa dla os\u00f3b nietoleruj\u0105cych we\u0142ny. W\u0142\u00f3czka jest \u0142atwa w dzierganiu, problem\u00f3w nie sprawia te\u017c jej p\u00f3\u017aniejsze u\u017cytkowanie, mo\u017ce by\u0107 prana w pralce.\n</p><p>W\u0142\u00f3czka jest wszechstronna i nadaje si\u0119 do ogromnej liczby projekt\u00f3w, od odzie\u017cy i akcesori\u00f3w, do dodatk\u00f3w wn\u0119trzarskich, takich jak koce, poduszki itp.</p><p><strong>Malaga</strong> to akryl premium, czyli uprz\u0119dziony z najwy\u017csz\u0105 staranno\u015bci\u0105. Produkcja tej w\u0142\u00f3czki bardzo przypomina spos\u00f3b obr\u00f3bki we\u0142ny, bo jest wieloetapowa. Akryl si\u0119 mi\u0119dzy innymi czesze, dzi\u0119ki czemu zyskuje na puszysto\u015bci i niezwyk\u0142ej mi\u0119kko\u015bci. Malag\u0119 poddano ponadto procesowi Hi-Bulk, podczas kt\u00f3rego na w\u0142\u00f3czk\u0119 oddzia\u0142uje para i prz\u0119dza troch\u0119 si\u0119 zbija razem. Otrzymany produkt jest bardziej przyjemny i mi\u0142y w dotyku.</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2076-311). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420819058877,
+        "title": "Malaga Color Bag 01",
+        "option1": "Malaga Color Bag 01",
+        "option2": null,
+        "option3": null,
+        "sku": "9001942901",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184484778173,
+          "product_id": 7855962947773,
+          "position": 2,
+          "created_at": "2024-08-05T11:16:09+02:00",
+          "updated_at": "2024-08-05T11:16:11+02:00",
+          "alt": "2434589d51c4e5e05022a8529b537d3698775428-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2434589d51c4e5e05022a8529b537d3698775428-1200x1200jpg.jpg?v=1722849371",
+          "variant_ids": [
+            44420819058877
+          ]
+        },
+        "available": true,
+        "price": "91.74",
+        "grams": 516,
+        "compare_at_price": "139.00",
+        "position": 1,
+        "product_id": 7855962947773,
+        "created_at": "2024-08-05T10:27:44+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420819091645,
+        "title": "Malaga Color Bag 02",
+        "option1": "Malaga Color Bag 02",
+        "option2": null,
+        "option3": null,
+        "sku": "9001942902",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184484909245,
+          "product_id": 7855962947773,
+          "position": 3,
+          "created_at": "2024-08-05T11:16:09+02:00",
+          "updated_at": "2024-08-05T11:16:11+02:00",
+          "alt": "550fdcbb1c6c0253a1319636d788944e5265d15a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/550fdcbb1c6c0253a1319636d788944e5265d15a-1200x1200jpg.jpg?v=1722849371",
+          "variant_ids": [
+            44420819091645
+          ]
+        },
+        "available": false,
+        "price": "91.74",
+        "grams": 516,
+        "compare_at_price": "139.00",
+        "position": 2,
+        "product_id": 7855962947773,
+        "created_at": "2024-08-05T10:27:44+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420819124413,
+        "title": "Malaga Color Bag 03",
+        "option1": "Malaga Color Bag 03",
+        "option2": null,
+        "option3": null,
+        "sku": "9001942903",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184484745405,
+          "product_id": 7855962947773,
+          "position": 4,
+          "created_at": "2024-08-05T11:16:09+02:00",
+          "updated_at": "2024-08-05T11:16:11+02:00",
+          "alt": "f47da2148d925cef61b8bd68cc2edb0843df1df3-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f47da2148d925cef61b8bd68cc2edb0843df1df3-1200x1200jpg.jpg?v=1722849371",
+          "variant_ids": [
+            44420819124413
+          ]
+        },
+        "available": false,
+        "price": "91.74",
+        "grams": 516,
+        "compare_at_price": "139.00",
+        "position": 3,
+        "product_id": 7855962947773,
+        "created_at": "2024-08-05T10:27:44+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420819157181,
+        "title": "Malaga Color Bag 04",
+        "option1": "Malaga Color Bag 04",
+        "option2": null,
+        "option3": null,
+        "sku": "9001942904",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184484810941,
+          "product_id": 7855962947773,
+          "position": 5,
+          "created_at": "2024-08-05T11:16:09+02:00",
+          "updated_at": "2024-08-05T11:16:11+02:00",
+          "alt": "103dcf20a76b17603a661a7bbb77325d6bea1b10-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/103dcf20a76b17603a661a7bbb77325d6bea1b10-1200x1200jpg.jpg?v=1722849371",
+          "variant_ids": [
+            44420819157181
+          ]
+        },
+        "available": false,
+        "price": "91.74",
+        "grams": 516,
+        "compare_at_price": "139.00",
+        "position": 4,
+        "product_id": 7855962947773,
+        "created_at": "2024-08-05T10:27:44+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420819189949,
+        "title": "Malaga Color Bag 05",
+        "option1": "Malaga Color Bag 05",
+        "option2": null,
+        "option3": null,
+        "sku": "9001942905",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184485269693,
+          "product_id": 7855962947773,
+          "position": 6,
+          "created_at": "2024-08-05T11:16:09+02:00",
+          "updated_at": "2024-08-05T11:16:11+02:00",
+          "alt": "29847f1096ea8aa7f456e3550c0c19d1c5b3a164-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/29847f1096ea8aa7f456e3550c0c19d1c5b3a164-1200x1200jpg.jpg?v=1722849371",
+          "variant_ids": [
+            44420819189949
+          ]
+        },
+        "available": false,
+        "price": "91.74",
+        "grams": 516,
+        "compare_at_price": "139.00",
+        "position": 5,
+        "product_id": 7855962947773,
+        "created_at": "2024-08-05T10:27:44+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      },
+      {
+        "id": 44420819222717,
+        "title": "Malaga Color Bag 06",
+        "option1": "Malaga Color Bag 06",
+        "option2": null,
+        "option3": null,
+        "sku": "9001942906",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184484942013,
+          "product_id": 7855962947773,
+          "position": 7,
+          "created_at": "2024-08-05T11:16:09+02:00",
+          "updated_at": "2024-08-05T11:16:11+02:00",
+          "alt": "c13c52ed8f20d65c28927612951530e59a6c8f23-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c13c52ed8f20d65c28927612951530e59a6c8f23-1200x1200jpg.jpg?v=1722849371",
+          "variant_ids": [
+            44420819222717
+          ]
+        },
+        "available": false,
+        "price": "91.74",
+        "grams": 516,
+        "compare_at_price": "139.00",
+        "position": 6,
+        "product_id": 7855962947773,
+        "created_at": "2024-08-05T10:27:44+02:00",
+        "updated_at": "2024-11-22T22:58:55+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184484843709,
+        "created_at": "2024-08-05T11:16:08+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:16:11+02:00",
+        "product_id": 7855962947773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c3a99f6ec347cd0de17c3897e2c337d03d476ec3-1080x1080jpg.jpg?v=1722849371",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35184484778173,
+        "created_at": "2024-08-05T11:16:09+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:16:11+02:00",
+        "product_id": 7855962947773,
+        "variant_ids": [
+          44420819058877
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2434589d51c4e5e05022a8529b537d3698775428-1200x1200jpg.jpg?v=1722849371",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184484909245,
+        "created_at": "2024-08-05T11:16:09+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:16:11+02:00",
+        "product_id": 7855962947773,
+        "variant_ids": [
+          44420819091645
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/550fdcbb1c6c0253a1319636d788944e5265d15a-1200x1200jpg.jpg?v=1722849371",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184484745405,
+        "created_at": "2024-08-05T11:16:09+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:16:11+02:00",
+        "product_id": 7855962947773,
+        "variant_ids": [
+          44420819124413
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f47da2148d925cef61b8bd68cc2edb0843df1df3-1200x1200jpg.jpg?v=1722849371",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184484810941,
+        "created_at": "2024-08-05T11:16:09+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:16:11+02:00",
+        "product_id": 7855962947773,
+        "variant_ids": [
+          44420819157181
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/103dcf20a76b17603a661a7bbb77325d6bea1b10-1200x1200jpg.jpg?v=1722849371",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184485269693,
+        "created_at": "2024-08-05T11:16:09+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:16:11+02:00",
+        "product_id": 7855962947773,
+        "variant_ids": [
+          44420819189949
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/29847f1096ea8aa7f456e3550c0c19d1c5b3a164-1200x1200jpg.jpg?v=1722849371",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184484942013,
+        "created_at": "2024-08-05T11:16:09+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:16:11+02:00",
+        "product_id": 7855962947773,
+        "variant_ids": [
+          44420819222717
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c13c52ed8f20d65c28927612951530e59a6c8f23-1200x1200jpg.jpg?v=1722849371",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415880024442,
+        "created_at": "2024-10-23T17:42:42+02:00",
+        "position": 8,
+        "updated_at": "2024-10-23T17:42:44+02:00",
+        "product_id": 7855962947773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/14fe4ef7df13d09ee3d091e482083b8b.jpg?v=1729698164",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Malaga Color Bag 01",
+          "Malaga Color Bag 02",
+          "Malaga Color Bag 03",
+          "Malaga Color Bag 04",
+          "Malaga Color Bag 05",
+          "Malaga Color Bag 06"
+        ]
+      }
+    ]
+  }
+]

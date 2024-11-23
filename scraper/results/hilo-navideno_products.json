@@ -1,0 +1,4602 @@
+[
+  {
+    "id": 7855972581565,
+    "title": "Universe Christmas (Edycja Limitowana)",
+    "handle": "hp-1004730-universe-christmas",
+    "body_html": "<p>Nadchodz\u0105 \u015awi\u0119ta, hurra! A poniewa\u017c jest du\u017ce prawdopodobie\u0144stwo, \u017ce jeste\u015bmy najwi\u0119kszymi fanami \u015awi\u0105t Bo\u017cego Narodzenia, mo\u017cesz teraz zdoby\u0107 <strong>Universe </strong>w \u015bwi\u0105tecznych kolorach! Ciesz si\u0119 mo\u017cliwo\u015bci\u0105 szyde\u0142kowania/robienia na drutach wielu zabawnych projekt\u00f3w w kolorach najcudowniejszego sezonu.</p><p>A oto troch\u0119 bardziej og\u00f3lne informacje o <strong>Universe</strong>:</p><p>Kochamy brokat!</p><p><strong>Universe</strong>\u00a0to rewelacyjna w\u0142\u00f3czka, w kt\u00f3rej kolory gustownie i powoli zmieniaj\u0105 si\u0119 w inne. Uprz\u0119dziono j\u0105 z cienk\u0105, b\u0142yszcz\u0105c\u0105 nitk\u0105, dodaj\u0105c\u0105 odrobiny balowo\u015bci ka\u017cdemu projektowi. Jest ona tak drobna, \u017ce prawie jej nie czu\u0107, wida\u0107 j\u0105 za to doskonale! Pasuje do koloru prz\u0119dzy, wi\u0119c efekt jest powalajcy, ale bez zbytniego przepychu.</p><p>Jeden motek to a\u017c 462 metry, nie trzeba wi\u0119c ich wiele aby wykona\u0107 od\u015bwi\u0119tn\u0105 chustk\u0119 lub ponczo.</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a></p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420879417533,
+        "title": "Sparkling Lights (21)",
+        "option1": "Sparkling Lights (21)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001945721",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184640884925,
+          "product_id": 7855972581565,
+          "position": 1,
+          "created_at": "2024-08-05T11:26:11+02:00",
+          "updated_at": "2024-08-05T11:26:13+02:00",
+          "alt": "9bbbb89a03aff34ff0af314bad656479ee9f7d15-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9bbbb89a03aff34ff0af314bad656479ee9f7d15-1200x1200jpg.jpg?v=1722849973",
+          "variant_ids": [
+            44420879417533
+          ]
+        },
+        "available": false,
+        "price": "27.00",
+        "grams": 105,
+        "compare_at_price": "54.00",
+        "position": 1,
+        "product_id": 7855972581565,
+        "created_at": "2024-08-05T10:29:07+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420879450301,
+        "title": "Twinkle Star (22)",
+        "option1": "Twinkle Star (22)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001945722",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184640983229,
+          "product_id": 7855972581565,
+          "position": 2,
+          "created_at": "2024-08-05T11:26:11+02:00",
+          "updated_at": "2024-08-05T11:26:13+02:00",
+          "alt": "99b76401dec419c037da9e6394b3498658683dfb-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/99b76401dec419c037da9e6394b3498658683dfb-1200x1200jpg.jpg?v=1722849973",
+          "variant_ids": [
+            44420879450301
+          ]
+        },
+        "available": false,
+        "price": "27.00",
+        "grams": 105,
+        "compare_at_price": "54.00",
+        "position": 2,
+        "product_id": 7855972581565,
+        "created_at": "2024-08-05T10:29:07+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420879483069,
+        "title": "Starry Night (23)",
+        "option1": "Starry Night (23)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001945723",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184640852157,
+          "product_id": 7855972581565,
+          "position": 3,
+          "created_at": "2024-08-05T11:26:11+02:00",
+          "updated_at": "2024-08-05T11:26:13+02:00",
+          "alt": "a94c5619529928869cbd3e584ef50ec5584c7f2f-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a94c5619529928869cbd3e584ef50ec5584c7f2f-1200x1200jpg.jpg?v=1722849973",
+          "variant_ids": [
+            44420879483069
+          ]
+        },
+        "available": true,
+        "price": "27.00",
+        "grams": 105,
+        "compare_at_price": "54.00",
+        "position": 3,
+        "product_id": 7855972581565,
+        "created_at": "2024-08-05T10:29:07+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420879515837,
+        "title": "Christmas Comet (24)",
+        "option1": "Christmas Comet (24)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001945724",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184640950461,
+          "product_id": 7855972581565,
+          "position": 4,
+          "created_at": "2024-08-05T11:26:11+02:00",
+          "updated_at": "2024-08-05T11:26:13+02:00",
+          "alt": "0bae4b81fe21b73962da28fb86ff6bdf04cb6479-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0bae4b81fe21b73962da28fb86ff6bdf04cb6479-1200x1200jpg.jpg?v=1722849973",
+          "variant_ids": [
+            44420879515837
+          ]
+        },
+        "available": false,
+        "price": "27.00",
+        "grams": 105,
+        "compare_at_price": "54.00",
+        "position": 4,
+        "product_id": 7855972581565,
+        "created_at": "2024-08-05T10:29:07+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184640884925,
+        "created_at": "2024-08-05T11:26:11+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:26:13+02:00",
+        "product_id": 7855972581565,
+        "variant_ids": [
+          44420879417533
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9bbbb89a03aff34ff0af314bad656479ee9f7d15-1200x1200jpg.jpg?v=1722849973",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184640983229,
+        "created_at": "2024-08-05T11:26:11+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:26:13+02:00",
+        "product_id": 7855972581565,
+        "variant_ids": [
+          44420879450301
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/99b76401dec419c037da9e6394b3498658683dfb-1200x1200jpg.jpg?v=1722849973",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184640852157,
+        "created_at": "2024-08-05T11:26:11+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:26:13+02:00",
+        "product_id": 7855972581565,
+        "variant_ids": [
+          44420879483069
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a94c5619529928869cbd3e584ef50ec5584c7f2f-1200x1200jpg.jpg?v=1722849973",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184640950461,
+        "created_at": "2024-08-05T11:26:11+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:26:13+02:00",
+        "product_id": 7855972581565,
+        "variant_ids": [
+          44420879515837
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0bae4b81fe21b73962da28fb86ff6bdf04cb6479-1200x1200jpg.jpg?v=1722849973",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35262727815357,
+        "created_at": "2024-08-22T15:20:28+02:00",
+        "position": 5,
+        "updated_at": "2024-08-22T15:20:30+02:00",
+        "product_id": 7855972581565,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/57d5ed4f76665f5f8ad14d355781111041b689ec-1200x1200jpg.jpg?v=1724332830",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35262727848125,
+        "created_at": "2024-08-22T15:20:28+02:00",
+        "position": 6,
+        "updated_at": "2024-08-22T15:20:30+02:00",
+        "product_id": 7855972581565,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/002e2220b1a816ac204925b1cbb8ef08da5f672b-1620x1620jpg.jpg?v=1724332830",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35262727880893,
+        "created_at": "2024-08-22T15:20:28+02:00",
+        "position": 7,
+        "updated_at": "2024-08-22T15:20:30+02:00",
+        "product_id": 7855972581565,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/658aa827f8eafafc9d784ffcdc1d13f1b1f0887a-2898x2898jpg.jpg?v=1724332830",
+        "width": 2898,
+        "height": 2898
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Sparkling Lights (21)",
+          "Twinkle Star (22)",
+          "Starry Night (23)",
+          "Christmas Comet (24)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855916286141,
+    "title": "Starlight Christmas (Edycja Limitowana)",
+    "handle": "hp-1002755-hobbii-starlight",
+    "body_html": "<p>Mi\u0142a i zarazem mocna we\u0142na z refleksami, kt\u00f3re przy jasnym o\u015bwietleniu daj\u0105 tylko delikatny efekt, ale w ciemno\u015bci, pod wp\u0142ywem odrobiny \u015bwiat\u0142a, rozb\u0142yskuj\u0105 jak gwiazdy na niebie. Idealne roz\u015bwietlenie na ciemne, zimowe dni!</p><p><strong>Starlight\u00a0Christmas\u00a0</strong>jest idealnym materia\u0142em do pracy z czapkami, szalikami, czy r\u0119kawiczkami - do takich projekt\u00f3w polecamy prac\u0119 z drutem rozmiar 5. W\u0142\u00f3czka jest bardzo praktyczna i \u0142atwa je\u015bli chodzi o pranie - dzi\u0119ki technologii superwash mo\u017cesz \u015bmia\u0142o pra\u0107 materia\u0142 mechanicznie w nawet 40\u00b0C. Jedyne co musisz pami\u0119ta\u0107 to aby u\u017cy\u0107 p\u0142ynu/proszku do prania we\u0142ny i nie dodawa\u0107 p\u0142ynu do p\u0142ukania.</p><p></p><p><em>Zwr\u00f3\u0107 prosz\u0119 uwag\u0119, \u017ce w\u0142\u00f3czka Starlight nie jest zarejestrowana jako zwi\u0119kszaj\u0105ca widoczno\u015b\u0107 uczestnika ruchu i tym samym jego bezpiecze\u0144stwo na drodze. Nawet je\u017celi wykonasz z niej ca\u0142y str\u00f3j, to powinno si\u0119 go traktowa\u0107 tylko jako dodatek i pod \u017cadnym pozorem nie mo\u017ce zast\u0105pi\u0107 prawdziwych odblask\u00f3w czy kamizelek odblaskowych. Uwa\u017caj na drodze i zapewnij sobie bezpiecze\u0144stwo, u\u017cywaj\u0105c materia\u0142\u00f3w odblaskowych z certyfikatem CE.</em>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420608000189,
+        "title": "Natural White  (1)",
+        "option1": "Natural White  (1)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950101",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246919869,
+          "product_id": 7855916286141,
+          "position": 1,
+          "created_at": "2024-08-28T11:06:27+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "8163f5967a23c54066c69e275cfc95fde9d33ede-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8163f5967a23c54066c69e275cfc95fde9d33ede-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608000189
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 1,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608032957,
+        "title": "Rose (2)",
+        "option1": "Rose (2)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950102",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246756029,
+          "product_id": 7855916286141,
+          "position": 2,
+          "created_at": "2024-08-28T11:06:27+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "9ad59a47f5248d7d17f8ffcca4414a7641c727aa-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9ad59a47f5248d7d17f8ffcca4414a7641c727aa-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608032957
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 2,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608065725,
+        "title": "Red (3)",
+        "option1": "Red (3)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950103",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246788797,
+          "product_id": 7855916286141,
+          "position": 3,
+          "created_at": "2024-08-28T11:06:27+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "057473e420f3550f7712fe996184724854842589-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/057473e420f3550f7712fe996184724854842589-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608065725
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 3,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608098493,
+        "title": "Blue (4)",
+        "option1": "Blue (4)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950104",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246985405,
+          "product_id": 7855916286141,
+          "position": 4,
+          "created_at": "2024-08-28T11:06:27+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "0e633e837f6f56242eec27b8ccb29c556f8efde2-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0e633e837f6f56242eec27b8ccb29c556f8efde2-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608098493
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 4,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608131261,
+        "title": "Light Blue (5)",
+        "option1": "Light Blue (5)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950105",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246952637,
+          "product_id": 7855916286141,
+          "position": 5,
+          "created_at": "2024-08-28T11:06:27+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "1177b11dc603016699c0323d32ffe2252d4e243c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1177b11dc603016699c0323d32ffe2252d4e243c-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608131261
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 5,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608164029,
+        "title": "Light Grey (6)",
+        "option1": "Light Grey (6)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950106",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246821565,
+          "product_id": 7855916286141,
+          "position": 6,
+          "created_at": "2024-08-28T11:06:28+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "622dd9ee40fb42020bceda32731514f79987283c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/622dd9ee40fb42020bceda32731514f79987283c-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608164029
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 6,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608196797,
+        "title": "Moss Green (7)",
+        "option1": "Moss Green (7)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950107",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246690493,
+          "product_id": 7855916286141,
+          "position": 7,
+          "created_at": "2024-08-28T11:06:28+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "0ec10b429a5a4784d16d3dd5496fe544a5a747b1-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0ec10b429a5a4784d16d3dd5496fe544a5a747b1-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608196797
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 7,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608229565,
+        "title": "Black (8)",
+        "option1": "Black (8)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950108",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246723261,
+          "product_id": 7855916286141,
+          "position": 8,
+          "created_at": "2024-08-28T11:06:28+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "c59232edbdafc3dbc1ff638814851f598b95342e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c59232edbdafc3dbc1ff638814851f598b95342e-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608229565
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 8,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608262333,
+        "title": "Grey (9)",
+        "option1": "Grey (9)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950109",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246624957,
+          "product_id": 7855916286141,
+          "position": 9,
+          "created_at": "2024-08-28T11:06:28+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "22474f51f77e8157eada818169723c7c8df70f6b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22474f51f77e8157eada818169723c7c8df70f6b-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608262333
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 9,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608295101,
+        "title": "Dark Grey (10)",
+        "option1": "Dark Grey (10)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950110",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246854333,
+          "product_id": 7855916286141,
+          "position": 10,
+          "created_at": "2024-08-28T11:06:28+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "798f8397057516a337f82f9e09ad3982175f3629-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/798f8397057516a337f82f9e09ad3982175f3629-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608295101
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 10,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608327869,
+        "title": "Charcoal (11)",
+        "option1": "Charcoal (11)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950111",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291246657725,
+          "product_id": 7855916286141,
+          "position": 11,
+          "created_at": "2024-08-28T11:06:28+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "991aa4d714af09bde8a770b05fc68e3ef5920d71-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/991aa4d714af09bde8a770b05fc68e3ef5920d71-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608327869
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 11,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608360637,
+        "title": "Navy (12)",
+        "option1": "Navy (12)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950112",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291247018173,
+          "product_id": 7855916286141,
+          "position": 12,
+          "created_at": "2024-08-28T11:06:28+02:00",
+          "updated_at": "2024-08-28T11:06:30+02:00",
+          "alt": "f0a07380ad1514f2d811086cd02af5272c719f80-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f0a07380ad1514f2d811086cd02af5272c719f80-1200x1200jpg.jpg?v=1724835990",
+          "variant_ids": [
+            44420608360637
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 12,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608393405,
+        "title": "Cobalt (13)",
+        "option1": "Cobalt (13)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950113",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250589885,
+          "product_id": 7855916286141,
+          "position": 13,
+          "created_at": "2024-08-28T11:07:21+02:00",
+          "updated_at": "2024-08-28T11:07:23+02:00",
+          "alt": "536cf6e0856bb2efb29c6b4a8235bdf18433ebe8-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/536cf6e0856bb2efb29c6b4a8235bdf18433ebe8-1200x1200jpg.jpg?v=1724836043",
+          "variant_ids": [
+            44420608393405
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 13,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608426173,
+        "title": "Denim Blue (14)",
+        "option1": "Denim Blue (14)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950114",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250622653,
+          "product_id": 7855916286141,
+          "position": 14,
+          "created_at": "2024-08-28T11:07:21+02:00",
+          "updated_at": "2024-08-28T11:07:23+02:00",
+          "alt": "adca4e6cb822f43671af7a0ca4d01c919b5ea758-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/adca4e6cb822f43671af7a0ca4d01c919b5ea758-1200x1200jpg.jpg?v=1724836043",
+          "variant_ids": [
+            44420608426173
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 14,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608458941,
+        "title": "Blue-Grey (15)",
+        "option1": "Blue-Grey (15)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950115",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250655421,
+          "product_id": 7855916286141,
+          "position": 15,
+          "created_at": "2024-08-28T11:07:21+02:00",
+          "updated_at": "2024-08-28T11:07:24+02:00",
+          "alt": "b4ee3575e83913f3da90956f0b3d687d2614e1f7-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b4ee3575e83913f3da90956f0b3d687d2614e1f7-1200x1200jpg.jpg?v=1724836044",
+          "variant_ids": [
+            44420608458941
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 15,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608491709,
+        "title": "Lilac (16)",
+        "option1": "Lilac (16)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950116",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250557117,
+          "product_id": 7855916286141,
+          "position": 16,
+          "created_at": "2024-08-28T11:07:21+02:00",
+          "updated_at": "2024-08-28T11:07:23+02:00",
+          "alt": "ee22cb1ee2bb6ecd9fbc1cba254b7ef5e699dbab-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ee22cb1ee2bb6ecd9fbc1cba254b7ef5e699dbab-1200x1200jpg.jpg?v=1724836043",
+          "variant_ids": [
+            44420608491709
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 16,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608524477,
+        "title": "Purple (17)",
+        "option1": "Purple (17)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950117",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250819261,
+          "product_id": 7855916286141,
+          "position": 17,
+          "created_at": "2024-08-28T11:07:21+02:00",
+          "updated_at": "2024-08-28T11:07:24+02:00",
+          "alt": "78429b65ef7e8166141aa9e0c68c8e553d6f3812-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/78429b65ef7e8166141aa9e0c68c8e553d6f3812-1200x1200jpg.jpg?v=1724836044",
+          "variant_ids": [
+            44420608524477
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 17,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608557245,
+        "title": "Hunter Green (18)",
+        "option1": "Hunter Green (18)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950118",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250524349,
+          "product_id": 7855916286141,
+          "position": 18,
+          "created_at": "2024-08-28T11:07:21+02:00",
+          "updated_at": "2024-08-28T11:07:23+02:00",
+          "alt": "2d7efd68d5d1f2783b289f4ef5ee27bd0e8c1e2c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2d7efd68d5d1f2783b289f4ef5ee27bd0e8c1e2c-1200x1200jpg.jpg?v=1724836043",
+          "variant_ids": [
+            44420608557245
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 18,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608590013,
+        "title": "Hot Pink (19)",
+        "option1": "Hot Pink (19)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950119",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250720957,
+          "product_id": 7855916286141,
+          "position": 19,
+          "created_at": "2024-08-28T11:07:21+02:00",
+          "updated_at": "2024-08-28T11:07:24+02:00",
+          "alt": "3c761b5c1c5f86d7fe3745c43560512e66124360-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3c761b5c1c5f86d7fe3745c43560512e66124360-1200x1200jpg.jpg?v=1724836044",
+          "variant_ids": [
+            44420608590013
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 19,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608622781,
+        "title": "Rust (20)",
+        "option1": "Rust (20)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950120",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250688189,
+          "product_id": 7855916286141,
+          "position": 20,
+          "created_at": "2024-08-28T11:07:21+02:00",
+          "updated_at": "2024-08-28T11:07:24+02:00",
+          "alt": "e1c2f72a695098daa1738a04c8ec6b11c76e18fc-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e1c2f72a695098daa1738a04c8ec6b11c76e18fc-1200x1200jpg.jpg?v=1724836044",
+          "variant_ids": [
+            44420608622781
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 20,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608655549,
+        "title": "Yellow (21)",
+        "option1": "Yellow (21)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950121",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250491581,
+          "product_id": 7855916286141,
+          "position": 21,
+          "created_at": "2024-08-28T11:07:22+02:00",
+          "updated_at": "2024-08-28T11:07:23+02:00",
+          "alt": "b2497115dad0e16cb404816551e455d92364ca1f-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b2497115dad0e16cb404816551e455d92364ca1f-1200x1200jpg.jpg?v=1724836043",
+          "variant_ids": [
+            44420608655549
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 21,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608688317,
+        "title": "Camel (22)",
+        "option1": "Camel (22)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950122",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291250753725,
+          "product_id": 7855916286141,
+          "position": 22,
+          "created_at": "2024-08-28T11:07:22+02:00",
+          "updated_at": "2024-08-28T11:07:24+02:00",
+          "alt": "6ef601fe09256ee6e7907ee6c5d21ea29bbc00a1-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6ef601fe09256ee6e7907ee6c5d21ea29bbc00a1-1200x1200jpg.jpg?v=1724836044",
+          "variant_ids": [
+            44420608688317
+          ]
+        },
+        "available": false,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 22,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420608721085,
+        "title": "Snow (23)",
+        "option1": "Snow (23)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001950123",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291253932221,
+          "product_id": 7855916286141,
+          "position": 23,
+          "created_at": "2024-08-28T11:08:16+02:00",
+          "updated_at": "2024-08-28T11:08:17+02:00",
+          "alt": "b942fbf69359f2449c354d13d6becb7934ca2410-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b942fbf69359f2449c354d13d6becb7934ca2410-1200x1200jpg.jpg?v=1724836097",
+          "variant_ids": [
+            44420608721085
+          ]
+        },
+        "available": true,
+        "price": "19.89",
+        "grams": 52,
+        "compare_at_price": "39.00",
+        "position": 23,
+        "product_id": 7855916286141,
+        "created_at": "2024-08-05T10:22:01+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35291246919869,
+        "created_at": "2024-08-28T11:06:27+02:00",
+        "position": 1,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608000189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8163f5967a23c54066c69e275cfc95fde9d33ede-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246756029,
+        "created_at": "2024-08-28T11:06:27+02:00",
+        "position": 2,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608032957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9ad59a47f5248d7d17f8ffcca4414a7641c727aa-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246788797,
+        "created_at": "2024-08-28T11:06:27+02:00",
+        "position": 3,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608065725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/057473e420f3550f7712fe996184724854842589-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246985405,
+        "created_at": "2024-08-28T11:06:27+02:00",
+        "position": 4,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608098493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0e633e837f6f56242eec27b8ccb29c556f8efde2-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246952637,
+        "created_at": "2024-08-28T11:06:27+02:00",
+        "position": 5,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608131261
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1177b11dc603016699c0323d32ffe2252d4e243c-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246821565,
+        "created_at": "2024-08-28T11:06:28+02:00",
+        "position": 6,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608164029
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/622dd9ee40fb42020bceda32731514f79987283c-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246690493,
+        "created_at": "2024-08-28T11:06:28+02:00",
+        "position": 7,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608196797
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0ec10b429a5a4784d16d3dd5496fe544a5a747b1-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246723261,
+        "created_at": "2024-08-28T11:06:28+02:00",
+        "position": 8,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608229565
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c59232edbdafc3dbc1ff638814851f598b95342e-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246624957,
+        "created_at": "2024-08-28T11:06:28+02:00",
+        "position": 9,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608262333
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22474f51f77e8157eada818169723c7c8df70f6b-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246854333,
+        "created_at": "2024-08-28T11:06:28+02:00",
+        "position": 10,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608295101
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/798f8397057516a337f82f9e09ad3982175f3629-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291246657725,
+        "created_at": "2024-08-28T11:06:28+02:00",
+        "position": 11,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608327869
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/991aa4d714af09bde8a770b05fc68e3ef5920d71-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291247018173,
+        "created_at": "2024-08-28T11:06:28+02:00",
+        "position": 12,
+        "updated_at": "2024-08-28T11:06:30+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608360637
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f0a07380ad1514f2d811086cd02af5272c719f80-1200x1200jpg.jpg?v=1724835990",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250589885,
+        "created_at": "2024-08-28T11:07:21+02:00",
+        "position": 13,
+        "updated_at": "2024-08-28T11:07:23+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608393405
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/536cf6e0856bb2efb29c6b4a8235bdf18433ebe8-1200x1200jpg.jpg?v=1724836043",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250622653,
+        "created_at": "2024-08-28T11:07:21+02:00",
+        "position": 14,
+        "updated_at": "2024-08-28T11:07:23+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608426173
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/adca4e6cb822f43671af7a0ca4d01c919b5ea758-1200x1200jpg.jpg?v=1724836043",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250655421,
+        "created_at": "2024-08-28T11:07:21+02:00",
+        "position": 15,
+        "updated_at": "2024-08-28T11:07:24+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608458941
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b4ee3575e83913f3da90956f0b3d687d2614e1f7-1200x1200jpg.jpg?v=1724836044",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250557117,
+        "created_at": "2024-08-28T11:07:21+02:00",
+        "position": 16,
+        "updated_at": "2024-08-28T11:07:23+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608491709
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ee22cb1ee2bb6ecd9fbc1cba254b7ef5e699dbab-1200x1200jpg.jpg?v=1724836043",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250819261,
+        "created_at": "2024-08-28T11:07:21+02:00",
+        "position": 17,
+        "updated_at": "2024-08-28T11:07:24+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608524477
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/78429b65ef7e8166141aa9e0c68c8e553d6f3812-1200x1200jpg.jpg?v=1724836044",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250524349,
+        "created_at": "2024-08-28T11:07:21+02:00",
+        "position": 18,
+        "updated_at": "2024-08-28T11:07:23+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608557245
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2d7efd68d5d1f2783b289f4ef5ee27bd0e8c1e2c-1200x1200jpg.jpg?v=1724836043",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250720957,
+        "created_at": "2024-08-28T11:07:21+02:00",
+        "position": 19,
+        "updated_at": "2024-08-28T11:07:24+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608590013
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3c761b5c1c5f86d7fe3745c43560512e66124360-1200x1200jpg.jpg?v=1724836044",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250688189,
+        "created_at": "2024-08-28T11:07:21+02:00",
+        "position": 20,
+        "updated_at": "2024-08-28T11:07:24+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608622781
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e1c2f72a695098daa1738a04c8ec6b11c76e18fc-1200x1200jpg.jpg?v=1724836044",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250491581,
+        "created_at": "2024-08-28T11:07:22+02:00",
+        "position": 21,
+        "updated_at": "2024-08-28T11:07:23+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608655549
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b2497115dad0e16cb404816551e455d92364ca1f-1200x1200jpg.jpg?v=1724836043",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291250753725,
+        "created_at": "2024-08-28T11:07:22+02:00",
+        "position": 22,
+        "updated_at": "2024-08-28T11:07:24+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608688317
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6ef601fe09256ee6e7907ee6c5d21ea29bbc00a1-1200x1200jpg.jpg?v=1724836044",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291253932221,
+        "created_at": "2024-08-28T11:08:16+02:00",
+        "position": 23,
+        "updated_at": "2024-08-28T11:08:17+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [
+          44420608721085
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b942fbf69359f2449c354d13d6becb7934ca2410-1200x1200jpg.jpg?v=1724836097",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35408879550653,
+        "created_at": "2024-09-23T09:12:35+02:00",
+        "position": 24,
+        "updated_at": "2024-09-23T09:12:37+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/84599944a43fd4f50b05034f5bb8e1b043c047ce-1620x1620jpg.jpg?v=1727075557",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35408879517885,
+        "created_at": "2024-09-23T09:12:35+02:00",
+        "position": 25,
+        "updated_at": "2024-09-23T09:12:37+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/98c54dd8a2723bcf741aa6cb1991c253ef86e23f-1620x1620jpg.jpg?v=1727075557",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35408879583421,
+        "created_at": "2024-09-23T09:12:35+02:00",
+        "position": 26,
+        "updated_at": "2024-09-23T09:12:37+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/433c6e2d170b55b158adc6ded91c0fa6d6a260de-1620x1620jpg.jpg?v=1727075557",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35408879485117,
+        "created_at": "2024-09-23T09:12:35+02:00",
+        "position": 27,
+        "updated_at": "2024-09-23T09:12:37+02:00",
+        "product_id": 7855916286141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17beaee1df2eeaaacada7b2dd2d9e4fab69d93bf-1620x1620jpg.jpg?v=1727075557",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Natural White  (1)",
+          "Rose (2)",
+          "Red (3)",
+          "Blue (4)",
+          "Light Blue (5)",
+          "Light Grey (6)",
+          "Moss Green (7)",
+          "Black (8)",
+          "Grey (9)",
+          "Dark Grey (10)",
+          "Charcoal (11)",
+          "Navy (12)",
+          "Cobalt (13)",
+          "Denim Blue (14)",
+          "Blue-Grey (15)",
+          "Lilac (16)",
+          "Purple (17)",
+          "Hunter Green (18)",
+          "Hot Pink (19)",
+          "Rust (20)",
+          "Yellow (21)",
+          "Camel (22)",
+          "Snow (23)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855905145021,
+    "title": "Honey Bunny Christmas (Edycja Limitowana)",
+    "handle": "hp-1006768-honey-bunny-christmas",
+    "body_html": "<p>To b\u0119dzie wielka rado\u015b\u0107 m\u00f3c cieszy\u0107 si\u0119 nasz\u0105 <strong>Honey Bunny Christmas</strong> i obiecujemy, \u017ce nie ma nic bardziej mi\u0119kkiego.\n</p><p><strong>Honey Bunny\u00a0Christmas\u00a0</strong>to gruba w\u0142\u00f3czka welurowa wykonana w 100% z poliestru. Jest jedwabista, g\u0142adka i z lekkim po\u0142yskiem.</p><p>Idealnie nada si\u0119 na druty dziewiarskie o grubo\u015bci 6 mm oraz na szyde\u0142ko 7 mm. \u015awietnie sprawdzi si\u0119 przy \u0142atwych \u015bciegach dziewiarskich. Wybierz jedn\u0105 z opcji tej drukowanej wersji, wybieraj\u0105c dwa lub trzy z naszych najbardziej \u015bwi\u0105tecznych kolor\u00f3w: jasnozielony, optyczn\u0105 biel i bo\u017conarodzeniow\u0105 czerwie\u0144.</p><p>Ta w\u0142\u00f3czka welurowa z d\u0142ugimi zmianami kolor\u00f3w rozprzestrzeni \u015bwi\u0105teczn\u0105 atmosfer\u0119, gdy zostanie przekszta\u0142cona w pi\u0119kny str\u00f3j: swetry, kardigany, czapki i szaliki, a tak\u017ce projekty do wystroju domu, takie jak przytulne poszewki na poduszki, koce i wygodne pufy. <strong>Honey Bunny\u00a0Christmas\u00a0</strong>posiada certyfikat OEKO TEX, dzi\u0119ki czemu mo\u017cesz bez obaw u\u017cywa\u0107 w\u0142\u00f3czki na wyroby dla ma\u0142ych dzieci. Uwolnij swoj\u0105 kreatywno\u015b\u0107, tworz\u0105c dla nich ubrania, misie i inne przytulne zwierzaki.</p><p><em>Wskaz\u00f3wka dla profesjonalist\u00f3w:</em> zawi\u0105\u017c w\u0119ze\u0142 podczas rozpoczynania i ko\u0144czenia motka lub bardzo ostro\u017cnie podpal ko\u0144ce, aby zabezpieczy\u0107 lu\u017ane w\u0142\u00f3kna w projekcie po wszyciu ko\u0144c\u00f3wek.</p><p>Na co wi\u0119c czekasz? Przytul si\u0119 do naszej <strong>Honey Bunny\u00a0Christmas</strong>.</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a></p><p><em>Zapraszam do sprawdzenia <strong>Honey Bunny <a href=\"https://hobbii.pl/honey-bunny\">tutaj</a></strong>.</em>\n\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420568055997,
+        "title": "Red White Green (01)",
+        "option1": "Red White Green (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35333134057661,
+          "product_id": 7855905145021,
+          "position": 1,
+          "created_at": "2024-09-05T11:00:18+02:00",
+          "updated_at": "2024-09-05T11:00:20+02:00",
+          "alt": "004b1d0340428603f419e82bce4f9a42bb9b92e5-1200x1200png",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/004b1d0340428603f419e82bce4f9a42bb9b92e5-1200x1200png.png?v=1725526820",
+          "variant_ids": [
+            44420568055997,
+            44420568121533
+          ]
+        },
+        "available": false,
+        "price": "29.15",
+        "grams": 150,
+        "compare_at_price": "53.00",
+        "position": 1,
+        "product_id": 7855905145021,
+        "created_at": "2024-08-05T10:19:29+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420568088765,
+        "title": "Red White (02)",
+        "option1": "Red White (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28002",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35333133992125,
+          "product_id": 7855905145021,
+          "position": 2,
+          "created_at": "2024-09-05T11:00:18+02:00",
+          "updated_at": "2024-09-05T11:00:20+02:00",
+          "alt": "acc39afc95f549da9ac2e46c1c4af97787423084-1200x1200png",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/acc39afc95f549da9ac2e46c1c4af97787423084-1200x1200png.png?v=1725526820",
+          "variant_ids": [
+            44420568088765
+          ]
+        },
+        "available": true,
+        "price": "29.15",
+        "grams": 150,
+        "compare_at_price": "53.00",
+        "position": 2,
+        "product_id": 7855905145021,
+        "created_at": "2024-08-05T10:19:29+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420568121533,
+        "title": "Red Green (03)",
+        "option1": "Red Green (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28003",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35333134057661,
+          "product_id": 7855905145021,
+          "position": 1,
+          "created_at": "2024-09-05T11:00:18+02:00",
+          "updated_at": "2024-09-05T11:00:20+02:00",
+          "alt": "004b1d0340428603f419e82bce4f9a42bb9b92e5-1200x1200png",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/004b1d0340428603f419e82bce4f9a42bb9b92e5-1200x1200png.png?v=1725526820",
+          "variant_ids": [
+            44420568055997,
+            44420568121533
+          ]
+        },
+        "available": true,
+        "price": "29.15",
+        "grams": 150,
+        "compare_at_price": "53.00",
+        "position": 3,
+        "product_id": 7855905145021,
+        "created_at": "2024-08-05T10:19:29+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35333134057661,
+        "created_at": "2024-09-05T11:00:18+02:00",
+        "position": 1,
+        "updated_at": "2024-09-05T11:00:20+02:00",
+        "product_id": 7855905145021,
+        "variant_ids": [
+          44420568055997,
+          44420568121533
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/004b1d0340428603f419e82bce4f9a42bb9b92e5-1200x1200png.png?v=1725526820",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35333133992125,
+        "created_at": "2024-09-05T11:00:18+02:00",
+        "position": 2,
+        "updated_at": "2024-09-05T11:00:20+02:00",
+        "product_id": 7855905145021,
+        "variant_ids": [
+          44420568088765
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/acc39afc95f549da9ac2e46c1c4af97787423084-1200x1200png.png?v=1725526820",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35372949536957,
+        "created_at": "2024-09-16T09:39:33+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T09:39:34+02:00",
+        "product_id": 7855905145021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a3ba64629f62954903c649c4aae76af2b9fcac9d-1200x1200png.png?v=1726472374",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35452872556733,
+        "created_at": "2024-09-30T10:24:24+02:00",
+        "position": 4,
+        "updated_at": "2024-09-30T10:24:25+02:00",
+        "product_id": 7855905145021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/44be65f36f2a6e71b90f4ddf4466bedef4b26e17-3024x3024jpg.jpg?v=1727684665",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35452872589501,
+        "created_at": "2024-09-30T10:24:24+02:00",
+        "position": 5,
+        "updated_at": "2024-09-30T10:24:26+02:00",
+        "product_id": 7855905145021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5f7038650e5266bc9a04fafe7e85e4ddc371cc9a-2818x2818jpg.jpg?v=1727684666",
+        "width": 2818,
+        "height": 2818
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Red White Green (01)",
+          "Red White (02)",
+          "Red Green (03)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7861583052989,
+    "title": "Friends Wool Christmas Color Pack (Edycja Limitowana)",
+    "handle": "hp-1007386-friends-wool-christmas-color-pack-limited-edition",
+    "body_html": "<p>Czy kiedykolwiek czu\u0142a\u015b, \u017ce potrzebujesz idealnej we\u0142ny do swojego projektu \u015bwi\u0105tecznego? Mamy dla Ciebie <strong>Friends Wool\u00a0Christmas Color Pack</strong>.</p><p>Jak ka\u017cda inna w\u0142\u00f3czka w 100% we\u0142niana,<strong> Friends Wool</strong> jest elastyczna, mocna, ciep\u0142a i oddychaj\u0105ca. Jest skr\u0119cona z 4 nitek i mo\u017ce by\u0107 przerabiana na drutach o grubo\u015bci 4-4,5 mm lub szyde\u0142kiem 5-5,5 mm. Tym razem w opakowaniu znajdziesz 5 motk\u00f3w, kt\u00f3re wprowadz\u0105 Ci\u0119 w sezonowy nastr\u00f3j dzi\u0119ki niezb\u0119dnym czerwieniom i zieleniom. Ten pakiet mo\u017cna oczywi\u015bcie miesza\u0107 i dopasowywa\u0107 r\u00f3wnie\u017c z nasz\u0105 we\u0142n\u0105<strong> Friends Sock Wool</strong>.</p><p>Opracowali\u015bmy t\u0105 w\u0142\u00f3czk\u0119, maj\u0105c na uwadze, \u017ce dobieranie i dopasowywanie r\u00f3\u017cnych kolor\u00f3w jest bardzo wa\u017cne dla ka\u017cdego r\u0119kodzielnika. Dlatego jeste\u015bmy pewni, \u017ce teraz znajdziesz idealne kolory do nast\u0119pnego projektu. Ta w\u0142\u00f3czka idealnie sprawdzi si\u0119 na \u017cakardowe swetry, poncza, czapki itp.<strong> Friends Wool</strong> mo\u017ce by\u0107 r\u00f3wnie\u017c filcowana, wi\u0119c mo\u017cesz wreszcie zacz\u0105\u0107 eksperymentowa\u0107 z koszykami, torbami i kapciami.</p><p>Czy jeste\u015b gotowy, aby rozpocz\u0105\u0107 kolejn\u0105 kolorow\u0105 kreacj\u0119?</p><p></p><p>W pakiecie znajduj\u0105 si\u0119 nast\u0119puj\u0105ce kolory z naszej kolekcji <strong>Friends Wool</strong>:\n</p><p><strong>Pack 01:</strong> 01, 40, 42, 104, 112</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p><p>\n</p><p><em>O rodzinie <strong>Friends</strong></em></p><p>Kolory w\u0142\u00f3czek wchodz\u0105cych w sk\u0142ad rodziny <strong>Friends </strong>to dos\u0142ownie przyjaciele!</p><p>Oznacza to, \u017ce numery kolor\u00f3w odpowiadaj\u0105 temu samemu kolorowi w r\u00f3\u017cnych w\u0142\u00f3czkach <strong>Friends</strong>. Je\u015bli zam\u00f3wisz ten sam numer koloru w dw\u00f3ch r\u00f3\u017cnych w\u0142\u00f3czkach <strong>Friends</strong>, b\u0119d\u0105 one idealnie do siebie pasowa\u0107. Nale\u017cy jednak pami\u0119ta\u0107, \u017ce mog\u0105 wyst\u0119powa\u0107 niewielkie r\u00f3\u017cnice w odcieniach kolor\u00f3w, s\u0105 one spowodowane rodzajem w\u0142\u00f3kna, z kt\u00f3rego powsta\u0142a prz\u0119dza.</p><p>Baw si\u0119 \u0142\u0105czeniem i dobieraniem kolor\u00f3w we wszystkich swoich projektach.</p><p>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44441164251325,
+        "title": "Color (01)",
+        "option1": "Color (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32201",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291121877181,
+          "product_id": 7861583052989,
+          "position": 1,
+          "created_at": "2024-08-28T10:28:12+02:00",
+          "updated_at": "2024-08-28T10:28:14+02:00",
+          "alt": "910e2a25904f3cecc14eb37e44a875f24eae276e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/910e2a25904f3cecc14eb37e44a875f24eae276e-1200x1200jpg.jpg?v=1724833694",
+          "variant_ids": [
+            44441164251325
+          ]
+        },
+        "available": true,
+        "price": "54.45",
+        "grams": 253,
+        "compare_at_price": "99.00",
+        "position": 1,
+        "product_id": 7861583052989,
+        "created_at": "2024-08-15T11:32:44+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35291121877181,
+        "created_at": "2024-08-28T10:28:12+02:00",
+        "position": 1,
+        "updated_at": "2024-08-28T10:28:14+02:00",
+        "product_id": 7861583052989,
+        "variant_ids": [
+          44441164251325
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/910e2a25904f3cecc14eb37e44a875f24eae276e-1200x1200jpg.jpg?v=1724833694",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35323027259581,
+        "created_at": "2024-09-03T14:21:11+02:00",
+        "position": 2,
+        "updated_at": "2024-09-03T14:21:13+02:00",
+        "product_id": 7861583052989,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/94cfcc60580fdb4da110fcab6effd6c1f26eea08-1620x1620jpg.jpg?v=1725366073",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35323027226813,
+        "created_at": "2024-09-03T14:21:11+02:00",
+        "position": 3,
+        "updated_at": "2024-09-03T14:21:13+02:00",
+        "product_id": 7861583052989,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/83f2a1f6759d85a7006fc26d9ca23c14cd317377-1620x1620jpg.jpg?v=1725366073",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Color (01)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856010363069,
+    "title": "Lampa na szyj\u0119 Deluxe - Czerwony",
+    "handle": "hp-1007685-neck-light-deluxe-red",
+    "body_html": "<p><strong>Edycja limitowana!</strong></p><p>Nie mogli\u015bmy si\u0119 opanowa\u0107 i nagle wpadli\u015bmy w \u015bwi\u0105teczny nastr\u00f3j, kiedy musieli\u015bmy zdecydowa\u0107 o jaki kolor wzbogaci\u0107 nasz\u0105 rodzin\u0119 lamp na szyj\u0119. Dlatego ju\u017c teraz mo\u017cemy zaprezentowa\u0107 t\u0119 now\u0105, pi\u0119kn\u0105 lamp\u0119 na szyj\u0119 w najpi\u0119kniejszym, \u015bwi\u0105tecznym czerwonym kolorze. Dost\u0119pna w limitowanej partii, wi\u0119c zdob\u0105d\u017a j\u0105 ju\u017c teraz.</p><p>Jest to idealne rozwi\u0105zanie dla tych, kt\u00f3rzy chc\u0105 pracowa\u0107 przy odpowiednim o\u015bwietleniu. Mo\u017cna j\u0105 zawiesi\u0107 na szyi, dzi\u0119ki czemu masz wolne r\u0119ce.</p><p>Lampa na szyj\u0119 Deluxe umo\u017cliwia wyb\u00f3r pomi\u0119dzy 2 poziomami jasno\u015bci. Aby dopasowa\u0107 skal\u0119 \u015bwiecenia, wystarczy, \u017ce naci\u015bniesz i przytrzymasz przycisk w\u0142\u0105czania/wy\u0142\u0105czania:</p><p>1. naci\u015bni\u0119cie: Lampa w\u0142\u0105cza si\u0119 (50% jasno\u015bci)\n2. naci\u015bni\u0119cie: Lampa wy\u0142\u0105cza si\u0119\n3. naci\u015bni\u0119cie: Lampa w\u0142\u0105cza si\u0119 (100% jasno\u015bci)\n4. naci\u015bni\u0119cie: Lampa wy\u0142\u0105cza si\u0119\n</p><p>To nie wszystko! Obie ko\u0144c\u00f3wki lampy wyposa\u017cone s\u0105 w \u017car\u00f3wki LED, kt\u00f3rych mo\u017cna u\u017cywa\u0107 razem lub osobno. Dzi\u0119ki temu mo\u017cesz o\u015bwietli\u0107 2 r\u00f3\u017cne rzeczy jednocze\u015bnie np. rob\u00f3tk\u0119 i wz\u00f3r.</p><p>Lamp\u0119 Deluxe mo\u017cesz zakupi\u0107 w dw\u00f3ch rozmiarach: 60 cm i 73 cm. Je\u015bli zwykle trzymasz rob\u00f3tk\u0119 wy\u017cej, blisko brody, polecamy rozmiar 60 cm. Je\u015bli natomiast wolisz trzyma\u0107 rob\u00f3tk\u0119 na kolanach, rozmiar 73 cm b\u0119dzie dla Ciebie lepszym rozwi\u0105zaniem.</p><p><strong>Post\u0119puj zgodnie z naszymi instrukcjami jak poprawnie wk\u0142ada\u0107 baterie (patrz zdj\u0119cie).</strong>\n</p><p><em>Dane techniczne</em>\nLumen: 20-25 lm\nKelvin: mi\u0119dzy 6500-7500 kelvin</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421060722877,
+        "title": "60 cm",
+        "option1": "60 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1352",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35395073147069,
+          "product_id": 7856010363069,
+          "position": 2,
+          "created_at": "2024-09-20T15:13:44+02:00",
+          "updated_at": "2024-09-20T15:13:46+02:00",
+          "alt": "6340792cc2d1be700e28bb336feaace7c04d2949-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6340792cc2d1be700e28bb336feaace7c04d2949-1200x1200jpg.jpg?v=1726838026",
+          "variant_ids": [
+            44421060722877
+          ]
+        },
+        "available": true,
+        "price": "72.00",
+        "grams": 355,
+        "compare_at_price": "144.00",
+        "position": 1,
+        "product_id": 7856010363069,
+        "created_at": "2024-08-05T10:33:32+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44421060755645,
+        "title": "73 cm",
+        "option1": "73 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1353",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35395073114301,
+          "product_id": 7856010363069,
+          "position": 1,
+          "created_at": "2024-09-20T15:13:44+02:00",
+          "updated_at": "2024-09-20T15:13:46+02:00",
+          "alt": "6996782748202e37db3065be04130e8b45dd3e4e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6996782748202e37db3065be04130e8b45dd3e4e-1200x1200jpg.jpg?v=1726838026",
+          "variant_ids": [
+            44421060755645
+          ]
+        },
+        "available": true,
+        "price": "72.00",
+        "grams": 370,
+        "compare_at_price": "144.00",
+        "position": 2,
+        "product_id": 7856010363069,
+        "created_at": "2024-08-05T10:33:32+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35395073114301,
+        "created_at": "2024-09-20T15:13:44+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T15:13:46+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [
+          44421060755645
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6996782748202e37db3065be04130e8b45dd3e4e-1200x1200jpg.jpg?v=1726838026",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35395073147069,
+        "created_at": "2024-09-20T15:13:44+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T15:13:46+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [
+          44421060722877
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6340792cc2d1be700e28bb336feaace7c04d2949-1200x1200jpg.jpg?v=1726838026",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35495730184381,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 3,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac93c5e30cce2eef94ee0b4f3953cdf6f86a885f-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730151613,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 4,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e84db40a1f7620c1c759b9a0a4b037d4116324cc-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730118845,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 5,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8ad7bb2d7aa9b7fe772286bcea21107e2c59b24c-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730053309,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 6,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e99bd18f0233adf04672679b770bed77da936186-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730249917,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 7,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/01093143d26584f549cd9ce6a049612f967d51fa-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730217149,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 8,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8c7e5cc05402674b23680ea34b1e9770239971ae-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "60 cm",
+          "73 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855941091517,
+    "title": "Miniaturowe Okulary - 5 szt.",
+    "handle": "hp-1003959-diy-glasses-gold",
+    "body_html": "<p>Czy Twoim w\u0142asnor\u0119cznie zrobionym misiom lub skrzatom brakuje ma\u0142ego dodatku? Je\u015bli chcesz doda\u0107 swoim figurk\u0105 \u0142adny detal i nada\u0107 eleganckiego wygl\u0105du, w takim razie przyszyj im te \u0142adne okulary.\n</p><p>Okulary s\u0105 dost\u0119pne w dw\u00f3ch rozmiarach i dw\u00f3ch kolorach, wi\u0119c mamy nadziej\u0119, \u017ce b\u0119d\u0105 pasowa\u0107 do Twoich szyde\u0142kowych i dziewiarskich projekt\u00f3w.</p><p>UWAGA! To nie jest zabawka.</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420729077949,
+        "title": "67 mm - Z\u0142oto",
+        "option1": "67 mm - Z\u0142oto",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2030",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184238231741,
+          "product_id": 7855941091517,
+          "position": 5,
+          "created_at": "2024-08-05T11:03:35+02:00",
+          "updated_at": "2024-08-05T11:03:38+02:00",
+          "alt": "1600078408-guld-stor-forfra-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1600078408-guld-stor-forfra-1200x1200pxjpg.jpg?v=1722848618",
+          "variant_ids": [
+            44420729077949
+          ]
+        },
+        "available": false,
+        "price": "17.00",
+        "grams": 28,
+        "compare_at_price": "25.00",
+        "position": 1,
+        "product_id": 7855941091517,
+        "created_at": "2024-08-05T10:25:17+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420729110717,
+        "title": "36 mm - Z\u0142oto",
+        "option1": "36 mm - Z\u0142oto",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2029",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184238297277,
+          "product_id": 7855941091517,
+          "position": 6,
+          "created_at": "2024-08-05T11:03:35+02:00",
+          "updated_at": "2024-08-05T11:03:38+02:00",
+          "alt": "guld-lille-forfra-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/guld-lille-forfra-1200x1200pxjpg.jpg?v=1722848618",
+          "variant_ids": [
+            44420729110717
+          ]
+        },
+        "available": true,
+        "price": "17.00",
+        "grams": 7,
+        "compare_at_price": "25.00",
+        "position": 2,
+        "product_id": 7855941091517,
+        "created_at": "2024-08-05T10:25:17+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420729143485,
+        "title": "67 mm - Czarny",
+        "option1": "67 mm - Czarny",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2032",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184238198973,
+          "product_id": 7855941091517,
+          "position": 7,
+          "created_at": "2024-08-05T11:03:36+02:00",
+          "updated_at": "2024-08-05T11:03:38+02:00",
+          "alt": "stor-sort-forfra-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/stor-sort-forfra-1200x1200pxjpg.jpg?v=1722848618",
+          "variant_ids": [
+            44420729143485
+          ]
+        },
+        "available": true,
+        "price": "17.00",
+        "grams": 28,
+        "compare_at_price": "25.00",
+        "position": 3,
+        "product_id": 7855941091517,
+        "created_at": "2024-08-05T10:25:17+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420729176253,
+        "title": "36 mm - Czarny",
+        "option1": "36 mm - Czarny",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2031",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184238100669,
+          "product_id": 7855941091517,
+          "position": 8,
+          "created_at": "2024-08-05T11:03:36+02:00",
+          "updated_at": "2024-08-05T11:03:37+02:00",
+          "alt": "lille-sort-forfra-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/lille-sort-forfra-1200x1200pxjpg.jpg?v=1722848617",
+          "variant_ids": [
+            44420729176253
+          ]
+        },
+        "available": true,
+        "price": "17.00",
+        "grams": 7,
+        "compare_at_price": "25.00",
+        "position": 4,
+        "product_id": 7855941091517,
+        "created_at": "2024-08-05T10:25:17+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184238264509,
+        "created_at": "2024-08-05T11:03:35+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:03:38+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/guld-lille-oppe-1200x1200pxjpg.jpg?v=1722848618",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184238035133,
+        "created_at": "2024-08-05T11:03:35+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:03:37+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/guld-stor-oppe-1200x1200pxjpg.jpg?v=1722848617",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184238067901,
+        "created_at": "2024-08-05T11:03:35+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:03:37+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/lille-sort-oppe-1200x1200pxjpg.jpg?v=1722848617",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184238133437,
+        "created_at": "2024-08-05T11:03:35+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:03:37+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/sort-stor-oppe-1200x1200pxjpg.jpg?v=1722848617",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184238231741,
+        "created_at": "2024-08-05T11:03:35+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:03:38+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [
+          44420729077949
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1600078408-guld-stor-forfra-1200x1200pxjpg.jpg?v=1722848618",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184238297277,
+        "created_at": "2024-08-05T11:03:35+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:03:38+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [
+          44420729110717
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/guld-lille-forfra-1200x1200pxjpg.jpg?v=1722848618",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184238198973,
+        "created_at": "2024-08-05T11:03:36+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:03:38+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [
+          44420729143485
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/stor-sort-forfra-1200x1200pxjpg.jpg?v=1722848618",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184238100669,
+        "created_at": "2024-08-05T11:03:36+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T11:03:37+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [
+          44420729176253
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/lille-sort-forfra-1200x1200pxjpg.jpg?v=1722848617",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415810556282,
+        "created_at": "2024-10-23T17:34:30+02:00",
+        "position": 9,
+        "updated_at": "2024-10-23T17:34:32+02:00",
+        "product_id": 7855941091517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c06021a66191805548ba676754bfc61c.jpg?v=1729697672",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "67 mm - Z\u0142oto",
+          "36 mm - Z\u0142oto",
+          "67 mm - Czarny",
+          "36 mm - Czarny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7854167720125,
+    "title": "Horizon Christmas (Edycja Limitowana)",
+    "handle": "hp-1005372-horizon-christmas",
+    "body_html": "<p><strong>Horizon Christmas</strong> to \u015bwi\u0105teczna wersja naszej pi\u0119knej w\u0142\u00f3czki Horizon. Mi\u0119kka w\u0142\u00f3czka w klasycznych \u015bwi\u0105tecznych kolorach wprawi ka\u017cdego w wyj\u0105tkowy nastr\u00f3j! Uwolnij kreatywno\u015b\u0107 i rzu\u0107 si\u0119 w wir przytulnych i mi\u0119kkich \u015bwi\u0105tecznych projekt\u00f3w. Wykonaj swetry, poduszki i koce, kt\u00f3rymi otulisz si\u0119 czekaj\u0105c na nadej\u015bcie \u015bwi\u0105t.\n</p><p>Seria Horizon sk\u0142ada si\u0119 z najwy\u017cszej jako\u015bci antypillingowego akrylu. Oznacza to m.in., \u017ce proces produkcji w\u0142\u00f3czki jest wieloetapowy, tak jak ma to r\u00f3wnie\u017c miejsce w przypadku we\u0142ny. Akryl jest czesany, co nadaje mu puszysto\u015bci i dodatkowej mi\u0119kko\u015bci. Ponadto Horizon przechodzi proces Hi-Bulk, podczas kt\u00f3rego w\u0142\u00f3czka nieco si\u0119 kurczy pod wp\u0142ywem dzia\u0142ania pary. Efektem tego jest wyj\u0105tkowa mi\u0119kko\u015b\u0107 i przyjemno\u015b\u0107 w dotyku.\n</p><p></p><p>Horizon posiada certyfikat Oeko-tex, mo\u017ce by\u0107 prany w pralce i co najwa\u017cniejsze nie drapie! Jest to \u015bwietna alternatywa dla tych, kt\u00f3rzy nie toleruj\u0105 we\u0142ny.</p><p>Horizon barwiony jest w k\u0142\u0119bkach, co daje najpi\u0119kniejsze przej\u015bcia kolorystyczne przy zachowaniu obj\u0119to\u015bci w\u0142\u00f3czki. Oznacza to te\u017c, \u017ce w miejscu, gdzie nitki si\u0119 styka\u0142y, mog\u0142y si\u0119 one od siebie nieco zabarwi\u0107. Nale\u017cy podkre\u015bli\u0107, \u017ce mog\u0142o to mie\u0107 miejsce przed utrwaleniem koloru i nie b\u0119dzie si\u0119 tak dzia\u0142o z gotowym produktem. Jednak na w\u0142\u00f3czce mog\u0142y pozosta\u0107 ma\u0142e, kolorowe kropki.</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2076-311). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44414032806077,
+        "title": "Christmas Tree (01)",
+        "option1": "Christmas Tree (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948801",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171021488317,
+          "product_id": 7854167720125,
+          "position": 4,
+          "created_at": "2024-08-01T11:38:14+02:00",
+          "updated_at": "2024-08-01T11:38:16+02:00",
+          "alt": "horizon-christmas-01jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-01jpg.jpg?v=1722505096",
+          "variant_ids": [
+            44414032806077
+          ]
+        },
+        "available": false,
+        "price": "50.00",
+        "grams": 203,
+        "compare_at_price": "100.00",
+        "position": 1,
+        "product_id": 7854167720125,
+        "created_at": "2024-08-01T11:27:36+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44414032838845,
+        "title": "Nordic Santa (02)",
+        "option1": "Nordic Santa (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948802",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171021422781,
+          "product_id": 7854167720125,
+          "position": 5,
+          "created_at": "2024-08-01T11:38:14+02:00",
+          "updated_at": "2024-08-01T11:38:16+02:00",
+          "alt": "horizon-christmas-02jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-02jpg.jpg?v=1722505096",
+          "variant_ids": [
+            44414032838845
+          ]
+        },
+        "available": true,
+        "price": "50.00",
+        "grams": 203,
+        "compare_at_price": "100.00",
+        "position": 2,
+        "product_id": 7854167720125,
+        "created_at": "2024-08-01T11:27:36+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44414032871613,
+        "title": "Jolly Season (03)",
+        "option1": "Jolly Season (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948803",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171021521085,
+          "product_id": 7854167720125,
+          "position": 6,
+          "created_at": "2024-08-01T11:38:14+02:00",
+          "updated_at": "2024-08-01T11:38:16+02:00",
+          "alt": "horizon-christmas-03jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-03jpg.jpg?v=1722505096",
+          "variant_ids": [
+            44414032871613
+          ]
+        },
+        "available": true,
+        "price": "50.00",
+        "grams": 203,
+        "compare_at_price": "100.00",
+        "position": 3,
+        "product_id": 7854167720125,
+        "created_at": "2024-08-01T11:27:36+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44414032904381,
+        "title": "Christmas Hygge (04)",
+        "option1": "Christmas Hygge (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948804",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171021553853,
+          "product_id": 7854167720125,
+          "position": 7,
+          "created_at": "2024-08-01T11:38:14+02:00",
+          "updated_at": "2024-08-01T11:38:16+02:00",
+          "alt": "horizon-christmas-04jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-04jpg.jpg?v=1722505096",
+          "variant_ids": [
+            44414032904381
+          ]
+        },
+        "available": true,
+        "price": "50.00",
+        "grams": 203,
+        "compare_at_price": "100.00",
+        "position": 4,
+        "product_id": 7854167720125,
+        "created_at": "2024-08-01T11:27:36+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44414032937149,
+        "title": "Holiday Spirit (05)",
+        "option1": "Holiday Spirit (05)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948805",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171021357245,
+          "product_id": 7854167720125,
+          "position": 8,
+          "created_at": "2024-08-01T11:38:14+02:00",
+          "updated_at": "2024-08-01T11:38:16+02:00",
+          "alt": "horizon-christmas-05jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-05jpg.jpg?v=1722505096",
+          "variant_ids": [
+            44414032937149
+          ]
+        },
+        "available": true,
+        "price": "50.00",
+        "grams": 203,
+        "compare_at_price": "100.00",
+        "position": 5,
+        "product_id": 7854167720125,
+        "created_at": "2024-08-01T11:27:36+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35171021390013,
+        "created_at": "2024-08-01T11:38:14+02:00",
+        "position": 1,
+        "updated_at": "2024-08-01T11:38:16+02:00",
+        "product_id": 7854167720125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1660814681-front-2jpg.jpg?v=1722505096",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171021324477,
+        "created_at": "2024-08-01T11:38:14+02:00",
+        "position": 2,
+        "updated_at": "2024-08-01T11:38:16+02:00",
+        "product_id": 7854167720125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/christmas-horizon-1-1-picture-sylwia-personjpg.jpg?v=1722505096",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35171021455549,
+        "created_at": "2024-08-01T11:38:14+02:00",
+        "position": 3,
+        "updated_at": "2024-08-01T11:38:16+02:00",
+        "product_id": 7854167720125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizonchristmas-1-1-picture-katrina-christmasjpg.jpg?v=1722505096",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35171021488317,
+        "created_at": "2024-08-01T11:38:14+02:00",
+        "position": 4,
+        "updated_at": "2024-08-01T11:38:16+02:00",
+        "product_id": 7854167720125,
+        "variant_ids": [
+          44414032806077
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-01jpg.jpg?v=1722505096",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171021422781,
+        "created_at": "2024-08-01T11:38:14+02:00",
+        "position": 5,
+        "updated_at": "2024-08-01T11:38:16+02:00",
+        "product_id": 7854167720125,
+        "variant_ids": [
+          44414032838845
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-02jpg.jpg?v=1722505096",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171021521085,
+        "created_at": "2024-08-01T11:38:14+02:00",
+        "position": 6,
+        "updated_at": "2024-08-01T11:38:16+02:00",
+        "product_id": 7854167720125,
+        "variant_ids": [
+          44414032871613
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-03jpg.jpg?v=1722505096",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171021553853,
+        "created_at": "2024-08-01T11:38:14+02:00",
+        "position": 7,
+        "updated_at": "2024-08-01T11:38:16+02:00",
+        "product_id": 7854167720125,
+        "variant_ids": [
+          44414032904381
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-04jpg.jpg?v=1722505096",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171021357245,
+        "created_at": "2024-08-01T11:38:14+02:00",
+        "position": 8,
+        "updated_at": "2024-08-01T11:38:16+02:00",
+        "product_id": 7854167720125,
+        "variant_ids": [
+          44414032937149
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/horizon-christmas-05jpg.jpg?v=1722505096",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Christmas Tree (01)",
+          "Nordic Santa (02)",
+          "Jolly Season (03)",
+          "Christmas Hygge (04)",
+          "Holiday Spirit (05)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7880047788221,
+    "title": "Kalendarz Adwentowy dla Dziergaj\u0105cych na drutach",
+    "handle": "hp-1007650-advent-knit-2024-1007650",
+    "body_html": "<p>W Hobbi jeste\u015bmy, jak zawsze, podekscytowani sezonem \u015bwi\u0105tecznym. Niesie on ze sob\u0105 niesamowit\u0105 przytulno\u015b\u0107 - zapach \u015bwi\u0105tecznych ciasteczek, tu i \u00f3wdzie ozdoby \u015bwi\u0105teczne, trzaskaj\u0105cy p\u0142omie\u0144 w kominku, a tak\u017ce cudowne chwile z w\u0142\u00f3czk\u0105 w d\u0142oniach.\n</p><p>Prezentujemy tegoroczny kalendarz adwentowy, stworzony we wsp\u00f3\u0142pracy z niesamowit\u0105 Toni Lipsey, kobiet\u0105 stoj\u0105c\u0105 za TL Yarn Crafts i jej r\u00f3wnie niesamowit\u0105 mam\u0105, Gwendolyn Jones, znan\u0105 r\u00f3wnie\u017c jako Mama Gwen.</p><p>\n</p><p>Ten kalendarz jest idealny dla tych, kt\u00f3rzy uwielbiaj\u0105 dzierga\u0107 na drutach, kochaj\u0105 niespodzianki i \u015bwi\u0105teczn\u0105 atmosfer\u0119. Kalendarz sk\u0142ada si\u0119 z czterech pakiet\u00f3w. Jeden pakiet na ka\u017cd\u0105 niedziel\u0119 Adwentu. W ka\u017cdym pakiecie znajdziesz wspania\u0142e po\u0142\u0105czenie ulubionej w\u0142\u00f3czki Hobbii i uroczych akcesori\u00f3w, a tak\u017ce unikalny link i kod QR, kt\u00f3ry daje dost\u0119p do zupe\u0142nie nowego wzoru dziewiarskiego od Mamy Gwen.</p><p>\n</p><p>Podczas gdy Ty z niecierpliwo\u015bci\u0105 czekasz na otwarcie swojego kalendarza adwentowego, mo\u017cesz wykorzysta\u0107 ten czas na znalezienie drut\u00f3w na \u017cy\u0142ce w rozmiarach 3,5 mm / 4 mm / 4,5 mm / 5,5 mm \u2013 na pewno b\u0119d\u0105 Ci potrzebne!</p><p>Mamy nadziej\u0119, \u017ce nasz kalendarz adwentowy sprawi, \u017ce grudzie\u0144 b\u0119dzie jeszcze bardziej magiczny i przytulny. Ciesz si\u0119 wi\u0119c na czas wype\u0142niony dziewiarsk\u0105 rado\u015bci\u0105 i \u015bwi\u0105tecznym duchem!</p><p>\n</p><p>Ten kalendarz adwentowy jest r\u00f3wnie\u017c idealnym prezentem na Bo\u017ce Narodzenie dla bliskiej Ci osoby, kt\u00f3ra uwielbia dzierga\u0107 na drutach.</p><p>Weso\u0142ych \u015awi\u0105t Bo\u017cego Narodzenia \u2013 i moc dziewiarskiej przytulno\u015bci!</p><p>\n</p><p>Uwaga: Je\u015bli zam\u00f3wisz kalendarz adwentowy razem z innymi produktami, pozosta\u0142a cz\u0119\u015b\u0107 zam\u00f3wienia zostanie wys\u0142ana osobno. Nie martw si\u0119 \u2013 nie ma \u017cadnych dodatkowych koszt\u00f3w wysy\u0142ki dla ca\u0142ego zam\u00f3wienia.</p><p>\n</p><p><em>Kalendarz adwentowy nie jest odpowiedni dla os\u00f3b z alergi\u0105 na we\u0142n\u0119.</em></p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44498568675517,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1280_knitting_advent_calendar_2024",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "370.98",
+        "grams": 1720,
+        "compare_at_price": "458.00",
+        "position": 1,
+        "product_id": 7880047788221,
+        "created_at": "2024-09-12T09:21:07+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35372889800893,
+        "created_at": "2024-09-16T09:22:10+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T09:22:12+02:00",
+        "product_id": 7880047788221,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/10d0d68a374174a8e45d883a4a0ef2c3b61fa6b0-2523x2523jpg.jpg?v=1726471332",
+        "width": 2523,
+        "height": 2523
+      },
+      {
+        "id": 35372889768125,
+        "created_at": "2024-09-16T09:22:10+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T09:22:12+02:00",
+        "product_id": 7880047788221,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/60359144d7f982a8a561535ab899f9469c62d5ef-2293x2293jpg.jpg?v=1726471332",
+        "width": 2293,
+        "height": 2293
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855974875325,
+    "title": "Starlight Soft Christmas (Edycja Limitowana)",
+    "handle": "hp-1003218-starlight-soft",
+    "body_html": "<p><strong>Starlight Soft\u00a0Christmas\u00a0</strong>to mi\u0119kka i cudowna wersja naszej bardzo popularnej w\u0142\u00f3czki Starlight. Jest w niej ta sama odbijaj\u0105ca \u015bwiat\u0142o nitka, skr\u0119cona z prz\u0119dz\u0105 i niewyczuwalna w gotowym wyrobie. Swoj\u0105 obecno\u015b\u0107 ujawnia dopiero, gdy padnie na ni\u0105 \u015bwiat\u0142o, wtedy b\u0142yszczy. Daje to dyskretny i zabawny efekt, szczeg\u00f3lnie po\u017c\u0105dany w trakcie tych ciemniejszych miesi\u0119cy.</p><p>Praca z <strong>Starlight Soft</strong>\u00a0<strong>Christmas\u00a0</strong>idzie jak po ma\u015ble, na drutach nr 5 w\u0142\u00f3czka bardzo szybko przekszta\u0142ca si\u0119 w czapki, r\u0119kawice, szale itp. Nie drapie, jest mi\u0119kka i przyjemna w dotyku. I oczywi\u015bcie mo\u017ce by\u0107 u\u017cywana przez osoby uczulone na we\u0142n\u0119!</p><p><em>Zwr\u00f3\u0107 prosz\u0119 uwag\u0119, \u017ce w\u0142\u00f3czka Starlight nie jest zarejestrowana jako zwi\u0119kszaj\u0105ca widoczno\u015b\u0107 uczestnika ruchu i tym samym jego bezpiecze\u0144stwo na drodze. Nawet je\u017celi wykonasz z niej ca\u0142y str\u00f3j, to powinno si\u0119 go traktowa\u0107 tylko jako dodatek i pod \u017cadnym pozorem nie mo\u017ce zast\u0105pi\u0107 prawdziwych odblask\u00f3w czy kamizelek odblaskowych. Uwa\u017caj na drodze i zapewnij sobie bezpiecze\u0144stwo, u\u017cywaj\u0105c materia\u0142\u00f3w odblaskowych z certyfikatem CE.</em></p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420890493117,
+        "title": "DUMMY COLOUR",
+        "option1": "DUMMY COLOUR",
+        "option2": null,
+        "option3": null,
+        "sku": "XXXXXXXX",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "18.13",
+        "grams": 0,
+        "compare_at_price": "37.00",
+        "position": 1,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890525885,
+        "title": "Snow (01)",
+        "option1": "Snow (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934201",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292401853,
+          "product_id": 7855974875325,
+          "position": 1,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "c76fdba24a73f241d90825d6301dfc769aebe3df-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c76fdba24a73f241d90825d6301dfc769aebe3df-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890525885
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 2,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890558653,
+        "title": "Natural White (02)",
+        "option1": "Natural White (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934202",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292238013,
+          "product_id": 7855974875325,
+          "position": 2,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "47f93d810c4cfdb076fd9fec6b60ab70f467a6a0-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/47f93d810c4cfdb076fd9fec6b60ab70f467a6a0-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890558653
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 3,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890591421,
+        "title": "Warm Grey (03)",
+        "option1": "Warm Grey (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934203",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292762301,
+          "product_id": 7855974875325,
+          "position": 3,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "4a6f700f3869860d4f740df33bd50bf5855c1c0d-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4a6f700f3869860d4f740df33bd50bf5855c1c0d-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890591421
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 4,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890624189,
+        "title": "Titanium (04)",
+        "option1": "Titanium (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934204",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292336317,
+          "product_id": 7855974875325,
+          "position": 4,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "1ea17fb3e46402af48de887697c0e8adcef37c15-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1ea17fb3e46402af48de887697c0e8adcef37c15-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890624189
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 5,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890656957,
+        "title": "Light Grey (05)",
+        "option1": "Light Grey (05)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934205",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292369085,
+          "product_id": 7855974875325,
+          "position": 5,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "180c5758e2506dfb6282c23d2faa69ffae2ad75a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/180c5758e2506dfb6282c23d2faa69ffae2ad75a-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890656957
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 6,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890689725,
+        "title": "Dark Grey (06)",
+        "option1": "Dark Grey (06)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934206",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292500157,
+          "product_id": 7855974875325,
+          "position": 6,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "c4659879a09ae944aa66c630414c1a82723d1a1c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c4659879a09ae944aa66c630414c1a82723d1a1c-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890689725
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 7,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890722493,
+        "title": "Black (07)",
+        "option1": "Black (07)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934207",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292696765,
+          "product_id": 7855974875325,
+          "position": 7,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "801ea45e0276588b301c298341d6c891242d2150-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/801ea45e0276588b301c298341d6c891242d2150-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890722493
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 8,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890755261,
+        "title": "Dark Blue (08)",
+        "option1": "Dark Blue (08)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934208",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292270781,
+          "product_id": 7855974875325,
+          "position": 8,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "7129194c74911b09e1440ea2fde01e5572ec861b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7129194c74911b09e1440ea2fde01e5572ec861b-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890755261
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 9,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890788029,
+        "title": "Ocean Blue (09)",
+        "option1": "Ocean Blue (09)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934209",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292631229,
+          "product_id": 7855974875325,
+          "position": 9,
+          "created_at": "2024-08-28T11:19:05+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "b1cdd27d3f1842bd6bc2c787cc6fd4494affb3c7-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b1cdd27d3f1842bd6bc2c787cc6fd4494affb3c7-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890788029
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 10,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890820797,
+        "title": "Bright Blue (10)",
+        "option1": "Bright Blue (10)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934210",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292467389,
+          "product_id": 7855974875325,
+          "position": 10,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "08a49bff799712fa5e97478d1939882915a1fc4a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/08a49bff799712fa5e97478d1939882915a1fc4a-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890820797
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 11,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890853565,
+        "title": "Sky Blue (11)",
+        "option1": "Sky Blue (11)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934211",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292139709,
+          "product_id": 7855974875325,
+          "position": 11,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "a592be1fc759896c7dd5ebec797c3bec09dbcd31-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a592be1fc759896c7dd5ebec797c3bec09dbcd31-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890853565
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 12,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890886333,
+        "title": "Petrol Green (12)",
+        "option1": "Petrol Green (12)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934212",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292795069,
+          "product_id": 7855974875325,
+          "position": 12,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "22c1475f91a62e192bcf017bada6874e17bf941f-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22c1475f91a62e192bcf017bada6874e17bf941f-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890886333
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 13,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890919101,
+        "title": "Seafoam (13)",
+        "option1": "Seafoam (13)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934213",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292532925,
+          "product_id": 7855974875325,
+          "position": 13,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "89fd61bca7e3881c063c1ee6ca7307c66359e008-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/89fd61bca7e3881c063c1ee6ca7307c66359e008-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890919101
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 14,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890951869,
+        "title": "Powder Pink (14)",
+        "option1": "Powder Pink (14)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934214",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292565693,
+          "product_id": 7855974875325,
+          "position": 14,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "ae503ae9824de2825ffa8a0c68d53a76a2e300bf-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ae503ae9824de2825ffa8a0c68d53a76a2e300bf-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890951869
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 15,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420890984637,
+        "title": "Light Pink (15)",
+        "option1": "Light Pink (15)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934215",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292434621,
+          "product_id": 7855974875325,
+          "position": 15,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "a9605aa41cf4ec24d7bdd04dda2a318e5598ffe4-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a9605aa41cf4ec24d7bdd04dda2a318e5598ffe4-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420890984637
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 16,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420891017405,
+        "title": "Dusty Rose (16)",
+        "option1": "Dusty Rose (16)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934216",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292172477,
+          "product_id": 7855974875325,
+          "position": 16,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "248c93e3060967357a328a0932f132f76021c7ba-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/248c93e3060967357a328a0932f132f76021c7ba-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420891017405
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 17,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420891050173,
+        "title": "Wine (17)",
+        "option1": "Wine (17)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934217",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292303549,
+          "product_id": 7855974875325,
+          "position": 17,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "e2cd55d257c25dc25a9a66b46eca22033e69e6de-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e2cd55d257c25dc25a9a66b46eca22033e69e6de-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420891050173
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 18,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420891082941,
+        "title": "Scarlet (18)",
+        "option1": "Scarlet (18)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934218",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292729533,
+          "product_id": 7855974875325,
+          "position": 18,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "16a7e609511cb2043f7698be35c3cb66f7e20aa7-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16a7e609511cb2043f7698be35c3cb66f7e20aa7-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420891082941
+          ]
+        },
+        "available": true,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 19,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420891115709,
+        "title": "Petunia (19)",
+        "option1": "Petunia (19)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934219",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292598461,
+          "product_id": 7855974875325,
+          "position": 19,
+          "created_at": "2024-08-28T11:19:06+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "e5b852433f0cb4f4ec34f3c143366f122b3b3778-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e5b852433f0cb4f4ec34f3c143366f122b3b3778-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420891115709
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 20,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420891148477,
+        "title": "Cognac (20)",
+        "option1": "Cognac (20)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934220",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292663997,
+          "product_id": 7855974875325,
+          "position": 20,
+          "created_at": "2024-08-28T11:19:07+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "2a7eea6da4fa0d38e290a72ba43efe8c95059223-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2a7eea6da4fa0d38e290a72ba43efe8c95059223-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420891148477
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 21,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420891181245,
+        "title": "Curry (21)",
+        "option1": "Curry (21)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001934221",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35291292205245,
+          "product_id": 7855974875325,
+          "position": 21,
+          "created_at": "2024-08-28T11:19:07+02:00",
+          "updated_at": "2024-08-28T11:19:09+02:00",
+          "alt": "be4194e8f96a174d40dba0b00b416588bd5722ef-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be4194e8f96a174d40dba0b00b416588bd5722ef-1200x1200jpg.jpg?v=1724836749",
+          "variant_ids": [
+            44420891181245
+          ]
+        },
+        "available": false,
+        "price": "18.13",
+        "grams": 53,
+        "compare_at_price": "37.00",
+        "position": 22,
+        "product_id": 7855974875325,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35291292401853,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 1,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890525885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c76fdba24a73f241d90825d6301dfc769aebe3df-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292238013,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 2,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890558653
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/47f93d810c4cfdb076fd9fec6b60ab70f467a6a0-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292762301,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 3,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890591421
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4a6f700f3869860d4f740df33bd50bf5855c1c0d-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292336317,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 4,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890624189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1ea17fb3e46402af48de887697c0e8adcef37c15-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292369085,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 5,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890656957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/180c5758e2506dfb6282c23d2faa69ffae2ad75a-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292500157,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 6,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890689725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c4659879a09ae944aa66c630414c1a82723d1a1c-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292696765,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 7,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890722493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/801ea45e0276588b301c298341d6c891242d2150-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292270781,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 8,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890755261
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7129194c74911b09e1440ea2fde01e5572ec861b-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292631229,
+        "created_at": "2024-08-28T11:19:05+02:00",
+        "position": 9,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890788029
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b1cdd27d3f1842bd6bc2c787cc6fd4494affb3c7-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292467389,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 10,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890820797
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/08a49bff799712fa5e97478d1939882915a1fc4a-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292139709,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 11,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890853565
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a592be1fc759896c7dd5ebec797c3bec09dbcd31-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292795069,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 12,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890886333
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22c1475f91a62e192bcf017bada6874e17bf941f-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292532925,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 13,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890919101
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/89fd61bca7e3881c063c1ee6ca7307c66359e008-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292565693,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 14,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890951869
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ae503ae9824de2825ffa8a0c68d53a76a2e300bf-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292434621,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 15,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420890984637
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a9605aa41cf4ec24d7bdd04dda2a318e5598ffe4-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292172477,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 16,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420891017405
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/248c93e3060967357a328a0932f132f76021c7ba-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292303549,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 17,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420891050173
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e2cd55d257c25dc25a9a66b46eca22033e69e6de-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292729533,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 18,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420891082941
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16a7e609511cb2043f7698be35c3cb66f7e20aa7-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292598461,
+        "created_at": "2024-08-28T11:19:06+02:00",
+        "position": 19,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420891115709
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e5b852433f0cb4f4ec34f3c143366f122b3b3778-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292663997,
+        "created_at": "2024-08-28T11:19:07+02:00",
+        "position": 20,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420891148477
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2a7eea6da4fa0d38e290a72ba43efe8c95059223-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35291292205245,
+        "created_at": "2024-08-28T11:19:07+02:00",
+        "position": 21,
+        "updated_at": "2024-08-28T11:19:09+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [
+          44420891181245
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be4194e8f96a174d40dba0b00b416588bd5722ef-1200x1200jpg.jpg?v=1724836749",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35408853106877,
+        "created_at": "2024-09-23T09:08:43+02:00",
+        "position": 22,
+        "updated_at": "2024-09-23T09:08:45+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/18adfc001f8a6c77a3c404fd8ca947b34ee03b3b-1620x1620jpg.jpg?v=1727075325",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35408853008573,
+        "created_at": "2024-09-23T09:08:43+02:00",
+        "position": 23,
+        "updated_at": "2024-09-23T09:08:44+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8fe759b57b753b16732c67470790a45fa81848f0-1620x1620jpg.jpg?v=1727075324",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35408853041341,
+        "created_at": "2024-09-23T09:08:43+02:00",
+        "position": 24,
+        "updated_at": "2024-09-23T09:08:44+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/37de410c93b248bceb1a67a4f42698d10d2062c3-1620x1620jpg.jpg?v=1727075324",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35408853074109,
+        "created_at": "2024-09-23T09:08:43+02:00",
+        "position": 25,
+        "updated_at": "2024-09-23T09:08:44+02:00",
+        "product_id": 7855974875325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0e7c216736bb5c53260170ccc06a8e4f702241af-1620x1620jpg.jpg?v=1727075324",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "DUMMY COLOUR",
+          "Snow (01)",
+          "Natural White (02)",
+          "Warm Grey (03)",
+          "Titanium (04)",
+          "Light Grey (05)",
+          "Dark Grey (06)",
+          "Black (07)",
+          "Dark Blue (08)",
+          "Ocean Blue (09)",
+          "Bright Blue (10)",
+          "Sky Blue (11)",
+          "Petrol Green (12)",
+          "Seafoam (13)",
+          "Powder Pink (14)",
+          "Light Pink (15)",
+          "Dusty Rose (16)",
+          "Wine (17)",
+          "Scarlet (18)",
+          "Petunia (19)",
+          "Cognac (20)",
+          "Curry (21)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856015245501,
+    "title": "Etykiety na prezent",
+    "handle": "hp-1005867-gift-tags",
+    "body_html": "<p>Ka\u017cdy lubi dostawa\u0107 r\u0119cznie wykonane prezenty. A wi\u0119kszo\u015b\u0107 z nas uwielbia obdarowywa\u0107 i sprawia\u0107 niespodzianki :-) Dzi\u0119ki tym \u0142adnym etykietom sprawisz, \u017ce Twoje prezenty b\u0119d\u0105 wyj\u0105tkowe!</p><p>Zestaw etykiet na prezent zawiera cztery r\u00f3\u017cne wzory, kolory i nadruki. Nie masz w\u0105tpliwo\u015bci, \u017ce prezent to r\u0119kodzie\u0142o.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421080285373,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0476",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "12.00",
+        "grams": 26,
+        "compare_at_price": "20.00",
+        "position": 1,
+        "product_id": 7856015245501,
+        "created_at": "2024-08-05T10:34:13+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185084432573,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-3-1jpg.jpg?v=1722852101",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185084465341,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards1jpg.jpg?v=1722852101",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185084530877,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-2-1jpg.jpg?v=1722852101",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185084498109,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/gifttags-1-1-picture-katrina-home-2jpg.jpg?v=1722852101",
+        "width": 2689,
+        "height": 2689
+      },
+      {
+        "id": 35185084563645,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/gifttags-1-1-picture-katrina-home-1jpg.jpg?v=1722852101",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856010592445,
+    "title": "Guziki plastikowe \u2013 \u015bwi\u0105teczne kolory",
+    "handle": "hp-1006602-plastic-buttons-100-pcs",
+    "body_html": "<p>Oto du\u017ca i pi\u0119kna kolekcja plastikowych guzik\u00f3w w \u015bwi\u0105tecznych kolorach. Otrzymasz czerwone, zielone i bia\u0142e guziki, kt\u00f3re maj\u0105 \u015brednic\u0119 1, 2 lub 3 cm.\n</p><p>Wszystkie guziki maj\u0105 4 dziurki i p\u0142aski, okr\u0105g\u0142y kszta\u0142t z kraw\u0119dzi\u0105.</p><p>Mamy nadziej\u0119, \u017ce te urocze guziki zainspiruj\u0105 Ci\u0119 do rozkwitu Twojej \u015bwi\u0105tecznej kreatywno\u015bci!</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421061083325,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1127",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.16",
+        "grams": 80,
+        "compare_at_price": "33.00",
+        "position": 1,
+        "product_id": 7856010592445,
+        "created_at": "2024-08-05T10:33:34+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185044684989,
+        "created_at": "2024-08-05T11:58:02+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:58:04+02:00",
+        "product_id": 7856010592445,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/christmas-buttons1jpg.jpg?v=1722851884",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185045078205,
+        "created_at": "2024-08-05T11:58:02+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:58:04+02:00",
+        "product_id": 7856010592445,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/christmas-buttons2jpg.jpg?v=1722851884",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185044881597,
+        "created_at": "2024-08-05T11:58:02+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:58:04+02:00",
+        "product_id": 7856010592445,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/christmas-buttonsjpg.jpg?v=1722851884",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7879167115453,
+    "title": "\u015awi\u0105teczne znaczniki \u015bcieg\u00f3w - Snowflake",
+    "handle": "hp-1007734-christmas-stitch-markers-2024",
+    "body_html": "<p>Oto zabawny i kolorowy \u015bwi\u0105teczny zestaw z czterema znacznikami \u015bcieg\u00f3w. Urocze motywy w zielonym, czerwonym i bia\u0142ym kolorze z pewno\u015bci\u0105 wprawi\u0105 ci\u0119 w \u015bwi\u0105teczny nastr\u00f3j, gdy b\u0119dziesz dzierga\u0107 na drutach lub szyde\u0142kowa\u0107!\n</p><p>U\u017cyj ich, aby zaznaczy\u0107, gdzie nale\u017cy odj\u0105\u0107 i doda\u0107 oczka, gdzie zaczyna si\u0119 i ko\u0144czy nowy wz\u00f3r lub po prostu oznacz pocz\u0105tek okr\u0105\u017cenia. Znaczniki s\u0105 zamykane dzi\u0119ki czemu mo\u017cesz oznaczy\u0107 konkretne oczko i przesun\u0105\u0107 znacznik w razie potrzeby.</p><p>Znaczniki \u015bcieg\u00f3w sk\u0142adaj\u0105 si\u0119 z haczyka z zawieszk\u0105 i obie cz\u0119\u015bci wykonane s\u0105 z metalu w z\u0142otym kolorze. Znaczniki pasuj\u0105 na druty do 8 mm.</p><p>Naprawd\u0119 nie chcesz przegapi\u0107 tych uroczych \u015bwi\u0105tecznych znacznik\u00f3w! W opakowaniu znajduje si\u0119 choinka, ludzik z ciasta, p\u0142atek \u015bniegu i \u015awi\u0119ty Miko\u0142aj.</p><p>D\u0142ugo\u015b\u0107 zawieszki: 1,5 - 2 cm</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44495269331133,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1356",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "21.96",
+        "grams": 10,
+        "compare_at_price": "36.00",
+        "position": 1,
+        "product_id": 7879167115453,
+        "created_at": "2024-09-10T10:50:07+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35352827723965,
+        "created_at": "2024-09-10T10:51:14+02:00",
+        "position": 1,
+        "updated_at": "2024-09-10T10:51:16+02:00",
+        "product_id": 7879167115453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6bde3d5b107cb38ebf268aa32260d31416d0473b-1200x1200jpg.jpg?v=1725958276",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855982051517,
+    "title": "Drewniane Guziki \u2013 \u015awi\u0105teczne - 18 mm",
+    "handle": "hp-1006603-wooden-buttons-christmas-18-mm",
+    "body_html": "<p>Ta wspania\u0142a kolekcja drewnianych guzik\u00f3w to pozycja obowi\u0105zkowa dla mi\u0142o\u015bnik\u00f3w \u015bwi\u0105t Bo\u017cego Narodzenia i projekt\u00f3w bo\u017conarodzeniowych.\n</p><p>W tym opakowaniu otrzymasz 36 guzik\u00f3w w 4 pi\u0119knych \u015bwi\u0105tecznych motywach.</p><p>Nadaj\u0105 si\u0119 do wi\u0119kszo\u015bci projekt\u00f3w dzi\u0119ki \u015brednicy 18 mm. Maj\u0105 p\u0142aski, okr\u0105g\u0142y kszta\u0142t i dwie dziurki.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420923949245,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1128",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.16",
+        "grams": 50,
+        "compare_at_price": "33.00",
+        "position": 1,
+        "product_id": 7855982051517,
+        "created_at": "2024-08-05T10:30:12+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184748331197,
+        "created_at": "2024-08-05T11:33:16+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:33:18+02:00",
+        "product_id": 7855982051517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/christmas-wooden-buttonsjpg.jpg?v=1722850398",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184748265661,
+        "created_at": "2024-08-05T11:33:16+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:33:18+02:00",
+        "product_id": 7855982051517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693810287-christmas-wooden-buttonsjpg.jpg?v=1722850398",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184748363965,
+        "created_at": "2024-08-05T11:33:16+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:33:18+02:00",
+        "product_id": 7855982051517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/christmas-wooden-buttons-3-1jpg.jpg?v=1722850398",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184748298429,
+        "created_at": "2024-08-05T11:33:16+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:33:18+02:00",
+        "product_id": 7855982051517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/christmas-wooden-buttons-1jpg.jpg?v=1722850398",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7860858978493,
+    "title": "Wheel of Alpaca Christmas (Edycja Limitowana)",
+    "handle": "hp-1007326-wheel-of-alpaca-christmas-limited-edition",
+    "body_html": "<p>Mo\u017cliwo\u015bci kolorystyczne, jakie oferuje akryl, spotykaj\u0105 si\u0119 z najdelikatniejsz\u0105 w\u0142\u00f3czk\u0105 z alpaki, tworz\u0105c <strong>Wheel of Alpaca Christmas</strong>, najbardziej luksusow\u0105 z naszych akrylowych w\u0142\u00f3czek typu cake, teraz w \u015bwi\u0105tecznej wersji.\n</p><p><strong>Wheel of Alpaca\u00a0Christmas\u00a0</strong>sk\u0142ada si\u0119 w 80% z akrylu i w 20% z alpaki. Ta mieszanka sprawi, \u017ce zwolennicy akrylu zakochaj\u0105 si\u0119, a przeciwnicy rozwa\u017c\u0105 u\u017cycie tej w\u0142\u00f3czki.</p><p>Przej\u015bcia kolorystyczne s\u0105 gradientami, tworz\u0105c pi\u0119kny efekt ombr\u00e9, kt\u00f3ry obejmuje wszystkie weso\u0142e odcienie.</p><p>Je\u015bli inne nasze w\u0142\u00f3czki typu cake wydawa\u0142y si\u0119 nieco trudne w obr\u00f3bce, ta pi\u0119kna w\u0142\u00f3czka jest grubsza i przyjazna dla pocz\u0105tkuj\u0105cych, poniewa\u017c do dziergania mo\u017cesz u\u017cy\u0107 drut\u00f3w o grubo\u015bci 3,5 mm lub szyde\u0142ka 4,5 mm. <strong>Wheel of Alpaca\u00a0Christmas\u00a0</strong>ma 940 metr\u00f3w wyj\u0105tkowo mi\u0119kkiej puszysto\u015bci i zapewni wiele przytulnych godzin sp\u0119dzonych na dzierganiu lub szyde\u0142kowaniu. Jeden motek wystarczy, aby zrobi\u0107 na drutach/szyde\u0142ku chust\u0119 lub szal. W\u0142\u00f3czka ta idealnie nada si\u0119 na mi\u0119kk\u0105 odzie\u017c, a tak\u017ce przytulne koce. Ponadto b\u0119dzie \u015bwietn\u0105 alternatyw\u0105 dla os\u00f3b uczulonych na we\u0142n\u0119 owcz\u0105.</p><p>Wszystkie motki posiadaj\u0105 tak zwany &quot;Easy Start\u201d, dzi\u0119ki czemu bardzo \u0142atwo znajdziesz pocz\u0105tek w\u0142\u00f3czki.</p><p><strong>Wheel of Alpaca Christmas</strong> to grubsza wersja, na kt\u00f3r\u0105 wszyscy czekali\u015bmy, aby wprowadzi\u0107 si\u0119 w \u015bwi\u0105teczny nastr\u00f3j.\n</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a></p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44438849323197,
+        "title": "Holly (01)",
+        "option1": "Holly (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35262607917245,
+          "product_id": 7860858978493,
+          "position": 1,
+          "created_at": "2024-08-22T14:01:15+02:00",
+          "updated_at": "2024-08-22T14:01:17+02:00",
+          "alt": "66893db991f0e0185215bb8b0039e063afbdbcf4-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/66893db991f0e0185215bb8b0039e063afbdbcf4-1200x1200jpg.jpg?v=1724328077",
+          "variant_ids": [
+            44438849323197
+          ]
+        },
+        "available": true,
+        "price": "79.50",
+        "grams": 253,
+        "compare_at_price": "159.00",
+        "position": 1,
+        "product_id": 7860858978493,
+        "created_at": "2024-08-14T16:11:44+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44438849355965,
+        "title": "Gingerbread (02)",
+        "option1": "Gingerbread (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32002",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35262607950013,
+          "product_id": 7860858978493,
+          "position": 2,
+          "created_at": "2024-08-22T14:01:15+02:00",
+          "updated_at": "2024-08-22T14:01:17+02:00",
+          "alt": "51ac5d8089a00020db11fbdcebf32f4150a70338-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/51ac5d8089a00020db11fbdcebf32f4150a70338-1200x1200jpg.jpg?v=1724328077",
+          "variant_ids": [
+            44438849355965
+          ]
+        },
+        "available": true,
+        "price": "79.50",
+        "grams": 253,
+        "compare_at_price": "159.00",
+        "position": 2,
+        "product_id": 7860858978493,
+        "created_at": "2024-08-14T16:11:44+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44438849388733,
+        "title": "Snowflake (03)",
+        "option1": "Snowflake (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32003",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35262608048317,
+          "product_id": 7860858978493,
+          "position": 3,
+          "created_at": "2024-08-22T14:01:15+02:00",
+          "updated_at": "2024-08-22T14:01:17+02:00",
+          "alt": "13830b887f5c5b9ff24459dfe84137c4f953937e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/13830b887f5c5b9ff24459dfe84137c4f953937e-1200x1200jpg.jpg?v=1724328077",
+          "variant_ids": [
+            44438849388733
+          ]
+        },
+        "available": false,
+        "price": "79.50",
+        "grams": 253,
+        "compare_at_price": "159.00",
+        "position": 3,
+        "product_id": 7860858978493,
+        "created_at": "2024-08-14T16:11:44+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44438849421501,
+        "title": "Christmas Eve (04)",
+        "option1": "Christmas Eve (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32004",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35262607884477,
+          "product_id": 7860858978493,
+          "position": 4,
+          "created_at": "2024-08-22T14:01:15+02:00",
+          "updated_at": "2024-08-22T14:01:17+02:00",
+          "alt": "63ada85fe59fab17f01dd51df772e9b632ebb100-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/63ada85fe59fab17f01dd51df772e9b632ebb100-1200x1200jpg.jpg?v=1724328077",
+          "variant_ids": [
+            44438849421501
+          ]
+        },
+        "available": true,
+        "price": "79.50",
+        "grams": 253,
+        "compare_at_price": "159.00",
+        "position": 4,
+        "product_id": 7860858978493,
+        "created_at": "2024-08-14T16:11:44+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35262607917245,
+        "created_at": "2024-08-22T14:01:15+02:00",
+        "position": 1,
+        "updated_at": "2024-08-22T14:01:17+02:00",
+        "product_id": 7860858978493,
+        "variant_ids": [
+          44438849323197
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/66893db991f0e0185215bb8b0039e063afbdbcf4-1200x1200jpg.jpg?v=1724328077",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35262607950013,
+        "created_at": "2024-08-22T14:01:15+02:00",
+        "position": 2,
+        "updated_at": "2024-08-22T14:01:17+02:00",
+        "product_id": 7860858978493,
+        "variant_ids": [
+          44438849355965
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/51ac5d8089a00020db11fbdcebf32f4150a70338-1200x1200jpg.jpg?v=1724328077",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35262608048317,
+        "created_at": "2024-08-22T14:01:15+02:00",
+        "position": 3,
+        "updated_at": "2024-08-22T14:01:17+02:00",
+        "product_id": 7860858978493,
+        "variant_ids": [
+          44438849388733
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/13830b887f5c5b9ff24459dfe84137c4f953937e-1200x1200jpg.jpg?v=1724328077",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35262607884477,
+        "created_at": "2024-08-22T14:01:15+02:00",
+        "position": 4,
+        "updated_at": "2024-08-22T14:01:17+02:00",
+        "product_id": 7860858978493,
+        "variant_ids": [
+          44438849421501
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/63ada85fe59fab17f01dd51df772e9b632ebb100-1200x1200jpg.jpg?v=1724328077",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35408895377597,
+        "created_at": "2024-09-23T09:16:13+02:00",
+        "position": 5,
+        "updated_at": "2024-09-23T09:16:14+02:00",
+        "product_id": 7860858978493,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dbbef2ac7bf7ec21586e256c6481098ed7a8a45e-1620x1620jpg.jpg?v=1727075774",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Holly (01)",
+          "Gingerbread (02)",
+          "Snowflake (03)",
+          "Christmas Eve (04)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7861559296189,
+    "title": "Wheel of Alpaca Christmas Glitter (Edycja Limitowana)",
+    "handle": "hp-1007385-wheel-of-alpaca-christmas-glitter-limited-edition",
+    "body_html": "<p>Mo\u017cliwo\u015bci kolorystyczne, jakie oferuje akryl, spotykaj\u0105 si\u0119 z najdelikatniejsz\u0105 w\u0142\u00f3czk\u0105 z alpaki i odrobin\u0105 delikatnego brokatu, tworz\u0105c <strong>Wheel of Alpaca Christmas Glitter</strong>, najbardziej luksusow\u0105 z naszych akrylowych w\u0142\u00f3czek typu cake, teraz w \u015bwi\u0105tecznej, brokatowej wersji.\n</p><p><strong>Wheel of Alpaca Christmas Glitter</strong> wykonana jest w 76% z akrylu po\u0142\u0105czonego z 20% alpaki i 4% poliestru. Ta mieszanka sprawi, \u017ce zwolennicy akrylu zakochaj\u0105 si\u0119, a przeciwnicy rozwa\u017c\u0105 u\u017cycie tej w\u0142\u00f3czki.</p><p>Przej\u015bcia kolorystyczne s\u0105 gradientami, tworz\u0105c pi\u0119kny efekt ombr\u00e9, kt\u00f3ry obejmuje wszystkie weso\u0142e odcienie z dodatkiem delikatnego brokatu.</p><p>Je\u015bli inne nasze w\u0142\u00f3czki typu cake wydawa\u0142y si\u0119 nieco trudne w obr\u00f3bce, ta pi\u0119kna w\u0142\u00f3czka jest grubsza i przyjazna dla pocz\u0105tkuj\u0105cych, poniewa\u017c do dziergania mo\u017cesz u\u017cy\u0107 drut\u00f3w o grubo\u015bci 3,5 mm lub szyde\u0142ka 4,5 mm. <strong>Wheel of Alpaca\u00a0Christmas Glitter\u00a0</strong>ma 940 metr\u00f3w wyj\u0105tkowo mi\u0119kkiej puszysto\u015bci i zapewni wiele przytulnych godzin sp\u0119dzonych na dzierganiu lub szyde\u0142kowaniu. Jeden motek wystarczy, aby zrobi\u0107 na drutach/szyde\u0142ku chust\u0119 lub szal. W\u0142\u00f3czka ta idealnie nada si\u0119 na mi\u0119kk\u0105 odzie\u017c, a tak\u017ce przytulne koce. Ponadto b\u0119dzie \u015bwietn\u0105 alternatyw\u0105 dla os\u00f3b uczulonych na we\u0142n\u0119 owcz\u0105.</p><p>Wszystkie motki posiadaj\u0105 tak zwany &quot;Easy Start\u201d, dzi\u0119ki czemu bardzo \u0142atwo znajdziesz pocz\u0105tek w\u0142\u00f3czki.</p><p><strong>Wheel of Alpaca</strong>\u00a0<strong>Christmas Glitter</strong>\u00a0to grubsza wersja, na kt\u00f3r\u0105 wszyscy czekali\u015bmy, aby wprowadzi\u0107 si\u0119 w \u015bwi\u0105teczny nastr\u00f3j.</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a></p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44441119031485,
+        "title": "Holly (01)",
+        "option1": "Holly (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32251",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35262642258109,
+          "product_id": 7861559296189,
+          "position": 1,
+          "created_at": "2024-08-22T14:31:15+02:00",
+          "updated_at": "2024-08-22T14:31:17+02:00",
+          "alt": "46f4baa06c7ce6e14c47bb7019fb479318ef35ee-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/46f4baa06c7ce6e14c47bb7019fb479318ef35ee-1200x1200jpg.jpg?v=1724329877",
+          "variant_ids": [
+            44441119031485
+          ]
+        },
+        "available": true,
+        "price": "79.50",
+        "grams": 253,
+        "compare_at_price": "159.00",
+        "position": 1,
+        "product_id": 7861559296189,
+        "created_at": "2024-08-15T10:56:15+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44441119064253,
+        "title": "Gingerbread (02)",
+        "option1": "Gingerbread (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32252",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35262642290877,
+          "product_id": 7861559296189,
+          "position": 2,
+          "created_at": "2024-08-22T14:31:15+02:00",
+          "updated_at": "2024-08-22T14:31:17+02:00",
+          "alt": "45a620fd98b53725823ae7c9e9f51a0e446b8ef4-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/45a620fd98b53725823ae7c9e9f51a0e446b8ef4-1200x1200jpg.jpg?v=1724329877",
+          "variant_ids": [
+            44441119064253
+          ]
+        },
+        "available": true,
+        "price": "79.50",
+        "grams": 253,
+        "compare_at_price": "159.00",
+        "position": 2,
+        "product_id": 7861559296189,
+        "created_at": "2024-08-15T10:56:15+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44441119097021,
+        "title": "Snowflake (03)",
+        "option1": "Snowflake (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32253",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35262642192573,
+          "product_id": 7861559296189,
+          "position": 3,
+          "created_at": "2024-08-22T14:31:15+02:00",
+          "updated_at": "2024-08-22T14:31:17+02:00",
+          "alt": "40a430133f2e454ba7794796b41d1959709d5db0-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/40a430133f2e454ba7794796b41d1959709d5db0-1200x1200jpg.jpg?v=1724329877",
+          "variant_ids": [
+            44441119097021
+          ]
+        },
+        "available": true,
+        "price": "79.50",
+        "grams": 253,
+        "compare_at_price": "159.00",
+        "position": 3,
+        "product_id": 7861559296189,
+        "created_at": "2024-08-15T10:56:15+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44441119129789,
+        "title": "Christmas Eve (04)",
+        "option1": "Christmas Eve (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-32254",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35262642323645,
+          "product_id": 7861559296189,
+          "position": 4,
+          "created_at": "2024-08-22T14:31:15+02:00",
+          "updated_at": "2024-08-22T14:31:17+02:00",
+          "alt": "22b67004fdcedaed547f95034b284ca906b4ee85-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22b67004fdcedaed547f95034b284ca906b4ee85-1200x1200jpg.jpg?v=1724329877",
+          "variant_ids": [
+            44441119129789
+          ]
+        },
+        "available": true,
+        "price": "79.50",
+        "grams": 253,
+        "compare_at_price": "159.00",
+        "position": 4,
+        "product_id": 7861559296189,
+        "created_at": "2024-08-15T10:56:15+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35262642258109,
+        "created_at": "2024-08-22T14:31:15+02:00",
+        "position": 1,
+        "updated_at": "2024-08-22T14:31:17+02:00",
+        "product_id": 7861559296189,
+        "variant_ids": [
+          44441119031485
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/46f4baa06c7ce6e14c47bb7019fb479318ef35ee-1200x1200jpg.jpg?v=1724329877",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35262642290877,
+        "created_at": "2024-08-22T14:31:15+02:00",
+        "position": 2,
+        "updated_at": "2024-08-22T14:31:17+02:00",
+        "product_id": 7861559296189,
+        "variant_ids": [
+          44441119064253
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/45a620fd98b53725823ae7c9e9f51a0e446b8ef4-1200x1200jpg.jpg?v=1724329877",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35262642192573,
+        "created_at": "2024-08-22T14:31:15+02:00",
+        "position": 3,
+        "updated_at": "2024-08-22T14:31:17+02:00",
+        "product_id": 7861559296189,
+        "variant_ids": [
+          44441119097021
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/40a430133f2e454ba7794796b41d1959709d5db0-1200x1200jpg.jpg?v=1724329877",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35262642323645,
+        "created_at": "2024-08-22T14:31:15+02:00",
+        "position": 4,
+        "updated_at": "2024-08-22T14:31:17+02:00",
+        "product_id": 7861559296189,
+        "variant_ids": [
+          44441119129789
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22b67004fdcedaed547f95034b284ca906b4ee85-1200x1200jpg.jpg?v=1724329877",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35408894460093,
+        "created_at": "2024-09-23T09:16:03+02:00",
+        "position": 5,
+        "updated_at": "2024-09-23T09:16:04+02:00",
+        "product_id": 7861559296189,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/66d57054cf9a569236483952adf5d37777d26f47-1620x1620jpg.jpg?v=1727075764",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35408894329021,
+        "created_at": "2024-09-23T09:16:03+02:00",
+        "position": 6,
+        "updated_at": "2024-09-23T09:16:04+02:00",
+        "product_id": 7861559296189,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e20cee37c4caa7b4eda7afe9e50ae90f8e9ed654-1620x1620jpg.jpg?v=1727075764",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Holly (01)",
+          "Gingerbread (02)",
+          "Snowflake (03)",
+          "Christmas Eve (04)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856012722365,
+    "title": "Wst\u0105\u017cka do prezent\u00f3w \u2013 Bo\u017ce Narodzenie",
+    "handle": "hp-1006515-gift-ribbons-christmas",
+    "body_html": "<p>Wst\u0105\u017cka to niewielki dodatek, kt\u00f3ry pozwoli Ci na pi\u0119kne udekorowanie upomink\u00f3w dla bliskich.\n</p><p>Te pi\u0119kne wst\u0105\u017cki na prezenty \u015bwi\u0105teczne s\u0105 dost\u0119pne w opakowaniu z trzema r\u00f3\u017cnymi wzorami, a ka\u017cda rolka zawiera 2 metry wst\u0105\u017cki bawe\u0142nianej wysokiej jako\u015bci!</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421070487741,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0535",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.16",
+        "grams": 45,
+        "compare_at_price": "33.00",
+        "position": 1,
+        "product_id": 7856012722365,
+        "created_at": "2024-08-05T10:33:51+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185030693053,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/89724c577235c0d7d66a4675de5a98f53013c44c-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185030660285,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be0da61d65f012d855b0150d07a45d93eb0ca804-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185030594749,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/95931521d5af6296bbb9dc1e998de7f98fea5133-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185030627517,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac5dddfac3894174fed423144b52bac05f11a413-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185030758589,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7e606f97265f9bf0ae23f938bc418aea0c082f17-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855987523773,
+    "title": "Sanki z drewna",
+    "handle": "hp-1003958-wooden-sledge",
+    "body_html": "<p>Ma\u0142e sanki dla Twoich w\u0142asnor\u0119cznie wykonanych skrzat\u00f3w. Sanki s\u0105 dost\u0119pne w dw\u00f3ch rozmiarach i sprzedawane s\u0105 pojedynczo.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420950393021,
+        "title": "19,5 x 10 cm",
+        "option1": "19,5 x 10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2028",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184832348349,
+          "product_id": 7855987523773,
+          "position": 3,
+          "created_at": "2024-08-05T11:38:49+02:00",
+          "updated_at": "2024-08-05T11:38:51+02:00",
+          "alt": "stor-side-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/stor-side-1200x1200pxjpg.jpg?v=1722850731",
+          "variant_ids": [
+            44420950393021
+          ]
+        },
+        "available": true,
+        "price": "20.88",
+        "grams": 102,
+        "compare_at_price": "29.00",
+        "position": 1,
+        "product_id": 7855987523773,
+        "created_at": "2024-08-05T10:30:49+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420950425789,
+        "title": "15 x 7,5 cm",
+        "option1": "15 x 7,5 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2027",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184832315581,
+          "product_id": 7855987523773,
+          "position": 4,
+          "created_at": "2024-08-05T11:38:49+02:00",
+          "updated_at": "2024-08-05T11:38:51+02:00",
+          "alt": "lille-side-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/lille-side-1200x1200pxjpg.jpg?v=1722850731",
+          "variant_ids": [
+            44420950425789
+          ]
+        },
+        "available": true,
+        "price": "20.88",
+        "grams": 41,
+        "compare_at_price": "29.00",
+        "position": 2,
+        "product_id": 7855987523773,
+        "created_at": "2024-08-05T10:30:49+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184832282813,
+        "created_at": "2024-08-05T11:38:49+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:38:51+02:00",
+        "product_id": 7855987523773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/lille-1200x1200pxjpg.jpg?v=1722850731",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184832250045,
+        "created_at": "2024-08-05T11:38:49+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:38:51+02:00",
+        "product_id": 7855987523773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/stor-1200x1200pxjpg.jpg?v=1722850731",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184832348349,
+        "created_at": "2024-08-05T11:38:49+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:38:51+02:00",
+        "product_id": 7855987523773,
+        "variant_ids": [
+          44420950393021
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/stor-side-1200x1200pxjpg.jpg?v=1722850731",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184832315581,
+        "created_at": "2024-08-05T11:38:49+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:38:51+02:00",
+        "product_id": 7855987523773,
+        "variant_ids": [
+          44420950425789
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/lille-side-1200x1200pxjpg.jpg?v=1722850731",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71402320331130,
+        "created_at": "2024-10-21T13:43:33+02:00",
+        "position": 5,
+        "updated_at": "2024-10-21T13:43:35+02:00",
+        "product_id": 7855987523773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/84c4c9a638242a82e54411828290e4ac.jpg?v=1729511015",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "19,5 x 10 cm",
+          "15 x 7,5 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855959408829,
+    "title": "Etykiety na prezent",
+    "handle": "hp-1006355-gift-tags-1006355",
+    "body_html": "<p>Sp\u00f3jrz na te urocze drewniane etykiety na prezenty!\n</p><p>Ka\u017cdy lubi dostawa\u0107 r\u0119cznie wykonane upominki. A wi\u0119kszo\u015b\u0107 z nas uwielbia obdarowywa\u0107 i sprawia\u0107 rado\u015b\u0107 bliskim. Dzi\u0119ki tym \u0142adnym etykietom sprawisz, \u017ce Twoje prezenty b\u0119d\u0105 wyj\u0105tkowe. Gdy \u0142adnie zapakujesz prezent wystarczy, \u017ce zawi\u0105\u017cesz etykietk\u0119, aby doda\u0142a mu wyj\u0105tkowo\u015bci i sporo uroku.</p><p>Te pi\u0119kne, okr\u0105g\u0142e etykiety na prezent s\u0105 wykonane ze sklejki, a napis &quot;Handmade&quot; jest nadrukowany laserowo romantyczn\u0105 czcionk\u0105. Zestaw zawiera dodatkowo sze\u015b\u0107 sznurk\u00f3w jutowych.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420807327933,
+        "title": "Wreath",
+        "option1": "Wreath",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0520",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393910997181,
+          "product_id": 7855959408829,
+          "position": 5,
+          "created_at": "2024-09-20T12:34:57+02:00",
+          "updated_at": "2024-09-20T12:34:58+02:00",
+          "alt": "982ee1d3c3c1d5736548af024bc0df5da2c0a9ff-1417x1417jpg",
+          "width": 1417,
+          "height": 1417,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/982ee1d3c3c1d5736548af024bc0df5da2c0a9ff-1417x1417jpg.jpg?v=1726828498",
+          "variant_ids": [
+            44420807327933
+          ]
+        },
+        "available": true,
+        "price": "9.92",
+        "grams": 22,
+        "compare_at_price": "16.00",
+        "position": 1,
+        "product_id": 7855959408829,
+        "created_at": "2024-08-05T10:27:18+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      },
+      {
+        "id": 44420807360701,
+        "title": "Handmade",
+        "option1": "Handmade",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0521",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393910931645,
+          "product_id": 7855959408829,
+          "position": 6,
+          "created_at": "2024-09-20T12:34:57+02:00",
+          "updated_at": "2024-09-20T12:34:58+02:00",
+          "alt": "8d5ba309117edc5c4998997afb13d663901e52f6-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8d5ba309117edc5c4998997afb13d663901e52f6-1200x1200jpg.jpg?v=1726828498",
+          "variant_ids": [
+            44420807360701
+          ]
+        },
+        "available": true,
+        "price": "9.92",
+        "grams": 22,
+        "compare_at_price": "16.00",
+        "position": 2,
+        "product_id": 7855959408829,
+        "created_at": "2024-08-05T10:27:18+02:00",
+        "updated_at": "2024-11-22T23:46:30+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35393910898877,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T12:34:58+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fbd835618b5cf28d08580977139d320ee43b6b76-1200x1200jpg.jpg?v=1726828498",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393910964413,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T12:34:58+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac3cb9b9464e789dced32a4c00864a053a36ecb7-1200x1200jpg.jpg?v=1726828498",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393911062717,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T12:34:59+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f59f7d8ba029d16cbed078b6ebcdf028b3f87770-2794x2794jpg.jpg?v=1726828499",
+        "width": 2794,
+        "height": 2794
+      },
+      {
+        "id": 35393911095485,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 4,
+        "updated_at": "2024-09-20T12:34:59+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/721f0b13ed7ee344e1f4aa7afa0175b7cbf5dc50-3024x3024jpg.jpg?v=1726828499",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35393910997181,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 5,
+        "updated_at": "2024-09-20T12:34:58+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [
+          44420807327933
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/982ee1d3c3c1d5736548af024bc0df5da2c0a9ff-1417x1417jpg.jpg?v=1726828498",
+        "width": 1417,
+        "height": 1417
+      },
+      {
+        "id": 35393910931645,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 6,
+        "updated_at": "2024-09-20T12:34:58+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [
+          44420807360701
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8d5ba309117edc5c4998997afb13d663901e52f6-1200x1200jpg.jpg?v=1726828498",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Wreath",
+          "Handmade"
+        ]
+      }
+    ]
+  }
+]

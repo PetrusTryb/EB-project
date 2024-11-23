@@ -1,0 +1,378 @@
+[
+  {
+    "id": 7855906324669,
+    "title": "Druty pomocnicze/warkoczowe",
+    "handle": "hp-1001120-cable-stitch-holders-1001120",
+    "body_html": "<p>Dzi\u0119ki tym drutom pomocniczym, wykonywanie fantazyjnych splot\u00f3w-warkoczy nigdy nie by\u0142o prostsze!</p><p>Druty trzymaj\u0105 solidnie oczka dop\u00f3ki maj\u0105 by\u0107 one przerobione, co bardzo u\u0142atwia prac\u0119. Te mocne, aczkolwiek lekkie patyczki s\u0105 bardzo por\u0119czne, jako \u017ce ich ko\u0144c\u00f3wki bez problemu \u0142api\u0105 te oczka, kt\u00f3re potrzebujesz uchwyci\u0107.</p><p>W tym zestawie otrzymasz 3 patyczki po 3, 4 i 5 mm w r\u00f3\u017cnych kolorach tak aby by\u0142o je \u0142atwo rozr\u00f3\u017cni\u0107.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420571955389,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0312",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "22.00",
+        "grams": 25,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855906324669,
+        "created_at": "2024-08-05T10:19:44+02:00",
+        "updated_at": "2024-11-22T22:28:04+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183808315581,
+        "created_at": "2024-08-05T10:44:05+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:44:07+02:00",
+        "product_id": 7855906324669,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-02-03-21-2410jpg.jpg?v=1722847447",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183808413885,
+        "created_at": "2024-08-05T10:44:05+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:44:07+02:00",
+        "product_id": 7855906324669,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1529052094-snoningjpg.jpg?v=1722847447",
+        "width": 1026,
+        "height": 1027
+      },
+      {
+        "id": 35183808053437,
+        "created_at": "2024-08-05T10:44:05+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:44:06+02:00",
+        "product_id": 7855906324669,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1515148255-snoning-1jpg.jpg?v=1722847446",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855888203965,
+    "title": "Druty do warkoczy/Druty pomocnicze \u2013 W kszta\u0142cie litery U",
+    "handle": "hp-1004850-cable-needles-stitch-holders-u-shaped",
+    "body_html": "<p>Zestaw zawiera trzy druty do warkoczy/pomocnicze, kt\u00f3re w znaczny spos\u00f3b u\u0142atwi\u0105 dzierganie np. warkoczy. Praktyczny haczyk w kszta\u0142cie litery U u\u0142atwi trzymanie od\u0142o\u017conych oczek.</p><p>W tym zestawie druty pomocnicze wyst\u0119puj\u0105 w trzech r\u00f3\u017cnych rozmiarach. Ka\u017cdy rozmiar ma sw\u00f3j w\u0142asny kolor, jak wida\u0107 na zdj\u0119ciu (jednak kolory mog\u0142y zosta\u0107 zamienione).</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420507173053,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0438",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "25.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855888203965,
+        "created_at": "2024-08-05T10:15:49+02:00",
+        "updated_at": "2024-11-22T22:28:04+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183612199101,
+        "created_at": "2024-08-05T10:35:56+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:35:58+02:00",
+        "product_id": 7855888203965,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-22-12-2021-1944jpg.jpg?v=1722846958",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183612231869,
+        "created_at": "2024-08-05T10:35:57+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:35:58+02:00",
+        "product_id": 7855888203965,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cableneedles-1-1-picture-katrina-home-3jpg.jpg?v=1722846958",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35183612428477,
+        "created_at": "2024-08-05T10:35:57+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:35:59+02:00",
+        "product_id": 7855888203965,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1683795081-cableneedles-1-1-picture-katrina-home-1jpg.jpg?v=1722846959",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856001581245,
+    "title": "Druty do warkoczy/Druty pomocnicze \u2013 Z zagi\u0119ciem",
+    "handle": "hp-1004849-cable-needles-stitch-holders-with-dip",
+    "body_html": "<p>Zestaw zawiera trzy druty do warkoczy/pomocnicze, kt\u00f3re w znaczny spos\u00f3b u\u0142atwi\u0105 dzierganie np. warkoczy. Druty maj\u0105 na \u015brodku zagi\u0119cie, w kt\u00f3rym oczka mog\u0105 bezpiecznie spoczywa\u0107 do momentu a\u017c maj\u0105 ponownie zosta\u0107 przerobione.</p><p>W tym zestawie druty pomocnicze wyst\u0119puj\u0105 w trzech r\u00f3\u017cnych rozmiarach. Ka\u017cdy rozmiar ma sw\u00f3j w\u0142asny kolor, jak wida\u0107 na zdj\u0119ciu (jednak kolory mog\u0142y zosta\u0107 zamienione).</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421018026173,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0437",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "25.00",
+        "grams": 6,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856001581245,
+        "created_at": "2024-08-05T10:32:29+02:00",
+        "updated_at": "2024-11-22T22:28:04+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184951656637,
+        "created_at": "2024-08-05T11:49:09+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:49:11+02:00",
+        "product_id": 7856001581245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-14-01-2022-1055jpg.jpg?v=1722851351",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184951722173,
+        "created_at": "2024-08-05T11:49:09+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:49:11+02:00",
+        "product_id": 7856001581245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cableneedles-1-1-picture-katrina-home-2jpg.jpg?v=1722851351",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 71415960732026,
+        "created_at": "2024-10-23T17:50:49+02:00",
+        "position": 3,
+        "updated_at": "2024-10-23T17:50:51+02:00",
+        "product_id": 7856001581245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/863919041684a407dab84f0616dce21d.jpg?v=1729698651",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855913566397,
+    "title": "Druty do warkoczy/Druty pomocnicze \u2013 Proste",
+    "handle": "hp-1004848-cable-needles-stitch-holders-straight",
+    "body_html": "<p>Zestaw zawiera trzy druty do warkoczy/pomocnicze, kt\u00f3re w znaczny spos\u00f3b u\u0142atwi\u0105 dzierganie np. warkoczy. Druty s\u0105 proste i posiadaj\u0105 rowki na \u015brodku, kt\u00f3re zapobiegaj\u0105 zsuwaniu si\u0119 w\u0142\u00f3czki.</p><p>W tym zestawie druty pomocnicze wyst\u0119puj\u0105 w trzech r\u00f3\u017cnych rozmiarach. Ka\u017cdy rozmiar ma sw\u00f3j w\u0142asny kolor, jak wida\u0107 na zdj\u0119ciu (jednak kolory mog\u0142y zosta\u0107 zamienione).</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420600430781,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0436",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "15.00",
+        "grams": 6,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855913566397,
+        "created_at": "2024-08-05T10:21:36+02:00",
+        "updated_at": "2024-11-22T22:28:04+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183889776829,
+        "created_at": "2024-08-05T10:47:13+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:47:15+02:00",
+        "product_id": 7855913566397,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1641376634-hobbii-22-12-2021-1941jpg.jpg?v=1722847635",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183889940669,
+        "created_at": "2024-08-05T10:47:13+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:47:15+02:00",
+        "product_id": 7855913566397,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cableneedles-1-1-picture-katrina-home-4jpg.jpg?v=1722847635",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 71415778509178,
+        "created_at": "2024-10-23T17:32:22+02:00",
+        "position": 3,
+        "updated_at": "2024-10-23T17:32:24+02:00",
+        "product_id": 7855913566397,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dadb7a517420d8016a8f6c9a01c1edf6.jpg?v=1729697544",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855912485053,
+    "title": "Druty pomocnicze - 3 szt.",
+    "handle": "hp-1000302-twisted-auxiliary-needles-3-pieces",
+    "body_html": "<p>\u0141adne i wytrzyma\u0142e druty pomocnicze z wielokolorowej serii Symfonie od KnitPro. Druty trzymaj\u0105 solidnie oczka dop\u00f3ki maj\u0105 by\u0107 one przerobione, co bardzo u\u0142atwia prac\u0119. Te mocne, aczkolwiek lekkie patyczki s\u0105 bardzo por\u0119czne, jako \u017ce ich ko\u0144c\u00f3wki bez problemu \u0142api\u0105 te oczka, kt\u00f3re potrzebujesz uchwyci\u0107.</p><p>W tym zestawie otrzymasz 3 druty w rozmiarach\u00a03.25, 4.00 oraz 5.50 mm.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420596433085,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "20501",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855912485053,
+        "created_at": "2024-08-05T10:21:24+02:00",
+        "updated_at": "2024-11-22T22:28:04+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183809822909,
+        "created_at": "2024-08-05T10:44:10+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:44:11+02:00",
+        "product_id": 7855912485053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/27305805255png.png?v=1722847451",
+        "width": 613,
+        "height": 613
+      },
+      {
+        "id": 35183810216125,
+        "created_at": "2024-08-05T10:44:10+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:44:12+02:00",
+        "product_id": 7855912485053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/symfonie-wood-cable-needles-1jpg.jpg?v=1722847452",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35183810347197,
+        "created_at": "2024-08-05T10:44:10+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:44:12+02:00",
+        "product_id": 7855912485053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/symfonie-wood-cable-needles-2jpg.jpg?v=1722847452",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35183810445501,
+        "created_at": "2024-08-05T10:44:10+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:44:12+02:00",
+        "product_id": 7855912485053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/symfonie-cable-needlejpg.jpg?v=1722847452",
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  }
+]

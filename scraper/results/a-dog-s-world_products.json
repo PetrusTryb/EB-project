@@ -1,0 +1,703 @@
+[
+  {
+    "id": 7857068245181,
+    "title": "Paw Prints - Koc",
+    "handle": "hp-1007320-paw-prints-blanket",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M, L)</p><p>\n<strong>WYMIAR</strong></p><p>Szeroko\u015b\u0107: 73 (93, 113) cm</p><p>D\u0142ugo\u015b\u0107: 70 (96, 109) cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Idealny kocyk dla futrzanego pupila. Koc Paw Prints jest wykonany prostymi \u015bciegami tworz\u0105c uroczy motyw z nadrukiem \u0142ap.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423576223933,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-7734",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857068245181,
+        "created_at": "2024-08-06T10:26:58+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      },
+      {
+        "id": 44423576256701,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-7734",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7857068245181,
+        "created_at": "2024-08-06T10:26:58+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      },
+      {
+        "id": 44423576289469,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-7734",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7857068245181,
+        "created_at": "2024-08-06T10:26:58+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35191860986045,
+        "created_at": "2024-08-07T01:58:50+02:00",
+        "position": 1,
+        "updated_at": "2024-08-07T01:58:52+02:00",
+        "product_id": 7857068245181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7d6a87828cae335c9caad016e72cac04e587b538-3024x3024jpg.jpg?v=1722988732",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35191861149885,
+        "created_at": "2024-08-07T01:58:50+02:00",
+        "position": 2,
+        "updated_at": "2024-08-07T01:58:52+02:00",
+        "product_id": 7857068245181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1b10aba62f69c050e63ed962f3de181be9da3095-3024x3024jpg.jpg?v=1722988732",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35191861117117,
+        "created_at": "2024-08-07T01:58:50+02:00",
+        "position": 3,
+        "updated_at": "2024-08-07T01:58:52+02:00",
+        "product_id": 7857068245181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/385129f14ba2e83463cc382ca93266803bb807cf-3024x3024jpg.jpg?v=1722988732",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857021911229,
+    "title": "Millie\u2019s - Bandana dla psa",
+    "handle": "hp-1007319-millie-s-dog-bandana",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Szeroko\u015b\u0107: 23</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Oto wz\u00f3r bandany dla psa Millie\u2019s \u2013 nazwanej na cze\u015b\u0107 mojego ukochanego futrzaka widocznego na zdj\u0119ciach! Instrukcja \u201ekrok po kroku\u201d ze zdj\u0119ciami u\u0142atwia wykonanie bandany.</p><p>\n</p><p>Wersja niebiesko-zielona jest wykonana w kolorach 01, 76 &amp; 100.\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423448297661,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1120-233-1165",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857021911229,
+        "created_at": "2024-08-06T10:22:11+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378223513789,
+        "created_at": "2024-09-17T14:10:43+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:10:45+02:00",
+        "product_id": 7857021911229,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7711760964a45f2572211e4a6ca88f657b792f1a-2540x2540jpg.jpg?v=1726575045",
+        "width": 2540,
+        "height": 2540
+      },
+      {
+        "id": 35378223644861,
+        "created_at": "2024-09-17T14:10:43+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:10:45+02:00",
+        "product_id": 7857021911229,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1f63720ad1543572f4759c7dcb109a1d6b4d6eb5-2992x2992jpg.jpg?v=1726575045",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35378223579325,
+        "created_at": "2024-09-17T14:10:43+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:10:45+02:00",
+        "product_id": 7857021911229,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5510584296380c5305cc51445717af5c6115ad33-2992x2992jpg.jpg?v=1726575045",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35378223612093,
+        "created_at": "2024-09-17T14:10:43+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:10:45+02:00",
+        "product_id": 7857021911229,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/630a6d49f4c7f729c7a43b3b82c0a0872f5410c0-2992x2992jpg.jpg?v=1726575045",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35378223546557,
+        "created_at": "2024-09-17T14:10:43+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:10:45+02:00",
+        "product_id": 7857021911229,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3acc95502f64f6def137902d9b4a2dced1d92603-2992x2992jpg.jpg?v=1726575045",
+        "width": 2992,
+        "height": 2992
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857020108989,
+    "title": "Wow Bow - Muszka dla psa",
+    "handle": "hp-1007337-wow-bow-dog-bow",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 9 cm</p><p>D\u0142ugo\u015b\u0107: 12 cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Do wykonania tej muszki wystarczy tylko 10-15 g w\u0142\u00f3czki! Mo\u017cesz wi\u0119c zrobi\u0107 kilka muszek z jednego motka. W ko\u0144cu ta muszka jest tak urocza, \u017ce w\u0142a\u015bciciele ps\u00f3w te\u017c mogliby zapragn\u0105\u0107 podobnego akcesorium dla siebie :) Muszk\u0119 zak\u0142ada si\u0119 na obro\u017c\u0119 (gumk\u0119 do w\u0142os\u00f3w lub choker), dzi\u0119ki czemu mo\u017cna j\u0105 \u0142atwo zdj\u0105\u0107 i wypra\u0107 w razie potrzeby. Oczka u\u017cyte we wzorze: oczko \u015bcis\u0142e, oczko \u0142a\u0144cuszka, p\u00f3\u0142s\u0142upek, p\u00f3\u0142s\u0142upek reliefowy, p\u00f3\u0142s\u0142upek nawijany, s\u0142upek, 2 s\u0142upki razem, pikotka.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423443513533,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1276-233-5498",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857020108989,
+        "created_at": "2024-08-06T10:22:03+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378229543101,
+        "created_at": "2024-09-17T14:11:37+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:11:39+02:00",
+        "product_id": 7857020108989,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ec66b2929c6a7bcf9042fd6c6e30752ff93eb7ab-2309x2309jpg.jpg?v=1726575099",
+        "width": 2309,
+        "height": 2309
+      },
+      {
+        "id": 35378229477565,
+        "created_at": "2024-09-17T14:11:37+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:11:39+02:00",
+        "product_id": 7857020108989,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/07b8f245588cd3c778705d15e7ad39e08ca9be17-1699x1699jpg.jpg?v=1726575099",
+        "width": 1699,
+        "height": 1699
+      },
+      {
+        "id": 35378229510333,
+        "created_at": "2024-09-17T14:11:37+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:11:39+02:00",
+        "product_id": 7857020108989,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2fb6dc4b69528773f6d6a09b86dfbb08263c615b-2309x2309jpg.jpg?v=1726575099",
+        "width": 2309,
+        "height": 2309
+      },
+      {
+        "id": 35378229575869,
+        "created_at": "2024-09-17T14:11:37+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:11:39+02:00",
+        "product_id": 7857020108989,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8b02dc091f2d121181989855570586c185bd9a00-2309x2309jpg.jpg?v=1726575099",
+        "width": 2309,
+        "height": 2309
+      },
+      {
+        "id": 35378229444797,
+        "created_at": "2024-09-17T14:11:37+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:11:38+02:00",
+        "product_id": 7857020108989,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6c9e562ffa0ec251fe4bf41f06155aa4de6b8d28-2309x2309jpg.jpg?v=1726575098",
+        "width": 2309,
+        "height": 2309
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856991371453,
+    "title": "Cuddly Wrap - Bandana dla ps\u00f3w",
+    "handle": "hp-1007382-cuddly-wrap-dog-s-bandana",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Wymiary s\u0105 podane dla tej konkretnej pr\u00f3bki, ale mog\u0105 si\u0119 r\u00f3\u017cni\u0107 w zale\u017cno\u015bci od wielko\u015bci zwierz\u0119cia:</p><p>Szeroko\u015b\u0107: 26 cm (bez wi\u0105zania)</p><p>D\u0142ugo\u015b\u0107: 16 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Oka\u017c mi\u0142o\u015b\u0107 swojemu futrzakowi zapewniaj\u0105c mu ciep\u0142o, wygod\u0119 i styl. Ta wykonana z najmi\u0119kszej we\u0142ny bandana zapewni Twojemu pupilowi ciep\u0142o i wygod\u0119, co czyni j\u0105 idealn\u0105 na ch\u0142odne spacery i zimowe dni. Jest to wz\u00f3r na poziomie \u015brednio zaawansowanym, a bandana jest idealna dla ps\u00f3w wszystkich ras i rozmiar\u00f3w.</p><p>\u015acieg muszelkowy dodaje niepowtarzalno\u015bci projektowi, a regulowane zapi\u0119cie zapewnia bezpieczne dopasowanie, a jednocze\u015bnie jest wygodne dla psa.</p><p>\n</p><p>Zielona wersja widoczna na zdj\u0119ciu, wykonana jest kolorem 109.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423364477117,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1260-234-3291",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856991371453,
+        "created_at": "2024-08-06T10:19:00+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378242060477,
+        "created_at": "2024-09-17T14:13:39+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:13:41+02:00",
+        "product_id": 7856991371453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6c2d0298eea4ff3bd78cf03355a6ee9a4d79d2e4-828x823jpg.jpg?v=1726575221",
+        "width": 828,
+        "height": 823
+      },
+      {
+        "id": 35378242158781,
+        "created_at": "2024-09-17T14:13:40+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:13:42+02:00",
+        "product_id": 7856991371453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6e1fa14dfbb1a84906877e353b425ed4a2f6da34-3024x3024jpg.jpg?v=1726575222",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35378242257085,
+        "created_at": "2024-09-17T14:13:40+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:13:42+02:00",
+        "product_id": 7856991371453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d5732a0f2ff96315b073e942835ee4a732d1bac0-3024x3024jpg.jpg?v=1726575222",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35378242191549,
+        "created_at": "2024-09-17T14:13:40+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:13:42+02:00",
+        "product_id": 7856991371453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1cd4f384691598a1153fd2f61d109c79c1231ded-3024x3024jpg.jpg?v=1726575222",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35378242289853,
+        "created_at": "2024-09-17T14:13:40+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:13:42+02:00",
+        "product_id": 7856991371453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7f1f9c3b9858af07e087f411773b9ad983062673-2409x2409jpg.jpg?v=1726575222",
+        "width": 2409,
+        "height": 2409
+      },
+      {
+        "id": 35378242224317,
+        "created_at": "2024-09-17T14:13:40+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:13:42+02:00",
+        "product_id": 7856991371453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f692e85a77abb1bfa5ddd1c629c0375f73b7c857-3024x3024jpg.jpg?v=1726575222",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856987406525,
+    "title": "Dandy - Bandana dla psa",
+    "handle": "hp-1007338-dandy-dog-bandana",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M, L)</p><p>\n<strong>WYMIAR</strong></p><p>Szeroko\u015b\u0107 bandany: 10 (18, 22) cm</p><p>\u0141atwo dopasowa\u0107 do dowolnego rozmiaru!</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Poka\u017c swojemu czworono\u017cnemu przyjacielowi jak bardzo go kochasz, za pomoc\u0105 odlotowej bandany ze \u015bcieg\u00f3w prababci. Wybierz t\u0119czowe kolory dla pewnych siebie szczeni\u0105t lub stonowane odcienie dla wyluzowanego psa.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423352090813,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-3003",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856987406525,
+        "created_at": "2024-08-06T10:18:27+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      },
+      {
+        "id": 44423352123581,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-3003",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856987406525,
+        "created_at": "2024-08-06T10:18:27+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      },
+      {
+        "id": 44423352156349,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-3003",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856987406525,
+        "created_at": "2024-08-06T10:18:27+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378229936317,
+        "created_at": "2024-09-17T14:11:42+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:11:44+02:00",
+        "product_id": 7856987406525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9390b34f0b0a1a6acbb0a07eda90abef521a6b00-2024x2024jpg.jpg?v=1726575104",
+        "width": 2024,
+        "height": 2024
+      },
+      {
+        "id": 35378230001853,
+        "created_at": "2024-09-17T14:11:42+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:11:44+02:00",
+        "product_id": 7856987406525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e93bd078dccc025f8a4a9c9127e1d99379d1c0e5-2114x2114jpg.jpg?v=1726575104",
+        "width": 2114,
+        "height": 2114
+      },
+      {
+        "id": 35378229903549,
+        "created_at": "2024-09-17T14:11:42+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:11:44+02:00",
+        "product_id": 7856987406525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0aaae154c1235e195b0af0cbc9cb3c3eed8a20cc-2141x2141jpg.jpg?v=1726575104",
+        "width": 2141,
+        "height": 2141
+      },
+      {
+        "id": 35378230034621,
+        "created_at": "2024-09-17T14:11:42+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:11:44+02:00",
+        "product_id": 7856987406525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f3032c79001cbab751c6b041f3ac265802840f31-2164x2164jpg.jpg?v=1726575104",
+        "width": 2164,
+        "height": 2164
+      },
+      {
+        "id": 35378229969085,
+        "created_at": "2024-09-17T14:11:43+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:11:44+02:00",
+        "product_id": 7856987406525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d2fe537836dc60221e49bd2c682f32bf25765ff1-3024x3024jpg.jpg?v=1726575104",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7849260712125,
+    "title": "Wally - Sweter dla psa",
+    "handle": "hp-1007322-wally-dog-jumper",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M, L)</p><p>\n<strong>WYMIAR</strong></p><p>D\u0142ugo\u015b\u0107 (od do\u0142u szyi do ko\u0144ca ogona): 30 (40, 60) cm</p><p>Szeroko\u015b\u0107 (od \u015brodka ty\u0142u do szczytu przedniej nogi): 15 (20, 30) cm</p><p>\u0141atwo dopasowa\u0107 do ka\u017cdego rozmiaru psa!</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Urocz i przytulny sweter dla Twojego najlepszego przyjaciela. U\u017cyj jednego koloru, aby uzyska\u0107 klasyczny wygl\u0105d lub postaw na kontrastuj\u0105ce ze sob\u0105 jasne odcienie, aby stworzy\u0107 zabawny patchworkowy projekt. Instrukcje podano dla 3 rozmiar\u00f3w, ale mo\u017cna \u0142atwo dostosowa\u0107 wz\u00f3r do ka\u017cdej rasy i rozmiaru.</p><p>\n</p><p>Sweter w jednolitym kolorze: 1 (2, 4) motek Kind Feather kolor 23 (Camel)</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44398700593341,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-8277",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7849260712125,
+        "created_at": "2024-07-26T00:37:39+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      },
+      {
+        "id": 44398700626109,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-8277",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7849260712125,
+        "created_at": "2024-07-26T00:37:39+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      },
+      {
+        "id": 44398700658877,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-234-8277",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7849260712125,
+        "created_at": "2024-07-26T00:37:39+02:00",
+        "updated_at": "2024-11-22T22:01:46+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35142517424317,
+        "created_at": "2024-07-26T00:38:29+02:00",
+        "position": 1,
+        "updated_at": "2024-07-26T00:38:31+02:00",
+        "product_id": 7849260712125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b0dab54108ceaeb49ed4485747987be4a6ee69d9-3024x3024jpg.jpg?v=1721947111",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35142517489853,
+        "created_at": "2024-07-26T00:38:29+02:00",
+        "position": 2,
+        "updated_at": "2024-07-26T00:38:31+02:00",
+        "product_id": 7849260712125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fa9a814bccb1a62a47ae4c1546976158dc162f24-2015x2015jpg.jpg?v=1721947111",
+        "width": 2015,
+        "height": 2015
+      },
+      {
+        "id": 35142517326013,
+        "created_at": "2024-07-26T00:38:29+02:00",
+        "position": 3,
+        "updated_at": "2024-07-26T00:38:31+02:00",
+        "product_id": 7849260712125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/463e04826b7136bef0a56e5d4df9b2f403892a3d-1937x1937jpg.jpg?v=1721947111",
+        "width": 1937,
+        "height": 1937
+      },
+      {
+        "id": 35142517522621,
+        "created_at": "2024-07-26T00:38:29+02:00",
+        "position": 4,
+        "updated_at": "2024-07-26T00:38:31+02:00",
+        "product_id": 7849260712125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/732bde3649916d300a920eb01507908e7757a6ac-2654x2654jpg.jpg?v=1721947111",
+        "width": 2654,
+        "height": 2654
+      },
+      {
+        "id": 35142517457085,
+        "created_at": "2024-07-26T00:38:29+02:00",
+        "position": 5,
+        "updated_at": "2024-07-26T00:38:31+02:00",
+        "product_id": 7849260712125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7eb075e0a0197eed491921aa9b888120ce70a1c4-3024x3024jpg.jpg?v=1721947111",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35142517391549,
+        "created_at": "2024-07-26T00:38:29+02:00",
+        "position": 6,
+        "updated_at": "2024-07-26T00:38:31+02:00",
+        "product_id": 7849260712125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5b2b11c53a3f2eb602c1bdd2033e550c1c826df5-3024x3024jpg.jpg?v=1721947111",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35142517358781,
+        "created_at": "2024-07-26T00:38:29+02:00",
+        "position": 7,
+        "updated_at": "2024-07-26T00:38:31+02:00",
+        "product_id": 7849260712125,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9413a975dcd835cfb32753c1501843d424629df1-3024x3024jpg.jpg?v=1721947111",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,4952 @@
+[
+  {
+    "id": 7855943057597,
+    "title": "Natur Uld",
+    "handle": "hp-1000527-natur-uld",
+    "body_html": "<p><strong>Natur Uld</strong> to we\u0142niana w\u0142\u00f3czka o rustykalnym charakterze. Jest to jeden z bestseller\u00f3w Hjertegarn, nadaj\u0105cy si\u0119 m.in. do wykonania swetr\u00f3w, bluzek, szali, czapek, czy ponczo zar\u00f3wno dla dzieci jak i dla doros\u0142ych. Mo\u017cesz z nich tak\u017ce zrobi\u0107 koce, czy poduszki na szyde\u0142ku lub u\u017cy\u0107 w\u0142\u00f3czki do filcu.</p><p>Producent Hjertegarn to jeden z pionier\u00f3w na du\u0144skim rynku. Ta rodzinna firma rozpocz\u0119\u0142a dzia\u0142alno\u015b\u0107 w 1926 roku i kierowa\u0142a si\u0119 zawsze celem sprzeda\u017cy w\u0142\u00f3czek za przyst\u0119pne ceny. O robieniu na drutach m\u00f3wi\u0105 tak: \u2018\u2019Jest to hobby i zarazem spos\u00f3b na znalezienie odetchnienia i relaksu w cz\u0119sto zabieganym dniu. Wszystko czego potrzebujesz aby zwolni\u0107 to szalone tempo to w\u0142\u00f3czka, druty i wz\u00f3r.\u2019\u2019 My w Hobbii w pe\u0142ni si\u0119 z tym zgadzamy.</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420738351293,
+        "title": "Pistachio (0523)",
+        "option1": "Pistachio (0523)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040523",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295477437,
+          "product_id": 7855943057597,
+          "position": 2,
+          "created_at": "2024-08-05T11:05:57+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1565256141-farve-523jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1565256141-farve-523jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738351293
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 1,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738384061,
+        "title": "Jeans Blue (0525)",
+        "option1": "Jeans Blue (0525)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040525",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295772349,
+          "product_id": 7855943057597,
+          "position": 3,
+          "created_at": "2024-08-05T11:05:57+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-525jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-525jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738384061
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 2,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738416829,
+        "title": "Dusty Green (0600)",
+        "option1": "Dusty Green (0600)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040600",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294428861,
+          "product_id": 7855943057597,
+          "position": 4,
+          "created_at": "2024-08-05T11:05:57+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1564478869-farve-600jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564478869-farve-600jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738416829
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 3,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738449597,
+        "title": "Old Rose (0700)",
+        "option1": "Old Rose (0700)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040700",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294232253,
+          "product_id": 7855943057597,
+          "position": 5,
+          "created_at": "2024-08-05T11:05:57+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-700jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-700jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738449597
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 4,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738482365,
+        "title": "Dusty Blue (0800)",
+        "option1": "Dusty Blue (0800)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040800",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295968957,
+          "product_id": 7855943057597,
+          "position": 6,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:04+02:00",
+          "alt": "farve-800jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-800jpg.jpg?v=1722848764",
+          "variant_ids": [
+            44420738482365
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 5,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738515133,
+        "title": "Dark Beige (0920)",
+        "option1": "Dark Beige (0920)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040920",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294461629,
+          "product_id": 7855943057597,
+          "position": 7,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-920jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-920jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738515133
+          ]
+        },
+        "available": false,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 6,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738547901,
+        "title": "Grey Brown (0930)",
+        "option1": "Grey Brown (0930)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040930",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295936189,
+          "product_id": 7855943057597,
+          "position": 8,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:04+02:00",
+          "alt": "1564479170-farve-930jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479170-farve-930jpg.jpg?v=1722848764",
+          "variant_ids": [
+            44420738547901
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 7,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738580669,
+        "title": "Gul (0970)",
+        "option1": "Gul (0970)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040970",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295608509,
+          "product_id": 7855943057597,
+          "position": 9,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "35843265034jpg",
+          "width": 425,
+          "height": 425,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35843265034jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738580669
+          ]
+        },
+        "available": false,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 8,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738613437,
+        "title": "Petrol (0980)",
+        "option1": "Petrol (0980)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040980",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294265021,
+          "product_id": 7855943057597,
+          "position": 10,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-980jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-980jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738613437
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 9,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738646205,
+        "title": "Navy Blue (0990)",
+        "option1": "Navy Blue (0990)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040990",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294559933,
+          "product_id": 7855943057597,
+          "position": 11,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1564478976-farve-990jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564478976-farve-990jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738646205
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 10,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738678973,
+        "title": "Nature/Off White (100)",
+        "option1": "Nature/Off White (100)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040100",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295248061,
+          "product_id": 7855943057597,
+          "position": 12,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farvea100jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farvea100jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738678973
+          ]
+        },
+        "available": false,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 11,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738711741,
+        "title": "Rainbow Print (1101)",
+        "option1": "Rainbow Print (1101)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041101",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294527165,
+          "product_id": 7855943057597,
+          "position": 13,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-1101jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-1101jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738711741
+          ]
+        },
+        "available": false,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 12,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738744509,
+        "title": "Brun Print (1111)",
+        "option1": "Brun Print (1111)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041111",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294363325,
+          "product_id": 7855943057597,
+          "position": 14,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1565256164-farve-1111jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1565256164-farve-1111jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738744509
+          ]
+        },
+        "available": false,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 13,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738777277,
+        "title": "Brown (300)",
+        "option1": "Brown (300)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040300",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294985917,
+          "product_id": 7855943057597,
+          "position": 15,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1564479183-farve-1300jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479183-farve-1300jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738777277
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 14,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738810045,
+        "title": "Light Grey (400)",
+        "option1": "Light Grey (400)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040400",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295379133,
+          "product_id": 7855943057597,
+          "position": 16,
+          "created_at": "2024-08-05T11:05:58+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-1400jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-1400jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738810045
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 15,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738842813,
+        "title": "Anthracite Grey (500)",
+        "option1": "Anthracite Grey (500)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040500",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295805117,
+          "product_id": 7855943057597,
+          "position": 17,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-1500jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-1500jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738842813
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 16,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738875581,
+        "title": "Blue (1700)",
+        "option1": "Blue (1700)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041700",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295149757,
+          "product_id": 7855943057597,
+          "position": 18,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-1700jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-1700jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738875581
+          ]
+        },
+        "available": false,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 17,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738908349,
+        "title": "Bordeaux (1829)",
+        "option1": "Bordeaux (1829)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041829",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295542973,
+          "product_id": 7855943057597,
+          "position": 19,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1565256190-farve-1829jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1565256190-farve-1829jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738908349
+          ]
+        },
+        "available": false,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 18,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738941117,
+        "title": "Black (1990)",
+        "option1": "Black (1990)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041990",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295575741,
+          "product_id": 7855943057597,
+          "position": 20,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1564479074-farve-1990jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479074-farve-1990jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738941117
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 19,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420738973885,
+        "title": "Baby Rose (2250)",
+        "option1": "Baby Rose (2250)",
+        "option2": null,
+        "option3": null,
+        "sku": "14042250",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294854845,
+          "product_id": 7855943057597,
+          "position": 21,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "farve-2250jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-2250jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420738973885
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 20,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739006653,
+        "title": "Red (4530)",
+        "option1": "Red (4530)",
+        "option2": null,
+        "option3": null,
+        "sku": "14044530",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295346365,
+          "product_id": 7855943057597,
+          "position": 22,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1564479254-farve-4530jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479254-farve-4530jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739006653
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 21,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739039421,
+        "title": "Apple Green (6957)",
+        "option1": "Apple Green (6957)",
+        "option2": null,
+        "option3": null,
+        "sku": "14046957",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295706813,
+          "product_id": 7855943057597,
+          "position": 23,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1564479268-farve-6957jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479268-farve-6957jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739039421
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 22,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739072189,
+        "title": "Turquoise (7159)",
+        "option1": "Turquoise (7159)",
+        "option2": null,
+        "option3": null,
+        "sku": "14047159",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294592701,
+          "product_id": 7855943057597,
+          "position": 24,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1564479391-farve-7159jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479391-farve-7159jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739072189
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 23,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739104957,
+        "title": "Pink (9130)",
+        "option1": "Pink (9130)",
+        "option2": null,
+        "option3": null,
+        "sku": "14049130",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295411901,
+          "product_id": 7855943057597,
+          "position": 25,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1575560583-farve-9130jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1575560583-farve-9130jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739104957
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 24,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739137725,
+        "title": "Blue Purple (9150)",
+        "option1": "Blue Purple (9150)",
+        "option2": null,
+        "option3": null,
+        "sku": "14049150",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295018685,
+          "product_id": 7855943057597,
+          "position": 26,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1565256215-farve-9150jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1565256215-farve-9150jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739137725
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 95,
+        "compare_at_price": "30.00",
+        "position": 25,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739170493,
+        "title": "Bright Purple (1820)",
+        "option1": "Bright Purple (1820)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041820",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295903421,
+          "product_id": 7855943057597,
+          "position": 27,
+          "created_at": "2024-08-05T11:05:59+02:00",
+          "updated_at": "2024-08-05T11:06:04+02:00",
+          "alt": "1564479060-farve-1820jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479060-farve-1820jpg.jpg?v=1722848764",
+          "variant_ids": [
+            44420739170493
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 100,
+        "compare_at_price": "30.00",
+        "position": 26,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739203261,
+        "title": "Beige (910)",
+        "option1": "Beige (910)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040910",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294953149,
+          "product_id": 7855943057597,
+          "position": 28,
+          "created_at": "2024-08-05T11:06:00+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759190-10jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759190-10jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739203261
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 27,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739236029,
+        "title": "Mustard (381)",
+        "option1": "Mustard (381)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040381",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295051453,
+          "product_id": 7855943057597,
+          "position": 29,
+          "created_at": "2024-08-05T11:06:00+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759171-8jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759171-8jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739236029
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 28,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739268797,
+        "title": "Orange (3259)",
+        "option1": "Orange (3259)",
+        "option2": null,
+        "option3": null,
+        "sku": "14043259",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295280829,
+          "product_id": 7855943057597,
+          "position": 30,
+          "created_at": "2024-08-05T11:06:00+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759240-2jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759240-2jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739268797
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 29,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739301565,
+        "title": "Dark Purple (5719)",
+        "option1": "Dark Purple (5719)",
+        "option2": null,
+        "option3": null,
+        "sku": "14045719",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295182525,
+          "product_id": 7855943057597,
+          "position": 31,
+          "created_at": "2024-08-05T11:06:00+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759250-6jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759250-6jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739301565
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 30,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739334333,
+        "title": "Royal Blue (1670)",
+        "option1": "Royal Blue (1670)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041670",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294723773,
+          "product_id": 7855943057597,
+          "position": 32,
+          "created_at": "2024-08-05T11:06:00+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759204-5jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759204-5jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739334333
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 31,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739367101,
+        "title": "Green (1935)",
+        "option1": "Green (1935)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041935",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 32,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739399869,
+        "title": "Forest Green (6953)",
+        "option1": "Forest Green (6953)",
+        "option2": null,
+        "option3": null,
+        "sku": "14046953",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295674045,
+          "product_id": 7855943057597,
+          "position": 33,
+          "created_at": "2024-08-05T11:06:00+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759259-4jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759259-4jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739399869
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 33,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739432637,
+        "title": "Dusty Rose (2260)",
+        "option1": "Dusty Rose (2260)",
+        "option2": null,
+        "option3": null,
+        "sku": "14042260",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295870653,
+          "product_id": 7855943057597,
+          "position": 34,
+          "created_at": "2024-08-05T11:06:00+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759236-3jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759236-3jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739432637
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 34,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739465405,
+        "title": "Plum (1902)",
+        "option1": "Plum (1902)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041902",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35472160293053,
+          "product_id": 7855943057597,
+          "position": 37,
+          "created_at": "2024-10-03T14:58:44+02:00",
+          "updated_at": "2024-10-03T14:58:46+02:00",
+          "alt": "1-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1-1jpg.jpg?v=1727960326",
+          "variant_ids": [
+            44420739465405
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 35,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739498173,
+        "title": "Bright Yellow (822)",
+        "option1": "Bright Yellow (822)",
+        "option2": null,
+        "option3": null,
+        "sku": "14040822",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184294887613,
+          "product_id": 7855943057597,
+          "position": 35,
+          "created_at": "2024-08-05T11:06:00+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759183-9jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759183-9jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739498173
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 36,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420739530941,
+        "title": "Rust (1536)",
+        "option1": "Rust (1536)",
+        "option2": null,
+        "option3": null,
+        "sku": "14041536",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184295215293,
+          "product_id": 7855943057597,
+          "position": 36,
+          "created_at": "2024-08-05T11:06:01+02:00",
+          "updated_at": "2024-08-05T11:06:03+02:00",
+          "alt": "1602759200-7jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759200-7jpg.jpg?v=1722848763",
+          "variant_ids": [
+            44420739530941
+          ]
+        },
+        "available": true,
+        "price": "26.10",
+        "grams": 105,
+        "compare_at_price": "30.00",
+        "position": 37,
+        "product_id": 7855943057597,
+        "created_at": "2024-08-05T10:25:39+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184295510205,
+        "created_at": "2024-08-05T11:05:57+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ny-frontjpg.jpg?v=1722848763",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184295477437,
+        "created_at": "2024-08-05T11:05:57+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738351293
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1565256141-farve-523jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295772349,
+        "created_at": "2024-08-05T11:05:57+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738384061
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-525jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294428861,
+        "created_at": "2024-08-05T11:05:57+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738416829
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564478869-farve-600jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294232253,
+        "created_at": "2024-08-05T11:05:57+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738449597
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-700jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295968957,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:06:04+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738482365
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-800jpg.jpg?v=1722848764",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294461629,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738515133
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-920jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295936189,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T11:06:04+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738547901
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479170-farve-930jpg.jpg?v=1722848764",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295608509,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738580669
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35843265034jpg.jpg?v=1722848763",
+        "width": 425,
+        "height": 425
+      },
+      {
+        "id": 35184294265021,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738613437
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-980jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294559933,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738646205
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564478976-farve-990jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295248061,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 12,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738678973
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farvea100jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294527165,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 13,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738711741
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-1101jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294363325,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 14,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738744509
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1565256164-farve-1111jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294985917,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 15,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738777277
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479183-farve-1300jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295379133,
+        "created_at": "2024-08-05T11:05:58+02:00",
+        "position": 16,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738810045
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-1400jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295805117,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 17,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738842813
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-1500jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295149757,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 18,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738875581
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-1700jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295542973,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 19,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738908349
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1565256190-farve-1829jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295575741,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 20,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738941117
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479074-farve-1990jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294854845,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 21,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420738973885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/farve-2250jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295346365,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 22,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739006653
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479254-farve-4530jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295706813,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 23,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739039421
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479268-farve-6957jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294592701,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 24,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739072189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479391-farve-7159jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295411901,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 25,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739104957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1575560583-farve-9130jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295018685,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 26,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739137725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1565256215-farve-9150jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295903421,
+        "created_at": "2024-08-05T11:05:59+02:00",
+        "position": 27,
+        "updated_at": "2024-08-05T11:06:04+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739170493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1564479060-farve-1820jpg.jpg?v=1722848764",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294953149,
+        "created_at": "2024-08-05T11:06:00+02:00",
+        "position": 28,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739203261
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759190-10jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295051453,
+        "created_at": "2024-08-05T11:06:00+02:00",
+        "position": 29,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739236029
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759171-8jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295280829,
+        "created_at": "2024-08-05T11:06:00+02:00",
+        "position": 30,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739268797
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759240-2jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295182525,
+        "created_at": "2024-08-05T11:06:00+02:00",
+        "position": 31,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739301565
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759250-6jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294723773,
+        "created_at": "2024-08-05T11:06:00+02:00",
+        "position": 32,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739334333
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759204-5jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295674045,
+        "created_at": "2024-08-05T11:06:00+02:00",
+        "position": 33,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739399869
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759259-4jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295870653,
+        "created_at": "2024-08-05T11:06:00+02:00",
+        "position": 34,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739432637
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759236-3jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184294887613,
+        "created_at": "2024-08-05T11:06:00+02:00",
+        "position": 35,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739498173
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759183-9jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184295215293,
+        "created_at": "2024-08-05T11:06:01+02:00",
+        "position": 36,
+        "updated_at": "2024-08-05T11:06:03+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739530941
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1602759200-7jpg.jpg?v=1722848763",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35472160293053,
+        "created_at": "2024-10-03T14:58:44+02:00",
+        "position": 37,
+        "updated_at": "2024-10-03T14:58:46+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [
+          44420739465405
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1-1jpg.jpg?v=1727960326",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415831265658,
+        "created_at": "2024-10-23T17:37:38+02:00",
+        "position": 38,
+        "updated_at": "2024-10-23T17:37:40+02:00",
+        "product_id": 7855943057597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/27a611101a63a3c34afc88a7ce936fd3.jpg?v=1729697860",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Pistachio (0523)",
+          "Jeans Blue (0525)",
+          "Dusty Green (0600)",
+          "Old Rose (0700)",
+          "Dusty Blue (0800)",
+          "Dark Beige (0920)",
+          "Grey Brown (0930)",
+          "Gul (0970)",
+          "Petrol (0980)",
+          "Navy Blue (0990)",
+          "Nature/Off White (100)",
+          "Rainbow Print (1101)",
+          "Brun Print (1111)",
+          "Brown (300)",
+          "Light Grey (400)",
+          "Anthracite Grey (500)",
+          "Blue (1700)",
+          "Bordeaux (1829)",
+          "Black (1990)",
+          "Baby Rose (2250)",
+          "Red (4530)",
+          "Apple Green (6957)",
+          "Turquoise (7159)",
+          "Pink (9130)",
+          "Blue Purple (9150)",
+          "Bright Purple (1820)",
+          "Beige (910)",
+          "Mustard (381)",
+          "Orange (3259)",
+          "Dark Purple (5719)",
+          "Royal Blue (1670)",
+          "Green (1935)",
+          "Forest Green (6953)",
+          "Dusty Rose (2260)",
+          "Plum (1902)",
+          "Bright Yellow (822)",
+          "Rust (1536)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856018653373,
+    "title": "Blend Bamboo",
+    "handle": "hp-1007632-blend-bamboo",
+    "body_html": "<p><strong>Blend Bamboo</strong> to mieszanka 70% bambusa i 30% bawe\u0142ny, kt\u00f3ra \u0142\u0105czy w sobie g\u0142adko\u015b\u0107 bawe\u0142ny z wytrzyma\u0142o\u015bci\u0105 i po\u0142yskiem bambusa w przewiewnej strukturze. Materia\u0142y s\u0105 mi\u0119kkie i przyjemne w dotyku, dzi\u0119ki czemu <strong>Blend Bamboo</strong> nadaje si\u0119 do wszystkich rodzaj\u00f3w odzie\u017cy, szalik\u00f3w, i innych projekt\u00f3w wn\u0119trzarskich. Szeroka gama kolor\u00f3w obejmuje luksusowe, g\u0142\u0119bokie i jasne odcienie, kt\u00f3re mo\u017cna stosowa\u0107 pojedynczo lub w po\u0142\u0105czeniu, aby ugasi\u0107 pragnienie koloru.\n\n<em>Hjertegarn jest jednym z pionier\u00f3w prz\u0119dzy w Danii. Ich rodzinna firma rozpocz\u0119\u0142a dzia\u0142alno\u015b\u0107 w 1926 roku, a ich filozofi\u0105 jest sprzeda\u017c w\u0142\u00f3czki w rozs\u0105dnych cenach, aby ka\u017cdy m\u00f3g\u0142 sobie na ni\u0105 pozwoli\u0107. Twierdz\u0105, \u017ce &quot;Robienie na drutach to hobby i spos\u00f3b na odnalezienie spokoju i harmonii w zabieganym codziennym \u017cyciu, poniewa\u017c potrzebujesz tylko drut\u00f3w, wzoru i troch\u0119 w\u0142\u00f3czki&quot;. A my w Hobbii jeste\u015bmy ca\u0142kowicie z tym zgodni.</em>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421104402621,
+        "title": "Color (75)",
+        "option1": "Color (75)",
+        "option2": null,
+        "option3": null,
+        "sku": "11010075",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170395837,
+          "product_id": 7856018653373,
+          "position": 2,
+          "created_at": "2024-08-12T10:17:19+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "c931c7b32c6f2de31e07f3bebb053cbb9a9675b6-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c931c7b32c6f2de31e07f3bebb053cbb9a9675b6-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104402621
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104435389,
+        "title": "Color (1000)",
+        "option1": "Color (1000)",
+        "option2": null,
+        "option3": null,
+        "sku": "11011000",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170756285,
+          "product_id": 7856018653373,
+          "position": 3,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "3443a7ae0a1084cf563c9f8ae94c1e1eb744566c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3443a7ae0a1084cf563c9f8ae94c1e1eb744566c-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104435389
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104468157,
+        "title": "Color (4950)",
+        "option1": "Color (4950)",
+        "option2": null,
+        "option3": null,
+        "sku": "11014950",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170789053,
+          "product_id": 7856018653373,
+          "position": 4,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "835c5810b30b0d14c67f275486c1459bdf81c101-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/835c5810b30b0d14c67f275486c1459bdf81c101-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104468157
+          ]
+        },
+        "available": false,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104500925,
+        "title": "Color (7093)",
+        "option1": "Color (7093)",
+        "option2": null,
+        "option3": null,
+        "sku": "11017093",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170494141,
+          "product_id": 7856018653373,
+          "position": 5,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "f19078911c1a70d4311bf6d278750e8d5fc7130a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f19078911c1a70d4311bf6d278750e8d5fc7130a-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104500925
+          ]
+        },
+        "available": false,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104533693,
+        "title": "Color (7070)",
+        "option1": "Color (7070)",
+        "option2": null,
+        "option3": null,
+        "sku": "11017070",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170625213,
+          "product_id": 7856018653373,
+          "position": 6,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "65fe1b714003450db9b9bc6eace6daffd5baadd0-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65fe1b714003450db9b9bc6eace6daffd5baadd0-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104533693
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104566461,
+        "title": "Color (7150)",
+        "option1": "Color (7150)",
+        "option2": null,
+        "option3": null,
+        "sku": "11017150",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170559677,
+          "product_id": 7856018653373,
+          "position": 7,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "53895612ebce3e8c6f9795adacb327df3a32228c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/53895612ebce3e8c6f9795adacb327df3a32228c-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104566461
+          ]
+        },
+        "available": false,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104599229,
+        "title": "Color (5106)",
+        "option1": "Color (5106)",
+        "option2": null,
+        "option3": null,
+        "sku": "11015106",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170821821,
+          "product_id": 7856018653373,
+          "position": 8,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "12ee26998d3745e8914d2541aaaa372c50d95991-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/12ee26998d3745e8914d2541aaaa372c50d95991-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104599229
+          ]
+        },
+        "available": false,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104631997,
+        "title": "Color (4612)",
+        "option1": "Color (4612)",
+        "option2": null,
+        "option3": null,
+        "sku": "11014612",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170690749,
+          "product_id": 7856018653373,
+          "position": 9,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "99dba91987ddd0b0886c019adcdfba2fab3b63f3-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/99dba91987ddd0b0886c019adcdfba2fab3b63f3-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104631997
+          ]
+        },
+        "available": false,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104664765,
+        "title": "Color (709)",
+        "option1": "Color (709)",
+        "option2": null,
+        "option3": null,
+        "sku": "11010709",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170920125,
+          "product_id": 7856018653373,
+          "position": 10,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "471046947ab0b52b9cd0ab7e70ce63f3bb2d6210-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/471046947ab0b52b9cd0ab7e70ce63f3bb2d6210-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104664765
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 9,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104697533,
+        "title": "Color (8029)",
+        "option1": "Color (8029)",
+        "option2": null,
+        "option3": null,
+        "sku": "11018029",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170657981,
+          "product_id": 7856018653373,
+          "position": 11,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "bb82eb16878700f254532db111f7ca0936743ca5-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bb82eb16878700f254532db111f7ca0936743ca5-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104697533
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 10,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104730301,
+        "title": "Color (6029)",
+        "option1": "Color (6029)",
+        "option2": null,
+        "option3": null,
+        "sku": "11016029",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170723517,
+          "product_id": 7856018653373,
+          "position": 12,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "0f3f178723cf27c50a774da88ab068c26d851844-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0f3f178723cf27c50a774da88ab068c26d851844-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104730301
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 11,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104763069,
+        "title": "Color (6970)",
+        "option1": "Color (6970)",
+        "option2": null,
+        "option3": null,
+        "sku": "11016970",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170428605,
+          "product_id": 7856018653373,
+          "position": 13,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "67fc453384f383bb15fc9c5a602216c4685ca2d8-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/67fc453384f383bb15fc9c5a602216c4685ca2d8-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104763069
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 12,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104795837,
+        "title": "Color (4020)",
+        "option1": "Color (4020)",
+        "option2": null,
+        "option3": null,
+        "sku": "11014020",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170592445,
+          "product_id": 7856018653373,
+          "position": 14,
+          "created_at": "2024-08-12T10:17:20+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "3ef59365d7fa653e37f265e70f9197267c4c220f-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3ef59365d7fa653e37f265e70f9197267c4c220f-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104795837
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 13,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104828605,
+        "title": "Color (4038)",
+        "option1": "Color (4038)",
+        "option2": null,
+        "option3": null,
+        "sku": "11014038",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170461373,
+          "product_id": 7856018653373,
+          "position": 15,
+          "created_at": "2024-08-12T10:17:21+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "dfc13e36d3eecd4ed9b26f518e82a2c3e1f7da57-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dfc13e36d3eecd4ed9b26f518e82a2c3e1f7da57-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104828605
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 14,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104861373,
+        "title": "Color (3304)",
+        "option1": "Color (3304)",
+        "option2": null,
+        "option3": null,
+        "sku": "11013304",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170526909,
+          "product_id": 7856018653373,
+          "position": 16,
+          "created_at": "2024-08-12T10:17:21+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "5853c7f5fc42ceb86484f3519612e3c354c6b687-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5853c7f5fc42ceb86484f3519612e3c354c6b687-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104861373
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 15,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104894141,
+        "title": "Color (433)",
+        "option1": "Color (433)",
+        "option2": null,
+        "option3": null,
+        "sku": "11010433",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212170854589,
+          "product_id": 7856018653373,
+          "position": 17,
+          "created_at": "2024-08-12T10:17:21+02:00",
+          "updated_at": "2024-08-12T10:17:23+02:00",
+          "alt": "7eb5540cffc4eb7bec4ae8344127dd20520d0710-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7eb5540cffc4eb7bec4ae8344127dd20520d0710-1200x1200jpg.jpg?v=1723450643",
+          "variant_ids": [
+            44421104894141
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 16,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104926909,
+        "title": "Color (434)",
+        "option1": "Color (434)",
+        "option2": null,
+        "option3": null,
+        "sku": "11010434",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178096317,
+          "product_id": 7856018653373,
+          "position": 18,
+          "created_at": "2024-08-12T10:19:29+02:00",
+          "updated_at": "2024-08-12T10:19:32+02:00",
+          "alt": "040b27e8b6ea2409d52e99a1a7e06f4b2f3c5cf8-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/040b27e8b6ea2409d52e99a1a7e06f4b2f3c5cf8-1200x1200jpg.jpg?v=1723450772",
+          "variant_ids": [
+            44421104926909
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 17,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104959677,
+        "title": "Color (3050)",
+        "option1": "Color (3050)",
+        "option2": null,
+        "option3": null,
+        "sku": "11013050",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178227389,
+          "product_id": 7856018653373,
+          "position": 19,
+          "created_at": "2024-08-12T10:19:29+02:00",
+          "updated_at": "2024-08-12T10:19:32+02:00",
+          "alt": "91e5c72a41a10b35ddf89d30578d7248dae84cdb-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/91e5c72a41a10b35ddf89d30578d7248dae84cdb-1200x1200jpg.jpg?v=1723450772",
+          "variant_ids": [
+            44421104959677
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 18,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421104992445,
+        "title": "Color (1224)",
+        "option1": "Color (1224)",
+        "option2": null,
+        "option3": null,
+        "sku": "11011224",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178063549,
+          "product_id": 7856018653373,
+          "position": 20,
+          "created_at": "2024-08-12T10:19:29+02:00",
+          "updated_at": "2024-08-12T10:19:31+02:00",
+          "alt": "bb4257d9886f3174ee73f7e82f528d1ad8f08ac8-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bb4257d9886f3174ee73f7e82f528d1ad8f08ac8-1200x1200jpg.jpg?v=1723450771",
+          "variant_ids": [
+            44421104992445
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 19,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421105025213,
+        "title": "Color (4677)",
+        "option1": "Color (4677)",
+        "option2": null,
+        "option3": null,
+        "sku": "11014677",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178129085,
+          "product_id": 7856018653373,
+          "position": 21,
+          "created_at": "2024-08-12T10:19:30+02:00",
+          "updated_at": "2024-08-12T10:19:32+02:00",
+          "alt": "b146d92e986a1b4160864e323ece609c58870bef-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b146d92e986a1b4160864e323ece609c58870bef-1200x1200jpg.jpg?v=1723450772",
+          "variant_ids": [
+            44421105025213
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 20,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421105057981,
+        "title": "Color (1361)",
+        "option1": "Color (1361)",
+        "option2": null,
+        "option3": null,
+        "sku": "11011361",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178325693,
+          "product_id": 7856018653373,
+          "position": 22,
+          "created_at": "2024-08-12T10:19:30+02:00",
+          "updated_at": "2024-08-12T10:19:32+02:00",
+          "alt": "2cb598c099954f3035383f91f06fd5e20cb0278b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2cb598c099954f3035383f91f06fd5e20cb0278b-1200x1200jpg.jpg?v=1723450772",
+          "variant_ids": [
+            44421105057981
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 21,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421105090749,
+        "title": "Color (1990)",
+        "option1": "Color (1990)",
+        "option2": null,
+        "option3": null,
+        "sku": "11011990",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178030781,
+          "product_id": 7856018653373,
+          "position": 23,
+          "created_at": "2024-08-12T10:19:30+02:00",
+          "updated_at": "2024-08-12T10:19:31+02:00",
+          "alt": "29aa0af1f5811bf931644e7d6341761c8d50547d-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/29aa0af1f5811bf931644e7d6341761c8d50547d-1200x1200jpg.jpg?v=1723450771",
+          "variant_ids": [
+            44421105090749
+          ]
+        },
+        "available": false,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 22,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421105123517,
+        "title": "Color (2500)",
+        "option1": "Color (2500)",
+        "option2": null,
+        "option3": null,
+        "sku": "11012500",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178292925,
+          "product_id": 7856018653373,
+          "position": 24,
+          "created_at": "2024-08-12T10:19:30+02:00",
+          "updated_at": "2024-08-12T10:19:32+02:00",
+          "alt": "b70080df5394abb839ed09982f60ba13c0ab4a48-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b70080df5394abb839ed09982f60ba13c0ab4a48-1200x1200jpg.jpg?v=1723450772",
+          "variant_ids": [
+            44421105123517
+          ]
+        },
+        "available": false,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 23,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421105156285,
+        "title": "Color (4501)",
+        "option1": "Color (4501)",
+        "option2": null,
+        "option3": null,
+        "sku": "11014501",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178194621,
+          "product_id": 7856018653373,
+          "position": 25,
+          "created_at": "2024-08-12T10:19:30+02:00",
+          "updated_at": "2024-08-12T10:19:32+02:00",
+          "alt": "7537933477bc370a8d99f85ffe09fe67d9109816-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7537933477bc370a8d99f85ffe09fe67d9109816-1200x1200jpg.jpg?v=1723450772",
+          "variant_ids": [
+            44421105156285
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 24,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44421105189053,
+        "title": "Color (4657)",
+        "option1": "Color (4657)",
+        "option2": null,
+        "option3": null,
+        "sku": "11014657",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212178161853,
+          "product_id": 7856018653373,
+          "position": 26,
+          "created_at": "2024-08-12T10:19:30+02:00",
+          "updated_at": "2024-08-12T10:19:32+02:00",
+          "alt": "22b69f3bf67f580aa58f858519db8cb1a88c213b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22b69f3bf67f580aa58f858519db8cb1a88c213b-1200x1200jpg.jpg?v=1723450772",
+          "variant_ids": [
+            44421105189053
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 25,
+        "product_id": 7856018653373,
+        "created_at": "2024-08-05T10:34:44+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35212170887357,
+        "created_at": "2024-08-12T10:17:19+02:00",
+        "position": 1,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/39f071d3bb1e486e1da81dc8bca630bd2c62eed0-1199x1200jpg.jpg?v=1723450643",
+        "width": 1199,
+        "height": 1200
+      },
+      {
+        "id": 35212170395837,
+        "created_at": "2024-08-12T10:17:19+02:00",
+        "position": 2,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104402621
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c931c7b32c6f2de31e07f3bebb053cbb9a9675b6-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170756285,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 3,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104435389
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3443a7ae0a1084cf563c9f8ae94c1e1eb744566c-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170789053,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 4,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104468157
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/835c5810b30b0d14c67f275486c1459bdf81c101-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170494141,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 5,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104500925
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f19078911c1a70d4311bf6d278750e8d5fc7130a-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170625213,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 6,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104533693
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65fe1b714003450db9b9bc6eace6daffd5baadd0-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170559677,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 7,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104566461
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/53895612ebce3e8c6f9795adacb327df3a32228c-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170821821,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 8,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104599229
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/12ee26998d3745e8914d2541aaaa372c50d95991-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170690749,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 9,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104631997
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/99dba91987ddd0b0886c019adcdfba2fab3b63f3-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170920125,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 10,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104664765
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/471046947ab0b52b9cd0ab7e70ce63f3bb2d6210-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170657981,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 11,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104697533
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bb82eb16878700f254532db111f7ca0936743ca5-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170723517,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 12,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104730301
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0f3f178723cf27c50a774da88ab068c26d851844-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170428605,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 13,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104763069
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/67fc453384f383bb15fc9c5a602216c4685ca2d8-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170592445,
+        "created_at": "2024-08-12T10:17:20+02:00",
+        "position": 14,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104795837
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3ef59365d7fa653e37f265e70f9197267c4c220f-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170461373,
+        "created_at": "2024-08-12T10:17:21+02:00",
+        "position": 15,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104828605
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dfc13e36d3eecd4ed9b26f518e82a2c3e1f7da57-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170526909,
+        "created_at": "2024-08-12T10:17:21+02:00",
+        "position": 16,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104861373
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5853c7f5fc42ceb86484f3519612e3c354c6b687-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212170854589,
+        "created_at": "2024-08-12T10:17:21+02:00",
+        "position": 17,
+        "updated_at": "2024-08-12T10:17:23+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104894141
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7eb5540cffc4eb7bec4ae8344127dd20520d0710-1200x1200jpg.jpg?v=1723450643",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178096317,
+        "created_at": "2024-08-12T10:19:29+02:00",
+        "position": 18,
+        "updated_at": "2024-08-12T10:19:32+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104926909
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/040b27e8b6ea2409d52e99a1a7e06f4b2f3c5cf8-1200x1200jpg.jpg?v=1723450772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178227389,
+        "created_at": "2024-08-12T10:19:29+02:00",
+        "position": 19,
+        "updated_at": "2024-08-12T10:19:32+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104959677
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/91e5c72a41a10b35ddf89d30578d7248dae84cdb-1200x1200jpg.jpg?v=1723450772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178063549,
+        "created_at": "2024-08-12T10:19:29+02:00",
+        "position": 20,
+        "updated_at": "2024-08-12T10:19:31+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421104992445
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bb4257d9886f3174ee73f7e82f528d1ad8f08ac8-1200x1200jpg.jpg?v=1723450771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178129085,
+        "created_at": "2024-08-12T10:19:30+02:00",
+        "position": 21,
+        "updated_at": "2024-08-12T10:19:32+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421105025213
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b146d92e986a1b4160864e323ece609c58870bef-1200x1200jpg.jpg?v=1723450772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178325693,
+        "created_at": "2024-08-12T10:19:30+02:00",
+        "position": 22,
+        "updated_at": "2024-08-12T10:19:32+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421105057981
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2cb598c099954f3035383f91f06fd5e20cb0278b-1200x1200jpg.jpg?v=1723450772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178030781,
+        "created_at": "2024-08-12T10:19:30+02:00",
+        "position": 23,
+        "updated_at": "2024-08-12T10:19:31+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421105090749
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/29aa0af1f5811bf931644e7d6341761c8d50547d-1200x1200jpg.jpg?v=1723450771",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178292925,
+        "created_at": "2024-08-12T10:19:30+02:00",
+        "position": 24,
+        "updated_at": "2024-08-12T10:19:32+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421105123517
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b70080df5394abb839ed09982f60ba13c0ab4a48-1200x1200jpg.jpg?v=1723450772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178194621,
+        "created_at": "2024-08-12T10:19:30+02:00",
+        "position": 25,
+        "updated_at": "2024-08-12T10:19:32+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421105156285
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7537933477bc370a8d99f85ffe09fe67d9109816-1200x1200jpg.jpg?v=1723450772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212178161853,
+        "created_at": "2024-08-12T10:19:30+02:00",
+        "position": 26,
+        "updated_at": "2024-08-12T10:19:32+02:00",
+        "product_id": 7856018653373,
+        "variant_ids": [
+          44421105189053
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22b69f3bf67f580aa58f858519db8cb1a88c213b-1200x1200jpg.jpg?v=1723450772",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Color (75)",
+          "Color (1000)",
+          "Color (4950)",
+          "Color (7093)",
+          "Color (7070)",
+          "Color (7150)",
+          "Color (5106)",
+          "Color (4612)",
+          "Color (709)",
+          "Color (8029)",
+          "Color (6029)",
+          "Color (6970)",
+          "Color (4020)",
+          "Color (4038)",
+          "Color (3304)",
+          "Color (433)",
+          "Color (434)",
+          "Color (3050)",
+          "Color (1224)",
+          "Color (4677)",
+          "Color (1361)",
+          "Color (1990)",
+          "Color (2500)",
+          "Color (4501)",
+          "Color (4657)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855931621565,
+    "title": "New Arezzo",
+    "handle": "hp-1004024-new-arezzo",
+    "body_html": "<p>Je\u015bli jeszcze nie pr\u00f3bowa\u0142e\u015b/a\u015b prz\u0119dzy bambusowej, to najwy\u017csza pora!</p><p><strong>New Arezzo</strong> od Hjertegarn to wspania\u0142a mieszanka prz\u0119dzy, kt\u00f3ra zawiera 47% w\u0142\u00f3kna bambusowego, 33% lnu oraz 20% bawe\u0142ny. Je\u015bli wcze\u015bniej nie pr\u00f3bowa\u0142a\u015b/e\u015b pracowa\u0107 w\u0142\u00f3knem bambusowym, to najwy\u017csza pora. Mieszanka ma wiele wspania\u0142ych w\u0142a\u015bciwo\u015bci, kt\u00f3re sprawiaj\u0105, \u017ce w\u0142\u00f3czka jest jednocze\u015bnie przyjemna i mi\u0119kka oraz niesamowicie lekka.</p><p>Polecamy <strong>New Arezzo </strong>na du\u017ce koce lub swetry i kardigany. Wyst\u0119puje w 20 \u0142adnych kolorach - mo\u017ce znajdziesz taki, kt\u00f3ry najbardziej Ci si\u0119 podoba?</p><p>Hjertegarn jest jednym z pionier\u00f3w w\u015br\u00f3d w\u0142\u00f3czek w Danii. Ich rodzinna firma rozpocz\u0119\u0142a swoj\u0105 dzia\u0142alno\u015b\u0107 w 1926 roku, a ich filozofia polega na tym, \u017ce sprzedaj\u0105 w\u0142\u00f3czki w przyst\u0119pnych cenach, aby mog\u0142y przynie\u015b\u0107 rado\u015b\u0107 ka\u017cdemu. Sami m\u00f3wi\u0105: &quot;dzierganie to hobby, ale tak\u017ce spos\u00f3b na zrelaksowanie si\u0119 oraz znalezienie czasu na refleksje po cz\u0119sto stresuj\u0105cym dniu, wszystko czego potrzeba to druty, wz\u00f3r i w\u0142\u00f3czka.&quot; My w Hobbii ca\u0142kowicie si\u0119 z tym zgadzamy.</p><p>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420691427517,
+        "title": "Curry (0953)",
+        "option1": "Curry (0953)",
+        "option2": null,
+        "option3": null,
+        "sku": "11110953",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184112042173,
+          "product_id": 7855931621565,
+          "position": 3,
+          "created_at": "2024-08-05T10:58:42+02:00",
+          "updated_at": "2024-08-05T10:58:45+02:00",
+          "alt": "1605169323-15jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605169323-15jpg.jpg?v=1722848325",
+          "variant_ids": [
+            44420691427517
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 1,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691460285,
+        "title": "Peach (1224)",
+        "option1": "Peach (1224)",
+        "option2": null,
+        "option3": null,
+        "sku": "11111224",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184112140477,
+          "product_id": 7855931621565,
+          "position": 4,
+          "created_at": "2024-08-05T10:58:42+02:00",
+          "updated_at": "2024-08-05T10:58:45+02:00",
+          "alt": "17jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17jpg.jpg?v=1722848325",
+          "variant_ids": [
+            44420691460285
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 2,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691493053,
+        "title": "Rusty Orange (1340)",
+        "option1": "Rusty Orange (1340)",
+        "option2": null,
+        "option3": null,
+        "sku": "11111340",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823139194,
+          "product_id": 7855931621565,
+          "position": 11,
+          "created_at": "2024-10-23T17:36:02+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "1b60535b7880b979ea191a0f50f0a268",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1b60535b7880b979ea191a0f50f0a268.jpg?v=1729697765",
+          "variant_ids": [
+            44420691493053
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 3,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691525821,
+        "title": "Dark Orange (1448)",
+        "option1": "Dark Orange (1448)",
+        "option2": null,
+        "option3": null,
+        "sku": "11111448",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184111976637,
+          "product_id": 7855931621565,
+          "position": 5,
+          "created_at": "2024-08-05T10:58:42+02:00",
+          "updated_at": "2024-08-05T10:58:45+02:00",
+          "alt": "24jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/24jpg.jpg?v=1722848325",
+          "variant_ids": [
+            44420691525821
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 4,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691558589,
+        "title": "Lavender (1505)",
+        "option1": "Lavender (1505)",
+        "option2": null,
+        "option3": null,
+        "sku": "11111505",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823106426,
+          "product_id": 7855931621565,
+          "position": 12,
+          "created_at": "2024-10-23T17:36:02+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "17b9e5dc2836884349c91119123d263f",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17b9e5dc2836884349c91119123d263f.jpg?v=1729697765",
+          "variant_ids": [
+            44420691558589
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 5,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691591357,
+        "title": "Light Pink (1511)",
+        "option1": "Light Pink (1511)",
+        "option2": null,
+        "option3": null,
+        "sku": "11111511",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184112599229,
+          "product_id": 7855931621565,
+          "position": 6,
+          "created_at": "2024-08-05T10:58:42+02:00",
+          "updated_at": "2024-08-05T10:58:46+02:00",
+          "alt": "1605169390-16jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605169390-16jpg.jpg?v=1722848326",
+          "variant_ids": [
+            44420691591357
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 6,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691624125,
+        "title": "Warm Red (1522)",
+        "option1": "Warm Red (1522)",
+        "option2": null,
+        "option3": null,
+        "sku": "11111522",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184112468157,
+          "product_id": 7855931621565,
+          "position": 7,
+          "created_at": "2024-08-05T10:58:42+02:00",
+          "updated_at": "2024-08-05T10:58:46+02:00",
+          "alt": "20-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20-1jpg.jpg?v=1722848326",
+          "variant_ids": [
+            44420691624125
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 7,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691656893,
+        "title": "Black (1990)",
+        "option1": "Black (1990)",
+        "option2": null,
+        "option3": null,
+        "sku": "11111990",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823368570,
+          "product_id": 7855931621565,
+          "position": 13,
+          "created_at": "2024-10-23T17:36:02+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "4494ca3330896b0a42a051d38218de90",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4494ca3330896b0a42a051d38218de90.jpg?v=1729697765",
+          "variant_ids": [
+            44420691656893
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 8,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691689661,
+        "title": "White (2010)",
+        "option1": "White (2010)",
+        "option2": null,
+        "option3": null,
+        "sku": "11112010",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823270266,
+          "product_id": 7855931621565,
+          "position": 14,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "ccf42b18fd9a2c21e9ec795e8799ef64",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ccf42b18fd9a2c21e9ec795e8799ef64.jpg?v=1729697765",
+          "variant_ids": [
+            44420691689661
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 9,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691722429,
+        "title": "Sand (2122)",
+        "option1": "Sand (2122)",
+        "option2": null,
+        "option3": null,
+        "sku": "11112122",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184112074941,
+          "product_id": 7855931621565,
+          "position": 8,
+          "created_at": "2024-08-05T10:58:43+02:00",
+          "updated_at": "2024-08-05T10:58:45+02:00",
+          "alt": "18jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/18jpg.jpg?v=1722848325",
+          "variant_ids": [
+            44420691722429
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 10,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691755197,
+        "title": "Brown (2133)",
+        "option1": "Brown (2133)",
+        "option2": null,
+        "option3": null,
+        "sku": "11112133",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823401338,
+          "product_id": 7855931621565,
+          "position": 15,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "b58b4be7fe046fbb336543135a12179c",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b58b4be7fe046fbb336543135a12179c.jpg?v=1729697765",
+          "variant_ids": [
+            44420691755197
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 11,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691787965,
+        "title": "Yellow (3050)",
+        "option1": "Yellow (3050)",
+        "option2": null,
+        "option3": null,
+        "sku": "11113050",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823335802,
+          "product_id": 7855931621565,
+          "position": 16,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "30b79f368088a8aba7984bcd87d694d2",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/30b79f368088a8aba7984bcd87d694d2.jpg?v=1729697765",
+          "variant_ids": [
+            44420691787965
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 12,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691820733,
+        "title": "Dark Blue (4024)",
+        "option1": "Dark Blue (4024)",
+        "option2": null,
+        "option3": null,
+        "sku": "11114024",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823073658,
+          "product_id": 7855931621565,
+          "position": 17,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "8bf893c3dc9beadf1d741ac34be4d2be",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8bf893c3dc9beadf1d741ac34be4d2be.jpg?v=1729697765",
+          "variant_ids": [
+            44420691820733
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 13,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691853501,
+        "title": "Light Blue (4030)",
+        "option1": "Light Blue (4030)",
+        "option2": null,
+        "option3": null,
+        "sku": "11114030",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184112238781,
+          "product_id": 7855931621565,
+          "position": 9,
+          "created_at": "2024-08-05T10:58:43+02:00",
+          "updated_at": "2024-08-05T10:58:46+02:00",
+          "alt": "6jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6jpg.jpg?v=1722848326",
+          "variant_ids": [
+            44420691853501
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 14,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691886269,
+        "title": "Grey/Blue (4307)",
+        "option1": "Grey/Blue (4307)",
+        "option2": null,
+        "option3": null,
+        "sku": "11114307",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35495390937277,
+          "product_id": 7855931621565,
+          "position": 10,
+          "created_at": "2024-10-08T14:56:35+02:00",
+          "updated_at": "2024-10-08T14:56:38+02:00",
+          "alt": "7jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7jpg.jpg?v=1728392198",
+          "variant_ids": [
+            44420691886269
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 15,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691919037,
+        "title": "Petrol Blue (4612)",
+        "option1": "Petrol Blue (4612)",
+        "option2": null,
+        "option3": null,
+        "sku": "11114612",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823434106,
+          "product_id": 7855931621565,
+          "position": 18,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "3e3498a0590056956ba0c93221e63e5f",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3e3498a0590056956ba0c93221e63e5f.jpg?v=1729697765",
+          "variant_ids": [
+            44420691919037
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 16,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691951805,
+        "title": "Grey (4702)",
+        "option1": "Grey (4702)",
+        "option2": null,
+        "option3": null,
+        "sku": "11114702",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823171962,
+          "product_id": 7855931621565,
+          "position": 19,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "dd3e0ca468eab6091adde47b8c595a80",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dd3e0ca468eab6091adde47b8c595a80.jpg?v=1729697765",
+          "variant_ids": [
+            44420691951805
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 17,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420691984573,
+        "title": "Mint (5106)",
+        "option1": "Mint (5106)",
+        "option2": null,
+        "option3": null,
+        "sku": "11115106",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823303034,
+          "product_id": 7855931621565,
+          "position": 20,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "11fbd6259e386574037d5d8086a98aea",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/11fbd6259e386574037d5d8086a98aea.jpg?v=1729697765",
+          "variant_ids": [
+            44420691984573
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 18,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420692017341,
+        "title": "Sage Green (6009)",
+        "option1": "Sage Green (6009)",
+        "option2": null,
+        "option3": null,
+        "sku": "11116009",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823204730,
+          "product_id": 7855931621565,
+          "position": 21,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "cc4f760466c2a6712dc948e1080ab920",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cc4f760466c2a6712dc948e1080ab920.jpg?v=1729697765",
+          "variant_ids": [
+            44420692017341
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 19,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420692050109,
+        "title": "Light Lime (0216)",
+        "option1": "Light Lime (0216)",
+        "option2": null,
+        "option3": null,
+        "sku": "11110216",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415823237498,
+          "product_id": 7855931621565,
+          "position": 22,
+          "created_at": "2024-10-23T17:36:03+02:00",
+          "updated_at": "2024-10-23T17:36:05+02:00",
+          "alt": "902872262402682fff744ffdb83b635a",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/902872262402682fff744ffdb83b635a.jpg?v=1729697765",
+          "variant_ids": [
+            44420692050109
+          ]
+        },
+        "available": true,
+        "price": "15.96",
+        "grams": 52,
+        "compare_at_price": "19.00",
+        "position": 20,
+        "product_id": 7855931621565,
+        "created_at": "2024-08-05T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184112107709,
+        "created_at": "2024-08-05T10:58:42+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:58:45+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/new-arezzo-frontjpg.jpg?v=1722848325",
+        "width": 1018,
+        "height": 1018
+      },
+      {
+        "id": 35184112566461,
+        "created_at": "2024-08-05T10:58:42+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:58:46+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/283728742-535421988303744-6543200429420696088-njpg.jpg?v=1722848326",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35184112042173,
+        "created_at": "2024-08-05T10:58:42+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:58:45+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691427517
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605169323-15jpg.jpg?v=1722848325",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184112140477,
+        "created_at": "2024-08-05T10:58:42+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:58:45+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691460285
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17jpg.jpg?v=1722848325",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184111976637,
+        "created_at": "2024-08-05T10:58:42+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:58:45+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691525821
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/24jpg.jpg?v=1722848325",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184112599229,
+        "created_at": "2024-08-05T10:58:42+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T10:58:46+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691591357
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605169390-16jpg.jpg?v=1722848326",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184112468157,
+        "created_at": "2024-08-05T10:58:42+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T10:58:46+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691624125
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20-1jpg.jpg?v=1722848326",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184112074941,
+        "created_at": "2024-08-05T10:58:43+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T10:58:45+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691722429
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/18jpg.jpg?v=1722848325",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184112238781,
+        "created_at": "2024-08-05T10:58:43+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T10:58:46+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691853501
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6jpg.jpg?v=1722848326",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35495390937277,
+        "created_at": "2024-10-08T14:56:35+02:00",
+        "position": 10,
+        "updated_at": "2024-10-08T14:56:38+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691886269
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7jpg.jpg?v=1728392198",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415823139194,
+        "created_at": "2024-10-23T17:36:02+02:00",
+        "position": 11,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691493053
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1b60535b7880b979ea191a0f50f0a268.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823106426,
+        "created_at": "2024-10-23T17:36:02+02:00",
+        "position": 12,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691558589
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17b9e5dc2836884349c91119123d263f.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823368570,
+        "created_at": "2024-10-23T17:36:02+02:00",
+        "position": 13,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691656893
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4494ca3330896b0a42a051d38218de90.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823270266,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 14,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691689661
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ccf42b18fd9a2c21e9ec795e8799ef64.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823401338,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 15,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691755197
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b58b4be7fe046fbb336543135a12179c.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823335802,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 16,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691787965
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/30b79f368088a8aba7984bcd87d694d2.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823073658,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 17,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691820733
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8bf893c3dc9beadf1d741ac34be4d2be.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823434106,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 18,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691919037
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3e3498a0590056956ba0c93221e63e5f.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823171962,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 19,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691951805
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dd3e0ca468eab6091adde47b8c595a80.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823303034,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 20,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420691984573
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/11fbd6259e386574037d5d8086a98aea.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823204730,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 21,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420692017341
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cc4f760466c2a6712dc948e1080ab920.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415823237498,
+        "created_at": "2024-10-23T17:36:03+02:00",
+        "position": 22,
+        "updated_at": "2024-10-23T17:36:05+02:00",
+        "product_id": 7855931621565,
+        "variant_ids": [
+          44420692050109
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/902872262402682fff744ffdb83b635a.jpg?v=1729697765",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Curry (0953)",
+          "Peach (1224)",
+          "Rusty Orange (1340)",
+          "Dark Orange (1448)",
+          "Lavender (1505)",
+          "Light Pink (1511)",
+          "Warm Red (1522)",
+          "Black (1990)",
+          "White (2010)",
+          "Sand (2122)",
+          "Brown (2133)",
+          "Yellow (3050)",
+          "Dark Blue (4024)",
+          "Light Blue (4030)",
+          "Grey/Blue (4307)",
+          "Petrol Blue (4612)",
+          "Grey (4702)",
+          "Mint (5106)",
+          "Sage Green (6009)",
+          "Light Lime (0216)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855915761853,
+    "title": "Inca Wool",
+    "handle": "hp-1007622-inca-wool",
+    "body_html": "<p><strong>Inca Wool </strong>wykonana jest w 100% z lekko prz\u0119dzionej, ciep\u0142ej, trwa\u0142ej i przewiewnej we\u0142ny g\u00f3ralskiej o g\u0142adkiej strukturze, kt\u00f3ra sprawia, \u017ce praca z ni\u0105 jest przyjemno\u015bci\u0105. Jasne pojedyncze kolory i wielokolorowe opcje gradient\u00f3w stanowi\u0105 inspiracj\u0119 dla nieko\u0144cz\u0105cych si\u0119 akcesori\u00f3w, ubra\u0144 i dodatk\u00f3w do domu, od klasycznych po nowoczesne projekty. <strong>Inca Wool</strong> mo\u017ce by\u0107 r\u00f3wnie\u017c filcowana w pralce, dzi\u0119ki czemu nadaje si\u0119 do projekt\u00f3w takich jak; kapcie, r\u0119kawiczki, \u0142apki kuchenne i inne elementy wyposa\u017cenia wn\u0119trz. Ze wzgl\u0119du na t\u0119 cech\u0119, w przypadku normalnych projekt\u00f3w zalecamy delikatne pranie r\u0119czne z u\u017cyciem detergentu do we\u0142ny, bez wirowania i suszenie na p\u0142asko.\n\n<em>Hjertegarn jest jednym z pionier\u00f3w prz\u0119dzy w Danii. Ich rodzinna firma rozpocz\u0119\u0142a dzia\u0142alno\u015b\u0107 w 1926 roku, a ich filozofi\u0105 jest sprzeda\u017c w\u0142\u00f3czki w rozs\u0105dnych cenach, aby ka\u017cdy m\u00f3g\u0142 sobie na ni\u0105 pozwoli\u0107. Twierdz\u0105, \u017ce &quot;Robienie na drutach to hobby i spos\u00f3b na odnalezienie spokoju i harmonii w zabieganym codziennym \u017cyciu, poniewa\u017c potrzebujesz tylko drut\u00f3w, wzoru i troch\u0119 w\u0142\u00f3czki&quot;. A my w Hobbii jeste\u015bmy ca\u0142kowicie z tym zgodni.</em>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420604821693,
+        "title": "Color (100)",
+        "option1": "Color (100)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390100",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208668861,
+          "product_id": 7855915761853,
+          "position": 2,
+          "created_at": "2024-08-12T10:27:19+02:00",
+          "updated_at": "2024-08-12T10:27:22+02:00",
+          "alt": "ef38c648ec892cf8e6717e8cd393bc9f0cbfa14b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ef38c648ec892cf8e6717e8cd393bc9f0cbfa14b-1200x1200jpg.jpg?v=1723451242",
+          "variant_ids": [
+            44420604821693
+          ]
+        },
+        "available": false,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420604854461,
+        "title": "Color (66)",
+        "option1": "Color (66)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390066",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209094845,
+          "product_id": 7855915761853,
+          "position": 3,
+          "created_at": "2024-08-12T10:27:19+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "ee543a50172ef3abbd18a80712a426bb36434d36-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ee543a50172ef3abbd18a80712a426bb36434d36-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420604854461
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420604887229,
+        "title": "Color (284)",
+        "option1": "Color (284)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390284",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208865469,
+          "product_id": 7855915761853,
+          "position": 4,
+          "created_at": "2024-08-12T10:27:19+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "c36e8bd573a167232589bcacbd99959a434c17eb-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c36e8bd573a167232589bcacbd99959a434c17eb-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420604887229
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420604919997,
+        "title": "Color (1910)",
+        "option1": "Color (1910)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391910",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208636093,
+          "product_id": 7855915761853,
+          "position": 5,
+          "created_at": "2024-08-12T10:27:19+02:00",
+          "updated_at": "2024-08-12T10:27:22+02:00",
+          "alt": "6c8a020640c4ccc502b3d0753a5688b0fa4866b3-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6c8a020640c4ccc502b3d0753a5688b0fa4866b3-1200x1200jpg.jpg?v=1723451242",
+          "variant_ids": [
+            44420604919997
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420604952765,
+        "title": "Color (1224)",
+        "option1": "Color (1224)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391224",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209356989,
+          "product_id": 7855915761853,
+          "position": 6,
+          "created_at": "2024-08-12T10:27:19+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "8f3d8971c55c3ac853ecd002fb75143d7c271a8b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8f3d8971c55c3ac853ecd002fb75143d7c271a8b-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420604952765
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420604985533,
+        "title": "Color (6957)",
+        "option1": "Color (6957)",
+        "option2": null,
+        "option3": null,
+        "sku": "14396957",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209225917,
+          "product_id": 7855915761853,
+          "position": 7,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "4df28aae8371a8a631d894eb5c80feb874b3018a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4df28aae8371a8a631d894eb5c80feb874b3018a-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420604985533
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605018301,
+        "title": "Color (1902)",
+        "option1": "Color (1902)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391902",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208799933,
+          "product_id": 7855915761853,
+          "position": 8,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:22+02:00",
+          "alt": "7702ad2cd78223db4f43e6570fedd1cbd73b2ddb-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7702ad2cd78223db4f43e6570fedd1cbd73b2ddb-1200x1200jpg.jpg?v=1723451242",
+          "variant_ids": [
+            44420605018301
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605051069,
+        "title": "Color (822)",
+        "option1": "Color (822)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390822",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209258685,
+          "product_id": 7855915761853,
+          "position": 9,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "5d6080226962db697f2922f12d55452dd492b5c6-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5d6080226962db697f2922f12d55452dd492b5c6-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605051069
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605083837,
+        "title": "Color (1536)",
+        "option1": "Color (1536)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391536",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208701629,
+          "product_id": 7855915761853,
+          "position": 10,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:22+02:00",
+          "alt": "e19f8c273cbbe7fe4a0c22959717105f7c9b024a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e19f8c273cbbe7fe4a0c22959717105f7c9b024a-1200x1200jpg.jpg?v=1723451242",
+          "variant_ids": [
+            44420605083837
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 9,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605116605,
+        "title": "Color (1036)",
+        "option1": "Color (1036)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391036",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208931005,
+          "product_id": 7855915761853,
+          "position": 11,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "dc2d6e5e388f4dd06612dfcb59966ee64693b9fc-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dc2d6e5e388f4dd06612dfcb59966ee64693b9fc-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605116605
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 10,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605149373,
+        "title": "Color (3810)",
+        "option1": "Color (3810)",
+        "option2": null,
+        "option3": null,
+        "sku": "14393810",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208767165,
+          "product_id": 7855915761853,
+          "position": 12,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:22+02:00",
+          "alt": "85b0ac5b47ca46f81a17fc33ad63eee9c0d49681-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/85b0ac5b47ca46f81a17fc33ad63eee9c0d49681-1200x1200jpg.jpg?v=1723451242",
+          "variant_ids": [
+            44420605149373
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 11,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605182141,
+        "title": "Color (9966)",
+        "option1": "Color (9966)",
+        "option2": null,
+        "option3": null,
+        "sku": "14399966",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209160381,
+          "product_id": 7855915761853,
+          "position": 13,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "65e9c3f0a41d34e08926ef2dc68b45b4cbc2b2de-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65e9c3f0a41d34e08926ef2dc68b45b4cbc2b2de-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605182141
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 12,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605214909,
+        "title": "Color (2260)",
+        "option1": "Color (2260)",
+        "option2": null,
+        "option3": null,
+        "sku": "14392260",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208996541,
+          "product_id": 7855915761853,
+          "position": 14,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "c8c19c0153da97b23e35db1ed65d30272264b18e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c8c19c0153da97b23e35db1ed65d30272264b18e-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605214909
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 13,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605247677,
+        "title": "Color (2060)",
+        "option1": "Color (2060)",
+        "option2": null,
+        "option3": null,
+        "sku": "14392060",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208898237,
+          "product_id": 7855915761853,
+          "position": 15,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "4596a38d52f035dbd072d096abe36dde9e05181a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4596a38d52f035dbd072d096abe36dde9e05181a-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605247677
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 14,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605280445,
+        "title": "Color (1890)",
+        "option1": "Color (1890)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391890",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209062077,
+          "product_id": 7855915761853,
+          "position": 16,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "a367886e5f34cf649869439c29ad31d103d646c9-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a367886e5f34cf649869439c29ad31d103d646c9-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605280445
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 15,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605313213,
+        "title": "Color (1800)",
+        "option1": "Color (1800)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391800",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208832701,
+          "product_id": 7855915761853,
+          "position": 17,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "003fbf1bd56480a57af0270183bc8f5f42216d03-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/003fbf1bd56480a57af0270183bc8f5f42216d03-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605313213
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 16,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605345981,
+        "title": "Color (1203)",
+        "option1": "Color (1203)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391203",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209127613,
+          "product_id": 7855915761853,
+          "position": 18,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "39478a75ca8f559f89549fce9ade7894adbeca44-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/39478a75ca8f559f89549fce9ade7894adbeca44-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605345981
+          ]
+        },
+        "available": false,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 17,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605378749,
+        "title": "Color (1107)",
+        "option1": "Color (1107)",
+        "option2": null,
+        "option3": null,
+        "sku": "14391107",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209291453,
+          "product_id": 7855915761853,
+          "position": 19,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "205dfe9f557f3d65bf4a37ea275525548931ccb8-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/205dfe9f557f3d65bf4a37ea275525548931ccb8-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605378749
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 18,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605411517,
+        "title": "Color (643)",
+        "option1": "Color (643)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390643",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209389757,
+          "product_id": 7855915761853,
+          "position": 20,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "0bfc6044738a86cf330cd752b29f327ae3844d4c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0bfc6044738a86cf330cd752b29f327ae3844d4c-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605411517
+          ]
+        },
+        "available": false,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 19,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605444285,
+        "title": "Color (500)",
+        "option1": "Color (500)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390500",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209324221,
+          "product_id": 7855915761853,
+          "position": 21,
+          "created_at": "2024-08-12T10:27:20+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "c75c22daf9c4b2045fb97c46cddc3e3280ea2436-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c75c22daf9c4b2045fb97c46cddc3e3280ea2436-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605444285
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 20,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605477053,
+        "title": "Color (402)",
+        "option1": "Color (402)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390402",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212208734397,
+          "product_id": 7855915761853,
+          "position": 22,
+          "created_at": "2024-08-12T10:27:21+02:00",
+          "updated_at": "2024-08-12T10:27:22+02:00",
+          "alt": "1b96b6bdfd828aa684b1633055c6ea40dc5afe26-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1b96b6bdfd828aa684b1633055c6ea40dc5afe26-1200x1200jpg.jpg?v=1723451242",
+          "variant_ids": [
+            44420605477053
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 21,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605509821,
+        "title": "Color (401)",
+        "option1": "Color (401)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390401",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209029309,
+          "product_id": 7855915761853,
+          "position": 23,
+          "created_at": "2024-08-12T10:27:21+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "9c947966a2853ed80053da33cb4ba2d4fef0403e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9c947966a2853ed80053da33cb4ba2d4fef0403e-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605509821
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 22,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      },
+      {
+        "id": 44420605542589,
+        "title": "Color (63)",
+        "option1": "Color (63)",
+        "option2": null,
+        "option3": null,
+        "sku": "14390063",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212209193149,
+          "product_id": 7855915761853,
+          "position": 24,
+          "created_at": "2024-08-12T10:27:21+02:00",
+          "updated_at": "2024-08-12T10:27:23+02:00",
+          "alt": "0f668f07817834e7791689ce1a7ae0a2a364af42-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0f668f07817834e7791689ce1a7ae0a2a364af42-1200x1200jpg.jpg?v=1723451243",
+          "variant_ids": [
+            44420605542589
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 102,
+        "compare_at_price": "0.00",
+        "position": 23,
+        "product_id": 7855915761853,
+        "created_at": "2024-08-05T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:33:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35212208963773,
+        "created_at": "2024-08-12T10:27:19+02:00",
+        "position": 1,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f142ee5ac630b06cea6333cc51bb5f552d23b1bc-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208668861,
+        "created_at": "2024-08-12T10:27:19+02:00",
+        "position": 2,
+        "updated_at": "2024-08-12T10:27:22+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420604821693
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ef38c648ec892cf8e6717e8cd393bc9f0cbfa14b-1200x1200jpg.jpg?v=1723451242",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209094845,
+        "created_at": "2024-08-12T10:27:19+02:00",
+        "position": 3,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420604854461
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ee543a50172ef3abbd18a80712a426bb36434d36-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208865469,
+        "created_at": "2024-08-12T10:27:19+02:00",
+        "position": 4,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420604887229
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c36e8bd573a167232589bcacbd99959a434c17eb-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208636093,
+        "created_at": "2024-08-12T10:27:19+02:00",
+        "position": 5,
+        "updated_at": "2024-08-12T10:27:22+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420604919997
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6c8a020640c4ccc502b3d0753a5688b0fa4866b3-1200x1200jpg.jpg?v=1723451242",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209356989,
+        "created_at": "2024-08-12T10:27:19+02:00",
+        "position": 6,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420604952765
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8f3d8971c55c3ac853ecd002fb75143d7c271a8b-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209225917,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 7,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420604985533
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4df28aae8371a8a631d894eb5c80feb874b3018a-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208799933,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 8,
+        "updated_at": "2024-08-12T10:27:22+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605018301
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7702ad2cd78223db4f43e6570fedd1cbd73b2ddb-1200x1200jpg.jpg?v=1723451242",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209258685,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 9,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605051069
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5d6080226962db697f2922f12d55452dd492b5c6-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208701629,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 10,
+        "updated_at": "2024-08-12T10:27:22+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605083837
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e19f8c273cbbe7fe4a0c22959717105f7c9b024a-1200x1200jpg.jpg?v=1723451242",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208931005,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 11,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605116605
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dc2d6e5e388f4dd06612dfcb59966ee64693b9fc-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208767165,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 12,
+        "updated_at": "2024-08-12T10:27:22+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605149373
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/85b0ac5b47ca46f81a17fc33ad63eee9c0d49681-1200x1200jpg.jpg?v=1723451242",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209160381,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 13,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605182141
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65e9c3f0a41d34e08926ef2dc68b45b4cbc2b2de-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208996541,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 14,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605214909
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c8c19c0153da97b23e35db1ed65d30272264b18e-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208898237,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 15,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605247677
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4596a38d52f035dbd072d096abe36dde9e05181a-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209062077,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 16,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605280445
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a367886e5f34cf649869439c29ad31d103d646c9-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208832701,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 17,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605313213
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/003fbf1bd56480a57af0270183bc8f5f42216d03-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209127613,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 18,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605345981
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/39478a75ca8f559f89549fce9ade7894adbeca44-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209291453,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 19,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605378749
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/205dfe9f557f3d65bf4a37ea275525548931ccb8-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209389757,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 20,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605411517
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0bfc6044738a86cf330cd752b29f327ae3844d4c-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209324221,
+        "created_at": "2024-08-12T10:27:20+02:00",
+        "position": 21,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605444285
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c75c22daf9c4b2045fb97c46cddc3e3280ea2436-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212208734397,
+        "created_at": "2024-08-12T10:27:21+02:00",
+        "position": 22,
+        "updated_at": "2024-08-12T10:27:22+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605477053
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1b96b6bdfd828aa684b1633055c6ea40dc5afe26-1200x1200jpg.jpg?v=1723451242",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209029309,
+        "created_at": "2024-08-12T10:27:21+02:00",
+        "position": 23,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605509821
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9c947966a2853ed80053da33cb4ba2d4fef0403e-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212209193149,
+        "created_at": "2024-08-12T10:27:21+02:00",
+        "position": 24,
+        "updated_at": "2024-08-12T10:27:23+02:00",
+        "product_id": 7855915761853,
+        "variant_ids": [
+          44420605542589
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0f668f07817834e7791689ce1a7ae0a2a364af42-1200x1200jpg.jpg?v=1723451243",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Color (100)",
+          "Color (66)",
+          "Color (284)",
+          "Color (1910)",
+          "Color (1224)",
+          "Color (6957)",
+          "Color (1902)",
+          "Color (822)",
+          "Color (1536)",
+          "Color (1036)",
+          "Color (3810)",
+          "Color (9966)",
+          "Color (2260)",
+          "Color (2060)",
+          "Color (1890)",
+          "Color (1800)",
+          "Color (1203)",
+          "Color (1107)",
+          "Color (643)",
+          "Color (500)",
+          "Color (402)",
+          "Color (401)",
+          "Color (63)"
+        ]
+      }
+    ]
+  }
+]

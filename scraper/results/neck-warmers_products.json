@@ -1,0 +1,1773 @@
+[
+  {
+    "id": 14833240211834,
+    "title": "Gansey - Szalik",
+    "handle": "hp-1008640-gansey-scarf",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>D\u0142ugo\u015b\u0107: 180 cm</p><p>Szeroko\u015b\u0107: 30 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Jest co\u015b wyj\u0105tkowego w tworzeniu czego\u015b w\u0142asnymi r\u0119kami. Szalik Gansey jest idealny zar\u00f3wno dla pocz\u0105tkuj\u0105cych, jak i do\u015bwiadczonych r\u0119kodzielnik\u00f3w. Dzi\u0119ki prostym technikom i eleganckiemu wzorowi Gansey otrzymasz pi\u0119kny i ciep\u0142y szalik na zimowe miesi\u0105ce.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 54734009467258,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2522-244-1762",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 14833240211834,
+        "created_at": "2024-11-18T11:54:14+01:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 72167583056250,
+        "created_at": "2024-11-18T11:55:09+01:00",
+        "position": 1,
+        "updated_at": "2024-11-18T11:55:13+01:00",
+        "product_id": 14833240211834,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a758da57feed804347e656c0bc50e03c.jpg?v=1731927313",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7875570991293,
+    "title": "La Spiga - Komin",
+    "handle": "hp-1008375-la-spiga-cowl",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M)</p><p>\n<strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 19,5 (19,5) cm</p><p>D\u0142ugo\u015b\u0107: 28 (33)cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Komin sk\u0142ada si\u0119 z dw\u00f3ch po\u0142\u0105czonych warstw. Zewn\u0119trzna warstwa jest przerabiana wed\u0142ug schematu. Warstwa wewn\u0119trzna jest przerabiana \u015bciegiem d\u017cersejowym naprzemiennie 2 kolorami. W komplecie do komina jest te\u017c czapka.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44481392541885,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2491-243-2953",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7875570991293,
+        "created_at": "2024-09-03T13:10:40+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      },
+      {
+        "id": 44481392574653,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2491-243-2953",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7875570991293,
+        "created_at": "2024-09-03T13:10:40+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35322780614845,
+        "created_at": "2024-09-03T13:11:22+02:00",
+        "position": 1,
+        "updated_at": "2024-09-03T13:11:24+02:00",
+        "product_id": 7875570991293,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4904d3b34ee70043507b4420801c3891ecdce685-3024x3024jpg.jpg?v=1725361884",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35322780713149,
+        "created_at": "2024-09-03T13:11:22+02:00",
+        "position": 2,
+        "updated_at": "2024-09-03T13:11:24+02:00",
+        "product_id": 7875570991293,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8f38cef5e8ada6018875353d6a4f0054f688f690-3024x3024jpg.jpg?v=1725361884",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35322780680381,
+        "created_at": "2024-09-03T13:11:22+02:00",
+        "position": 3,
+        "updated_at": "2024-09-03T13:11:24+02:00",
+        "product_id": 7875570991293,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7920c3c8d6cf4928ad802ba145450a9f1d7a9850-3024x3024jpg.jpg?v=1725361884",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35322780745917,
+        "created_at": "2024-09-03T13:11:22+02:00",
+        "position": 4,
+        "updated_at": "2024-09-03T13:11:24+02:00",
+        "product_id": 7875570991293,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ebd13acd9213135dc6e018928bc328d7f81a1a98-3024x3024jpg.jpg?v=1725361884",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35322780647613,
+        "created_at": "2024-09-03T13:11:22+02:00",
+        "position": 5,
+        "updated_at": "2024-09-03T13:11:24+02:00",
+        "product_id": 7875570991293,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d99f246ca99317f31459123a859b087f2736335b-3024x3024jpg.jpg?v=1725361884",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35322780778685,
+        "created_at": "2024-09-03T13:11:22+02:00",
+        "position": 6,
+        "updated_at": "2024-09-03T13:11:25+02:00",
+        "product_id": 7875570991293,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7b6c858ce564aa12ae339d93dd6d0ef4f86b94b7-3024x3024jpg.jpg?v=1725361885",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35322780582077,
+        "created_at": "2024-09-03T13:11:22+02:00",
+        "position": 7,
+        "updated_at": "2024-09-03T13:11:24+02:00",
+        "product_id": 7875570991293,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bf321a29af12baf13680ab2a239878d1398722a1-3024x3024jpg.jpg?v=1725361884",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857048846525,
+    "title": "Brise \u2013 Golfik - Ocieplacz",
+    "handle": "hp-1004364-brise-neck-warmer",
+    "body_html": "<p>Pi\u0119kny ocieplacz wykonany z naszej uroczej w\u0142\u00f3czki Tweed Delight. W\u0142\u00f3czka jest mi\u0119kka i puszysta, a delikatna gra kolor\u00f3w nadaje mu odwa\u017cny detal.</p><p>Ocieplacz jest idealny pod kurtk\u0119 podczas zimowych miesi\u0119cy.</p><p>Wykonaj go na drutach w dw\u00f3ch r\u00f3\u017cnych kolorach jak na naszym modelu, lub w jednym kolorze z czterech motk\u00f3w w\u0142\u00f3czki.</p><p>\u017byczymy przyjemnego dziergania!</p><p>\n</p><p>\n</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423520583869,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2016-211-2067",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857048846525,
+        "created_at": "2024-08-06T10:24:57+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377350869181,
+        "created_at": "2024-09-17T11:59:48+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T11:59:50+02:00",
+        "product_id": 7857048846525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17f96a156e71365bcb4e54950006d46d1b0be034-4409x4409jpg.jpg?v=1726567190",
+        "width": 4409,
+        "height": 4409
+      },
+      {
+        "id": 35377350803645,
+        "created_at": "2024-09-17T11:59:48+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T11:59:50+02:00",
+        "product_id": 7857048846525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16eca14ec01d0a1d7fea1c3dd21b180d24bb5490-2900x2900jpg.jpg?v=1726567190",
+        "width": 2900,
+        "height": 2900
+      },
+      {
+        "id": 35377350836413,
+        "created_at": "2024-09-17T11:59:48+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T11:59:50+02:00",
+        "product_id": 7857048846525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/52728106561a053a549d23ca3385754ef7feeb38-3521x3521jpg.jpg?v=1726567190",
+        "width": 3521,
+        "height": 3521
+      },
+      {
+        "id": 35377350770877,
+        "created_at": "2024-09-17T11:59:48+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T11:59:50+02:00",
+        "product_id": 7857048846525,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0a30bf9b3122e17c9fce25edb9e60605fa16f6e4-1938x1938jpg.jpg?v=1726567190",
+        "width": 1938,
+        "height": 1938
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857037476029,
+    "title": "Salt and Pepper - Komin",
+    "handle": "hp-1004266-salt-and-pepper-cowl",
+    "body_html": "<p>Ten uroczy komin jest szyde\u0142kowany z mi\u0119kkiej w\u0142\u00f3czki akrylowej Hurricane, kt\u00f3ra zapewni Ci ciep\u0142o w ch\u0142odne dni. Do kompletu mo\u017cesz wyszyde\u0142kowa\u0107 \u015bwietne r\u0119kawiczki i wygl\u0105da\u0107 rewelacyjnie w zimowe dni.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423489716413,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1006-204-1475",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857037476029,
+        "created_at": "2024-08-06T10:23:43+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377330684093,
+        "created_at": "2024-09-17T11:55:29+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T11:55:31+02:00",
+        "product_id": 7857037476029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4cc570e390348322e7125b4699fcaadc94679b26-1808x1808jpg.jpg?v=1726566931",
+        "width": 1808,
+        "height": 1808
+      },
+      {
+        "id": 35377330716861,
+        "created_at": "2024-09-17T11:55:29+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T11:55:31+02:00",
+        "product_id": 7857037476029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/254516c459f92df86253f3625eeb2fbc25c43515-1808x1808jpg.jpg?v=1726566931",
+        "width": 1808,
+        "height": 1808
+      },
+      {
+        "id": 35377330749629,
+        "created_at": "2024-09-17T11:55:29+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T11:55:31+02:00",
+        "product_id": 7857037476029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dee7ec654ee05d992a7e7d7a7b146b7375fc9878-1808x1808jpg.jpg?v=1726566931",
+        "width": 1808,
+        "height": 1808
+      },
+      {
+        "id": 35377330651325,
+        "created_at": "2024-09-17T11:55:29+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T11:55:31+02:00",
+        "product_id": 7857037476029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7e759b2153677390cb8fddb4296c2cda17a8552d-1808x1808jpg.jpg?v=1726566931",
+        "width": 1808,
+        "height": 1808
+      },
+      {
+        "id": 35377330782397,
+        "created_at": "2024-09-17T11:55:29+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T11:55:31+02:00",
+        "product_id": 7857037476029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/449245d411b9bd51d5a7e443ce857a1a905a1164-1808x1808jpg.jpg?v=1726566931",
+        "width": 1808,
+        "height": 1808
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857031905469,
+    "title": "Bear - Hooded Cowl",
+    "handle": "hp-1007778-bear-hooded-cowl",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>1-4 lata (4-10 lat) 10+ lat\n</p><p>\n<strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 20 (25) 30 cm</p><p>D\u0142ugo\u015b\u0107: 34 (38.5) 43 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Ten przyjazny dla pocz\u0105tkuj\u0105cych wz\u00f3r jest przerabiany w okr\u0105\u017ceniach p\u00f3\u0142s\u0142upkami nawijanymi, a nast\u0119pnie w rz\u0119dach p\u00f3\u0142s\u0142upkami nawijanymi. G\u00f3rna cz\u0119\u015b\u0107 \u0142\u0105czona oczkami \u015bcis\u0142ymi, a uszy przyszywane na samym ko\u0144cu. Wz\u00f3r zawiera pisemn\u0105 instrukcj\u0119 oraz ca\u0142kowit\u0105 liczb\u0119 \u015bcieg\u00f3w dla ka\u017cdego okr\u0105\u017cenia/rz\u0119du.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423475953853,
+        "title": "1-4 years",
+        "option1": "1-4 years",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1388-241-4297",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857031905469,
+        "created_at": "2024-08-06T10:23:11+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      },
+      {
+        "id": 44423475986621,
+        "title": "4-10 years",
+        "option1": "4-10 years",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1388-241-4297",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7857031905469,
+        "created_at": "2024-08-06T10:23:11+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      },
+      {
+        "id": 44423476019389,
+        "title": "10+ years",
+        "option1": "10+ years",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1388-241-4297",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7857031905469,
+        "created_at": "2024-08-06T10:23:11+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35191646126269,
+        "created_at": "2024-08-07T01:36:17+02:00",
+        "position": 1,
+        "updated_at": "2024-08-07T01:36:19+02:00",
+        "product_id": 7857031905469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4988c40453d37a764ff4f808a99ddf8ecf566404-1080x1080jpg.jpg?v=1722987379",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35191646224573,
+        "created_at": "2024-08-07T01:36:17+02:00",
+        "position": 2,
+        "updated_at": "2024-08-07T01:36:19+02:00",
+        "product_id": 7857031905469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3b7730025f789100006c397dff99347217044c24-3000x3004jpg.jpg?v=1722987379",
+        "width": 3000,
+        "height": 3004
+      },
+      {
+        "id": 35191646355645,
+        "created_at": "2024-08-07T01:36:17+02:00",
+        "position": 3,
+        "updated_at": "2024-08-07T01:36:20+02:00",
+        "product_id": 7857031905469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7997cc22ff818f758fb0227d784ef168bbc9c109-3000x2953jpg.jpg?v=1722987380",
+        "width": 3000,
+        "height": 2953
+      },
+      {
+        "id": 35191646257341,
+        "created_at": "2024-08-07T01:36:17+02:00",
+        "position": 4,
+        "updated_at": "2024-08-07T01:36:19+02:00",
+        "product_id": 7857031905469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4a1e248241387a65c87a3d3d171b1da34e94748b-2747x2527jpg.jpg?v=1722987379",
+        "width": 2747,
+        "height": 2527
+      },
+      {
+        "id": 35191646191805,
+        "created_at": "2024-08-07T01:36:17+02:00",
+        "position": 5,
+        "updated_at": "2024-08-07T01:36:19+02:00",
+        "product_id": 7857031905469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/136fff8437d1aaff170dd03cdb10cbc797b20909-3000x2785jpg.jpg?v=1722987379",
+        "width": 3000,
+        "height": 2785
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "1-4 years",
+          "4-10 years",
+          "10+ years"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857018634429,
+    "title": "A\u00ednsa - Bandana",
+    "handle": "hp-1006400-ainsa-bandana",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Szeroko\u015b\u0107: 100 cm</p><p>Wysoko\u015b\u0107: 38 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>A\u00ednsa bandana to delikatny dodatek, kt\u00f3ry doda charakteru ka\u017cdej stylizacji. Chustka powstaje poprzez szyde\u0142kowanie jednego tr\u00f3jk\u0105tnego kawa\u0142ka. Na ko\u0144cu wykonany ozdobny brzeg wok\u00f3\u0142 chusty. Projekt inspirowany jest \u015bredniowiecznymi budynkami w A\u00ednsa, w mie\u015bcie w Pirenejach.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423440728253,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1143-222-8852",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857018634429,
+        "created_at": "2024-08-06T10:21:55+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377878728893,
+        "created_at": "2024-09-17T13:21:21+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:21:23+02:00",
+        "product_id": 7857018634429,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b6d15b6661deec94134270d951031417d74ef244-2121x2121jpg.jpg?v=1726572083",
+        "width": 2121,
+        "height": 2121
+      },
+      {
+        "id": 35377878892733,
+        "created_at": "2024-09-17T13:21:21+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:21:23+02:00",
+        "product_id": 7857018634429,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/78ab7d028a2c26c07611fc0623289f6dfb90fefa-2121x2121jpg.jpg?v=1726572083",
+        "width": 2121,
+        "height": 2121
+      },
+      {
+        "id": 35377878925501,
+        "created_at": "2024-09-17T13:21:21+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:21:23+02:00",
+        "product_id": 7857018634429,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f96f3d773a2170cf295c37668af1c8fa8f8b76cc-2121x2121jpg.jpg?v=1726572083",
+        "width": 2121,
+        "height": 2121
+      },
+      {
+        "id": 35377879089341,
+        "created_at": "2024-09-17T13:21:21+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T13:21:23+02:00",
+        "product_id": 7857018634429,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/46cac1f52a1e405a410cc1b5b1dbe03c2f89c7d9-3024x3024jpg.jpg?v=1726572083",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377878827197,
+        "created_at": "2024-09-17T13:21:21+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T13:21:23+02:00",
+        "product_id": 7857018634429,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7e5cf321118357f7478fdab7d1293943c112d00f-2874x2851jpg.jpg?v=1726572083",
+        "width": 2874,
+        "height": 2851
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857010049213,
+    "title": "Candy Stripes - Komin",
+    "handle": "hp-1005263-candy-stripes-baby-cowl",
+    "body_html": "<p>Candy Stripes to komin w pionowe paski, szyde\u0142kowany z bawe\u0142ny, dzi\u0119ki czemu idealnie sprawdzi si\u0119 podczas wiosennych i letnich ch\u0142odnych wieczor\u00f3w. Golfik szyde\u0142kowany g\u0119stym \u015bci\u0105gaczem a karczek szerszym \u015bci\u0105gaczem, dzi\u0119ki czemu ma ekscytuj\u0105c\u0105 struktur\u0119, kt\u00f3ra nadaje mu wspania\u0142y estetyczny efekt \u2013 z pewno\u015bci\u0105 zauroczy ka\u017cdego. Golfik jest wysoki i mo\u017cna go dowolnie odwin\u0105\u0107.</p><p><strong>ROZMIAR</strong></p><p>6-12 miesi\u0119cy (1-2 lata)</p><p><strong>WYMIAR</strong></p><p>D\u0142ugo\u015b\u0107: 13 (15) cm</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423416381629,
+        "title": "6-12 months",
+        "option1": "6-12 months",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1059-221-1620",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857010049213,
+        "created_at": "2024-08-06T10:21:02+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      },
+      {
+        "id": 44423416414397,
+        "title": "1-2 yr",
+        "option1": "1-2 yr",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1059-221-1620",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7857010049213,
+        "created_at": "2024-08-06T10:21:02+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377492230333,
+        "created_at": "2024-09-17T12:30:49+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:30:50+02:00",
+        "product_id": 7857010049213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6b9370bb50940ca06882e4be843f71cf69e9617e-2627x2627jpg.jpg?v=1726569050",
+        "width": 2627,
+        "height": 2627
+      },
+      {
+        "id": 35377492328637,
+        "created_at": "2024-09-17T12:30:49+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:30:51+02:00",
+        "product_id": 7857010049213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4122f0a2af8de4fcb08c403099b36e16df3ccc01-3024x3024jpg.jpg?v=1726569051",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377492263101,
+        "created_at": "2024-09-17T12:30:49+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:30:51+02:00",
+        "product_id": 7857010049213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/167095995847dd6ee56dce75877527f2b57172c5-3024x3024jpg.jpg?v=1726569051",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377492394173,
+        "created_at": "2024-09-17T12:30:49+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:30:51+02:00",
+        "product_id": 7857010049213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/221de36b672b5c3e9d48a1b599215b3697c09025-3024x3024jpg.jpg?v=1726569051",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "6-12 months",
+          "1-2 yr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857007558845,
+    "title": "Delight \u2013 Komin",
+    "handle": "hp-1004050-delight-tube",
+    "body_html": "<p>Delight to wyj\u0105tkowo mi\u0119kki i wspania\u0142y we\u0142niany komin, kt\u00f3ry wraz z Delight czapk\u0105 i mitenkami stworzy uroczy zestaw na jesienne dni!</p><p>Jest wykonany na szyde\u0142ku z Mohair Delight, czyli mi\u0119kkiej i lekkiej mieszanki moheru o pi\u0119knym puszystym wygl\u0105dzie.</p><p>Komin zosta\u0142 wykonany \u015bciegiem \u015bci\u0105gaczowym, co zapewnia wygodn\u0105 struktur\u0119 i sprawia, \u017ce jest wyj\u0105tkowo puszysty i mi\u0119kki.</p><p>Po\u0142\u0105cz komin z czapk\u0105 z tej samej serii.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423410352317,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-203-5288",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857007558845,
+        "created_at": "2024-08-06T10:20:46+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373672005821,
+        "created_at": "2024-09-16T14:49:26+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:49:28+02:00",
+        "product_id": 7857007558845,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a8e1559ee5821bf3d6c6cb2232239e49f15a1533-1200x1200jpg.jpg?v=1726490968",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373671809213,
+        "created_at": "2024-09-16T14:49:26+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:49:27+02:00",
+        "product_id": 7857007558845,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/853bb66e266674283ade11e0006961058389edd5-1200x1200jpg.jpg?v=1726490967",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373671940285,
+        "created_at": "2024-09-16T14:49:26+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:49:28+02:00",
+        "product_id": 7857007558845,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e031f7487297102237d318ff539d7bfa52cb5ea2-1200x1200jpg.jpg?v=1726490968",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373671973053,
+        "created_at": "2024-09-16T14:49:26+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:49:28+02:00",
+        "product_id": 7857007558845,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bc26e99cbaa5ba3a85d317dc5cfe2f7fd9a1bfcd-1200x1200jpg.jpg?v=1726490968",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857001955517,
+    "title": "Po - Komin",
+    "handle": "hp-1003569-po-neck-warmer",
+    "body_html": "<p>Komin Po jest ciep\u0142y i \u015bwietny. Dobrze za\u0142o\u017cy\u0107 go na sweter albo pod kurtk\u0119, kiedy robi si\u0119 ch\u0142odno. Wybierz kolor, kt\u00f3ry do Ciebie pasuje, i do dzie\u0142a :). Ko\u0142nierz wykonasz od g\u00f3ry, na drutach z \u017cy\u0142k\u0105, technik\u0105 Magic Loop.</p><p>Dobrej zabawy!</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423393411261,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-201-6322",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857001955517,
+        "created_at": "2024-08-06T10:20:12+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373598048445,
+        "created_at": "2024-09-16T14:35:27+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:35:29+02:00",
+        "product_id": 7857001955517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9eaf65f946a8a4256ede76eea98c5f5111b9b9b0-1302x1302jpg.jpg?v=1726490129",
+        "width": 1302,
+        "height": 1302
+      },
+      {
+        "id": 35373598015677,
+        "created_at": "2024-09-16T14:35:27+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:35:29+02:00",
+        "product_id": 7857001955517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9e8da9e6ba41b375e4e0869cdbc7d98c7e4c5112-2652x2652jpg.jpg?v=1726490129",
+        "width": 2652,
+        "height": 2652
+      },
+      {
+        "id": 35373598081213,
+        "created_at": "2024-09-16T14:35:27+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:35:29+02:00",
+        "product_id": 7857001955517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a5769b5446e98734c23804f47db435ccc72b7508-1802x1802jpg.jpg?v=1726490129",
+        "width": 1802,
+        "height": 1802
+      },
+      {
+        "id": 35373598113981,
+        "created_at": "2024-09-16T14:35:27+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:35:29+02:00",
+        "product_id": 7857001955517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/45b0c2ddbcc12339e848cb61edc80aabff7a5480-2752x2752jpg.jpg?v=1726490129",
+        "width": 2752,
+        "height": 2752
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856998219965,
+    "title": "Flint - Czapka i komin",
+    "handle": "hp-1004046-flint-hat-and-cowl",
+    "body_html": "<p>Idealny komplet na zimowe miesi\u0105ce, wydziergany z uroczej i grubej w\u0142\u00f3czki Woolpower.</p><p>Obie cz\u0119\u015bci s\u0105 dziergane tym samym wzorem ale na drutach o r\u00f3\u017cnej grubo\u015bci.</p><p>Udanego dziergania!</p><p>\n</p><p><strong>Ups! Ten wz\u00f3r jest wykonany z w\u0142\u00f3czki, kt\u00f3rej ju\u017c nie mamy w sprzeda\u017cy. Je\u015bli potrzebujesz pomocy w znalezieniu alternatywnej w\u0142\u00f3czki, skontaktuj si\u0119 prosz\u0119 z naszym dzia\u0142em obs\u0142ugi klienta.</strong>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423382532285,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-204-7164",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856998219965,
+        "created_at": "2024-08-06T10:19:49+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      },
+      {
+        "id": 44423382565053,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-204-7164",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856998219965,
+        "created_at": "2024-08-06T10:19:49+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      },
+      {
+        "id": 44423382597821,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-204-7164",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856998219965,
+        "created_at": "2024-08-06T10:19:49+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373674922173,
+        "created_at": "2024-09-16T14:49:59+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:50:01+02:00",
+        "product_id": 7856998219965,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6c26d6d16b6ed1f984f63f205f19b4eff4e78d9c-2048x2048jpg.jpg?v=1726491001",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373674856637,
+        "created_at": "2024-09-16T14:49:59+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:50:01+02:00",
+        "product_id": 7856998219965,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6d7833528e98c23b83c0ac9f61c08664f90fe112-2048x2048jpg.jpg?v=1726491001",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373674889405,
+        "created_at": "2024-09-16T14:49:59+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:50:01+02:00",
+        "product_id": 7856998219965,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9b4363a8e4bc44b5b428bda349da509639eda593-2048x2048jpg.jpg?v=1726491001",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373674954941,
+        "created_at": "2024-09-16T14:49:59+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:50:01+02:00",
+        "product_id": 7856998219965,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a182e8a8f840ba9d067d7d35bef489bd4800601d-2048x2048jpg.jpg?v=1726491001",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856996417725,
+    "title": "Mount Elbert - Opaska i Komin",
+    "handle": "hp-1004276-mount-elbert-headband-and-tube-scarf",
+    "body_html": "<p>Beautiful set in our lovely Snowstorm yarn.</p><p>The set consists of a headband and a cowl, both knit with seed stitches on large needles, which gives them a cool and chunky look.</p><p>Have fun!</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423378829501,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-204-9649",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856996417725,
+        "created_at": "2024-08-06T10:19:37+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377333600445,
+        "created_at": "2024-09-17T11:56:17+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T11:56:19+02:00",
+        "product_id": 7856996417725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3a19a915d696319c7f9d5a18339c14622d0e846f-4809x4809jpg.jpg?v=1726566979",
+        "width": 4809,
+        "height": 4809
+      },
+      {
+        "id": 35377333633213,
+        "created_at": "2024-09-17T11:56:17+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T11:56:19+02:00",
+        "product_id": 7856996417725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/828267c596e8776248a1879b077c717ed8df918b-4943x4943jpg.jpg?v=1726566979",
+        "width": 4943,
+        "height": 4943
+      },
+      {
+        "id": 35377333534909,
+        "created_at": "2024-09-17T11:56:17+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T11:56:19+02:00",
+        "product_id": 7856996417725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c9a9f322c0a7d0743a44f8efedd30a782cfc198f-3137x3137jpg.jpg?v=1726566979",
+        "width": 3137,
+        "height": 3137
+      },
+      {
+        "id": 35377333567677,
+        "created_at": "2024-09-17T11:56:17+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T11:56:19+02:00",
+        "product_id": 7856996417725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8975d00c90d2b2cfdc6a1b718daed0044f44f225-4492x4492jpg.jpg?v=1726566979",
+        "width": 4492,
+        "height": 4492
+      },
+      {
+        "id": 35377333371069,
+        "created_at": "2024-09-17T11:56:17+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T11:56:19+02:00",
+        "product_id": 7856996417725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0c403dce1ae3e68ce9593e92161070fe9a0f65aa-2895x2895jpg.jpg?v=1726566979",
+        "width": 2895,
+        "height": 2895
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856995664061,
+    "title": "Juliet - Szalik",
+    "handle": "hp-1006109-juliet-scarf",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 23 cm</p><p>D\u0142ugo\u015b\u0107: 150 cm (bez fr\u0119dzli, poniewa\u017c mo\u017cna je dopasowa\u0107 do swoich preferencji)</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Ten uroczy szalik zapewni Ci przytulne ciep\u0142o. Mi\u0119kkie puszyste serduszka zapewniaj\u0105 uczucie otulenia i wygl\u0105daj\u0105 przepi\u0119knie. Podstawa szalika zrobiona jest s\u0142. z 2 nitek Kind Feather, a serca technik\u0105 intarsji 1 nitk\u0105 Peacock. Poziom trudno\u015bci: \u015bredniozaawansowany.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423376011453,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1104-231-6882",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856995664061,
+        "created_at": "2024-08-06T10:19:32+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377769545917,
+        "created_at": "2024-09-17T13:11:42+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:11:44+02:00",
+        "product_id": 7856995664061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9cff8b5e7cca18c5fc5e6d30660e9af5c10fd41a-1534x1534jpg.jpg?v=1726571504",
+        "width": 1534,
+        "height": 1534
+      },
+      {
+        "id": 35377769513149,
+        "created_at": "2024-09-17T13:11:42+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:11:44+02:00",
+        "product_id": 7856995664061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d1ffa1c0fc06135ee7fb1396c12889c5ced39674-2370x2370jpg.jpg?v=1726571504",
+        "width": 2370,
+        "height": 2370
+      },
+      {
+        "id": 35377769578685,
+        "created_at": "2024-09-17T13:11:42+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:11:44+02:00",
+        "product_id": 7856995664061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/855649cd01b7d0233ef8ddd94b2ba08a0a7aed3d-1664x1664jpg.jpg?v=1726571504",
+        "width": 1664,
+        "height": 1664
+      },
+      {
+        "id": 35377769480381,
+        "created_at": "2024-09-17T13:11:42+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T13:11:44+02:00",
+        "product_id": 7856995664061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3cbf8a2d515b4b5ae0ae80d54271cdeb9ae9e8cd-2514x2514jpg.jpg?v=1726571504",
+        "width": 2514,
+        "height": 2514
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856989274301,
+    "title": "Holly \u2013 Szalik Tuba",
+    "handle": "hp-1004012-holly-tube-scarf",
+    "body_html": "<p>Wyj\u0105tkowo uroczy szalik w kszta\u0142cie tuby!</p><p>Jest wykonany na szyde\u0142ku z Diablo Multi, kt\u00f3ra jest niesamowicie mi\u0119kk\u0105, przewiewn\u0105 i puszyst\u0105 w\u0142\u00f3czk\u0105 w pi\u0119knych zestawieniach kolorystycznych.</p><p>Szalik jest wykonany \u015bciegiem \u015bci\u0105gaczowym, dzi\u0119ki czemu jest jeszcze bardziej puszysty.</p><p>Szalik tuba ma idealn\u0105 d\u0142ugo\u015b\u0107, dzi\u0119ki czemu mo\u017cna go dwukrotnie owin\u0105\u0107 wok\u00f3\u0142 szyi, zapewniaj\u0105c ciep\u0142o w mro\u017ane dni.</p><p>Do kompletu mo\u017cesz wykona\u0107 opask\u0119 z tej samej serii.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423357923517,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-203-9123",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856989274301,
+        "created_at": "2024-08-06T10:18:42+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373668106429,
+        "created_at": "2024-09-16T14:48:41+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:48:43+02:00",
+        "product_id": 7856989274301,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d245272bc7fc0f3a7c9138ced1d7270c0652bd54-1200x1392jpg.jpg?v=1726490923",
+        "width": 1200,
+        "height": 1392
+      },
+      {
+        "id": 35373668270269,
+        "created_at": "2024-09-16T14:48:42+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:48:43+02:00",
+        "product_id": 7856989274301,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/30af94505d562e3daf6d684c06bec7d8afe26710-1200x1200jpg.jpg?v=1726490923",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373668237501,
+        "created_at": "2024-09-16T14:48:42+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:48:43+02:00",
+        "product_id": 7856989274301,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0dc7d0e1417a7cb5f9b715964b3b9af06223269e-1200x1200jpg.jpg?v=1726490923",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35376973086909,
+        "created_at": "2024-09-17T09:09:33+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T09:09:35+02:00",
+        "product_id": 7856989274301,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1c2da322bfc23f8f7f246895b09a75b39e6c11b2-1200x1200jpg_140bc988-6ec4-453c-b107-f660bbd295c2.jpg?v=1726556975",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856983933117,
+    "title": "Gloria - Komin",
+    "handle": "hp-1003399-gloria-neck-warmer",
+    "body_html": "<p>Od teraz przed zimnem ochroni Ci\u0119 rewelacyjny ocieplacz na szyj\u0119 Gloria z w\u0142\u00f3czki Winter Glow.</p><p>Komin dobrze nosi si\u0119 na swetrze albo pod kurtk\u0105, zawsze kiedy potrzeba odrobiny ciep\u0142a.</p><p>Wykonano go \u015bciegiem dobrze utrzymuj\u0105cym temperatur\u0119, dzi\u0119ki czemu jest bardzo przyjemny.</p><p>Je\u015bli uwielbiasz dzierga\u0107, ale niekoniecznie na drutach, to <a href=\"https://hobbii.pl/winter-glow-hals\">tutaj </a>znajdziesz ten sam komin w wersji na szyde\u0142ko.</p><p>Powodzenia :)</p><p>\n\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423341834429,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-194-8148",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856983933117,
+        "created_at": "2024-08-06T10:17:59+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373579436221,
+        "created_at": "2024-09-16T14:32:10+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:32:12+02:00",
+        "product_id": 7856983933117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1e43debbbe385ea139aea4a6809db93e4a43fac0-1200x1200jpg.jpg?v=1726489932",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373579501757,
+        "created_at": "2024-09-16T14:32:10+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:32:12+02:00",
+        "product_id": 7856983933117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1f205b214d9ed0bd47a152e106726daff8b09864-1200x1200jpg.jpg?v=1726489932",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373579403453,
+        "created_at": "2024-09-16T14:32:10+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:32:12+02:00",
+        "product_id": 7856983933117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b96633a1973cbcc72f760c7f0de51e1ecb3ac0ba-1200x1200jpg.jpg?v=1726489932",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373579468989,
+        "created_at": "2024-09-16T14:32:10+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:32:12+02:00",
+        "product_id": 7856983933117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cef70c271906e6f7412319076b042837b4188c8e-1200x1200jpg.jpg?v=1726489932",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856972300477,
+    "title": "Cleo - Komin",
+    "handle": "hp-1003333-cleo-neck-warmer",
+    "body_html": "<p>Mi\u0119kki, lekki i \u015bwietny komin - wykonany szyde\u0142kiem z Alpaca Bris od Viking Garn, sk\u0142adaj\u0105cej si\u0119 w 60% z we\u0142ny alpaki, w 11% z merino i w 29% z nylonu. Praca tak\u0105 mieszank\u0105 to przyjemno\u015b\u0107.</p><p>Komin zdobi\u0105 pi\u0119kne, plecione wzory, kt\u00f3re podkre\u015blaj\u0105 ciep\u0142o i mi\u0119kko\u015b\u0107 w\u0142\u00f3czki.</p><p>Mo\u017cesz go po\u0142\u0105czy\u0107 z opask\u0105 z tej samej serii.</p><p>Dobrej zabawy!</p><p>\n\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423307165885,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-194-9698",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856972300477,
+        "created_at": "2024-08-06T10:16:21+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373570130109,
+        "created_at": "2024-09-16T14:30:26+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:30:29+02:00",
+        "product_id": 7856972300477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c9d88642e874716c339d1f8096592f985bd3d443-1200x1200jpg.jpg?v=1726489829",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373570162877,
+        "created_at": "2024-09-16T14:30:26+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:30:29+02:00",
+        "product_id": 7856972300477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0fa57956e1ae3075e39d86f161f94872004498da-1200x1201jpg.jpg?v=1726489829",
+        "width": 1200,
+        "height": 1201
+      },
+      {
+        "id": 35373570064573,
+        "created_at": "2024-09-16T14:30:27+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:30:29+02:00",
+        "product_id": 7856972300477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ba733a049117da70180b3286784d91d889c13d22-1200x1200jpg.jpg?v=1726489829",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373570097341,
+        "created_at": "2024-09-16T14:30:27+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:30:29+02:00",
+        "product_id": 7856972300477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3d93e4fe843449e404b1ea14a9092871aff8a261-1200x1200jpg.jpg?v=1726489829",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373570031805,
+        "created_at": "2024-09-16T14:30:27+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:30:29+02:00",
+        "product_id": 7856972300477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f9958c30ec478df112bb444ef8ffe84a1c1cd8d5-2125x2125jpg.jpg?v=1726489829",
+        "width": 2125,
+        "height": 2125
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856966697149,
+    "title": "Holly \u2013 Komin",
+    "handle": "hp-1004007-hollycowl",
+    "body_html": "<p>Wyj\u0105tkowo uroczy szalik w kszta\u0142cie tuby!</p><p>Jest wykonany na szyde\u0142ku z Diablo Multi, kt\u00f3ra jest niesamowicie mi\u0119kk\u0105, przewiewn\u0105 i puszyst\u0105 w\u0142\u00f3czk\u0105 w pi\u0119knych zestawieniach kolorystycznych.</p><p>Szalik jest wykonany \u015bciegiem \u015bci\u0105gaczowym, dzi\u0119ki czemu jest jeszcze bardziej puszysty.</p><p>Szalik tuba ma idealn\u0105 d\u0142ugo\u015b\u0107, dzi\u0119ki czemu mo\u017cna go dwukrotnie owin\u0105\u0107 wok\u00f3\u0142 szyi, zapewniaj\u0105c ciep\u0142o w mro\u017ane dni.</p><p>Do kompletu mo\u017cesz wykona\u0107 opask\u0119 z tej samej serii.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423293010109,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-203-4007",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856966697149,
+        "created_at": "2024-08-06T10:15:32+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373667385533,
+        "created_at": "2024-09-16T14:48:31+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:48:33+02:00",
+        "product_id": 7856966697149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c3303b87a1183795cf67081e7335c931d5eca3f1-1200x1200jpg.jpg?v=1726490913",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373667352765,
+        "created_at": "2024-09-16T14:48:32+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:48:33+02:00",
+        "product_id": 7856966697149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9168644f7e425fa331c25036d199b6550b7fe7ef-1200x1200jpg.jpg?v=1726490913",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373667451069,
+        "created_at": "2024-09-16T14:48:32+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:48:33+02:00",
+        "product_id": 7856966697149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2289bddfb3076f7d1c7db1fac565c98ddc99fe57-1200x1200jpg.jpg?v=1726490913",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373667516605,
+        "created_at": "2024-09-16T14:48:32+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:48:34+02:00",
+        "product_id": 7856966697149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f3dcb9893ad37bc75f715ee20e77a13105df7104-1200x1200jpg.jpg?v=1726490914",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373667418301,
+        "created_at": "2024-09-16T14:48:32+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:48:33+02:00",
+        "product_id": 7856966697149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9f9711c46b94e4f50e132c89d4c6dfa7a3e8bd2d-1200x1200jpg.jpg?v=1726490913",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373667483837,
+        "created_at": "2024-09-16T14:48:32+02:00",
+        "position": 6,
+        "updated_at": "2024-09-16T14:48:33+02:00",
+        "product_id": 7856966697149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f1ca9084ff6cae8d908eb5032775f11f4d13f213-1200x1200jpg.jpg?v=1726490913",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856960176317,
+    "title": "Komin Seinen",
+    "handle": "hp-1003163-seinen-cowl",
+    "body_html": "<p>Przemie\u0144 w\u0142\u00f3czk\u0119 BabyWool i dwie w\u0142\u00f3czki Diablo w komin Seinen.</p><p>Rob\u00f3tka ma bardzo ciekawy do zrobienia na drutach \u0142adny splot smock.</p><p>A je\u017celi wz\u00f3r bardzo Ci si\u0119 spodoba i postanowisz go powt\u00f3rzy\u0107, polecamy wykona\u0107 czapk\u0119 Seinen do kompletu.</p><p>Baw si\u0119 dobrze!</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423276986557,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-193-7244",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856960176317,
+        "created_at": "2024-08-06T10:14:31+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373552795837,
+        "created_at": "2024-09-16T14:26:37+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:26:38+02:00",
+        "product_id": 7856960176317,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16b4f3d2f010120ce980ade4cb4efdbed9b74ed0-1200x1200jpg.jpg?v=1726489598",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373552828605,
+        "created_at": "2024-09-16T14:26:37+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:26:38+02:00",
+        "product_id": 7856960176317,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/951fe21cfac32569e6eb9f37ffa266b8525987a5-1200x1200jpg.jpg?v=1726489598",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373552861373,
+        "created_at": "2024-09-16T14:26:37+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:26:39+02:00",
+        "product_id": 7856960176317,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22658afeaba38ef7e30b8fadebb8c3e1eb2db1d5-1200x1200jpg.jpg?v=1726489599",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373552894141,
+        "created_at": "2024-09-16T14:26:37+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:26:39+02:00",
+        "product_id": 7856960176317,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3339ff8f499893f6c9cdb5bb6ea8e44ade3339d9-1200x1200jpg.jpg?v=1726489599",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373552926909,
+        "created_at": "2024-09-16T14:26:37+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:26:39+02:00",
+        "product_id": 7856960176317,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/00f2fa2939ce8642a785fbaaec895c9bbfe52d05-1200x1200jpg.jpg?v=1726489599",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856953786557,
+    "title": "Patchy - Infinity Szal",
+    "handle": "hp-1006216-patchy-infinity-scarf",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Szeroko\u015b\u0107: 23 cm</p><p>D\u0142ugo\u015b\u0107: 145 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Prosty, ale bardzo uroczy szalik w pastelowe patchworki o\u017cywi ka\u017cd\u0105 zimow\u0105 stylizacj\u0119.</p><p>Szyde\u0142kowany w t\u0119 i z powrotem s\u0142upkami, dzi\u0119ki czemu wz\u00f3r jest bardzo przyjazny dla pocz\u0105tkuj\u0105cych. Mo\u017cesz zmienia\u0107 kolory jak opisano we wzorze, ale mo\u017cesz r\u00f3wnie\u017c zmienia\u0107 je wed\u0142ug w\u0142asnego uznania.</p><p>Mo\u017cesz zszy\u0107 ko\u0144ce szalika, tworz\u0105c okr\u0105g lub pozostawi\u0107 niezszyty.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423260831933,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-231-3845",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856953786557,
+        "created_at": "2024-08-06T10:13:30+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377778753725,
+        "created_at": "2024-09-17T13:13:36+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:13:37+02:00",
+        "product_id": 7856953786557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/141e8e9728abb0c91bc45a532922497486d2e11c-3024x3024jpg.jpg?v=1726571617",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377778720957,
+        "created_at": "2024-09-17T13:13:36+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:13:37+02:00",
+        "product_id": 7856953786557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1730def4ac5777449c78c69e354e86e6f64e7740-2427x2427jpg.jpg?v=1726571617",
+        "width": 2427,
+        "height": 2427
+      },
+      {
+        "id": 35377778786493,
+        "created_at": "2024-09-17T13:13:36+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:13:37+02:00",
+        "product_id": 7856953786557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8e902bcdeeb3e8ed88ab1b1b30003d91af9a73a7-3024x3024jpg.jpg?v=1726571617",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377778819261,
+        "created_at": "2024-09-17T13:13:36+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T13:13:38+02:00",
+        "product_id": 7856953786557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/db81b2cf8c0fcd5fd4ae181e2335b27e15592b8a-3024x3024jpg.jpg?v=1726571618",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856946053309,
+    "title": "Currant - Komin",
+    "handle": "hp-1003651-currant-tube-scarf",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Obw\u00f3d: 60 cm</p><p>D\u0142ugo\u015b\u0107: 45 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Komin dziergany na okr\u0105g\u0142o na drucie z \u017cy\u0142k\u0105.</p><p>\n</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423238451389,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-201-4912",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856946053309,
+        "created_at": "2024-08-06T10:12:07+02:00",
+        "updated_at": "2024-11-22T22:29:02+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35376960897213,
+        "created_at": "2024-09-17T09:05:41+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T09:05:43+02:00",
+        "product_id": 7856946053309,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b89bbc2572266066b11544da304438dc53f9a2ad-4964x4964jpg_5edcc488-5514-4f3c-95fe-df125099f1f8.jpg?v=1726556743",
+        "width": 4964,
+        "height": 4964
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1697 @@
+[
+  {
+    "id": 7857054351549,
+    "title": "Harmony of Hues - Sukienka",
+    "handle": "hp-1007609-harmony-of-hues-dress",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>XS S (M) L XL 2XL 3XL 4XL 5XL</p><p>\n<strong>WYMIAR</strong></p><p>Szeroko\u015b\u0107: 38 42 (47) 52 57 62 67 72 cm</p><p>D\u0142ugo\u015b\u0107: 64 68 (73) 78 83 88 93 98 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Przedstawiamy nasz najnowszy wz\u00f3r szyde\u0142kowy: urzekaj\u0105ca i wszechstronna sukienka, kt\u00f3ra p\u0142ynnie \u0142\u0105czy kreatywno\u015b\u0107 i prostot\u0119. Ta czaruj\u0105ca kreacja zosta\u0142a wykonana przy u\u017cyciu czterech zachwycaj\u0105cych kolor\u00f3w, kt\u00f3re z wdzi\u0119kiem przechodz\u0105 od odwa\u017cnej czerwieni do mi\u0119kkiej elegancji jasnor\u00f3\u017cowego. Konstrukcja tej sukienki jest nieskomplikowana, co czyni j\u0105 idealnym projektem dla os\u00f3b, kt\u00f3re dopiero zaczynaj\u0105 szyde\u0142kowa\u0107. Pi\u0119kno tkwi nie tylko w uroczym przej\u015bciu kolor\u00f3w, ale tak\u017ce w mo\u017cliwo\u015bciach adaptacji. D\u0142ugo\u015b\u0107 sukienki mo\u017cna w pe\u0142ni dostosowa\u0107, dzi\u0119ki czemu mo\u017cesz wykona\u0107 sukienk\u0119 mini, midi lub maxi.</p><p>\n</p><p>Wyruszaj\u0105c w t\u0119 tw\u00f3rcz\u0105 podr\u00f3\u017c, mo\u017cesz mie\u0107 pewno\u015b\u0107, \u017ce wz\u00f3r zawiera szczeg\u00f3\u0142owe instrukcje i przewodnik ze zdj\u0119ciami, dzi\u0119ki czemu otrzymasz wsparcie na ka\u017cdym kroku. Podnie\u015b swoje umiej\u0119tno\u015bci szyde\u0142kowania dzi\u0119ki tej sukience, kt\u00f3ra obiecuje nie tylko projekt, ale wspania\u0142e wra\u017cenia w ka\u017cdym \u015bciegu.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423537557693,
+        "title": "XS",
+        "option1": "XS",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423537590461,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423537623229,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423537655997,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423537688765,
+        "title": "XL",
+        "option1": "XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423537721533,
+        "title": "2XL",
+        "option1": "2XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423537754301,
+        "title": "3XL",
+        "option1": "3XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423537787069,
+        "title": "4XL",
+        "option1": "4XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423537819837,
+        "title": "5XL",
+        "option1": "5XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-241-9815",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 9,
+        "product_id": 7857054351549,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378382799037,
+        "created_at": "2024-09-17T14:25:35+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:25:39+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f5c396ca1dbcbaa2edfd88c07b202a2fe89d6e15-700x700jpg.jpg?v=1726575939",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378382831805,
+        "created_at": "2024-09-17T14:25:35+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:25:39+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8d9762fa5919df23fa814642f6b26f34a0e49638-700x700jpg.jpg?v=1726575939",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378382766269,
+        "created_at": "2024-09-17T14:25:35+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:25:39+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e2d7f5394eb10587635ee6fab34d2c69a2117146-700x700jpg.jpg?v=1726575939",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378382733501,
+        "created_at": "2024-09-17T14:25:36+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:25:39+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2807210bd36914a381b81ed1c4362007308a682a-700x700jpg.jpg?v=1726575939",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378382667965,
+        "created_at": "2024-09-17T14:25:36+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:25:38+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e4e0bbbe0bb608c91073c695f6d668be6df1d1e0-700x700jpg.jpg?v=1726575938",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378382635197,
+        "created_at": "2024-09-17T14:25:36+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:25:38+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b9d8c81fe5ace77c85231d8d40fb71131ad72731-700x700jpg.jpg?v=1726575938",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378382864573,
+        "created_at": "2024-09-17T14:25:36+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:25:39+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6c2676fb7f7150c6675511bbf292b9f6794c3e2e-700x700jpg.jpg?v=1726575939",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378382700733,
+        "created_at": "2024-09-17T14:25:36+02:00",
+        "position": 8,
+        "updated_at": "2024-09-17T14:25:39+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5ccde4f3e2f4ee35f727eb1d3c9f477061acb601-700x700jpg.jpg?v=1726575939",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378382569661,
+        "created_at": "2024-09-17T14:25:36+02:00",
+        "position": 9,
+        "updated_at": "2024-09-17T14:25:38+02:00",
+        "product_id": 7857054351549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2b0ad5692c260d82bc7511604a68e7d9f5ebacc4-700x700jpg.jpg?v=1726575938",
+        "width": 700,
+        "height": 700
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "XS",
+          "Small",
+          "Medium",
+          "Large",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857043079357,
+    "title": "Flora - Torba na zakupy",
+    "handle": "hp-1007540-flora-market-bag",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 45,7 cm</p><p>D\u0142ugo\u015b\u0107: 44,5 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Oto torba Flora Market Bag! Ta wspania\u0142a torba roztacza tak pi\u0119kny wiosenny klimat, jak kwitn\u0105ce kwiaty w s\u0142oneczny dzie\u0144!</p><p>Torba wykonana jest dwoma nitkami z tego samego motka w\u0142\u00f3czki Dahlia. Dzi\u0119ki temu powstaje wyj\u0105tkowe po\u0142\u0105czenie kolor\u00f3w do stworzenia kwiatowego wzoru kwadratu granny.</p><p>\n</p><p>Wz\u00f3r zawiera zar\u00f3wno instrukcje pisemne, jak i schemat oraz tutorial ze zdj\u0119ciami, jak zszy\u0107 kwadraty razem oczkami \u015bcis\u0142ymi.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423505281213,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1188-241-4756",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857043079357,
+        "created_at": "2024-08-06T10:24:19+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378355077309,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857043079357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9ceccc91683e1e8f2d576d8e9b2af90625ea37d3-4000x4000jpg.jpg?v=1726575695",
+        "width": 4000,
+        "height": 4000
+      },
+      {
+        "id": 35378354979005,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857043079357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/261f8c0d3843ce0173617abc50294aada8693103-2920x2920jpg.jpg?v=1726575695",
+        "width": 2920,
+        "height": 2920
+      },
+      {
+        "id": 35378355011773,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857043079357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cad42611d4c2ee8c88a27a9147b3da9d8ddbdd7a-3024x3024jpg.jpg?v=1726575695",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35378355110077,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857043079357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7e8fd9517e7e8beacf2752feffdfcbd624e8c078-3024x3024jpg.jpg?v=1726575695",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35378355044541,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857043079357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5c8eb5388d11fd62b52b0c9d3c431fc2cc1cb87d-2862x2862jpg.jpg?v=1726575695",
+        "width": 2862,
+        "height": 2862
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856935567549,
+    "title": "The Granny Bag - Torebka",
+    "handle": "hp-1007031-the-granny-bag",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Torebka mierzy 30 x 30 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Witamy w kolorowym \u015bwiecie szyde\u0142kowania! W tym przyjaznym dla pocz\u0105tkuj\u0105cych samouczku rozpoczniemy przygod\u0119 polegaj\u0105c\u0105 na stworzeniu uroczej torby z trzech babcinych kwadrat\u00f3w. Post\u0119puj zgodnie z instrukcjami krok-po-kroku, aby wyszyde\u0142kowa\u0107 kwadraty i bezproblemowo je po\u0142\u0105czy\u0107. Z\u0142\u0105cz kwadraty w pi\u0119kn\u0105 torb\u0119, kt\u00f3ra b\u0119dzie Ci towarzyszy\u0107 w ka\u017cdej przygodzie. Niech wi\u0119c szyde\u0142ko i w\u0142\u00f3czka b\u0119d\u0105 Twoimi towarzyszami w tej czaruj\u0105cej podr\u00f3\u017cy, a Twoja babcina torba b\u0119dzie wspania\u0142ym odzwierciedleniem Twojej kreatywno\u015bci i pasji. \u017bycz\u0119 mi\u0142ego szyde\u0142kowania!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423203193021,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1277-233-6601",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856935567549,
+        "created_at": "2024-08-06T10:08:05+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378106794173,
+        "created_at": "2024-09-17T13:56:38+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:56:39+02:00",
+        "product_id": 7856935567549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f2e378db2ef2d810d779c75f677d2c28fb430f49-1785x1785png.png?v=1726574199",
+        "width": 1785,
+        "height": 1785
+      },
+      {
+        "id": 35378106859709,
+        "created_at": "2024-09-17T13:56:38+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:56:40+02:00",
+        "product_id": 7856935567549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4992eafdfacf41cb8868a6c15aea3d4c22c9f051-1785x1785png.png?v=1726574200",
+        "width": 1785,
+        "height": 1785
+      },
+      {
+        "id": 35378106826941,
+        "created_at": "2024-09-17T13:56:38+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:56:40+02:00",
+        "product_id": 7856935567549,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d806ac222d585249a331297641c845cc8ce2c508-1785x1785png.png?v=1726574200",
+        "width": 1785,
+        "height": 1785
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856967418045,
+    "title": "Floral Fusion - M\u0119ski kardigan",
+    "handle": "hp-1006867-floral-fusion-men-s-cardigan",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>2XS, XS, S, (M), L, XL, 2XL, 3XL, 4XL, 5XL</p><p>\n<strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 46, 46, 56 (56) 65, 65, 73, 73, 83, 83 cm</p><p>D\u0142ugo\u015b\u0107: 65, 65, 65, (65), 65, 65, 74, 74, 74, 74 cm</p><p>D\u0142ugo\u015b\u0107 r\u0119kawa: 50, 50, 50, (50), 50, 50, 50, 50, 50, 50 cm</p><p>Szeroko\u015b\u0107 r\u0119kawa: 18,18, 24, (24), 24, 24, 29, 29, 35, 35 cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Kardigan sk\u0142ada si\u0119 z klasycznych kwadrat\u00f3w z motywem kwiatowym, tworz\u0105c ponadczasowy i przyci\u0105gaj\u0105cy wzrok wz\u00f3r. Podczas przerabiania tego wzoru, b\u0119dziesz u\u017cywa\u0107 s\u0142upk\u00f3w reliefowych: przedniego (s\u0142.Rp) i tylnego (s\u0142.Rt), do wykonania pi\u0119knej elastycznej ta\u015bmy (\u015bci\u0105gacza) wok\u00f3\u0142 brzeg\u00f3w kardiganu. We wzorze znajduj\u0105 si\u0119 jasne instrukcje dotycz\u0105ce \u0142\u0105czenia poszczeg\u00f3lnych kwadrat\u00f3w. Mo\u017cesz doda\u0107 do wzoru sw\u00f3j indywidualny akcent. Mo\u017cesz \u0142atwo dostosowa\u0107 d\u0142ugo\u015b\u0107 r\u0119kaw\u00f3w, dodaj\u0105c dodatkowe kwadraty lub przerabiaj\u0105c wi\u0119cej rz\u0119d\u00f3w \u015bci\u0105gacza.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423294386365,
+        "title": "2XS",
+        "option1": "2XS",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294419133,
+        "title": "XS",
+        "option1": "XS",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294451901,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294484669,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294517437,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294550205,
+        "title": "XL",
+        "option1": "XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294582973,
+        "title": "2XL",
+        "option1": "2XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294615741,
+        "title": "3XL",
+        "option1": "3XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294648509,
+        "title": "4XL",
+        "option1": "4XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 9,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423294681277,
+        "title": "5XL",
+        "option1": "5XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1100-233-4130",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 10,
+        "product_id": 7856967418045,
+        "created_at": "2024-08-06T10:15:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378048401597,
+        "created_at": "2024-09-17T13:47:48+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:47:50+02:00",
+        "product_id": 7856967418045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d3e049eedfec3421b2d883fec5e43c0f7ca5489a-700x700jpg.jpg?v=1726573670",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378048532669,
+        "created_at": "2024-09-17T13:47:48+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:47:51+02:00",
+        "product_id": 7856967418045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/371b18d52cbde0ccf15f745d333fc64d0ab358c9-3643x3643png.png?v=1726573671",
+        "width": 3643,
+        "height": 3643
+      },
+      {
+        "id": 35378048499901,
+        "created_at": "2024-09-17T13:47:48+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:47:50+02:00",
+        "product_id": 7856967418045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cbc896004760aebf9bae101a6d05f23c6d04edf0-3024x3024jpg.jpg?v=1726573670",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35378048434365,
+        "created_at": "2024-09-17T13:47:48+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T13:47:50+02:00",
+        "product_id": 7856967418045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5af7262f9b8a5fe75e53681835f7f4a3f5e8ffda-700x700jpg.jpg?v=1726573670",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35378048467133,
+        "created_at": "2024-09-17T13:47:49+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T13:47:50+02:00",
+        "product_id": 7856967418045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f3cde417fc1e2a4ff38ffd6b7c9ff3623953e651-700x700jpg.jpg?v=1726573670",
+        "width": 700,
+        "height": 700
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "2XS",
+          "XS",
+          "Small",
+          "Medium",
+          "Large",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857058513085,
+    "title": "Flower Garden - Sweter",
+    "handle": "hp-1006261-flower-garden-sweater",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>XS/S (M/L), XL/2XL (3XL/4XL)</p><p>\n<strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 80 (100) 120 (140) cm</p><p>D\u0142ugo\u015b\u0107: 65 (65) 65 (75) cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Sweter wykonany jest z wielu kwadrat\u00f3w granny po\u0142\u0105czonych ze sob\u0105 metod\u0105 \u0142\u0105czenia &quot;na bie\u017c\u0105co&quot;. Nast\u0119pnie obrabia si\u0119 go na r\u0119kawach, dolnym brzegu i dekolcie.</p><p>Wz\u00f3r jest idealny dla pocz\u0105tkuj\u0105cych i \u015bredniozaawansowanych. We wzorze znajduje si\u0119 wiele zdj\u0119\u0107, kt\u00f3re s\u0142u\u017c\u0105 jako wskaz\u00f3wki.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423548960957,
+        "title": "XS/S",
+        "option1": "XS/S",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-120-231-7036",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857058513085,
+        "created_at": "2024-08-06T10:26:00+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423548993725,
+        "title": "M/L",
+        "option1": "M/L",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-120-231-7036",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7857058513085,
+        "created_at": "2024-08-06T10:26:00+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423549026493,
+        "title": "XL/XXL",
+        "option1": "XL/XXL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-120-231-7036",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7857058513085,
+        "created_at": "2024-08-06T10:26:00+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423549059261,
+        "title": "3XL/4XL",
+        "option1": "3XL/4XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-120-231-7036",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7857058513085,
+        "created_at": "2024-08-06T10:26:00+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377797923005,
+        "created_at": "2024-09-17T13:15:29+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:15:31+02:00",
+        "product_id": 7857058513085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c016c6d2aa7c1324bc214d54ebdfdef6314e0e99-3287x3288jpg.jpg?v=1726571731",
+        "width": 3287,
+        "height": 3288
+      },
+      {
+        "id": 35377798086845,
+        "created_at": "2024-09-17T13:15:29+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:15:32+02:00",
+        "product_id": 7857058513085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fae9fd29a1d81d8c8ec0fb934f673cd79d21a01e-3150x3152jpg.jpg?v=1726571732",
+        "width": 3150,
+        "height": 3152
+      },
+      {
+        "id": 35377797955773,
+        "created_at": "2024-09-17T13:15:29+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:15:31+02:00",
+        "product_id": 7857058513085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/18d764da5f1ddfda668cd51996884b16d08e6759-3646x3648jpg.jpg?v=1726571731",
+        "width": 3646,
+        "height": 3648
+      },
+      {
+        "id": 35377797988541,
+        "created_at": "2024-09-17T13:15:30+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T13:15:32+02:00",
+        "product_id": 7857058513085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/29e00c64b44d6720574f4a072570e71a790b1f5d-3646x3648jpg.jpg?v=1726571732",
+        "width": 3646,
+        "height": 3648
+      },
+      {
+        "id": 35377798021309,
+        "created_at": "2024-09-17T13:15:30+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T13:15:32+02:00",
+        "product_id": 7857058513085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cb3ad32fbfb7cce4a6ca5872687f3b5253852b36-3229x3231jpg.jpg?v=1726571732",
+        "width": 3229,
+        "height": 3231
+      },
+      {
+        "id": 35377798054077,
+        "created_at": "2024-09-17T13:15:30+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T13:15:32+02:00",
+        "product_id": 7857058513085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/98d59c0f99f427d7cefb21388e30ffa0af94d9d1-3024x3024jpg.jpg?v=1726571732",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "XS/S",
+          "M/L",
+          "XL/XXL",
+          "3XL/4XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857054023869,
+    "title": "Hobbii Granny Square - Solid",
+    "handle": "hp-1005655-hobbii-granny-square-solid",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>11 x 11 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Od Wielkiego Kryzysu po ruch hipisowski, a teraz tak\u017ce na wybiegach z najnowsz\u0105 mod\u0105, kwadraty Babuni istnia\u0142y od zawsze!</p><p>\n</p><p>Ze wzgl\u0119du na swoj\u0105 uniwersalno\u015b\u0107 i mo\u017cliwo\u015b\u0107 personalizacji mo\u017cna je przekszta\u0142ci\u0107 w r\u00f3\u017cnego rodzaju rzeczy, od tradycyjnych pled\u00f3w, po letnie topy, sp\u00f3dnice, torby, kardigany, kamizelki... Dos\u0142ownie wszystko!</p><p>\n</p><p>To \u015bwietny spos\u00f3b na wykorzystanie resztek w\u0142\u00f3czki i eksperymentowanie z kombinacjami kolor\u00f3w, ale \u0142atwo jest te\u017c zabra\u0107 taki ma\u0142y projekt ze sob\u0105 w podr\u00f3\u017c. Jak wi\u0119c powinien wygl\u0105da\u0107 Tw\u00f3j kwadrat babuni?</p><p>\n</p><p><strong>Ups! Wz\u00f3r na zdj\u0119ciu zosta\u0142 wykonany przy u\u017cyciu jednego lub wi\u0119cej wycofanych kolor\u00f3w. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce kolory.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423536214205,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1016-222-9143",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857054023869,
+        "created_at": "2024-08-06T10:25:30+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377588994237,
+        "created_at": "2024-09-17T12:48:40+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:48:42+02:00",
+        "product_id": 7857054023869,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7f52e246240277cbc67b2bb8a09dcca81706d9c0-2549x2517jpg.jpg?v=1726570122",
+        "width": 2549,
+        "height": 2517
+      },
+      {
+        "id": 35377589158077,
+        "created_at": "2024-09-17T12:48:40+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:48:42+02:00",
+        "product_id": 7857054023869,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9166ccec91ede990797776e8c72f06df98d258bc-2672x2672jpg.jpg?v=1726570122",
+        "width": 2672,
+        "height": 2672
+      },
+      {
+        "id": 35377589027005,
+        "created_at": "2024-09-17T12:48:40+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:48:42+02:00",
+        "product_id": 7857054023869,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f98cabc81f46170f6fe170e31bfb62189807f6a5-3024x3024jpg.jpg?v=1726570122",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377589125309,
+        "created_at": "2024-09-17T12:48:40+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:48:42+02:00",
+        "product_id": 7857054023869,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/612e821e89d4f590cdb1fd1183a87a691be42c37-2450x2450jpg.jpg?v=1726570122",
+        "width": 2450,
+        "height": 2450
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857020272829,
+    "title": "Hobbii Granny Square - Auringonkukka",
+    "handle": "hp-1005656-hobbii-granny-square-sunflower",
+    "body_html": "<p><strong>KOKO</strong></p><p>11,5 x 11,5 cm</p><p>\n<strong>TIETOA MALLISTA</strong></p><p>Suuresta lamasta Hippi-liikkeeseen ja nyt my\u00f6s Catwalkeilla uusimmissa muotiluomuksissa n\u00e4htyin\u00e4, iso\u00e4idinneli\u00f6it\u00e4 on aina ollut olemassa!</p><p>\n</p><p>Monipuolisuutensa ja muunneltavuutensa ansiosta ne voidaan muuntaa kaikenlaisiksi k\u00e4sit\u00f6iksi, perinteisist\u00e4 peitoista kes\u00e4toppeihin, hameisiin, laukkuihin, neuletakkeihin, liiveihin... Mihin tahansa!</p><p>\n</p><p>Ne ovat loistava tapa k\u00e4ytt\u00e4\u00e4 ylij\u00e4\u00e4nytt\u00e4 lankaa ja kokeilla eri v\u00e4riyhdistekjsi\u00e4, Mutta niit\u00e4 on my\u00f6s helppo kuljettaa mukana liikkeell\u00e4 ollessa, kun sinun on kannettava pient\u00e4 projektia laukussasi. Joten milt\u00e4h\u00e4n oma iso\u00e4idinneli\u00f6si n\u00e4ytt\u00e4\u00e4?</p><p>\n</p><p><strong>Ups! Wz\u00f3r na zdj\u0119ciu zosta\u0142 wykonany przy u\u017cyciu jednego lub wi\u0119cej wycofanych kolor\u00f3w. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce kolory.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423444201661,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1016-222-1333",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857020272829,
+        "created_at": "2024-08-06T10:22:04+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377614651581,
+        "created_at": "2024-09-17T12:50:01+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:50:03+02:00",
+        "product_id": 7857020272829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ee7a5567f075cc62fe905e62e41f2556e61ba34a-2531x2531jpg.jpg?v=1726570203",
+        "width": 2531,
+        "height": 2531
+      },
+      {
+        "id": 35377614717117,
+        "created_at": "2024-09-17T12:50:01+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:50:03+02:00",
+        "product_id": 7857020272829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cd064888253d1060eb142e8df03388060a1b9462-3024x3024jpg.jpg?v=1726570203",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377614815421,
+        "created_at": "2024-09-17T12:50:01+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:50:03+02:00",
+        "product_id": 7857020272829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0425157bd6a89a29ffb98ebce2179ad0f5eba5dd-2759x2759jpg.jpg?v=1726570203",
+        "width": 2759,
+        "height": 2759
+      },
+      {
+        "id": 35377614684349,
+        "created_at": "2024-09-17T12:50:01+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:50:03+02:00",
+        "product_id": 7857020272829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b6dbfda539e4bbdc5c1f338f966fcfacd39fc5af-1909x1909jpg.jpg?v=1726570203",
+        "width": 1909,
+        "height": 1909
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856980000957,
+    "title": "Hobbii Granny Square - Daisy",
+    "handle": "hp-1005657-hobbii-granny-square-daisy",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>11 x 11 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Od Wielkiego Kryzysu po ruch hipisowski, a teraz tak\u017ce na wybiegach z najnowsz\u0105 mod\u0105, kwadraty Babuni istnia\u0142y od zawsze!</p><p>\n</p><p>Ze wzgl\u0119du na swoj\u0105 uniwersalno\u015b\u0107 i mo\u017cliwo\u015b\u0107 personalizacji mo\u017cna je przekszta\u0142ci\u0107 w r\u00f3\u017cnego rodzaju rzeczy, od tradycyjnych pled\u00f3w, po letnie topy, sp\u00f3dnice, torby, kardigany, kamizelki... Dos\u0142ownie wszystko!</p><p>\n</p><p>To \u015bwietny spos\u00f3b na wykorzystanie resztek w\u0142\u00f3czki i eksperymentowanie z kombinacjami kolor\u00f3w, ale \u0142atwo jest te\u017c zabra\u0107 taki ma\u0142y projekt ze sob\u0105 w podr\u00f3\u017c. Jak wi\u0119c powinien wygl\u0105da\u0107 Tw\u00f3j kwadrat babuni?</p><p>\n<strong>Ups! Wz\u00f3r na zdj\u0119ciu zosta\u0142 wykonany przy u\u017cyciu jednego lub wi\u0119cej wycofanych kolor\u00f3w. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce kolory.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423329874109,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1016-222-5180",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856980000957,
+        "created_at": "2024-08-06T10:17:29+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377613504701,
+        "created_at": "2024-09-17T12:49:50+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:49:52+02:00",
+        "product_id": 7856980000957,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9bf5928008dee78356c408a0e0cc6a3ae1c0d7ab-2810x2810jpg.jpg?v=1726570192",
+        "width": 2810,
+        "height": 2810
+      },
+      {
+        "id": 35377613406397,
+        "created_at": "2024-09-17T12:49:50+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:49:52+02:00",
+        "product_id": 7856980000957,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5d93d4d47023c17fef3ee9b907c493e144785f74-2951x2951jpg.jpg?v=1726570192",
+        "width": 2951,
+        "height": 2951
+      },
+      {
+        "id": 35377613471933,
+        "created_at": "2024-09-17T12:49:50+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:49:52+02:00",
+        "product_id": 7856980000957,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9d6deb813c37d3235a81336558f7e3e1c23b7486-2793x2793jpg.jpg?v=1726570192",
+        "width": 2793,
+        "height": 2793
+      },
+      {
+        "id": 35377613439165,
+        "created_at": "2024-09-17T12:49:50+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:49:52+02:00",
+        "product_id": 7856980000957,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3e72cae0f0dfa511dda2ccf99ea0f1c41d3bddbe-1636x1636jpg.jpg?v=1726570192",
+        "width": 1636,
+        "height": 1636
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856976887997,
+    "title": "Hobbii Granny Square - Basic",
+    "handle": "hp-1005654-hobbii-granny-square-basic",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>12 x 12 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Od Wielkiego Kryzysu po ruch hipisowski, a teraz tak\u017ce na wybiegach z najnowsz\u0105 mod\u0105, kwadraty Babuni istnia\u0142y od zawsze!</p><p>\n</p><p>Ze wzgl\u0119du na swoj\u0105 uniwersalno\u015b\u0107 i mo\u017cliwo\u015b\u0107 personalizacji mo\u017cna je przekszta\u0142ci\u0107 w r\u00f3\u017cnego rodzaju rzeczy, od tradycyjnych pled\u00f3w, po letnie topy, sp\u00f3dnice, torby, kardigany, kamizelki... Dos\u0142ownie wszystko!</p><p>\n</p><p>To \u015bwietny spos\u00f3b na wykorzystanie resztek w\u0142\u00f3czki i eksperymentowanie z kombinacjami kolor\u00f3w, ale \u0142atwo jest te\u017c zabra\u0107 taki ma\u0142y projekt ze sob\u0105 w podr\u00f3\u017c. Jak wi\u0119c powinien wygl\u0105da\u0107 Tw\u00f3j kwadrat babuni?</p><p>\n</p><p><strong>Ups! Wz\u00f3r na zdj\u0119ciu zosta\u0142 wykonany przy u\u017cyciu jednego lub wi\u0119cej wycofanych kolor\u00f3w. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce kolory.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423319290045,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1016-222-8221",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856976887997,
+        "created_at": "2024-08-06T10:17:00+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377587847357,
+        "created_at": "2024-09-17T12:48:31+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:48:33+02:00",
+        "product_id": 7856976887997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/197c6a16d6304f93c3ed56fd151bf868faaf9d85-2899x2899jpg.jpg?v=1726570113",
+        "width": 2899,
+        "height": 2899
+      },
+      {
+        "id": 35377587814589,
+        "created_at": "2024-09-17T12:48:31+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:48:33+02:00",
+        "product_id": 7856976887997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffe27c9b01d157e1f7debf7c353c78d3cd3bb328-3024x3024jpg.jpg?v=1726570113",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377587749053,
+        "created_at": "2024-09-17T12:48:31+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:48:33+02:00",
+        "product_id": 7856976887997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c61d204a382b2518002c92f03b11ad9e9c364805-1250x1250jpg.jpg?v=1726570113",
+        "width": 1250,
+        "height": 1250
+      },
+      {
+        "id": 35377587781821,
+        "created_at": "2024-09-17T12:48:31+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:48:33+02:00",
+        "product_id": 7856976887997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7b0184f2270c552b88bb8107bf2bf5922efd0d18-2524x2524jpg.jpg?v=1726570113",
+        "width": 2524,
+        "height": 2524
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856981803197,
+    "title": "Alpine Sunflower - Czapeczka",
+    "handle": "hp-1005628-alpine-sunflower-bonnet",
+    "body_html": "<p>Ta urocza s\u0142onecznikowa czapka jest wykonana z dw\u00f3ch kwadracik\u00f3w babuni po\u0142\u0105czonych razem oczkami \u015bcis\u0142ymi, tworz\u0105c czapk\u0119. Czapka wyko\u0144czona \u015bciegiem \u015bci\u0105gaczowym oraz tasiemk\u0105.</p><p>\n</p><p><strong>ROZMIAR</strong></p><p>0-6 miesi\u0119cy</p><p>6-12 miesi\u0119cy</p><p>1-2 lata</p><p>\n</p><p><strong>WYMIAR</strong></p><p>Szeroko\u015b\u0107: 17 (19) 21 cm</p><p>D\u0142ugo\u015b\u0107: 17 (19) 21 cm</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423335510205,
+        "title": "0-6 months",
+        "option1": "0-6 months",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1138-221-4983",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856981803197,
+        "created_at": "2024-08-06T10:17:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423335542973,
+        "title": "6-12 months",
+        "option1": "6-12 months",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1138-221-4983",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856981803197,
+        "created_at": "2024-08-06T10:17:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44423335575741,
+        "title": "1-2 yr",
+        "option1": "1-2 yr",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1138-221-4983",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856981803197,
+        "created_at": "2024-08-06T10:17:41+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377591976125,
+        "created_at": "2024-09-17T12:49:03+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:49:05+02:00",
+        "product_id": 7856981803197,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b51511b61e66f45afbe83810b1f147615aee085e-2982x2982jpg.jpg?v=1726570145",
+        "width": 2982,
+        "height": 2982
+      },
+      {
+        "id": 35377592139965,
+        "created_at": "2024-09-17T12:49:03+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:49:05+02:00",
+        "product_id": 7856981803197,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ead2966b30e73bcf5f0a35b8c038b62303ed65a0-2986x2986jpg.jpg?v=1726570145",
+        "width": 2986,
+        "height": 2986
+      },
+      {
+        "id": 35377591713981,
+        "created_at": "2024-09-17T12:49:03+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:49:05+02:00",
+        "product_id": 7856981803197,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bedb9c9cd79aa7a2808cab762e754fde2ce1dbea-419x419jpg.jpg?v=1726570145",
+        "width": 419,
+        "height": 419
+      },
+      {
+        "id": 35377591812285,
+        "created_at": "2024-09-17T12:49:03+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:49:05+02:00",
+        "product_id": 7856981803197,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c13039e24f99383729341dbb471cda5e271ad389-428x428jpg.jpg?v=1726570145",
+        "width": 428,
+        "height": 428
+      },
+      {
+        "id": 35377592008893,
+        "created_at": "2024-09-17T12:49:03+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:49:05+02:00",
+        "product_id": 7856981803197,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3c65cbfdd67357d2b763ae8346555049487fbb1f-444x444jpg.jpg?v=1726570145",
+        "width": 444,
+        "height": 444
+      },
+      {
+        "id": 35377591845053,
+        "created_at": "2024-09-17T12:49:04+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T12:49:05+02:00",
+        "product_id": 7856981803197,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/eb84501938aa4d6d09077e7042b11a7307e257d1-399x399jpg.jpg?v=1726570145",
+        "width": 399,
+        "height": 399
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "0-6 months",
+          "6-12 months",
+          "1-2 yr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856985243837,
+    "title": "Strawberry - Torebka Nerka",
+    "handle": "hp-1008035-strawberry-bum-bag",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 15 cm</p><p>D\u0142ugo\u015b\u0107: 35 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Je\u015bli znasz podstawowe techniki takie jak magiczne k\u00f3\u0142ko, kwadraty granny i podstawowe \u015bciegi szyde\u0142kowe, ten wz\u00f3r nie powinien stanowi\u0107 dla Ciebie problemu.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423345209533,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1393-242-5936",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856985243837,
+        "created_at": "2024-08-06T10:18:10+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35188899020989,
+        "created_at": "2024-08-06T14:57:05+02:00",
+        "position": 1,
+        "updated_at": "2024-08-06T14:57:07+02:00",
+        "product_id": 7856985243837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/29fc0d7382516195bfd5b9e2ac72a043c3923b36-1080x1080jpg.jpg?v=1722949027",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35188898955453,
+        "created_at": "2024-08-06T14:57:05+02:00",
+        "position": 2,
+        "updated_at": "2024-08-06T14:57:07+02:00",
+        "product_id": 7856985243837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/66f89edeadd437da66ac5d527124d7e21aab95a8-1080x1080jpg.jpg?v=1722949027",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35188899053757,
+        "created_at": "2024-08-06T14:57:05+02:00",
+        "position": 3,
+        "updated_at": "2024-08-06T14:57:07+02:00",
+        "product_id": 7856985243837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c5428e390ada9fde100a35aa3196c6a15f56fb24-1080x1080jpg.jpg?v=1722949027",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7849263235261,
+    "title": "Very Granny - Kardigan",
+    "handle": "hp-1008105-very-granny-cardigan",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>(XS - S) (M - XL) (2XL - 4XL) (5XL)</p><p>\n<strong>WYMIARY</strong></p><p>Obw\u00f3d: (96) (128) (160) (192) cm</p><p>D\u0142ugo\u015b\u0107: 64 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Oto oversizowy kardigan z kwadrat\u00f3w granny, kt\u00f3ry \u0142\u0105czy w sobie klimat vintage z przytulno\u015bci\u0105. Klasyczne kwadraty granny i lu\u017any kr\u00f3j sprawiaj\u0105, \u017ce jest to \u015bwietne wiosenne okrycie - idealne do zaprezentowania swojego r\u0119kodzie\u0142a.</p><p>\n</p><p>Na zdj\u0119ciach pokazane s\u0105 nast\u0119puj\u0105ce kolory/jako\u015bci: Tweed Dreams kol. 27, 26, 28, 29, 30.\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44398723891389,
+        "title": "XS - S",
+        "option1": "XS - S",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-242-2794",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7849263235261,
+        "created_at": "2024-07-26T00:54:46+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44398723924157,
+        "title": "M - XL",
+        "option1": "M - XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-242-2794",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7849263235261,
+        "created_at": "2024-07-26T00:54:46+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44398723956925,
+        "title": "2XL - 4XL",
+        "option1": "2XL - 4XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-242-2794",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7849263235261,
+        "created_at": "2024-07-26T00:54:46+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      },
+      {
+        "id": 44398723989693,
+        "title": "5XL",
+        "option1": "5XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1091-242-2794",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7849263235261,
+        "created_at": "2024-07-26T00:54:46+02:00",
+        "updated_at": "2024-11-22T22:16:12+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35142572015805,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 1,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/52530f23eb85297f77ed89a8d5e4dbf66e83e315-2320x2320jpg.jpg?v=1721948132",
+        "width": 2320,
+        "height": 2320
+      },
+      {
+        "id": 35142571786429,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 2,
+        "updated_at": "2024-07-26T00:55:31+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/091c201464897460281233fd48354b3f03d660f4-2039x2039jpg.jpg?v=1721948131",
+        "width": 2039,
+        "height": 2039
+      },
+      {
+        "id": 35142571819197,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 3,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ad1dbf045c4d89d4833f05691b859ec57ea81720-1353x1353jpg.jpg?v=1721948132",
+        "width": 1353,
+        "height": 1353
+      },
+      {
+        "id": 35142571851965,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 4,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0d9ce2ed85afe2220f8ecd8c056d13a2ab9bf55d-1353x1353jpg.jpg?v=1721948132",
+        "width": 1353,
+        "height": 1353
+      },
+      {
+        "id": 35142572146877,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 5,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c96b1027cca736b25ffb1a73f20c92d9169f813f-3024x3024jpg.jpg?v=1721948132",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35142571983037,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 6,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9deb71d302f83e4981c78018b5a5b137f9171c12-3024x3024jpg.jpg?v=1721948132",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35142571884733,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 7,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8e6123052e7d43f5e1da8a71d88700b6b41431bf-2320x2320jpg.jpg?v=1721948132",
+        "width": 2320,
+        "height": 2320
+      },
+      {
+        "id": 35142571950269,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 8,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/01ae38778eff5d9172ced27fcb6e3aaf161d4850-2320x2320jpg.jpg?v=1721948132",
+        "width": 2320,
+        "height": 2320
+      },
+      {
+        "id": 35142571917501,
+        "created_at": "2024-07-26T00:55:29+02:00",
+        "position": 9,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d201ec0935e13062896ac48f670fd6a7a350d443-724x724jpg.jpg?v=1721948132",
+        "width": 724,
+        "height": 724
+      },
+      {
+        "id": 35142572048573,
+        "created_at": "2024-07-26T00:55:30+02:00",
+        "position": 10,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4d4e89d24be01efd667f8b2cb7edd69e43b7b6a6-2320x2320jpg.jpg?v=1721948132",
+        "width": 2320,
+        "height": 2320
+      },
+      {
+        "id": 35142572114109,
+        "created_at": "2024-07-26T00:55:30+02:00",
+        "position": 11,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c899a1b44a4efedeb7f12d47e35a054a3f949965-2758x2758jpg.jpg?v=1721948132",
+        "width": 2758,
+        "height": 2758
+      },
+      {
+        "id": 35142572081341,
+        "created_at": "2024-07-26T00:55:30+02:00",
+        "position": 12,
+        "updated_at": "2024-07-26T00:55:32+02:00",
+        "product_id": 7849263235261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/daf9f7f3cf6d676e52ad5ccd6e41e52db675ad57-3024x3024jpg.jpg?v=1721948132",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "XS - S",
+          "M - XL",
+          "2XL - 4XL",
+          "5XL"
+        ]
+      }
+    ]
+  }
+]

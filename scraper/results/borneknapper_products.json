@@ -1,0 +1,1609 @@
+[
+  {
+    "id": 7855990079677,
+    "title": "Guziki drewniane, Teddy",
+    "handle": "hp-1003519-wooden-buttons-teddy-d13-mm-8-pcs",
+    "body_html": "<p>Te urocze guziki z misiem maj\u0105 r\u00f3\u017cne kolory i rozmiary. Je\u015bli zam\u00f3wisz je dzisiaj, to ju\u017c za kilka dni b\u0119dziesz ozdabia\u0107 nimi zrobiony na drutach sweter.</p><p><strong>Rozmiar</strong>: 13 i 15 mm\n<strong>Materia\u0142</strong>: drewno\n<strong>Kolor</strong>: Red - Beige - Blue - Vintage Rose\n<strong>Liczba</strong>: 8 sztuk</p><p><a href=\"https://hobbii.pl/akcesoria/guziki\"><strong>Ca\u0142y asortyment guzik\u00f3w znajdziesz tutaj.</strong></a></p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420964221117,
+        "title": "13 mm - Red",
+        "option1": "13 mm - Red",
+        "option2": null,
+        "option3": null,
+        "sku": "22700",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184850141373,
+          "product_id": 7855990079677,
+          "position": 1,
+          "created_at": "2024-08-05T11:39:58+02:00",
+          "updated_at": "2024-08-05T11:40:01+02:00",
+          "alt": "22700-teddy-13mm-red-8pcs-pack-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22700-teddy-13mm-red-8pcs-pack-1200x1200pxjpg.jpg?v=1722850801",
+          "variant_ids": [
+            44420964221117
+          ]
+        },
+        "available": false,
+        "price": "23.00",
+        "grams": 4,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855990079677,
+        "created_at": "2024-08-05T10:31:09+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420964253885,
+        "title": "13 mm - Blue",
+        "option1": "13 mm - Blue",
+        "option2": null,
+        "option3": null,
+        "sku": "22701",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184850043069,
+          "product_id": 7855990079677,
+          "position": 2,
+          "created_at": "2024-08-05T11:39:58+02:00",
+          "updated_at": "2024-08-05T11:40:00+02:00",
+          "alt": "22701-teddy-13mm-blue-8pcs-pack-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22701-teddy-13mm-blue-8pcs-pack-1200x1200pxjpg.jpg?v=1722850800",
+          "variant_ids": [
+            44420964253885
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 4,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855990079677,
+        "created_at": "2024-08-05T10:31:09+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420964286653,
+        "title": "13 mm - Vintage Rose",
+        "option1": "13 mm - Vintage Rose",
+        "option2": null,
+        "option3": null,
+        "sku": "22704",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184850108605,
+          "product_id": 7855990079677,
+          "position": 3,
+          "created_at": "2024-08-05T11:39:58+02:00",
+          "updated_at": "2024-08-05T11:40:01+02:00",
+          "alt": "22704-teddy-13mm-vintage-rose-8pcs-pack-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22704-teddy-13mm-vintage-rose-8pcs-pack-1200x1200pxjpg.jpg?v=1722850801",
+          "variant_ids": [
+            44420964286653
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 4,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855990079677,
+        "created_at": "2024-08-05T10:31:09+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420964319421,
+        "title": "13 mm - Beige",
+        "option1": "13 mm - Beige",
+        "option2": null,
+        "option3": null,
+        "sku": "22705",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184850010301,
+          "product_id": 7855990079677,
+          "position": 4,
+          "created_at": "2024-08-05T11:39:58+02:00",
+          "updated_at": "2024-08-05T11:40:00+02:00",
+          "alt": "22705-teddy-13mm-beige-8pcs-pack-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22705-teddy-13mm-beige-8pcs-pack-1200x1200pxjpg.jpg?v=1722850800",
+          "variant_ids": [
+            44420964319421
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 4,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855990079677,
+        "created_at": "2024-08-05T10:31:09+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420964352189,
+        "title": "15 mm - Red",
+        "option1": "15 mm - Red",
+        "option2": null,
+        "option3": null,
+        "sku": "22702",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184849977533,
+          "product_id": 7855990079677,
+          "position": 5,
+          "created_at": "2024-08-05T11:39:58+02:00",
+          "updated_at": "2024-08-05T11:40:00+02:00",
+          "alt": "22702-teddy-15mm-red-8pcs-pack-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22702-teddy-15mm-red-8pcs-pack-1200x1200pxjpg.jpg?v=1722850800",
+          "variant_ids": [
+            44420964352189
+          ]
+        },
+        "available": false,
+        "price": "23.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855990079677,
+        "created_at": "2024-08-05T10:31:09+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420964384957,
+        "title": "15 mm - Blue",
+        "option1": "15 mm - Blue",
+        "option2": null,
+        "option3": null,
+        "sku": "22703",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184850206909,
+          "product_id": 7855990079677,
+          "position": 6,
+          "created_at": "2024-08-05T11:39:59+02:00",
+          "updated_at": "2024-08-05T11:40:01+02:00",
+          "alt": "22703-teddy-15mm-blue-8pcs-pack-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22703-teddy-15mm-blue-8pcs-pack-1200x1200pxjpg.jpg?v=1722850801",
+          "variant_ids": [
+            44420964384957
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7855990079677,
+        "created_at": "2024-08-05T10:31:09+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420964417725,
+        "title": "15 mm - Vintage Rose",
+        "option1": "15 mm - Vintage Rose",
+        "option2": null,
+        "option3": null,
+        "sku": "22706",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184850239677,
+          "product_id": 7855990079677,
+          "position": 7,
+          "created_at": "2024-08-05T11:39:59+02:00",
+          "updated_at": "2024-08-05T11:40:01+02:00",
+          "alt": "22706-teddy-15mm-vintage-rose-8pcs-pack-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22706-teddy-15mm-vintage-rose-8pcs-pack-1200x1200pxjpg.jpg?v=1722850801",
+          "variant_ids": [
+            44420964417725
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7855990079677,
+        "created_at": "2024-08-05T10:31:09+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420964450493,
+        "title": "15 mm - Beige",
+        "option1": "15 mm - Beige",
+        "option2": null,
+        "option3": null,
+        "sku": "22707",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184849944765,
+          "product_id": 7855990079677,
+          "position": 8,
+          "created_at": "2024-08-05T11:39:59+02:00",
+          "updated_at": "2024-08-05T11:40:00+02:00",
+          "alt": "22707-teddy-15mm-beige-8pcs-pack-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22707-teddy-15mm-beige-8pcs-pack-1200x1200pxjpg.jpg?v=1722850800",
+          "variant_ids": [
+            44420964450493
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7855990079677,
+        "created_at": "2024-08-05T10:31:09+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184850141373,
+        "created_at": "2024-08-05T11:39:58+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:40:01+02:00",
+        "product_id": 7855990079677,
+        "variant_ids": [
+          44420964221117
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22700-teddy-13mm-red-8pcs-pack-1200x1200pxjpg.jpg?v=1722850801",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184850043069,
+        "created_at": "2024-08-05T11:39:58+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:40:00+02:00",
+        "product_id": 7855990079677,
+        "variant_ids": [
+          44420964253885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22701-teddy-13mm-blue-8pcs-pack-1200x1200pxjpg.jpg?v=1722850800",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184850108605,
+        "created_at": "2024-08-05T11:39:58+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:40:01+02:00",
+        "product_id": 7855990079677,
+        "variant_ids": [
+          44420964286653
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22704-teddy-13mm-vintage-rose-8pcs-pack-1200x1200pxjpg.jpg?v=1722850801",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184850010301,
+        "created_at": "2024-08-05T11:39:58+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:40:00+02:00",
+        "product_id": 7855990079677,
+        "variant_ids": [
+          44420964319421
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22705-teddy-13mm-beige-8pcs-pack-1200x1200pxjpg.jpg?v=1722850800",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184849977533,
+        "created_at": "2024-08-05T11:39:58+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:40:00+02:00",
+        "product_id": 7855990079677,
+        "variant_ids": [
+          44420964352189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22702-teddy-15mm-red-8pcs-pack-1200x1200pxjpg.jpg?v=1722850800",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184850206909,
+        "created_at": "2024-08-05T11:39:59+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:40:01+02:00",
+        "product_id": 7855990079677,
+        "variant_ids": [
+          44420964384957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22703-teddy-15mm-blue-8pcs-pack-1200x1200pxjpg.jpg?v=1722850801",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184850239677,
+        "created_at": "2024-08-05T11:39:59+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:40:01+02:00",
+        "product_id": 7855990079677,
+        "variant_ids": [
+          44420964417725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22706-teddy-15mm-vintage-rose-8pcs-pack-1200x1200pxjpg.jpg?v=1722850801",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184849944765,
+        "created_at": "2024-08-05T11:39:59+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T11:40:00+02:00",
+        "product_id": 7855990079677,
+        "variant_ids": [
+          44420964450493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22707-teddy-15mm-beige-8pcs-pack-1200x1200pxjpg.jpg?v=1722850800",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "13 mm - Red",
+          "13 mm - Blue",
+          "13 mm - Vintage Rose",
+          "13 mm - Beige",
+          "15 mm - Red",
+          "15 mm - Blue",
+          "15 mm - Vintage Rose",
+          "15 mm - Beige"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856010559677,
+    "title": "Guziki drewniane - Myszka Ella - 6 sztuk, 20 mm",
+    "handle": "hp-1003025-wooden-buttons-the-mouse-ella-6-pcs-20-mm",
+    "body_html": "<p>Paczka zawiera 6 jednakowych guzik\u00f3w o \u015brednicy 20 mm. Guziki s\u0105 dopracowane w szczeg\u00f3\u0142ach i wygl\u0105daj\u0105 unikatowo, wi\u0119c b\u0119d\u0105 stanowi\u0107 wyszukane detale w wykonanej w\u0142asnor\u0119cznie rob\u00f3tce. Przymocuj je do niej, a ca\u0142o\u015b\u0107 nabierze jeszcze bardziej osobistego charakteru.</p><p>Te urocze, drewniane guziki z motywem zwierz\u0119cym idealnie pasuj\u0105 do ubranek dzieci\u0119cych.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421061050557,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17093",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856010559677,
+        "created_at": "2024-08-05T10:33:34+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35186427101373,
+        "created_at": "2024-08-05T22:08:21+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T22:08:22+02:00",
+        "product_id": 7856010559677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17093-mouse-ellajpg.jpg?v=1722888502",
+        "width": 903,
+        "height": 903
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855913926845,
+    "title": "Guziki serca - 8 sztuk",
+    "handle": "hp-1003531-facet-heart-buttons-8-pcs",
+    "body_html": "<p>Te drobne guziki w kszta\u0142cie serca maj\u0105 \u015bwietny, kryszta\u0142owy wygl\u0105d. Je\u015bli zam\u00f3wisz je dzisiaj, to ju\u017c za kilka dni b\u0119dziesz ozdabia\u0107 nimi zrobiony na drutach sweter.\n</p><p><strong>Rozmiar</strong>: 13 i 15 mm\n<strong>Materia\u0142</strong>: akryl\n<strong>Kolor</strong>: vintage Rose i mushroom\n<strong>Liczba</strong>: 8 sztuk</p><p><a href=\"https://hobbii.pl/akcesoria/guziki\"><strong>Ca\u0142y asortyment guzik\u00f3w znajdziesz tutaj.</strong></a>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420600987837,
+        "title": "13 mm - Mushroom",
+        "option1": "13 mm - Mushroom",
+        "option2": null,
+        "option3": null,
+        "sku": "22740",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183894495421,
+          "product_id": 7855913926845,
+          "position": 2,
+          "created_at": "2024-08-05T10:47:24+02:00",
+          "updated_at": "2024-08-05T10:47:26+02:00",
+          "alt": "22740-heart-buttons-13mm-mushroom-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22740-heart-buttons-13mm-mushroom-1200x1200pxjpg.jpg?v=1722847646",
+          "variant_ids": [
+            44420600987837
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 4,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855913926845,
+        "created_at": "2024-08-05T10:21:39+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420601020605,
+        "title": "15 mm - Mushroom",
+        "option1": "15 mm - Mushroom",
+        "option2": null,
+        "option3": null,
+        "sku": "22742",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183894429885,
+          "product_id": 7855913926845,
+          "position": 3,
+          "created_at": "2024-08-05T10:47:24+02:00",
+          "updated_at": "2024-08-05T10:47:26+02:00",
+          "alt": "22742-heart-buttons-15mm-mushroom-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22742-heart-buttons-15mm-mushroom-1200x1200pxjpg.jpg?v=1722847646",
+          "variant_ids": [
+            44420601020605
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 6,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855913926845,
+        "created_at": "2024-08-05T10:21:39+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420601053373,
+        "title": "13 mm - Vintage Rose",
+        "option1": "13 mm - Vintage Rose",
+        "option2": null,
+        "option3": null,
+        "sku": "22741",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183894397117,
+          "product_id": 7855913926845,
+          "position": 4,
+          "created_at": "2024-08-05T10:47:24+02:00",
+          "updated_at": "2024-08-05T10:47:26+02:00",
+          "alt": "22741-heart-buttons-13mm-vintage-rose-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22741-heart-buttons-13mm-vintage-rose-1200x1200pxjpg.jpg?v=1722847646",
+          "variant_ids": [
+            44420601053373
+          ]
+        },
+        "available": false,
+        "price": "23.00",
+        "grams": 4,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855913926845,
+        "created_at": "2024-08-05T10:21:39+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420601086141,
+        "title": "15 mm - Vintage Rose",
+        "option1": "15 mm - Vintage Rose",
+        "option2": null,
+        "option3": null,
+        "sku": "22743",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183894462653,
+          "product_id": 7855913926845,
+          "position": 1,
+          "created_at": "2024-08-05T10:47:24+02:00",
+          "updated_at": "2024-08-05T10:47:26+02:00",
+          "alt": "22743-heart-buttons-15mm-vintage-rose-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22743-heart-buttons-15mm-vintage-rose-1200x1200pxjpg.jpg?v=1722847646",
+          "variant_ids": [
+            44420601086141
+          ]
+        },
+        "available": true,
+        "price": "23.00",
+        "grams": 6,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855913926845,
+        "created_at": "2024-08-05T10:21:39+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183894462653,
+        "created_at": "2024-08-05T10:47:24+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:47:26+02:00",
+        "product_id": 7855913926845,
+        "variant_ids": [
+          44420601086141
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22743-heart-buttons-15mm-vintage-rose-1200x1200pxjpg.jpg?v=1722847646",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183894495421,
+        "created_at": "2024-08-05T10:47:24+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:47:26+02:00",
+        "product_id": 7855913926845,
+        "variant_ids": [
+          44420600987837
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22740-heart-buttons-13mm-mushroom-1200x1200pxjpg.jpg?v=1722847646",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183894429885,
+        "created_at": "2024-08-05T10:47:24+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:47:26+02:00",
+        "product_id": 7855913926845,
+        "variant_ids": [
+          44420601020605
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22742-heart-buttons-15mm-mushroom-1200x1200pxjpg.jpg?v=1722847646",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183894397117,
+        "created_at": "2024-08-05T10:47:24+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:47:26+02:00",
+        "product_id": 7855913926845,
+        "variant_ids": [
+          44420601053373
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22741-heart-buttons-13mm-vintage-rose-1200x1200pxjpg.jpg?v=1722847646",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415767630202,
+        "created_at": "2024-10-23T17:31:14+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:31:16+02:00",
+        "product_id": 7855913926845,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e7b88aed810fd917188a25edba91ea79.jpg?v=1729697476",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415767728506,
+        "created_at": "2024-10-23T17:31:14+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:31:16+02:00",
+        "product_id": 7855913926845,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fc98410d58addbea49905a485dc8813d.jpg?v=1729697476",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "13 mm - Mushroom",
+          "15 mm - Mushroom",
+          "13 mm - Vintage Rose",
+          "15 mm - Vintage Rose"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855944695997,
+    "title": "Drewniane guziki - Zwierz\u0105tka - 17 mm",
+    "handle": "hp-1004131-animal-buttons-17-mm",
+    "body_html": "<p>Te s\u0142odkie guziki b\u0119d\u0105 idealnym dodatkiem do dzieci\u0119cych ubranek. Guziki s\u0105 wykonane z drewna i dost\u0119pne w r\u00f3\u017cnych uroczych motywach, dzi\u0119ki czemu nadadz\u0105 wykonanemu projektowi s\u0142odkiego i dzieci\u0119cego wygl\u0105du.\n</p><p>Udekoruj swoje szyde\u0142kowe lub dziewiarskie projekty tymi s\u0142odkimi guzikami.</p><p>Rozmiar: 17 mm\nMateria\u0142: Drewno\nMotywy: Teddy - Sheep - Bunny - Koala - Unicorn\nIlo\u015b\u0107: 8 szt\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420747034813,
+        "title": "Teddy",
+        "option1": "Teddy",
+        "option2": null,
+        "option3": null,
+        "sku": "22880",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184288268477,
+          "product_id": 7855944695997,
+          "position": 7,
+          "created_at": "2024-08-05T11:05:50+02:00",
+          "updated_at": "2024-08-05T11:05:52+02:00",
+          "alt": "1664526408-22880-single-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526408-22880-single-1200x1200pxjpg.jpg?v=1722848752",
+          "variant_ids": [
+            44420747034813
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 7,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855944695997,
+        "created_at": "2024-08-05T10:25:50+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420747067581,
+        "title": "Sheep",
+        "option1": "Sheep",
+        "option2": null,
+        "option3": null,
+        "sku": "22881",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184288202941,
+          "product_id": 7855944695997,
+          "position": 8,
+          "created_at": "2024-08-05T11:05:50+02:00",
+          "updated_at": "2024-08-05T11:05:52+02:00",
+          "alt": "1664526415-22881-single-1200x1200px-700xautojpg",
+          "width": 700,
+          "height": 700,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526415-22881-single-1200x1200px-700xautojpg.jpg?v=1722848752",
+          "variant_ids": [
+            44420747067581
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 7,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855944695997,
+        "created_at": "2024-08-05T10:25:50+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420747100349,
+        "title": "Bunny",
+        "option1": "Bunny",
+        "option2": null,
+        "option3": null,
+        "sku": "22882",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184287776957,
+          "product_id": 7855944695997,
+          "position": 9,
+          "created_at": "2024-08-05T11:05:50+02:00",
+          "updated_at": "2024-08-05T11:05:52+02:00",
+          "alt": "1664526424-22882-single-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526424-22882-single-1200x1200pxjpg.jpg?v=1722848752",
+          "variant_ids": [
+            44420747100349
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 7,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855944695997,
+        "created_at": "2024-08-05T10:25:50+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420747133117,
+        "title": "Koala",
+        "option1": "Koala",
+        "option2": null,
+        "option3": null,
+        "sku": "22883",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184287875261,
+          "product_id": 7855944695997,
+          "position": 10,
+          "created_at": "2024-08-05T11:05:50+02:00",
+          "updated_at": "2024-08-05T11:05:52+02:00",
+          "alt": "1664526431-22883-single-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526431-22883-single-1200x1200pxjpg.jpg?v=1722848752",
+          "variant_ids": [
+            44420747133117
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 7,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855944695997,
+        "created_at": "2024-08-05T10:25:50+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420747165885,
+        "title": "Unicorn",
+        "option1": "Unicorn",
+        "option2": null,
+        "option3": null,
+        "sku": "22884",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184288137405,
+          "product_id": 7855944695997,
+          "position": 11,
+          "created_at": "2024-08-05T11:05:50+02:00",
+          "updated_at": "2024-08-05T11:05:52+02:00",
+          "alt": "1664526439-22884-single-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526439-22884-single-1200x1200pxjpg.jpg?v=1722848752",
+          "variant_ids": [
+            44420747165885
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 7,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855944695997,
+        "created_at": "2024-08-05T10:25:50+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184287940797,
+        "created_at": "2024-08-05T11:05:49+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22884-single-1200x1200px-frontjpg.jpg?v=1722848752",
+        "width": 2409,
+        "height": 2409
+      },
+      {
+        "id": 35184288039101,
+        "created_at": "2024-08-05T11:05:49+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1607330432-1200x1200-2020-10-18-11-03-16jpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184288497853,
+        "created_at": "2024-08-05T11:05:49+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1607330436-1200x1200-2020-10-18-11-05-03jpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184288006333,
+        "created_at": "2024-08-05T11:05:49+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1607330440-1200x1200-2020-10-18-17-19-05jpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184287842493,
+        "created_at": "2024-08-05T11:05:49+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1607330444-1200x1200-2020-10-18-17-21-03jpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184288301245,
+        "created_at": "2024-08-05T11:05:50+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22883-1200x1200pxjpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184288268477,
+        "created_at": "2024-08-05T11:05:50+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [
+          44420747034813
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526408-22880-single-1200x1200pxjpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184288202941,
+        "created_at": "2024-08-05T11:05:50+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [
+          44420747067581
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526415-22881-single-1200x1200px-700xautojpg.jpg?v=1722848752",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184287776957,
+        "created_at": "2024-08-05T11:05:50+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [
+          44420747100349
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526424-22882-single-1200x1200pxjpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184287875261,
+        "created_at": "2024-08-05T11:05:50+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [
+          44420747133117
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526431-22883-single-1200x1200pxjpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184288137405,
+        "created_at": "2024-08-05T11:05:50+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T11:05:52+02:00",
+        "product_id": 7855944695997,
+        "variant_ids": [
+          44420747165885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1664526439-22884-single-1200x1200pxjpg.jpg?v=1722848752",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Teddy",
+          "Sheep",
+          "Bunny",
+          "Koala",
+          "Unicorn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855925526717,
+    "title": "Guziki drewniane - Handmade with Love - 18 mm",
+    "handle": "hp-1003528-wooden-buttons-handmade-with-love-18-mm",
+    "body_html": "<p>Te okr\u0105g\u0142e guziki z drewna mog\u0105 zosta\u0107 u\u017cyte w wielu r\u00f3\u017cnych projektach. Zam\u00f3w je ju\u017c dzisiaj i ju\u017c po kilku dniach b\u0119dzie mo\u017cna ozdobi\u0107 nimi wydziergany sweter. Gdy si\u0119 przyjrzy im dok\u0142adniej, wida\u0107 na nich pi\u0119kny wz\u00f3r z naturalnej struktury drewna.\n</p><p><strong>Rozmiar</strong>: 18 mm\n<strong>Materia\u0142</strong>: drewno\n<strong>Liczba</strong>: 8 sztuk\n<strong>Tekst</strong>: Handmade with Love</p><p><a href=\"https://hobbii.pl/akcesoria/guziki\"><strong>Ca\u0142y asortyment guzik\u00f3w znajdziesz tutaj.</strong></a></p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420656627901,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "22736",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "26.00",
+        "grams": 6,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855925526717,
+        "created_at": "2024-08-05T10:23:18+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183966814397,
+        "created_at": "2024-08-05T10:51:46+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:51:48+02:00",
+        "product_id": 7855925526717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22736-made-with-love-d18mm-8pcs-pack-1200x1200pxjpg.jpg?v=1722847908",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855913599165,
+    "title": "Guziki drewniane - Koty Burt i Bart - 6 sztuk., 20 mm",
+    "handle": "hp-1003023-wooden-buttons-the-cats-burt-bart-6-pcs-20-mm",
+    "body_html": "<p>Paczka zawiera 6 jednakowych guzik\u00f3w o \u015brednicy 20 mm. Guziki s\u0105 dopracowane w szczeg\u00f3\u0142ach i wygl\u0105daj\u0105 unikatowo, wi\u0119c b\u0119d\u0105 stanowi\u0107 wyszukane detale w wykonanej w\u0142asnor\u0119cznie rob\u00f3tce. Przymocuj je do niej, a ca\u0142o\u015b\u0107 nabierze jeszcze bardziej osobistego charakteru.</p><p>Te urocze, drewniane guziki z motywem zwierz\u0119cym idealnie pasuj\u0105 do ubranek dzieci\u0119cych.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420600463549,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17088",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855913599165,
+        "created_at": "2024-08-05T10:21:36+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183889252541,
+        "created_at": "2024-08-05T10:47:11+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:47:13+02:00",
+        "product_id": 7855913599165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17088-cats-burt-and-bartjpg.jpg?v=1722847633",
+        "width": 891,
+        "height": 891
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855885549757,
+    "title": "Guziki drewniane - Sowa Janus - 6 sztuk, 20 mm",
+    "handle": "hp-1003033-wooden-buttons-the-owl-janus-6-pcs-20-mm",
+    "body_html": "<p>Paczka zawiera 6 jednakowych guzik\u00f3w o \u015brednicy 20 mm. Guziki s\u0105 dopracowane w szczeg\u00f3\u0142ach i wygl\u0105daj\u0105 unikatowo, wi\u0119c b\u0119d\u0105 stanowi\u0107 wyszukane detale w wykonanej w\u0142asnor\u0119cznie rob\u00f3tce. Przymocuj je do niej, a ca\u0142o\u015b\u0107 nabierze jeszcze bardziej osobistego charakteru.</p><p>Te urocze, drewniane guziki z motywem zwierz\u0119cym idealnie pasuj\u0105 do ubranek dzieci\u0119cych.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420496818365,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17104-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855885549757,
+        "created_at": "2024-08-05T10:15:17+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183612821693,
+        "created_at": "2024-08-05T10:35:58+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:35:59+02:00",
+        "product_id": 7855885549757,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17104-owl-janusjpg.jpg?v=1722846959",
+        "width": 849,
+        "height": 849
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856013017277,
+    "title": "Drewniane guziki - Myszka Emily - 6 szt.",
+    "handle": "hp-1000460-wooden-button-emily-the-mouse-6-pcs",
+    "body_html": "<p>Drewniane guziki z motywem myszki Emily od Go Handmade.</p><p>W paczce otrzymasz 6 identycznych guzik\u00f3w o \u015brednicy 20 mm. Guziki wykonane s\u0105 w s\u0142odkim stylu, kt\u00f3ry doda uroku Twoim rob\u00f3tkom.</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421071438013,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17092/80098",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856013017277,
+        "created_at": "2024-08-05T10:33:54+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185037705405,
+        "created_at": "2024-08-05T11:57:29+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:57:31+02:00",
+        "product_id": 7856013017277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34977249930jpg.jpg?v=1722851851",
+        "width": 848,
+        "height": 948
+      },
+      {
+        "id": 35185037738173,
+        "created_at": "2024-08-05T11:57:29+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:57:31+02:00",
+        "product_id": 7856013017277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34977249930-1jpg.jpg?v=1722851851",
+        "width": 595,
+        "height": 659
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855979528381,
+    "title": "Drewniane guziki - Mi\u015b Camille - 6 szt.",
+    "handle": "hp-1000456-wooden-buttons-the-teddy-camilla-6-pcs",
+    "body_html": "<p>Drewniane guziki z motywem misia Camille od Go Handmade.</p><p>W paczce otrzymasz 6 identycznych guzik\u00f3w o \u015brednicy 20 mm. Guziki wykonane s\u0105 w s\u0142odkim stylu, kt\u00f3ry doda uroku Twoim rob\u00f3tkom.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420909367485,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17097/80103",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855979528381,
+        "created_at": "2024-08-05T10:29:55+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184684826813,
+        "created_at": "2024-08-05T11:28:46+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:28:48+02:00",
+        "product_id": 7855979528381,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34977383818jpg.jpg?v=1722850128",
+        "width": 848,
+        "height": 948
+      },
+      {
+        "id": 35184684794045,
+        "created_at": "2024-08-05T11:28:46+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:28:48+02:00",
+        "product_id": 7855979528381,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34977383818-1jpg.jpg?v=1722850128",
+        "width": 595,
+        "height": 658
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855977693373,
+    "title": "Guziki drewniane - Made by Grandma  - 18 mm",
+    "handle": "hp-1003527-wooden-buttons-made-by-grandma-18-mm",
+    "body_html": "<p>Te okr\u0105g\u0142e guziki z drewna mog\u0105 zosta\u0107 u\u017cyte w wielu r\u00f3\u017cnych projektach. Zam\u00f3w je ju\u017c dzisiaj i ju\u017c po kilku dniach b\u0119dzie mo\u017cna ozdobi\u0107 nimi wydziergany sweter. Gdy si\u0119 przyjrzy im dok\u0142adniej, wida\u0107 na nich pi\u0119kny wz\u00f3r z naturalnej struktury drewna.\n</p><p><strong>Rozmiar</strong>: 18 mm\n<strong>Materia\u0142</strong>: drewno\n<strong>Liczba</strong>: 8 sztuk\n<strong>Tekst</strong>: Made by Grandma</p><p><a href=\"https://hobbii.pl/akcesoria/guziki\"><strong>Ca\u0142y asortyment guzik\u00f3w znajdziesz tutaj.</strong></a></p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420901208253,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "22735",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "26.00",
+        "grams": 6,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855977693373,
+        "created_at": "2024-08-05T10:29:43+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184668573885,
+        "created_at": "2024-08-05T11:27:45+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:27:46+02:00",
+        "product_id": 7855977693373,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22735-made-by-grandma-d18mm-8pcs-pack-1200x1200pxjpg.jpg?v=1722850066",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855947415741,
+    "title": "Guzik z poliestru z \u0142odzi\u0105, Czerwony, 11 & 15 mm",
+    "handle": "hp-1002903-polyester-button-w-sailboat-red-11-15-mm",
+    "body_html": "<p>\u015arednica: 11 lub 15 mm\nMateria\u0142: Poliester\nWskaz\u00f3wki do prania: 40\u00b0C</p><p>Ca\u0142y asortyment guzik\u00f3w znajdziesz <a href=\"https://hobbii.pl/akcesoria/guziki\">tutaj</a>.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420761518269,
+        "title": "11 mm",
+        "option1": "11 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HO451690-11-0048",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184310091965,
+          "product_id": 7855947415741,
+          "position": 3,
+          "created_at": "2024-08-05T11:06:33+02:00",
+          "updated_at": "2024-08-05T11:06:34+02:00",
+          "alt": "sejlskibsknap-lille-enkeltjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/sejlskibsknap-lille-enkeltjpg.jpg?v=1722848794",
+          "variant_ids": [
+            44420761518269
+          ]
+        },
+        "available": false,
+        "price": "3.50",
+        "grams": 2,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855947415741,
+        "created_at": "2024-08-05T10:26:04+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      },
+      {
+        "id": 44420761551037,
+        "title": "15 mm",
+        "option1": "15 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HO451690-15-0048",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184310190269,
+          "product_id": 7855947415741,
+          "position": 4,
+          "created_at": "2024-08-05T11:06:33+02:00",
+          "updated_at": "2024-08-05T11:06:35+02:00",
+          "alt": "sejlskibsknap-stor-enkeltjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/sejlskibsknap-stor-enkeltjpg.jpg?v=1722848795",
+          "variant_ids": [
+            44420761551037
+          ]
+        },
+        "available": true,
+        "price": "5.40",
+        "grams": 2,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855947415741,
+        "created_at": "2024-08-05T10:26:04+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184310157501,
+        "created_at": "2024-08-05T11:06:33+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:06:35+02:00",
+        "product_id": 7855947415741,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/sejlskibsknap-samletjpg.jpg?v=1722848795",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184310124733,
+        "created_at": "2024-08-05T11:06:33+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:06:35+02:00",
+        "product_id": 7855947415741,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/sejlskibsknap-backjpg.jpg?v=1722848795",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184310091965,
+        "created_at": "2024-08-05T11:06:33+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:06:34+02:00",
+        "product_id": 7855947415741,
+        "variant_ids": [
+          44420761518269
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/sejlskibsknap-lille-enkeltjpg.jpg?v=1722848794",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184310190269,
+        "created_at": "2024-08-05T11:06:33+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:06:35+02:00",
+        "product_id": 7855947415741,
+        "variant_ids": [
+          44420761551037
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/sejlskibsknap-stor-enkeltjpg.jpg?v=1722848795",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "11 mm",
+          "15 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855931130045,
+    "title": "Drewniane guziki - Motyw Pieska - 6 stk.",
+    "handle": "hp-1000458-wooden-buttons-the-dog-millie-6-pcs",
+    "body_html": "<p>Drewniane guziki z motywem pieska od Go Handmade.</p><p>W paczce otrzymasz 6 identycznych guzik\u00f3w o \u015brednicy 20 mm. Guziki wykonane s\u0105 w s\u0142odkim stylu, kt\u00f3ry doda uroku Twoim rob\u00f3tkom.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420686184637,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17103/80108",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "17.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855931130045,
+        "created_at": "2024-08-05T10:24:02+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184086122685,
+        "created_at": "2024-08-05T10:56:58+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:56:59+02:00",
+        "product_id": 7855931130045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34977467274jpg.jpg?v=1722848219",
+        "width": 1010,
+        "height": 1105
+      },
+      {
+        "id": 35184086089917,
+        "created_at": "2024-08-05T10:56:58+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:56:59+02:00",
+        "product_id": 7855931130045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34977467274-1jpg.jpg?v=1722848219",
+        "width": 595,
+        "height": 657
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855926083773,
+    "title": "Guziki drewniane - Myszka Luis - 6 sztuk, 20 mm",
+    "handle": "hp-1003029-wooden-buttons-the-mouse-luis-6-pcs-20-mm",
+    "body_html": "<p>Paczka zawiera 6 jednakowych guzik\u00f3w o \u015brednicy 20 mm. Guziki s\u0105 dopracowane w szczeg\u00f3\u0142ach i wygl\u0105daj\u0105 unikatowo, wi\u0119c b\u0119d\u0105 stanowi\u0107 wyszukane detale w wykonanej w\u0142asnor\u0119cznie rob\u00f3tce. Przymocuj je do niej, a ca\u0142o\u015b\u0107 nabierze jeszcze bardziej osobistego charakteru.</p><p>Te urocze, drewniane guziki z motywem zwierz\u0119cym idealnie pasuj\u0105 do ubranek dzieci\u0119cych.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420659282109,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17098",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855926083773,
+        "created_at": "2024-08-05T10:23:22+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184026124477,
+        "created_at": "2024-08-05T10:53:37+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:53:38+02:00",
+        "product_id": 7855926083773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17098-mouse-luisjpg.jpg?v=1722848018",
+        "width": 851,
+        "height": 851
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855912386749,
+    "title": "Guziki drewniane - Koty Simon i Mats - 6 sztuk, 20 mm",
+    "handle": "hp-1003030-wooden-buttons-the-cats-simon-mats-6-pcs-20-mm",
+    "body_html": "<p>Paczka zawiera 6 jednakowych guzik\u00f3w o \u015brednicy 20 mm. Guziki s\u0105 dopracowane w szczeg\u00f3\u0142ach i wygl\u0105daj\u0105 unikatowo, wi\u0119c b\u0119d\u0105 stanowi\u0107 wyszukane detale w wykonanej w\u0142asnor\u0119cznie rob\u00f3tce. Przymocuj je do niej, a ca\u0142o\u015b\u0107 nabierze jeszcze bardziej osobistego charakteru.</p><p>Te urocze, drewniane guziki z motywem zwierz\u0119cym idealnie pasuj\u0105 do ubranek dzieci\u0119cych.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420596334781,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17099",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.00",
+        "grams": 5,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855912386749,
+        "created_at": "2024-08-05T10:21:23+02:00",
+        "updated_at": "2024-11-22T22:32:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183805661373,
+        "created_at": "2024-08-05T10:44:00+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:44:01+02:00",
+        "product_id": 7855912386749,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17099-cat-and-mouse-simon-and-matsjpg.jpg?v=1722847441",
+        "width": 917,
+        "height": 916
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  }
+]

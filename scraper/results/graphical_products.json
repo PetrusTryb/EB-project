@@ -1,0 +1,730 @@
+[
+  {
+    "id": 7895304208573,
+    "title": "Seven Sisters - Sweter",
+    "handle": "hp-1008493-seven-sisters-sweater",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>XXS (XS, S, M, L, XL, 2XL)</p><p>\n<strong>WYMIARY</strong></p><p>Obw\u00f3d: 80 (87, 95, 102, 109, 116) cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Dziergany bezszwowo od g\u00f3ry do do\u0142u sweter z graficznym wzorem w krat\u0119 przypominaj\u0105cym kultowy wz\u00f3r w krat\u0119 na siedzeniach londy\u0144skiego metra. Przedni karczek, tylny karczek i raglanowe r\u0119kawy s\u0105 dziergane jednocze\u015bnie w jednym kawa\u0142ku o dok\u0142adnie takich samych wymiarach. Po dotarciu pod pachy, dzieli si\u0119 rob\u00f3tk\u0119 na cztery cz\u0119\u015bci (prz\u00f3d, ty\u0142, lewy r\u0119kaw, prawy r\u0119kaw). Prz\u00f3d i ty\u0142 s\u0105 po\u0142\u0105czone i dziergane na okr\u0105g\u0142o do do\u0142u, a obszerne r\u0119kawy s\u0105 zw\u0119\u017ca si\u0119 w dopasowany mankiet. Dekolt wyko\u0144czony jest podw\u00f3jnym \u015bci\u0105gaczem, aby nada\u0107 swetrowi bardziej jednolity.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44555926339773,
+        "title": "XXS",
+        "option1": "XXS",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2508-243-1031",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7895304208573,
+        "created_at": "2024-10-10T11:32:13+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44555926372541,
+        "title": "XS",
+        "option1": "XS",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2508-243-1031",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7895304208573,
+        "created_at": "2024-10-10T11:32:13+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44555926405309,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2508-243-1031",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7895304208573,
+        "created_at": "2024-10-10T11:32:13+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44555926438077,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2508-243-1031",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7895304208573,
+        "created_at": "2024-10-10T11:32:13+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44555926470845,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2508-243-1031",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7895304208573,
+        "created_at": "2024-10-10T11:32:13+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44555926503613,
+        "title": "XL",
+        "option1": "XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2508-243-1031",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7895304208573,
+        "created_at": "2024-10-10T11:32:13+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44555926536381,
+        "title": "2XL",
+        "option1": "2XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2508-243-1031",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7895304208573,
+        "created_at": "2024-10-10T11:32:13+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35507768262845,
+        "created_at": "2024-10-10T11:33:14+02:00",
+        "position": 1,
+        "updated_at": "2024-10-10T11:33:17+02:00",
+        "product_id": 7895304208573,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cfc09a91c94c599aec1ad048f77c66795d87e53c-1080x1080png.png?v=1728552797",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35507768230077,
+        "created_at": "2024-10-10T11:33:15+02:00",
+        "position": 2,
+        "updated_at": "2024-10-10T11:33:17+02:00",
+        "product_id": 7895304208573,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fcb8bff9f74337201d3e1509a27a0944fdb96b4b-1080x1080png.png?v=1728552797",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35507768524989,
+        "created_at": "2024-10-10T11:33:15+02:00",
+        "position": 3,
+        "updated_at": "2024-10-10T11:33:17+02:00",
+        "product_id": 7895304208573,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d0445344478a00ad4501f046f8d28c022f35a886-1080x1080png.png?v=1728552797",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35507768328381,
+        "created_at": "2024-10-10T11:33:15+02:00",
+        "position": 4,
+        "updated_at": "2024-10-10T11:33:17+02:00",
+        "product_id": 7895304208573,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2bd803de12c2e94981bef68810a4883c55d09132-1080x1080png.png?v=1728552797",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35507768295613,
+        "created_at": "2024-10-10T11:33:15+02:00",
+        "position": 5,
+        "updated_at": "2024-10-10T11:33:17+02:00",
+        "product_id": 7895304208573,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2c971eff02c3cbeea278e4fff19dcb6839ad49e4-1080x1080png.png?v=1728552797",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "XXS",
+          "XS",
+          "Small",
+          "Medium",
+          "Large",
+          "XL",
+          "2XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7890600296637,
+    "title": "Off Track - Szalik",
+    "handle": "hp-1008447-off-track-scarf",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 21,5 cm</p><p>D\u0142ugo\u015b\u0107: 167,5 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Wz\u00f3r przerabiany jest w ca\u0142o\u015bci na p\u0142asko \u015bciegiem francuskim. Szalik sk\u0142ada si\u0119 z jednego bloku w stylu &quot;log cabin&quot;, sk\u0142adaj\u0105cego si\u0119 z siedmiu cz\u0119\u015bci. Osiem z tych blok\u00f3w zszytych razem tworzy szalik. \u015arodkowa cz\u0119\u015b\u0107 jest wykonana w jasnym kolorze i jest otoczona w\u0105skimi i szerokimi paskami w wyrazistych kolorach czarnym i kremowym. Nast\u0119pnie dwie kolejne sekcje s\u0105 dziergane w kolorze jasnoszarym, aby uzyska\u0107 gotowy kwadrat o boku 20,5 cm. Po wykonaniu blok\u00f3w, s\u0105 one zszywane razem, aby utworzy\u0107 szalik. Na koniec, dobiera si\u0119 oczka wzd\u0142u\u017c d\u0142u\u017cszych bok\u00f3w szalika, aby wykona\u0107 dwa rz\u0119dy \u015bciegiem francuskim. Na ko\u0144cu wzoru znajduje si\u0119 schemat bloku &quot;log cabin&quot;.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44535348330685,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2502-243-7992",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7890600296637,
+        "created_at": "2024-09-30T14:09:20+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35464816558269,
+        "created_at": "2024-10-02T15:00:31+02:00",
+        "position": 1,
+        "updated_at": "2024-10-02T15:00:32+02:00",
+        "product_id": 7890600296637,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5c90edff4dd0ab4ee708919e5b11b81fe2f2e4c3-1080x1080png.png?v=1727874032",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35453466116285,
+        "created_at": "2024-09-30T14:11:25+02:00",
+        "position": 2,
+        "updated_at": "2024-09-30T14:11:27+02:00",
+        "product_id": 7890600296637,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f33415e23c5d0b78c1dc6ba3d0c7f61244a78faa-1080x1080png.png?v=1727698287",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35453466149053,
+        "created_at": "2024-09-30T14:11:25+02:00",
+        "position": 3,
+        "updated_at": "2024-09-30T14:11:27+02:00",
+        "product_id": 7890600296637,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/01f1feba7ef27c4868577c22fcd033d5cbc6c6fb-1080x1080png.png?v=1727698287",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35453466181821,
+        "created_at": "2024-09-30T14:11:25+02:00",
+        "position": 4,
+        "updated_at": "2024-09-30T14:11:27+02:00",
+        "product_id": 7890600296637,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/73b2edda1c5c2a76f5f2a2f3e77b685764a93701-1080x1080png.png?v=1727698287",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7885007487165,
+    "title": "Tipsy - Komin",
+    "handle": "hp-1008422-tipsy-cowl",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S/M (L/XL)</p><p>\n</p><p><strong>WYMIARY</strong></p><p>Obw\u00f3d: 57 (62) cm</p><p>D\u0142ugo\u015b\u0107: 26,5 (32) cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Ten nowoczesny komin jest przerabiana na okr\u0105g\u0142o od do\u0142u do g\u00f3ry, zaczyna si\u0119 od nabrania oczek w\u0142\u00f3czk\u0105 w kontrastowym kolorze, a nast\u0119pnie przerabia si\u0119 brzeg pojedynczym \u015bciegiem \u015bci\u0105gaczowym w g\u0142\u00f3wnym kolorze. Tr\u00f3jkolorowy geometryczny wz\u00f3r jest w ca\u0142o\u015bci wykonany \u015bciegiem d\u017cersejowym i sk\u0142ada si\u0119 z naprzemiennie u\u0142o\u017conych kolorowych prostok\u0105tnych blok\u00f3w z prawym g\u00f3rnym rogiem ka\u017cdego bloku w ciemniejszym kolorze. G\u00f3rny i dolny brzeg komina s\u0105 przerabiane w ten sam spos\u00f3b.</p><p>\nNa zdj\u0119ciu rozmiar S/M.\n\n</p><p>Komin Tipsy dost\u0119pny jest w zestawie z pasuj\u0105c\u0105 do niego czapk\u0105 Tipsy.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44516225843389,
+        "title": "S/M",
+        "option1": "S/M",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2502-243-7812",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7885007487165,
+        "created_at": "2024-09-20T11:15:31+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44516225876157,
+        "title": "L/XL",
+        "option1": "L/XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2502-243-7812",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7885007487165,
+        "created_at": "2024-09-20T11:15:31+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35418173833405,
+        "created_at": "2024-09-24T14:56:12+02:00",
+        "position": 1,
+        "updated_at": "2024-09-24T14:56:13+02:00",
+        "product_id": 7885007487165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/41734735814a9ca5d6c8e6af16be56ba9a1c8280-1080x1080png.png?v=1727182573",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393281097917,
+        "created_at": "2024-09-20T11:16:57+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T11:16:58+02:00",
+        "product_id": 7885007487165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b34afb577ac7ab3f3dc3e9ed5dae39869f8fcc53-1080x1080png.png?v=1726823818",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393281163453,
+        "created_at": "2024-09-20T11:16:57+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T11:16:58+02:00",
+        "product_id": 7885007487165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1bb666477e0be3c62e60c8a74218c30d935f15ff-1080x1080png.png?v=1726823818",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393281196221,
+        "created_at": "2024-09-20T11:16:57+02:00",
+        "position": 4,
+        "updated_at": "2024-09-20T11:16:59+02:00",
+        "product_id": 7885007487165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8bcb19c31fd421971dc4f5d0024dcc2508fbb330-1080x1080png.png?v=1726823819",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393281130685,
+        "created_at": "2024-09-20T11:16:57+02:00",
+        "position": 5,
+        "updated_at": "2024-09-20T11:16:58+02:00",
+        "product_id": 7885007487165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ccd41c03fc797865e13a76d74d056ee753d8903b-1080x1080png.png?v=1726823818",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "S/M",
+          "L/XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7884996739261,
+    "title": "Tipsy - Czapka",
+    "handle": "hp-1008421-tipsy-beanie",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M, L, XL)</p><p>\n</p><p><strong>WYMIARY</strong></p><p>Obw\u00f3d: 51,5 (54, 57, 59,5) cm</p><p>D\u0142ugo\u015b\u0107: 21 (21,5, 22, 23) cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Ta nowoczesna czapka jest przerabiana na okr\u0105g\u0142o od do\u0142u do g\u00f3ry, zaczyna si\u0119 od nabrania oczek w\u0142\u00f3czk\u0105 w kontrastowym kolorze, a nast\u0119pnie przerabia si\u0119 brzeg pojedynczym \u015bciegiem \u015bci\u0105gaczowym w g\u0142\u00f3wnym kolorze. Tr\u00f3jkolorowy geometryczny wz\u00f3r jest w ca\u0142o\u015bci wykonany \u015bciegiem d\u017cersejowym i sk\u0142ada si\u0119 z naprzemiennie u\u0142o\u017conych kolorowych prostok\u0105tnych blok\u00f3w z prawym g\u00f3rnym rogiem ka\u017cdego bloku w ciemniejszym kolorze. Reszt\u0119 czapki przerabia si\u0119 \u015bciegiem d\u017cersejowym w g\u0142\u00f3wnym kolorze, odejmuj\u0105c oczka pochylone na prawo w ka\u017cdym okr\u0105\u017ceniu.\n\nNa zdj\u0119ciu rozmiar L.\n\nCzapka Tipsy dost\u0119pna jest w zestawie z pasuj\u0105cym do niej kominem Tipsy.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44516205527229,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2502-243-9320",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7884996739261,
+        "created_at": "2024-09-20T10:44:42+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44516205559997,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2502-243-9320",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7884996739261,
+        "created_at": "2024-09-20T10:44:42+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44516205592765,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2502-243-9320",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7884996739261,
+        "created_at": "2024-09-20T10:44:42+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44516205625533,
+        "title": "XL",
+        "option1": "XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2502-243-9320",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7884996739261,
+        "created_at": "2024-09-20T10:44:42+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35423405146301,
+        "created_at": "2024-09-25T08:38:09+02:00",
+        "position": 1,
+        "updated_at": "2024-09-25T08:38:11+02:00",
+        "product_id": 7884996739261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8442f4a58b53c2ae1c4162974fb07d249a8be387-1080x1080png.png?v=1727246291",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393043726525,
+        "created_at": "2024-09-20T10:45:50+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T10:45:52+02:00",
+        "product_id": 7884996739261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/44dfd2027eced151177b74358525eaef5bc69628-1080x1080png.png?v=1726821952",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393043759293,
+        "created_at": "2024-09-20T10:45:50+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T10:45:52+02:00",
+        "product_id": 7884996739261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5821d4362688917ed2a04c75ece2d92466e9bba1-1080x1080png.png?v=1726821952",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393043693757,
+        "created_at": "2024-09-20T10:45:51+02:00",
+        "position": 4,
+        "updated_at": "2024-09-20T10:45:52+02:00",
+        "product_id": 7884996739261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/46dc8700f5b5e9c24e7690b1ad35c4da99f099ea-1080x1080png.png?v=1726821952",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393043792061,
+        "created_at": "2024-09-20T10:45:51+02:00",
+        "position": 5,
+        "updated_at": "2024-09-20T10:45:52+02:00",
+        "product_id": 7884996739261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/055921a7f13f67069acff11f829eb4553b763888-1080x1080png.png?v=1726821952",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35393043824829,
+        "created_at": "2024-09-20T10:45:51+02:00",
+        "position": 6,
+        "updated_at": "2024-09-20T10:45:52+02:00",
+        "product_id": 7884996739261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5aa4dc4173007977b8ecac2e92032adb0b36a01b-1080x1080png.png?v=1726821952",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium",
+          "Large",
+          "XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7876982505661,
+    "title": "Wintergarden - Czapka",
+    "handle": "hp-1008380-wintergarden-hat",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S/M (L/XL)</p><p>\n<strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 47 (55) cm</p><p>D\u0142ugo\u015b\u0107: 23 (23) cm</p><p>Kolorowe motywy deformuj\u0105 si\u0119, gdy s\u0105 za bardzo rozci\u0105gni\u0119te na szeroko\u015b\u0107. Upewnij si\u0119, \u017ce rozmiar czapki odpowiada Twojemu rzeczywistemu obwodowi g\u0142owy. Pami\u0119taj, \u017ce blokowanie mo\u017ce sprawi\u0107, \u017ce dzianina b\u0119dzie wi\u0119ksza, ale nie mniejsza, a czapki maj\u0105 tendencj\u0119 do rozci\u0105gania si\u0119 podczas noszenia. Modelka ma na sobie rozmiar L/XL, a jej rzeczywisty obw\u00f3d g\u0142owy wynosi 54,5 cm.</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Czapka Wintergarden jest prawdziwym wyj\u0105tkiem! Nie tylko \u0142amie zasad\u0119 dw\u00f3ch kolor\u00f3w na okr\u0105\u017cenie, wykorzystuj\u0105c trzy kolory, ale tak\u017ce pomija motywy uzupe\u0142niaj\u0105ce. Pomini\u0119cie tych motyw\u00f3w tworzy wyrazisty motyw na zewn\u0105trz czapki, podczas gdy dodatkowe elementy po wewn\u0119trznej stronie czapki tworz\u0105 przytuln\u0105 i ciep\u0142\u0105 warstw\u0119 izolacyjn\u0105.</p><p>\n</p><p>Ten wz\u00f3r jest przeznaczony dla os\u00f3b, kt\u00f3re maj\u0105 do\u015bwiadczenie w dzierganiu technik\u0105 colorwork, prowadzeniu nitek i czytaniu schemat\u00f3w. Dzierganie trzema kolorami wymaga umiej\u0119tnego prowadzenia nitek; wskaz\u00f3wki dotycz\u0105ce tego, jak i gdzie \u0142apa\u0107 nitki znajduj\u0105 si\u0119 w schemacie, wi\u0119c do dzie\u0142a!</p><p>\n</p><p>Dla wersji niebieskiej / szarej / r\u00f3\u017cowej: GK: 1 (1) motek Divina kolor 24, K1: 1 (1) motek Divina kolor 03, K2: 1 (1) motek Divina kolor 12.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44487487389885,
+        "title": "S/M",
+        "option1": "S/M",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2497-243-3313",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7876982505661,
+        "created_at": "2024-09-05T11:21:54+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      },
+      {
+        "id": 44487487422653,
+        "title": "L/XL",
+        "option1": "L/XL",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2497-243-3313",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7876982505661,
+        "created_at": "2024-09-05T11:21:54+02:00",
+        "updated_at": "2024-11-22T22:32:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35333164990653,
+        "created_at": "2024-09-05T11:22:24+02:00",
+        "position": 1,
+        "updated_at": "2024-09-05T11:22:26+02:00",
+        "product_id": 7876982505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/694c7c3151fff80cd060f97616a667a3133c30de-2316x2316jpg.jpg?v=1725528146",
+        "width": 2316,
+        "height": 2316
+      },
+      {
+        "id": 35333165056189,
+        "created_at": "2024-09-05T11:22:24+02:00",
+        "position": 2,
+        "updated_at": "2024-09-05T11:22:26+02:00",
+        "product_id": 7876982505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/01e6ec5f1a1ebda45199b7fa654dbc9262249445-3024x3024jpg.jpg?v=1725528146",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35333164892349,
+        "created_at": "2024-09-05T11:22:24+02:00",
+        "position": 3,
+        "updated_at": "2024-09-05T11:22:26+02:00",
+        "product_id": 7876982505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/87620213fdf94ae37f0897760be5fcafc9fa6986-3024x3024jpg.jpg?v=1725528146",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35333165023421,
+        "created_at": "2024-09-05T11:22:24+02:00",
+        "position": 4,
+        "updated_at": "2024-09-05T11:22:26+02:00",
+        "product_id": 7876982505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/91f44fd831212696eea67630fe9f6b4e7b2044df-3024x3024jpg.jpg?v=1725528146",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35333164859581,
+        "created_at": "2024-09-05T11:22:24+02:00",
+        "position": 5,
+        "updated_at": "2024-09-05T11:22:26+02:00",
+        "product_id": 7876982505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/023104c82ee10cc9e2602151bc2aa69683773739-2243x2243jpg.jpg?v=1725528146",
+        "width": 2243,
+        "height": 2243
+      },
+      {
+        "id": 35333164925117,
+        "created_at": "2024-09-05T11:22:24+02:00",
+        "position": 6,
+        "updated_at": "2024-09-05T11:22:26+02:00",
+        "product_id": 7876982505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5e009ad3b9e01dddc374a90232f864638e2e9de0-2218x2218jpg.jpg?v=1725528146",
+        "width": 2218,
+        "height": 2218
+      },
+      {
+        "id": 35333164957885,
+        "created_at": "2024-09-05T11:22:24+02:00",
+        "position": 7,
+        "updated_at": "2024-09-05T11:22:26+02:00",
+        "product_id": 7876982505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ea66c41cb1a92a9a8beecdb7410e0f150d9dd40e-3024x3024jpg.jpg?v=1725528146",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35333165088957,
+        "created_at": "2024-09-05T11:22:24+02:00",
+        "position": 8,
+        "updated_at": "2024-09-05T11:22:26+02:00",
+        "product_id": 7876982505661,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f18e5ac3705639b15b9b952271edde02603d9048-3024x3024jpg.jpg?v=1725528146",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "S/M",
+          "L/XL"
+        ]
+      }
+    ]
+  }
+]

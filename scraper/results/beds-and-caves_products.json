@@ -1,0 +1,623 @@
+[
+  {
+    "id": 7857060282557,
+    "title": "Space Cat - Domek dla kota",
+    "handle": "hp-1005273-space-cat-cat-house",
+    "body_html": "<p>Idealny prezent dla ka\u017cdego kota!</p><p>\u0141atwy i zabawny do wykonania projekt, kt\u00f3ry na pewno spodoba si\u0119 Twojemu kotu!</p><p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107 (bez skrzyde\u0142): 32 cm</p><p>D\u0142ugo\u015b\u0107: 38 cm</p><p>Wysoko\u015b\u0107 otworu: 12 cm</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423555023037,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1051-221-4866",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857060282557,
+        "created_at": "2024-08-06T10:26:09+02:00",
+        "updated_at": "2024-11-22T22:58:33+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377495867581,
+        "created_at": "2024-09-17T12:31:35+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:31:37+02:00",
+        "product_id": 7857060282557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7c027e820bfad64a532926cdbb600a336ce5ce29-2854x2854jpg.jpg?v=1726569097",
+        "width": 2854,
+        "height": 2854
+      },
+      {
+        "id": 35377495834813,
+        "created_at": "2024-09-17T12:31:35+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:31:37+02:00",
+        "product_id": 7857060282557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5d58bc5eef5820d146ef4ba1a13b9bbad83b1100-3024x3024jpg.jpg?v=1726569097",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377495736509,
+        "created_at": "2024-09-17T12:31:35+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:31:37+02:00",
+        "product_id": 7857060282557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/04ba89eb2cf71b52aa26644cfe98feb1733ab3f6-2852x2852jpg.jpg?v=1726569097",
+        "width": 2852,
+        "height": 2852
+      },
+      {
+        "id": 35377495802045,
+        "created_at": "2024-09-17T12:31:35+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:31:37+02:00",
+        "product_id": 7857060282557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffb8713fc850a86a58b9dc9dfca369ffef65f236-3024x3024jpg.jpg?v=1726569097",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857054417085,
+    "title": "Purrfect - Domek dla kotka",
+    "handle": "hp-1005044-purrfect-cat-house",
+    "body_html": "<p>Prezent, kto\u0301ry zadowoli kaz\u0307dego kociaka! \u0141atwy i przyjemny projekt, kto\u0301ry z pewnos\u0301cia\u0328 spodoba sie\u0328 Twojemu kotu.</p><p><strong>WYMIAR</strong></p><p>Szerokos\u0301c\u0301: 35 cm</p><p>D\u0142ugos\u0301c\u0301: 40 cm</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423537852605,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1051-214-5174",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857054417085,
+        "created_at": "2024-08-06T10:25:33+02:00",
+        "updated_at": "2024-11-22T22:58:33+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377445273789,
+        "created_at": "2024-09-17T12:20:32+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:20:34+02:00",
+        "product_id": 7857054417085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bf3c2f6afd46fc24f44597620b6a25f68bdbe864-1392x1392jpg.jpg?v=1726568434",
+        "width": 1392,
+        "height": 1392
+      },
+      {
+        "id": 35377445306557,
+        "created_at": "2024-09-17T12:20:32+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:20:34+02:00",
+        "product_id": 7857054417085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/676ceccce148446fb0565ae85cdefe9c2b4ecfb5-1440x1440jpg.jpg?v=1726568434",
+        "width": 1440,
+        "height": 1440
+      },
+      {
+        "id": 35377445241021,
+        "created_at": "2024-09-17T12:20:32+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:20:34+02:00",
+        "product_id": 7857054417085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6a2d0a95926bdca36dcd891755da7db778655954-1099x1099jpg.jpg?v=1726568434",
+        "width": 1099,
+        "height": 1099
+      },
+      {
+        "id": 35377445208253,
+        "created_at": "2024-09-17T12:20:33+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:20:34+02:00",
+        "product_id": 7857054417085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6558c5c46ee58c49f94aeb6d294cce23d9807c70-1362x1362jpg.jpg?v=1726568434",
+        "width": 1362,
+        "height": 1362
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857040621757,
+    "title": "Captain Cat - Domek dla kota",
+    "handle": "hp-1005373-captain-cat-cat-house",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: ok. 50 cm</p><p>Wysoko\u015b\u0107: ok. 30 cm</p><p>Otw\u00f3r: 17x17 cm</p><p>\n</p><p><strong>INFORMACJE O WZORZE</strong></p><p>Idealny prezent dla ka\u017cdego kota! \u0141atwy</p><p>i zabawny do wykonania projekt, kt\u00f3ry na pewno spodoba si\u0119 Twojemu kotu!</p><p>\n\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423498760381,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1051-221-7009",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857040621757,
+        "created_at": "2024-08-06T10:24:05+02:00",
+        "updated_at": "2024-11-22T22:58:33+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377519427773,
+        "created_at": "2024-09-17T12:36:24+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:36:25+02:00",
+        "product_id": 7857040621757,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/25ea02f0463c0c630a3d71420d490bfb9569dc20-2861x2861jpg.jpg?v=1726569385",
+        "width": 2861,
+        "height": 2861
+      },
+      {
+        "id": 35377519362237,
+        "created_at": "2024-09-17T12:36:24+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:36:25+02:00",
+        "product_id": 7857040621757,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3bbc3c728f7c1d21a2fff008aa16adb14183b80a-2695x2695jpg.jpg?v=1726569385",
+        "width": 2695,
+        "height": 2695
+      },
+      {
+        "id": 35377519395005,
+        "created_at": "2024-09-17T12:36:24+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:36:25+02:00",
+        "product_id": 7857040621757,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bb4defab16ce14dff24699b32b5cae3d6b052493-2777x2777jpg.jpg?v=1726569385",
+        "width": 2777,
+        "height": 2777
+      },
+      {
+        "id": 35377519460541,
+        "created_at": "2024-09-17T12:36:24+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:36:26+02:00",
+        "product_id": 7857040621757,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a3b2724fa38ecaf107a57335bcc72b8905903608-2561x2561jpg.jpg?v=1726569386",
+        "width": 2561,
+        "height": 2561
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856993697981,
+    "title": "Kitty - Domek dla kota",
+    "handle": "hp-1005272-kitty-cat-house",
+    "body_html": "<p>Idealny prezent dla ka\u017cdego kota!</p><p>\u0141atwy i zabawny do wykonania projekt, kt\u00f3ry na pewno spodoba si\u0119 Twojemu kotu!</p><p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 35 cm</p><p>D\u0142ugo\u015b\u0107: 40 cm</p><p>Wysoko\u015b\u0107 otworu: 12 cm</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423371227325,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1051-221-4062",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856993697981,
+        "created_at": "2024-08-06T10:19:16+02:00",
+        "updated_at": "2024-11-22T22:58:33+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377497178301,
+        "created_at": "2024-09-17T12:31:45+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:31:47+02:00",
+        "product_id": 7856993697981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/683385bc54acea18a2e8d28554bbcbb6db101275-3024x3024jpg.jpg?v=1726569107",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377497112765,
+        "created_at": "2024-09-17T12:31:45+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:31:47+02:00",
+        "product_id": 7856993697981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b5a0089873026f85d8dab60a5b1798fc5a04e4c8-2859x2859jpg.jpg?v=1726569107",
+        "width": 2859,
+        "height": 2859
+      },
+      {
+        "id": 35377497211069,
+        "created_at": "2024-09-17T12:31:45+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:31:47+02:00",
+        "product_id": 7856993697981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1429b99b3a914108182de78b3627ee0f580f6fde-3024x3024jpg.jpg?v=1726569107",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377497145533,
+        "created_at": "2024-09-17T12:31:46+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:31:47+02:00",
+        "product_id": 7856993697981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/53ad31c37a10ac556b586eb08bae326ae0ab6d3b-1818x1818jpg.jpg?v=1726569107",
+        "width": 1818,
+        "height": 1818
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856969318589,
+    "title": "Chicky Kitty - Domek dla kota",
+    "handle": "hp-1005271-chicky-kitty-cat-house",
+    "body_html": "<p>Idealny prezent dla ka\u017cdego kota!</p><p>\u0141atwy i zabawny do wykonania projekt, kt\u00f3ry na pewno spodoba si\u0119 Twojemu kotu!</p><p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 32 cm</p><p>D\u0142ugo\u015b\u0107: 46 cm</p><p>Wysoko\u015b\u0107 otworu: 11 cm</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423299498173,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1051-221-9449",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856969318589,
+        "created_at": "2024-08-06T10:15:57+02:00",
+        "updated_at": "2024-11-22T22:58:33+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377497997501,
+        "created_at": "2024-09-17T12:31:51+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:31:54+02:00",
+        "product_id": 7856969318589,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fc7da9abeb4262900c28cbbe1498b537aa7094ad-3024x3024jpg.jpg?v=1726569114",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377497964733,
+        "created_at": "2024-09-17T12:31:51+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:31:53+02:00",
+        "product_id": 7856969318589,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d49c2381dab959e9392c5fe7ca0166c73eeeaf01-3024x3024jpg.jpg?v=1726569113",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377497899197,
+        "created_at": "2024-09-17T12:31:51+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:31:53+02:00",
+        "product_id": 7856969318589,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8f5ed1992c1bac69b5f6e5e6c4385a9f249f3efc-2544x2544jpg.jpg?v=1726569113",
+        "width": 2544,
+        "height": 2544
+      },
+      {
+        "id": 35377497931965,
+        "created_at": "2024-09-17T12:31:52+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:31:53+02:00",
+        "product_id": 7856969318589,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e2cbb5802ebb1fbab631c719c2a90ea4237c364b-3024x3024jpg.jpg?v=1726569113",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7854312882365,
+    "title": "Bloom - Mata pod miski",
+    "handle": "hp-1008232-bloom-bowl-mat",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 33 cm</p><p>D\u0142ugo\u015b\u0107: 51 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Oto pi\u0119kna \u201cBloom \u2013 Mata pod miski dla psa\u201d wykonana szyde\u0142kiem. To zabawny projekt wykonany grubym szyde\u0142kiem 10 mm, co sprawia, \u017ce szybko i satysfakcjonuj\u0105co powstanie mata dla czworono\u017cnego przyjaciela. To co sprawia, \u017ce projekt jest naprawd\u0119 wyj\u0105tkowy, to fakt, \u017ce ka\u017cde okr\u0105\u017cenie wykonywane jest innym \u015bciegiem, dzi\u0119ki czemu otrzymujesz pi\u0119kn\u0105 mieszank\u0119 tekstur, a praca nigdy nie b\u0119dzie nudna.</p><p>\n</p><p>Dodatkowo do wzoru do\u0142\u0105czono szczeg\u00f3\u0142owe zdj\u0119cia \u201ekrok-po-kroku\u201d, aby u\u0142atwi\u0107 zadanie. Wz\u00f3r jest idealny zar\u00f3wno dla \u017c\u0105dnych przyg\u00f3d pocz\u0105tkuj\u0105cych, jak i do\u015bwiadczonych szyde\u0142kuj\u0105cych. Wypr\u00f3buj i dodaj niepowtarzalny akcent do wystroju swojego domu i kolorowe miejsce, w kt\u00f3rym Twoje zwierz\u0119ta b\u0119d\u0105 mog\u0142y si\u0119 nim cieszy\u0107!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44414321524925,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1260-242-5462",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7854312882365,
+        "created_at": "2024-08-01T15:31:31+02:00",
+        "updated_at": "2024-11-22T22:58:33+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35171828367549,
+        "created_at": "2024-08-01T15:32:21+02:00",
+        "position": 1,
+        "updated_at": "2024-08-01T15:32:24+02:00",
+        "product_id": 7854312882365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/97e64c0b5884057606c84918e6ac086db8524bb2-4092x4092jpg.jpg?v=1722519144",
+        "width": 4092,
+        "height": 4092
+      },
+      {
+        "id": 35171828400317,
+        "created_at": "2024-08-01T15:32:22+02:00",
+        "position": 2,
+        "updated_at": "2024-08-01T15:32:24+02:00",
+        "product_id": 7854312882365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ddf9db1b132e9696e9e91b6e26ea90a760c0f8b4-4284x4284jpg.jpg?v=1722519144",
+        "width": 4284,
+        "height": 4284
+      },
+      {
+        "id": 35171828269245,
+        "created_at": "2024-08-01T15:32:22+02:00",
+        "position": 3,
+        "updated_at": "2024-08-01T15:32:24+02:00",
+        "product_id": 7854312882365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1faf4d274e9ee4da51ba3a7920270e92e8f34e16-4284x4284jpg.jpg?v=1722519144",
+        "width": 4284,
+        "height": 4284
+      },
+      {
+        "id": 35171828433085,
+        "created_at": "2024-08-01T15:32:22+02:00",
+        "position": 4,
+        "updated_at": "2024-08-01T15:32:24+02:00",
+        "product_id": 7854312882365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/264e6d5afab40d84c4672ed0d372511fcee84767-1179x1174jpg.jpg?v=1722519144",
+        "width": 1179,
+        "height": 1174
+      },
+      {
+        "id": 35171828498621,
+        "created_at": "2024-08-01T15:32:22+02:00",
+        "position": 5,
+        "updated_at": "2024-08-01T15:32:24+02:00",
+        "product_id": 7854312882365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d1751fb3e8f84a9e9f824ab1ec17713e0c725598-4284x4284jpg.jpg?v=1722519144",
+        "width": 4284,
+        "height": 4284
+      },
+      {
+        "id": 35171828302013,
+        "created_at": "2024-08-01T15:32:22+02:00",
+        "position": 6,
+        "updated_at": "2024-08-01T15:32:24+02:00",
+        "product_id": 7854312882365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/362286e1ef522ae9ee0a3badabaea01451efc4bb-4284x4284jpg.jpg?v=1722519144",
+        "width": 4284,
+        "height": 4284
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7854289846461,
+    "title": "Buddy - Kosz",
+    "handle": "hp-1008230-buddy-basket",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 30 cm</p><p>Wysoko\u015b\u0107: 16 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Wykonany z mi\u0142o\u015bci\u0105 szyde\u0142kowy kosz na zabawki \u201eBuddy\u201d to stylowe rozwi\u0105zanie do przechowywania zabawek dla ps\u00f3w. U\u017cywaj\u0105c w\u0142\u00f3czki ribbon i grubego szyde\u0142ka ten kosz jest idealny dla \u015bredniozaawansowanych szyde\u0142karek poszukuj\u0105cych satysfakcjonuj\u0105cego projektu.</p><p>\n</p><p>Filcowa podstawa zapewnia stabilno\u015b\u0107, jednocze\u015bnie zwi\u0119kszaj\u0105c trwa\u0142o\u015b\u0107. Szczeg\u00f3\u0142owe instrukcje wraz ze zdj\u0119ciami sprawiaj\u0105, \u017ce proces tworzenia jest dziecinnie prosty i pozwala wykaza\u0107 si\u0119 kreatywno\u015bci\u0105, jednocze\u015bnie organizuj\u0105c rzeczy szczeniaka w funkcjonalny i uroczy spos\u00f3b.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44414209884349,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1260-242-3256",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7854289846461,
+        "created_at": "2024-08-01T13:52:22+02:00",
+        "updated_at": "2024-11-22T22:58:33+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35171560751293,
+        "created_at": "2024-08-01T13:53:15+02:00",
+        "position": 1,
+        "updated_at": "2024-08-01T13:53:17+02:00",
+        "product_id": 7854289846461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/016e2754ae2e38c6ef657e4b634b53241a04e9e1-1696x1696jpg.jpg?v=1722513197",
+        "width": 1696,
+        "height": 1696
+      },
+      {
+        "id": 35171560849597,
+        "created_at": "2024-08-01T13:53:15+02:00",
+        "position": 2,
+        "updated_at": "2024-08-01T13:53:17+02:00",
+        "product_id": 7854289846461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6d7e15e6fa82033fc4e08482c6bfb8a54a77a957-3697x3698jpg.jpg?v=1722513197",
+        "width": 3697,
+        "height": 3698
+      },
+      {
+        "id": 35171560784061,
+        "created_at": "2024-08-01T13:53:15+02:00",
+        "position": 3,
+        "updated_at": "2024-08-01T13:53:17+02:00",
+        "product_id": 7854289846461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9f4907e0edc4560d5b4251a9c37db9e9b2b0662c-3598x3598jpg.jpg?v=1722513197",
+        "width": 3598,
+        "height": 3598
+      },
+      {
+        "id": 35171560882365,
+        "created_at": "2024-08-01T13:53:15+02:00",
+        "position": 4,
+        "updated_at": "2024-08-01T13:53:17+02:00",
+        "product_id": 7854289846461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8c0d814cf7951a302e01ad94ebe126aaac182e8c-4284x4284jpg.jpg?v=1722513197",
+        "width": 4284,
+        "height": 4284
+      },
+      {
+        "id": 35171560816829,
+        "created_at": "2024-08-01T13:53:16+02:00",
+        "position": 5,
+        "updated_at": "2024-08-01T13:53:17+02:00",
+        "product_id": 7854289846461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1f95fc765bdf10a40c858a775592d57aa7bb494d-1819x1819jpg.jpg?v=1722513197",
+        "width": 1819,
+        "height": 1819
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

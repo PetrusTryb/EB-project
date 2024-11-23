@@ -1,0 +1,1067 @@
+[
+  {
+    "id": 7856012755133,
+    "title": "No\u017cyczki - Stork - Large",
+    "handle": "hp-1003985-scissors-stork",
+    "body_html": "<p>Eleganckie i \u0142adne no\u017cyczki o wysokiej jako\u015bci. Uchwyty przypominaj\u0105 kszta\u0142tem bociana, co nadaje im fantastyczny wygl\u0105d. Perfekcyjnie sprawdz\u0105 si\u0119 przy mniejszych projektach.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421070520509,
+        "title": "Golden",
+        "option1": "Golden",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1605",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185029284029,
+          "product_id": 7856012755133,
+          "position": 4,
+          "created_at": "2024-08-05T11:56:14+02:00",
+          "updated_at": "2024-08-05T11:56:16+02:00",
+          "alt": "1610530363-saks-stork-largejpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1610530363-saks-stork-largejpg.jpg?v=1722851776",
+          "variant_ids": [
+            44421070520509
+          ]
+        },
+        "available": true,
+        "price": "24.01",
+        "grams": 40,
+        "compare_at_price": "49.00",
+        "position": 1,
+        "product_id": 7856012755133,
+        "created_at": "2024-08-05T10:33:52+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44421070553277,
+        "title": "DUMMY COLOUR",
+        "option1": "DUMMY COLOUR",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1619_OLD",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "24.01",
+        "grams": 40,
+        "compare_at_price": "49.00",
+        "position": 2,
+        "product_id": 7856012755133,
+        "created_at": "2024-08-05T10:33:52+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44421070586045,
+        "title": "Rosegold",
+        "option1": "Rosegold",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1622",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185029251261,
+          "product_id": 7856012755133,
+          "position": 5,
+          "created_at": "2024-08-05T11:56:14+02:00",
+          "updated_at": "2024-08-05T11:56:16+02:00",
+          "alt": "1643022949-hobbii-14-01-2022-1051jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1643022949-hobbii-14-01-2022-1051jpg.jpg?v=1722851776",
+          "variant_ids": [
+            44421070586045
+          ]
+        },
+        "available": true,
+        "price": "24.01",
+        "grams": 40,
+        "compare_at_price": "49.00",
+        "position": 3,
+        "product_id": 7856012755133,
+        "created_at": "2024-08-05T10:33:52+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44421070618813,
+        "title": "Rainbow",
+        "option1": "Rainbow",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1623",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185029316797,
+          "product_id": 7856012755133,
+          "position": 6,
+          "created_at": "2024-08-05T11:56:14+02:00",
+          "updated_at": "2024-08-05T11:56:16+02:00",
+          "alt": "1643022959-hobbii-14-01-2022-1048jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1643022959-hobbii-14-01-2022-1048jpg.jpg?v=1722851776",
+          "variant_ids": [
+            44421070618813
+          ]
+        },
+        "available": true,
+        "price": "24.01",
+        "grams": 40,
+        "compare_at_price": "49.00",
+        "position": 4,
+        "product_id": 7856012755133,
+        "created_at": "2024-08-05T10:33:52+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185029349565,
+        "created_at": "2024-08-05T11:56:13+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:56:16+02:00",
+        "product_id": 7856012755133,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/saks-stork-large-forsidejpg.jpg?v=1722851776",
+        "width": 1417,
+        "height": 1417
+      },
+      {
+        "id": 35185029185725,
+        "created_at": "2024-08-05T11:56:14+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:56:15+02:00",
+        "product_id": 7856012755133,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-6210jpg.jpg?v=1722851775",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35185029218493,
+        "created_at": "2024-08-05T11:56:14+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:56:16+02:00",
+        "product_id": 7856012755133,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-6215jpg.jpg?v=1722851776",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35185029284029,
+        "created_at": "2024-08-05T11:56:14+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:56:16+02:00",
+        "product_id": 7856012755133,
+        "variant_ids": [
+          44421070520509
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1610530363-saks-stork-largejpg.jpg?v=1722851776",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185029251261,
+        "created_at": "2024-08-05T11:56:14+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:56:16+02:00",
+        "product_id": 7856012755133,
+        "variant_ids": [
+          44421070586045
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1643022949-hobbii-14-01-2022-1051jpg.jpg?v=1722851776",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185029316797,
+        "created_at": "2024-08-05T11:56:14+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:56:16+02:00",
+        "product_id": 7856012755133,
+        "variant_ids": [
+          44421070618813
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1643022959-hobbii-14-01-2022-1048jpg.jpg?v=1722851776",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Golden",
+          "DUMMY COLOUR",
+          "Rosegold",
+          "Rainbow"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855971401917,
+    "title": "No\u017cyczki - Classic",
+    "handle": "hp-1004336-scissors-classic",
+    "body_html": "<p>Z do\u015bwiadczenia wiemy jak cz\u0119sto zdarza si\u0119, \u017ce w\u0142a\u015bnie sko\u0144czy\u0142a\u015b wrabia\u0107 ko\u0144c\u00f3wki i potrzebujesz przeci\u0105\u0107 w\u0142\u00f3czk\u0119 - ale jak zwykle nie masz no\u017cyczek pod r\u0119k\u0105. Wtedy potrzebujesz takich ma\u0142ych i por\u0119cznych no\u017cyczek! Te ma\u0142e, klasyczne no\u017cyczki s\u0105 po prostu cudowne, a ich ma\u0142e wymiary tylko dodaj\u0105 im elegancji.\n</p><p>Co powiesz na te no\u017cyczki? Czy powinny by\u0107 cz\u0119\u015bci\u0105 sta\u0142ego wyposa\u017cenia Twojej torby na projekty?</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420872306877,
+        "title": "Golden",
+        "option1": "Golden",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1614",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184585244861,
+          "product_id": 7855971401917,
+          "position": 2,
+          "created_at": "2024-08-05T11:22:53+02:00",
+          "updated_at": "2024-08-05T11:22:55+02:00",
+          "alt": "1611053880-saks-classicjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1611053880-saks-classicjpg.jpg?v=1722849775",
+          "variant_ids": [
+            44420872306877
+          ]
+        },
+        "available": true,
+        "price": "18.15",
+        "grams": 30,
+        "compare_at_price": "33.00",
+        "position": 1,
+        "product_id": 7855971401917,
+        "created_at": "2024-08-05T10:28:55+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44420872339645,
+        "title": "Rainbow",
+        "option1": "Rainbow",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1613",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184585212093,
+          "product_id": 7855971401917,
+          "position": 3,
+          "created_at": "2024-08-05T11:22:53+02:00",
+          "updated_at": "2024-08-05T11:22:55+02:00",
+          "alt": "hobbii-06-05-2021-4194jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4194jpg.jpg?v=1722849775",
+          "variant_ids": [
+            44420872339645
+          ]
+        },
+        "available": true,
+        "price": "18.15",
+        "grams": 30,
+        "compare_at_price": "33.00",
+        "position": 2,
+        "product_id": 7855971401917,
+        "created_at": "2024-08-05T10:28:55+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44420872372413,
+        "title": "Black",
+        "option1": "Black",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1615",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184585310397,
+          "product_id": 7855971401917,
+          "position": 4,
+          "created_at": "2024-08-05T11:22:53+02:00",
+          "updated_at": "2024-08-05T11:22:55+02:00",
+          "alt": "hobbii-06-05-2021-4191-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4191-1jpg.jpg?v=1722849775",
+          "variant_ids": [
+            44420872372413
+          ]
+        },
+        "available": true,
+        "price": "18.15",
+        "grams": 30,
+        "compare_at_price": "33.00",
+        "position": 3,
+        "product_id": 7855971401917,
+        "created_at": "2024-08-05T10:28:55+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44420872405181,
+        "title": "Rosegold",
+        "option1": "Rosegold",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1631",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184585179325,
+          "product_id": 7855971401917,
+          "position": 5,
+          "created_at": "2024-08-05T11:22:53+02:00",
+          "updated_at": "2024-08-05T11:22:55+02:00",
+          "alt": "1677499778-asset-1png",
+          "width": 828,
+          "height": 830,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1677499778-asset-1png.png?v=1722849775",
+          "variant_ids": [
+            44420872405181
+          ]
+        },
+        "available": false,
+        "price": "18.15",
+        "grams": 30,
+        "compare_at_price": "33.00",
+        "position": 4,
+        "product_id": 7855971401917,
+        "created_at": "2024-08-05T10:28:55+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184585146557,
+        "created_at": "2024-08-05T11:22:53+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:22:54+02:00",
+        "product_id": 7855971401917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4199-1jpg.jpg?v=1722849774",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184585244861,
+        "created_at": "2024-08-05T11:22:53+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:22:55+02:00",
+        "product_id": 7855971401917,
+        "variant_ids": [
+          44420872306877
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1611053880-saks-classicjpg.jpg?v=1722849775",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184585212093,
+        "created_at": "2024-08-05T11:22:53+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:22:55+02:00",
+        "product_id": 7855971401917,
+        "variant_ids": [
+          44420872339645
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4194jpg.jpg?v=1722849775",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184585310397,
+        "created_at": "2024-08-05T11:22:53+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:22:55+02:00",
+        "product_id": 7855971401917,
+        "variant_ids": [
+          44420872372413
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4191-1jpg.jpg?v=1722849775",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184585179325,
+        "created_at": "2024-08-05T11:22:53+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:22:55+02:00",
+        "product_id": 7855971401917,
+        "variant_ids": [
+          44420872405181
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1677499778-asset-1png.png?v=1722849775",
+        "width": 828,
+        "height": 830
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Golden",
+          "Rainbow",
+          "Black",
+          "Rosegold"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855901343933,
+    "title": "No\u017cyczki - Stork - Small",
+    "handle": "hp-1004338-scissors-stork-small",
+    "body_html": "<p>Eleganckie i \u0142adne no\u017cyczki, kt\u00f3re zachwyc\u0105 ka\u017cdego. Uchwyty maj\u0105 kszta\u0142t bociana, co nadaje no\u017cyczkom fantastyczny wygl\u0105d. Tutaj otrzymasz no\u017cyczki bardzo dobrej jako\u015bci, kt\u00f3re idealnie sprawdz\u0105 si\u0119 przy mniejszych projektach, np. gdy musisz zamocowa\u0107 ko\u0144ce w\u0142\u00f3czki w rob\u00f3tce.\n</p><p>Te no\u017cyczki to mniejsza wersja naszych nieco wi\u0119kszych no\u017cyczek-stork, do kt\u00f3rych link znajdziesz nad opisem produktu.</p><p>No\u017cyczki-Stork-Small s\u0105 dost\u0119pne w trzech \u0142adnych kolorach: Golden, Black i Rainbow</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420551246013,
+        "title": "Golden",
+        "option1": "Golden",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1616",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183778824381,
+          "product_id": 7855901343933,
+          "position": 3,
+          "created_at": "2024-08-05T10:42:25+02:00",
+          "updated_at": "2024-08-05T10:42:27+02:00",
+          "alt": "1611068718-saks-stork-smalljpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1611068718-saks-stork-smalljpg.jpg?v=1722847347",
+          "variant_ids": [
+            44420551246013
+          ]
+        },
+        "available": true,
+        "price": "21.06",
+        "grams": 33,
+        "compare_at_price": "39.00",
+        "position": 1,
+        "product_id": 7855901343933,
+        "created_at": "2024-08-05T10:18:35+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44420551278781,
+        "title": "Rainbow",
+        "option1": "Rainbow",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1617",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183778857149,
+          "product_id": 7855901343933,
+          "position": 4,
+          "created_at": "2024-08-05T10:42:25+02:00",
+          "updated_at": "2024-08-05T10:42:27+02:00",
+          "alt": "1620719850-hobbii-06-05-2021-4185jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1620719850-hobbii-06-05-2021-4185jpg.jpg?v=1722847347",
+          "variant_ids": [
+            44420551278781
+          ]
+        },
+        "available": true,
+        "price": "21.06",
+        "grams": 30,
+        "compare_at_price": "39.00",
+        "position": 2,
+        "product_id": 7855901343933,
+        "created_at": "2024-08-05T10:18:35+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44420551311549,
+        "title": "Black",
+        "option1": "Black",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1618",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183778693309,
+          "product_id": 7855901343933,
+          "position": 5,
+          "created_at": "2024-08-05T10:42:25+02:00",
+          "updated_at": "2024-08-05T10:42:27+02:00",
+          "alt": "hobbii-06-05-2021-4184-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4184-1jpg.jpg?v=1722847347",
+          "variant_ids": [
+            44420551311549
+          ]
+        },
+        "available": false,
+        "price": "21.06",
+        "grams": 30,
+        "compare_at_price": "39.00",
+        "position": 3,
+        "product_id": 7855901343933,
+        "created_at": "2024-08-05T10:18:35+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183778955453,
+        "created_at": "2024-08-05T10:42:25+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:42:27+02:00",
+        "product_id": 7855901343933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1670402219-small-stork-forsidejpg.jpg?v=1722847347",
+        "width": 1505,
+        "height": 1505
+      },
+      {
+        "id": 35183778889917,
+        "created_at": "2024-08-05T10:42:25+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:42:27+02:00",
+        "product_id": 7855901343933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1622034476-hobbii-06-05-2021-4198-2jpg.jpg?v=1722847347",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183778824381,
+        "created_at": "2024-08-05T10:42:25+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:42:27+02:00",
+        "product_id": 7855901343933,
+        "variant_ids": [
+          44420551246013
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1611068718-saks-stork-smalljpg.jpg?v=1722847347",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183778857149,
+        "created_at": "2024-08-05T10:42:25+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:42:27+02:00",
+        "product_id": 7855901343933,
+        "variant_ids": [
+          44420551278781
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1620719850-hobbii-06-05-2021-4185jpg.jpg?v=1722847347",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183778693309,
+        "created_at": "2024-08-05T10:42:25+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:42:27+02:00",
+        "product_id": 7855901343933,
+        "variant_ids": [
+          44420551311549
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4184-1jpg.jpg?v=1722847347",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Golden",
+          "Rainbow",
+          "Black"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855897772221,
+    "title": "No\u017cyczki - Romantic",
+    "handle": "hp-1004334-scissors-romantic",
+    "body_html": "<p>Wspania\u0142e mini no\u017cyczki dla Tych, kt\u00f3rzy uwielbiaj\u0105 urocze gad\u017cety do rob\u00f3tek r\u0119cznych. Ci\u0119\u017cko si\u0119 oprze\u0107 tym no\u017cyczkom! Ma\u0142e, por\u0119czne i \u0142atwe w obs\u0142udze, perfekcyjne do obci\u0119cia ko\u0144c\u00f3wek w\u0142\u00f3czki.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420540432573,
+        "title": "Golden",
+        "option1": "Golden",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1611",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183702868157,
+          "product_id": 7855897772221,
+          "position": 2,
+          "created_at": "2024-08-05T10:39:38+02:00",
+          "updated_at": "2024-08-05T10:39:40+02:00",
+          "alt": "hobbii-06-05-2021-4262jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4262jpg.jpg?v=1722847180",
+          "variant_ids": [
+            44420540432573
+          ]
+        },
+        "available": true,
+        "price": "24.01",
+        "grams": 33,
+        "compare_at_price": "49.00",
+        "position": 1,
+        "product_id": 7855897772221,
+        "created_at": "2024-08-05T10:17:52+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44420540465341,
+        "title": "Rainbow",
+        "option1": "Rainbow",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1612",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183702737085,
+          "product_id": 7855897772221,
+          "position": 3,
+          "created_at": "2024-08-05T10:39:38+02:00",
+          "updated_at": "2024-08-05T10:39:39+02:00",
+          "alt": "hobbii-06-05-2021-4196jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4196jpg.jpg?v=1722847179",
+          "variant_ids": [
+            44420540465341
+          ]
+        },
+        "available": true,
+        "price": "24.01",
+        "grams": 33,
+        "compare_at_price": "49.00",
+        "position": 2,
+        "product_id": 7855897772221,
+        "created_at": "2024-08-05T10:17:52+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44420540498109,
+        "title": "Rosegold",
+        "option1": "Rosegold",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1619",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183702671549,
+          "product_id": 7855897772221,
+          "position": 4,
+          "created_at": "2024-08-05T10:39:38+02:00",
+          "updated_at": "2024-08-05T10:39:39+02:00",
+          "alt": "hobbii-14-02-2022-3227jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-14-02-2022-3227jpg.jpg?v=1722847179",
+          "variant_ids": [
+            44420540498109
+          ]
+        },
+        "available": false,
+        "price": "24.01",
+        "grams": 33,
+        "compare_at_price": "49.00",
+        "position": 3,
+        "product_id": 7855897772221,
+        "created_at": "2024-08-05T10:17:52+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183702704317,
+        "created_at": "2024-08-05T10:39:38+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:39:39+02:00",
+        "product_id": 7855897772221,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1620719591-hobbii-06-05-2021-4201jpg.jpg?v=1722847179",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183702868157,
+        "created_at": "2024-08-05T10:39:38+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:39:40+02:00",
+        "product_id": 7855897772221,
+        "variant_ids": [
+          44420540432573
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4262jpg.jpg?v=1722847180",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183702737085,
+        "created_at": "2024-08-05T10:39:38+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:39:39+02:00",
+        "product_id": 7855897772221,
+        "variant_ids": [
+          44420540465341
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-06-05-2021-4196jpg.jpg?v=1722847179",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183702671549,
+        "created_at": "2024-08-05T10:39:38+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:39:39+02:00",
+        "product_id": 7855897772221,
+        "variant_ids": [
+          44420540498109
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-14-02-2022-3227jpg.jpg?v=1722847179",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Golden",
+          "Rainbow",
+          "Rosegold"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7884655329469,
+    "title": "No\u017cyczki - Czapla",
+    "handle": "hp-1007427-scissors-heron",
+    "body_html": "<p>No\u017cyczki mog\u0105 by\u0107 tradycyjne i nudne w oczach ka\u017cdego. No\u017cyczki mog\u0105 r\u00f3wnie\u017c wygl\u0105da\u0107 jak czapla, wyr\u00f3\u017cniaj\u0105c si\u0119 tym samym z t\u0142umu! Te no\u017cyczki w kszta\u0142cie czapli s\u0105 urocze i dost\u0119pne w kolorze niebieskim lub z\u0142otym.\n</p><p>Otrzymujesz dobrej jako\u015bci no\u017cyczki, kt\u00f3re idealnie nadaj\u0105 si\u0119 do mniejszych projekt\u00f3w, takich jak wszywanie ko\u0144c\u00f3w w\u0142\u00f3czki czy przecinanie dzianiny.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44514212905149,
+        "title": "Blue",
+        "option1": "Blue",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1259",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35388464234685,
+          "product_id": 7884655329469,
+          "position": 4,
+          "created_at": "2024-09-19T12:39:24+02:00",
+          "updated_at": "2024-09-19T12:39:26+02:00",
+          "alt": "57798dc88757ad0150273ba0e9b2b420df334799-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/57798dc88757ad0150273ba0e9b2b420df334799-1200x1200jpg.jpg?v=1726742366",
+          "variant_ids": [
+            44514212905149
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 35,
+        "compare_at_price": "52.00",
+        "position": 1,
+        "product_id": 7884655329469,
+        "created_at": "2024-09-19T12:34:20+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44514212937917,
+        "title": "Golden",
+        "option1": "Golden",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1260",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35388464169149,
+          "product_id": 7884655329469,
+          "position": 5,
+          "created_at": "2024-09-19T12:39:24+02:00",
+          "updated_at": "2024-09-19T12:39:26+02:00",
+          "alt": "831c26b3b58df5953223136b98670d5b648c88f7-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/831c26b3b58df5953223136b98670d5b648c88f7-1200x1200jpg.jpg?v=1726742366",
+          "variant_ids": [
+            44514212937917
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 35,
+        "compare_at_price": "52.00",
+        "position": 2,
+        "product_id": 7884655329469,
+        "created_at": "2024-09-19T12:34:20+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35388464103613,
+        "created_at": "2024-09-19T12:39:24+02:00",
+        "position": 1,
+        "updated_at": "2024-09-19T12:39:26+02:00",
+        "product_id": 7884655329469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f98bd3ae7cb8a212f18101d800ef1c8321960463-1200x1200jpg.jpg?v=1726742366",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35388464136381,
+        "created_at": "2024-09-19T12:39:24+02:00",
+        "position": 2,
+        "updated_at": "2024-09-19T12:39:26+02:00",
+        "product_id": 7884655329469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9d95db28596e6793bab5215c022cc92926089f36-1200x1200jpg.jpg?v=1726742366",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35388464201917,
+        "created_at": "2024-09-19T12:39:24+02:00",
+        "position": 3,
+        "updated_at": "2024-09-19T12:39:26+02:00",
+        "product_id": 7884655329469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/64fdd120994413285b483e126f2d000641d950f8-1200x1200jpg.jpg?v=1726742366",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35388464234685,
+        "created_at": "2024-09-19T12:39:24+02:00",
+        "position": 4,
+        "updated_at": "2024-09-19T12:39:26+02:00",
+        "product_id": 7884655329469,
+        "variant_ids": [
+          44514212905149
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/57798dc88757ad0150273ba0e9b2b420df334799-1200x1200jpg.jpg?v=1726742366",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35388464169149,
+        "created_at": "2024-09-19T12:39:24+02:00",
+        "position": 5,
+        "updated_at": "2024-09-19T12:39:26+02:00",
+        "product_id": 7884655329469,
+        "variant_ids": [
+          44514212937917
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/831c26b3b58df5953223136b98670d5b648c88f7-1200x1200jpg.jpg?v=1726742366",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Blue",
+          "Golden"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856014721213,
+    "title": "No\u017cyczki - Ornament - Large",
+    "handle": "hp-1007425-scissors-ornament-large",
+    "body_html": "<p>Pi\u0119kne no\u017cyczki dobrej jako\u015bci, kt\u00f3re s\u0105 troch\u0119 niezwyk\u0142e. Trzonek ozdobiony jest drobnymi grawerowanymi ornamentami, kt\u00f3re nadaj\u0105 no\u017cyczkom eleganckiego wygl\u0105du.</p><p>Idealnie nadaj\u0105 si\u0119 do wszystkich nici, kt\u00f3re nale\u017cy przeci\u0105\u0107 w projekcie lub og\u00f3lnie do przecinania dzianiny. No\u017cyczki s\u0105 tylko o jeden rozmiar wi\u0119ksze ni\u017c tradycyjne ma\u0142e no\u017cyczki hobbystyczne.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421078483133,
+        "title": "Rainbow",
+        "option1": "Rainbow",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1257",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35388464758973,
+          "product_id": 7856014721213,
+          "position": 4,
+          "created_at": "2024-09-19T12:39:32+02:00",
+          "updated_at": "2024-09-19T12:39:34+02:00",
+          "alt": "5dc2bdca63718798e75971270e5a56b6ac19990b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5dc2bdca63718798e75971270e5a56b6ac19990b-1200x1200jpg.jpg?v=1726742374",
+          "variant_ids": [
+            44421078483133
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 50,
+        "compare_at_price": "52.00",
+        "position": 1,
+        "product_id": 7856014721213,
+        "created_at": "2024-08-05T10:34:10+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      },
+      {
+        "id": 44421078515901,
+        "title": "Golden",
+        "option1": "Golden",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1258",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35388464627901,
+          "product_id": 7856014721213,
+          "position": 5,
+          "created_at": "2024-09-19T12:39:32+02:00",
+          "updated_at": "2024-09-19T12:39:33+02:00",
+          "alt": "3a758691f8aeee4646eaefc3fc7174bf4134affa-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3a758691f8aeee4646eaefc3fc7174bf4134affa-1200x1200jpg.jpg?v=1726742373",
+          "variant_ids": [
+            44421078515901
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 50,
+        "compare_at_price": "52.00",
+        "position": 2,
+        "product_id": 7856014721213,
+        "created_at": "2024-08-05T10:34:10+02:00",
+        "updated_at": "2024-11-22T22:52:07+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35388464791741,
+        "created_at": "2024-09-19T12:39:32+02:00",
+        "position": 1,
+        "updated_at": "2024-09-19T12:39:34+02:00",
+        "product_id": 7856014721213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/46b75d717e63287fbfd9dfc2a6b62e78050aa3e5-1200x1200jpg.jpg?v=1726742374",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35388464660669,
+        "created_at": "2024-09-19T12:39:32+02:00",
+        "position": 2,
+        "updated_at": "2024-09-19T12:39:33+02:00",
+        "product_id": 7856014721213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dd80a9aa10c8635c490177ceab353879164b2bcd-1200x1200jpg.jpg?v=1726742373",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35388464726205,
+        "created_at": "2024-09-19T12:39:32+02:00",
+        "position": 3,
+        "updated_at": "2024-09-19T12:39:33+02:00",
+        "product_id": 7856014721213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3803848175ab44d16c1f1868d57c16a66f834cac-1200x1200jpg.jpg?v=1726742373",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35388464758973,
+        "created_at": "2024-09-19T12:39:32+02:00",
+        "position": 4,
+        "updated_at": "2024-09-19T12:39:34+02:00",
+        "product_id": 7856014721213,
+        "variant_ids": [
+          44421078483133
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5dc2bdca63718798e75971270e5a56b6ac19990b-1200x1200jpg.jpg?v=1726742374",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35388464627901,
+        "created_at": "2024-09-19T12:39:32+02:00",
+        "position": 5,
+        "updated_at": "2024-09-19T12:39:33+02:00",
+        "product_id": 7856014721213,
+        "variant_ids": [
+          44421078515901
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3a758691f8aeee4646eaefc3fc7174bf4134affa-1200x1200jpg.jpg?v=1726742373",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Rainbow",
+          "Golden"
+        ]
+      }
+    ]
+  }
+]

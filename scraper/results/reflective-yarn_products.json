@@ -1,0 +1,125 @@
+[
+  {
+    "id": 7854740504765,
+    "title": "Ni\u0107 z refleksem",
+    "handle": "hp-1000764-reflective-thread",
+    "body_html": "<p>Ni\u0107 z refleksem, kt\u00f3r\u0105 mo\u017cesz wszy\u0107 w swoje rob\u00f3tki i w ten spos\u00f3b doda\u0107 np czapce, czy szalikowi odblasku - przyda si\u0119 w ciemne, zimowe dni. Zwi\u0119kszysz bezpiecze\u0144stwo swoje i bliskich na drodze ;)\n</p><p>Mo\u017cna pra\u0107 w 30\u00b0C.</p><p>D\u0142ugo\u015b\u0107: 50 m</p><p>Grubo\u015b\u0107: 0.5 mm</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44416339509437,
+        "title": "25 m - 1,0 mm",
+        "option1": "25 m - 1,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "977+501",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35174850822333,
+          "product_id": 7854740504765,
+          "position": 1,
+          "created_at": "2024-08-02T10:10:13+02:00",
+          "updated_at": "2024-08-02T10:10:15+02:00",
+          "alt": "aac012ce1e5476a5195cdc7d19c11da7b447412f-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/aac012ce1e5476a5195cdc7d19c11da7b447412f-1200x1200jpg.jpg?v=1722586215",
+          "variant_ids": [
+            44416339509437
+          ]
+        },
+        "available": true,
+        "price": "55.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7854740504765,
+        "created_at": "2024-08-02T10:09:13+02:00",
+        "updated_at": "2024-11-22T23:45:05+01:00"
+      },
+      {
+        "id": 44416339542205,
+        "title": "50 m - 0.5 mm",
+        "option1": "50 m - 0.5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "977+500",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35174850920637,
+          "product_id": 7854740504765,
+          "position": 2,
+          "created_at": "2024-08-02T10:10:13+02:00",
+          "updated_at": "2024-08-02T10:10:15+02:00",
+          "alt": "854130feed7dcc18d85cb8e101baa1b6c1fa16b7-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/854130feed7dcc18d85cb8e101baa1b6c1fa16b7-1200x1200jpg.jpg?v=1722586215",
+          "variant_ids": [
+            44416339542205
+          ]
+        },
+        "available": true,
+        "price": "55.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7854740504765,
+        "created_at": "2024-08-02T10:09:13+02:00",
+        "updated_at": "2024-11-22T23:45:05+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35174850822333,
+        "created_at": "2024-08-02T10:10:13+02:00",
+        "position": 1,
+        "updated_at": "2024-08-02T10:10:15+02:00",
+        "product_id": 7854740504765,
+        "variant_ids": [
+          44416339509437
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/aac012ce1e5476a5195cdc7d19c11da7b447412f-1200x1200jpg.jpg?v=1722586215",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35174850920637,
+        "created_at": "2024-08-02T10:10:13+02:00",
+        "position": 2,
+        "updated_at": "2024-08-02T10:10:15+02:00",
+        "product_id": 7854740504765,
+        "variant_ids": [
+          44416339542205
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/854130feed7dcc18d85cb8e101baa1b6c1fa16b7-1200x1200jpg.jpg?v=1722586215",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71416051958138,
+        "created_at": "2024-10-23T17:59:32+02:00",
+        "position": 3,
+        "updated_at": "2024-10-23T17:59:34+02:00",
+        "product_id": 7854740504765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20b0ec2a014f05d172ebcaa1deafc88c.jpg?v=1729699174",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "25 m - 1,0 mm",
+          "50 m - 0.5 mm"
+        ]
+      }
+    ]
+  }
+]

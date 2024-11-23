@@ -1,0 +1,1087 @@
+[
+  {
+    "id": 7857052745917,
+    "title": "Bloom - Opaska",
+    "handle": "hp-1007524-bloom-headband",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>D\u0142ugo\u015b\u0107 bez tasiemki do wi\u0105zania: 32 cm</p><p>Szeroko\u015b\u0107: 7 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Bloom \u2013 Opaska do w\u0142os\u00f3w idealnie sprawdzi si\u0119 na ka\u017cd\u0105 okazj\u0119. Stworzona z mi\u0142o\u015bci\u0105 i dba\u0142o\u015bci\u0105 o szczeg\u00f3\u0142y, natychmiast dodaje odrobin\u0119 wiosennego koloru do Twojego wygl\u0105du. Mo\u017cesz wykona\u0107 j\u0105 w takich samych kolorach jak we wzorze lub wybra\u0107 kolory, kt\u00f3re najbardziej pasuj\u0105 do Twojego stylu! Powodzenia! Wz\u00f3r jest odpowiedni dla pocz\u0105tkuj\u0105cych.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423532511421,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1277-234-8309",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857052745917,
+        "created_at": "2024-08-06T10:25:22+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378345443517,
+        "created_at": "2024-09-17T14:20:22+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:20:24+02:00",
+        "product_id": 7857052745917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6251e177e111a8a4fc78fd12d571fb4ed08d9d88-1080x1080jpg.jpg?v=1726575624",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378345410749,
+        "created_at": "2024-09-17T14:20:23+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:20:24+02:00",
+        "product_id": 7857052745917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e68c116c9aef3e84a0673fd8181e7a4fbbe3195f-1080x1080jpg.jpg?v=1726575624",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378345377981,
+        "created_at": "2024-09-17T14:20:23+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:20:24+02:00",
+        "product_id": 7857052745917,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6132ed90a9818abf8559f81da9f503d456e77597-1080x1080jpg.jpg?v=1726575624",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857047765181,
+    "title": "Fluffy Scrunchie",
+    "handle": "hp-1003666-fluffy-scrunchie",
+    "body_html": "<p>Podkr\u0119\u0107 sw\u00f3j str\u00f3j dodaj\u0105c do niego t\u0119 puszyst\u0105 gumk\u0119 do w\u0142os\u00f3w, kt\u00f3ra stanowi\u0107 te\u017c b\u0119dzie ozdob\u0119. Wykonano j\u0105 z dw\u00f3ch nici Diablo, kt\u00f3re to odpowiadaj\u0105 za puchaty i lekki wygl\u0105d.</p><p>Dobrej zabawy!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423517634749,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-201-1865",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857047765181,
+        "created_at": "2024-08-06T10:24:51+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373604077757,
+        "created_at": "2024-09-16T14:37:36+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:37:38+02:00",
+        "product_id": 7857047765181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/977c1a58fc5502940322736bfb4d83eeac01cd67-1200x1200jpg.jpg?v=1726490258",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373603913917,
+        "created_at": "2024-09-16T14:37:36+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:37:38+02:00",
+        "product_id": 7857047765181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f66b6f60b4fb700d52976dd0f8dc580548138ffc-1200x1200jpg.jpg?v=1726490258",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373604012221,
+        "created_at": "2024-09-16T14:37:36+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:37:38+02:00",
+        "product_id": 7857047765181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c546fee5a58356adfaeca452bb1dbfdc37e44828-1200x1200jpg.jpg?v=1726490258",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373603946685,
+        "created_at": "2024-09-16T14:37:36+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:37:38+02:00",
+        "product_id": 7857047765181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/04e3e41f29fb4a680fc8a67fccd7fb3b1f89d4a5-1200x1200jpg.jpg?v=1726490258",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857039409341,
+    "title": "Rhinen - Scrunchie",
+    "handle": "hp-1003963-rhinen-scrunchie",
+    "body_html": "<p>Urocza scrunchie z wspania\u0142ej w\u0142\u00f3czki Diablo Glitter, kt\u00f3ra jest dost\u0119pna w wielu fantastycznych kolorach!</p><p>Scrunchie jest wykonana na drutach wzorem per\u0142owym, co nadaje jej dodatkowego uroku.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423495516349,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-203-2334",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857039409341,
+        "created_at": "2024-08-06T10:23:57+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35322954678461,
+        "created_at": "2024-09-03T14:01:14+02:00",
+        "position": 1,
+        "updated_at": "2024-09-03T14:01:16+02:00",
+        "product_id": 7857039409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e2f61c08f30b32ca27a81c24057dbd65582265f4-2048x2048jpg.jpg?v=1725364876",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35322954612925,
+        "created_at": "2024-09-03T14:01:14+02:00",
+        "position": 2,
+        "updated_at": "2024-09-03T14:01:16+02:00",
+        "product_id": 7857039409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f1db90f143213de60762fce8d86c53bd627e6ba2-2048x2048jpg.jpg?v=1725364876",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35322954645693,
+        "created_at": "2024-09-03T14:01:14+02:00",
+        "position": 3,
+        "updated_at": "2024-09-03T14:01:16+02:00",
+        "product_id": 7857039409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5bd9b56de9903257f0ffefd00043b273124e2a60-2048x2048jpg.jpg?v=1725364876",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35322954711229,
+        "created_at": "2024-09-03T14:01:14+02:00",
+        "position": 4,
+        "updated_at": "2024-09-03T14:01:16+02:00",
+        "product_id": 7857039409341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/efdfb277ca43c1da444a88fcd6957a9a917ccefc-2048x2048jpg.jpg?v=1725364876",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857017651389,
+    "title": "Everyday Glitter - Scrunchie - Pink Collection",
+    "handle": "hp-1004889-everyday-glitter-scrunchie-pink-collection",
+    "body_html": "<p><strong>Pink Collection</strong></p><p>Ten wspania\u0142y wz\u00f3r jest cz\u0119\u015bci\u0105 kolekcji sk\u0142adaj\u0105cej si\u0119 z ponad 10 fantastycznych wzor\u00f3w Hobbii! W kolekcji znajdziesz wzory na szyde\u0142ko oraz wzory na druty. Ka\u017cdy znajdzie co\u015b dla siebie! Wszystkie wzory s\u0105 wykonane w naszym ulubionym kolorze \u2013 mianowicie R\u00d3\u017bOWYM.</p><p>Pink Collection sk\u0142ada si\u0119 z jednego klasycznego wzoru Hobbii wykonanego z nowych inspiruj\u0105cych alternatywnych w\u0142\u00f3czek lub z nowych pi\u0119knych odcieni r\u00f3\u017cu.</p><p>Powodzenia!</p><p>\n\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423438303421,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-214-1579",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857017651389,
+        "created_at": "2024-08-06T10:21:49+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377415651517,
+        "created_at": "2024-09-17T12:14:16+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:14:17+02:00",
+        "product_id": 7857017651389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ed13f8b45ae86efabce4220f991b962fa75c1f0f-1500x1500jpg.jpg?v=1726568057",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377415782589,
+        "created_at": "2024-09-17T12:14:16+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:14:18+02:00",
+        "product_id": 7857017651389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d18a85db77b53858ba1d9b4a0d2c806b85f86ef9-1500x1500jpg.jpg?v=1726568058",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377415749821,
+        "created_at": "2024-09-17T12:14:16+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:14:18+02:00",
+        "product_id": 7857017651389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ff3bc06b3c78fd147b8729502065c54dcda4c611-1500x1500jpg.jpg?v=1726568058",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377415684285,
+        "created_at": "2024-09-17T12:14:16+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:14:18+02:00",
+        "product_id": 7857017651389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ea12233ac414182078f68cc149efc727d430202d-1500x1500jpg.jpg?v=1726568058",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377415848125,
+        "created_at": "2024-09-17T12:14:16+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:14:18+02:00",
+        "product_id": 7857017651389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/da64d7d8dcb45f17a912e1f4760b7a65b56d7c95-1500x1500jpg.jpg?v=1726568058",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377415618749,
+        "created_at": "2024-09-17T12:14:16+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T12:14:17+02:00",
+        "product_id": 7857017651389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/87a9bd34ee4b6e74ff4aaed406419324602c7189-1500x1500jpg.jpg?v=1726568057",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377415815357,
+        "created_at": "2024-09-17T12:14:16+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T12:14:18+02:00",
+        "product_id": 7857017651389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4fb36b7f48db381b80aac1dbf9468eb14d6552d0-1500x1500jpg.jpg?v=1726568058",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856993435837,
+    "title": "Flower Kids - Opaska",
+    "handle": "hp-1007515-flower-kids-headband",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>D\u0142ugo\u015b\u0107 opaski: 37 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Pi\u0119kna i elegancka opaska na g\u0142ow\u0119 doda stylu ka\u017cdemu strojowi.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423370211517,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2127-234-3832",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856993435837,
+        "created_at": "2024-08-06T10:19:14+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378347278525,
+        "created_at": "2024-09-17T14:20:35+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:20:36+02:00",
+        "product_id": 7856993435837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b00b376f4e25f220201302cfb22524fb0fa630e4-1080x1080png.png?v=1726575636",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378347344061,
+        "created_at": "2024-09-17T14:20:35+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:20:37+02:00",
+        "product_id": 7856993435837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/73b85304764af54ebed6cec6b7829c9af56697bb-1080x1080png.png?v=1726575637",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378347311293,
+        "created_at": "2024-09-17T14:20:35+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:20:37+02:00",
+        "product_id": 7856993435837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/32bfff7fbcf10a2c0191f8ceeb27b21d9b24a16e-1080x1080png.png?v=1726575637",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378347376829,
+        "created_at": "2024-09-17T14:20:35+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:20:37+02:00",
+        "product_id": 7856993435837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fabc538c42ab352b03625ec5e29c5033aac97d88-1080x1080png.png?v=1726575637",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378347409597,
+        "created_at": "2024-09-17T14:20:35+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:20:37+02:00",
+        "product_id": 7856993435837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/70ed42a6951122f118bed624a1571d927307edc2-1080x1080png.png?v=1726575637",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856978264253,
+    "title": "Spring - Opaska",
+    "handle": "hp-1007518-spring-headband",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Kwiatek \u015brednica: 8 cm</p><p>D\u0142ugo\u015b\u0107 opaski: 37 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Pi\u0119kny prezent na ostatni\u0105 chwil\u0119 dla ma\u0142ego dziecka. Kwiatek jest przerabiany w 3 warstwach, nast\u0119pnie zszyty razem. Li\u015bcie s\u0105 przerabiane oddzielnie i przyszyte do opaski.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423323386045,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2127-234-6636",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856978264253,
+        "created_at": "2024-08-06T10:17:14+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378344919229,
+        "created_at": "2024-09-17T14:20:19+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:20:21+02:00",
+        "product_id": 7856978264253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/074e3d04a945ce9f482668b38a35a4ada9544688-1080x1080jpg.jpg?v=1726575621",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378344984765,
+        "created_at": "2024-09-17T14:20:19+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:20:21+02:00",
+        "product_id": 7856978264253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2ec2d835b7637bca1bf80f029dce777721fc07dd-1080x1080jpg.jpg?v=1726575621",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378344886461,
+        "created_at": "2024-09-17T14:20:19+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:20:21+02:00",
+        "product_id": 7856978264253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/db064c3ceddbb9ed09cd4da59d6ec97c4fce1da0-1080x1080jpg.jpg?v=1726575621",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378344951997,
+        "created_at": "2024-09-17T14:20:19+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:20:21+02:00",
+        "product_id": 7856978264253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9e27a678a214c6d09f1abf3d6cd7ceff202f810b-1080x1080jpg.jpg?v=1726575621",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378345017533,
+        "created_at": "2024-09-17T14:20:19+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:20:21+02:00",
+        "product_id": 7856978264253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b8e322ff2ddd31e70cd7166a2cb0c401c9480881-1080x1080jpg.jpg?v=1726575621",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856974561469,
+    "title": "Party Scrunchie",
+    "handle": "hp-1003852-party-scrunchie",
+    "body_html": "<p>O\u017cyw swoj\u0105 stylizacj\u0119 tym uroczym, imprezowym scrunchie, kt\u00f3ry pe\u0142ni rol\u0119 zar\u00f3wno gumki do w\u0142os\u00f3w, jak i ozdoby.</p><p>Po\u0142\u0105czenie Diablo i Metallic sprawi, \u017ce scrunchie b\u0119dzie puszyste i b\u0142yszcz\u0105ce - idealne do w\u0142os\u00f3w!</p><p>Scrunchie jest robione na okr\u0105g\u0142o, a brzegi s\u0105 zako\u0144czone haczykowaniem wok\u00f3\u0142 gumki do w\u0142os\u00f3w.</p><p>\n</p><p><strong>Ups! Ten wz\u00f3r jest wykonany z w\u0142\u00f3czki, kt\u00f3rej ju\u017c nie mamy w sprzeda\u017cy. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce.</strong>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423312146621,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2013-202-8846",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856974561469,
+        "created_at": "2024-08-06T10:16:42+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373646872765,
+        "created_at": "2024-09-16T14:43:55+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:43:57+02:00",
+        "product_id": 7856974561469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0e2cd5caba88cd9e3bb0c541b4b4884be3836656-2048x2048jpg.jpg?v=1726490637",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373646676157,
+        "created_at": "2024-09-16T14:43:55+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:43:57+02:00",
+        "product_id": 7856974561469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/68932f39824091b027e91694dbe1e2d39606087c-2048x2048jpg.jpg?v=1726490637",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373646839997,
+        "created_at": "2024-09-16T14:43:55+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:43:57+02:00",
+        "product_id": 7856974561469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3ebc6014e0eaa29d2800b2024a9fd489a8ff0a60-2048x2048jpg.jpg?v=1726490637",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373646708925,
+        "created_at": "2024-09-16T14:43:55+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:43:57+02:00",
+        "product_id": 7856974561469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/569c94e1784465f457af7fb491f068334edc1e7f-2048x2048jpg.jpg?v=1726490637",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373646741693,
+        "created_at": "2024-09-16T14:43:55+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:43:57+02:00",
+        "product_id": 7856974561469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0553ea980d09509fd1809d31149a5c3c31d48cb3-2048x2048jpg.jpg?v=1726490637",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373646774461,
+        "created_at": "2024-09-16T14:43:55+02:00",
+        "position": 6,
+        "updated_at": "2024-09-16T14:43:57+02:00",
+        "product_id": 7856974561469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e5a790435109cd74e9669759dd535404c8214229-2048x2048jpg.jpg?v=1726490637",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373646807229,
+        "created_at": "2024-09-16T14:43:55+02:00",
+        "position": 7,
+        "updated_at": "2024-09-16T14:43:57+02:00",
+        "product_id": 7856974561469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c2092e5dedc7de8f9ae0d0f86b5517e3d323c28c-2048x2048jpg.jpg?v=1726490637",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856969089213,
+    "title": "Puszysta Kokarda - Ozdoba do w\u0142os\u00f3w",
+    "handle": "hp-1003665-fluffy-bow-hair-accessory",
+    "body_html": "<p>Ozd\u00f3b w\u0142osy t\u0105 pi\u0119kn\u0105 i puszyst\u0105 kokard\u0105.</p><p>Szybka rob\u00f3tka dla odpr\u0119\u017cenia, idealna, aby wykorzysta\u0107 resztki w\u0142\u00f3czek.</p><p>Tutaj zrobiona z 2 nici Diablo, to one w\u0142a\u015bnie odpowiadaj\u0105 za t\u0119 obj\u0119to\u015b\u0107 i lekko\u015b\u0107.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423299137725,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-201-4089",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856969089213,
+        "created_at": "2024-08-06T10:15:55+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373604995261,
+        "created_at": "2024-09-16T14:37:40+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:37:42+02:00",
+        "product_id": 7856969089213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1701d2ace4d8f052f16a27e6777c715b5499837a-1200x1200jpg.jpg?v=1726490262",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373605028029,
+        "created_at": "2024-09-16T14:37:40+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:37:42+02:00",
+        "product_id": 7856969089213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f4750092b6b53a7f33edfeaf960746c6b3a770c8-1200x1200jpg.jpg?v=1726490262",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373604962493,
+        "created_at": "2024-09-16T14:37:41+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:37:42+02:00",
+        "product_id": 7856969089213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/acb58fffd035b0c2a8ea7cf26c3180f824614db8-1200x1200jpg.jpg?v=1726490262",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856960307389,
+    "title": "Yukon - Scrunchie",
+    "handle": "hp-1003971-yukon-scrunchie",
+    "body_html": "<p>Podkr\u0119\u0107 sw\u00f3j str\u00f3j t\u0105 prost\u0105 a zarazem eleganck\u0105 scrunchie z naszej wspania\u0142ej w\u0142\u00f3czki Twister Solid.</p><p>\u0141atwo si\u0119 j\u0105 robi na drutach, wi\u0119c jest to idealny projekt dla pocz\u0105tkuj\u0105cych.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423277478077,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2013-203-8716",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856960307389,
+        "created_at": "2024-08-06T10:14:31+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373663748285,
+        "created_at": "2024-09-16T14:47:45+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:47:47+02:00",
+        "product_id": 7856960307389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/610faaf0c18eafd6b906cabf6062e1d96890ef18-2048x2048jpg.jpg?v=1726490867",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373663781053,
+        "created_at": "2024-09-16T14:47:46+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:47:48+02:00",
+        "product_id": 7856960307389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b261816a030e7b41705848405005aedbd120588f-2048x2048jpg.jpg?v=1726490868",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373663682749,
+        "created_at": "2024-09-16T14:47:46+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:47:47+02:00",
+        "product_id": 7856960307389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ae2bd3195dc0396deebcc23613a6bad1ae9765eb-2048x2048jpg.jpg?v=1726490867",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35373663715517,
+        "created_at": "2024-09-16T14:47:46+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:47:47+02:00",
+        "product_id": 7856960307389,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e28a3d795fc9dcbc1b09f7aadf78640f2259e93f-2048x2048jpg.jpg?v=1726490867",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856957522109,
+    "title": "Everyday Glitter - Scrunchie",
+    "handle": "hp-1003664-everyday-glitter-scrunchie",
+    "body_html": "<p>Nadaj codzienno\u015bci blask t\u0105 urocz\u0105 i jednocze\u015bnie prost\u0105 gumk\u0105, kt\u00f3ra, opr\u00f3cz trzymania w\u0142os\u00f3w, jest te\u017c ozdob\u0105.</p><p>Wykonano j\u0105 szyde\u0142kiem z Rainbow Glitter, wyst\u0119puj\u0105c\u0105 w z\u0142otych i srebrnych wariantach. To ona wygl\u0105da jak brokat.</p><p>Mi\u0142a i szybka rob\u00f3tka.</p><p>Trzymamy kciuki!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423270727869,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-201-1740",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856957522109,
+        "created_at": "2024-08-06T10:14:05+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373603487933,
+        "created_at": "2024-09-16T14:37:24+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:37:26+02:00",
+        "product_id": 7856957522109,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0af4b52bfce2fee80df4d28f7e4106d705e0c960-1200x1200jpg.jpg?v=1726490246",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373603455165,
+        "created_at": "2024-09-16T14:37:24+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:37:26+02:00",
+        "product_id": 7856957522109,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be463e3baa1e33c9d1397e2779c31050f9e51ade-1200x1200jpg.jpg?v=1726490246",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856930980029,
+    "title": "Bonnie - Bandana",
+    "handle": "hp-1006257-bonnie-bandana",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Szeroko\u015b\u0107: 34 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Bandana Bonnie jest wykonana na szyde\u0142ku 1 nitk\u0105 Friends Cotton 8/4 i 2 nitkami Diablo, co sprawia, \u017ce jest mocna, a zarazem bardzo mi\u0119kka. W przeciwie\u0144stwie do tradycyjnej bandany, ta przeznaczona jest na ch\u0142odniejsze miesi\u0105ce. Du\u017ce kraty daj\u0105 wiele mo\u017cliwo\u015bci zabawy kolorami. Wz\u00f3r skierowany jest do os\u00f3b potrafi\u0105cych ju\u017c szyde\u0142kowa\u0107.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423189233853,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1059-231-7799",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856930980029,
+        "created_at": "2024-08-06T10:06:30+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377796907197,
+        "created_at": "2024-09-17T13:15:17+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:15:18+02:00",
+        "product_id": 7856930980029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a06504acc9007b500de1f6c3124726fc93effca4-2753x2753jpg.jpg?v=1726571718",
+        "width": 2753,
+        "height": 2753
+      },
+      {
+        "id": 35377796939965,
+        "created_at": "2024-09-17T13:15:17+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:15:18+02:00",
+        "product_id": 7856930980029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/12c66dc88d5ee7ae68bdcd45159ce774f7e8b0db-2088x2088jpg.jpg?v=1726571718",
+        "width": 2088,
+        "height": 2088
+      },
+      {
+        "id": 35377796972733,
+        "created_at": "2024-09-17T13:15:17+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:15:19+02:00",
+        "product_id": 7856930980029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65240a83ce691711fcdedbafae034205295e31f5-3024x3024jpg.jpg?v=1726571719",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856926589117,
+    "title": "Garden Fae - Opaska z kwiat\u00f3w",
+    "handle": "hp-1007639-garden-fae-flower-crown",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 5 cm</p><p>D\u0142ugo\u015b\u0107: 142 cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Rozmieszczenie kwiat\u00f3w we wzorze ma charakter indywidualny i stanowi jedynie propozycj\u0119. Powy\u017csze zdj\u0119cia s\u0142u\u017c\u0105 jako przyk\u0142ad.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423177633981,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1125-241-2348",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856926589117,
+        "created_at": "2024-08-06T10:05:21+02:00",
+        "updated_at": "2024-11-22T22:53:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378388172989,
+        "created_at": "2024-09-17T14:26:41+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:26:44+02:00",
+        "product_id": 7856926589117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/239d81894c5ad8bb85168754523fed48a71964c9-2544x2544jpg.jpg?v=1726576004",
+        "width": 2544,
+        "height": 2544
+      },
+      {
+        "id": 35378388107453,
+        "created_at": "2024-09-17T14:26:42+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:26:44+02:00",
+        "product_id": 7856926589117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/79e556a4d3e57f53253cbe9c6ba519fe0f3af836-2050x2038jpg.jpg?v=1726576004",
+        "width": 2050,
+        "height": 2038
+      },
+      {
+        "id": 35378388304061,
+        "created_at": "2024-09-17T14:26:42+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:26:44+02:00",
+        "product_id": 7856926589117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cb59510a5e2a1f4756fe66fc698b506951b4bd6c-2165x2165jpg.jpg?v=1726576004",
+        "width": 2165,
+        "height": 2165
+      },
+      {
+        "id": 35378388205757,
+        "created_at": "2024-09-17T14:26:42+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:26:44+02:00",
+        "product_id": 7856926589117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be27968c5901c398b4b28fad1f816cee6fed3b7d-2544x2544jpg.jpg?v=1726576004",
+        "width": 2544,
+        "height": 2544
+      },
+      {
+        "id": 35378387976381,
+        "created_at": "2024-09-17T14:26:42+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:26:43+02:00",
+        "product_id": 7856926589117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/58ec6d90bfd890e9cde65c1c44cca4d544a62905-2049x2049jpg.jpg?v=1726576003",
+        "width": 2049,
+        "height": 2049
+      },
+      {
+        "id": 35378388041917,
+        "created_at": "2024-09-17T14:26:42+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:26:44+02:00",
+        "product_id": 7856926589117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/42c76d62645b7b34ba4c5b5fa869e85194e3e531-2694x2694jpg.jpg?v=1726576004",
+        "width": 2694,
+        "height": 2694
+      },
+      {
+        "id": 35378388336829,
+        "created_at": "2024-09-17T14:26:42+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:26:44+02:00",
+        "product_id": 7856926589117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/09b1d5c7c8c95aea66ece5607837a978ca7445fd-2992x2992jpg.jpg?v=1726576004",
+        "width": 2992,
+        "height": 2992
+      },
+      {
+        "id": 35378388238525,
+        "created_at": "2024-09-17T14:26:42+02:00",
+        "position": 8,
+        "updated_at": "2024-09-17T14:26:44+02:00",
+        "product_id": 7856926589117,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/25b89d3386987c6e3487471a4ff37064b23f3fb1-3000x3000jpg.jpg?v=1726576004",
+        "width": 3000,
+        "height": 3000
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

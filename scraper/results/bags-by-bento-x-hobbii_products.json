@@ -1,0 +1,342 @@
+[
+  {
+    "id": 7857062740157,
+    "title": "The Bungee Backpack - Plecak",
+    "handle": "hp-1007537-the-bungee-backpack",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Wysoko\u015b\u0107: 26 cm</p><p>Szeroko\u015b\u0107: 9 cm</p><p>D\u0142ugo\u015b\u0107: 26 cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Je\u015bli jeste\u015b kim\u015b, kto zawsze jest w ruchu, to solidna torba jest dla Ciebie niezb\u0119dna! Wz\u00f3r ten zosta\u0142 wykonany z grubej w\u0142\u00f3czki i dodatk\u00f3w ze sztucznej sk\u00f3ry, aby zapewni\u0107 jego trwa\u0142o\u015b\u0107. Jest wystarczaj\u0105co pojemna, aby pomie\u015bci\u0107 przek\u0105ski dla dzieci lub najnowszy projekt szyde\u0142kowy, dzi\u0119ki czemu mo\u017cesz wyj\u015b\u0107 z domu w po\u015bpiechu bez \u017cadnych zmartwie\u0144.</p><p>O wzorze:</p><p>- Wykonany na gotowym dnie</p><p>- Zawiera pomocne zdj\u0119cia</p><p>- Zawiera metalowe dodatki</p><p>- Linki do tutoriali wideo</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423561150653,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1344-241-2437",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857062740157,
+        "created_at": "2024-08-06T10:26:25+02:00",
+        "updated_at": "2024-11-22T22:14:23+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378355503293,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857062740157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/617776417a5070763ae0b5e1f1c6fca65d9b8ef8-712x712jpg.jpg?v=1726575695",
+        "width": 712,
+        "height": 712
+      },
+      {
+        "id": 35378355536061,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:21:36+02:00",
+        "product_id": 7857062740157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b0623e6db3d30c7a96e59271934881448de8f598-783x783jpg.jpg?v=1726575696",
+        "width": 783,
+        "height": 783
+      },
+      {
+        "id": 35378355142845,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857062740157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/00d008e09db71c079334242b63e4d984c043df2c-810x810jpg.jpg?v=1726575695",
+        "width": 810,
+        "height": 810
+      },
+      {
+        "id": 35378355208381,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857062740157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d9855fa57397adac60e9b0d61da94f0f12458188-810x810jpg.jpg?v=1726575695",
+        "width": 810,
+        "height": 810
+      },
+      {
+        "id": 35378355241149,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857062740157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/121611871e662bb0fd0e9e8ce0ad4560f7e439ef-945x945png.png?v=1726575695",
+        "width": 945,
+        "height": 945
+      },
+      {
+        "id": 35378355404989,
+        "created_at": "2024-09-17T14:21:33+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857062740157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a8be5bc1996f15b17caa3d832e0fff3fd4cff520-945x945png.png?v=1726575695",
+        "width": 945,
+        "height": 945
+      },
+      {
+        "id": 35378355339453,
+        "created_at": "2024-09-17T14:21:34+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:21:35+02:00",
+        "product_id": 7857062740157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/978705cc4eaf19106b2d909da3c4772bfbc84cfd-810x810jpg.jpg?v=1726575695",
+        "width": 810,
+        "height": 810
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857001070781,
+    "title": "Forever in Blue Jeans - Torba na rami\u0119",
+    "handle": "hp-1007539-forever-in-blue-jeans-crossbody-bag",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 15,25 cm</p><p>D\u0142ugo\u015b\u0107: 20,25 cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Jest to idealny dodatek do Twojej kolekcji torebek. To szybki i zabawny projekt na szyde\u0142ko, kt\u00f3ry zawiera elementy, dzi\u0119ki kt\u00f3rym torebka jest nie tylko urocza, ale i funkcjonalna.</p><p>O wzorze:</p><p>- Wykonany za pomoc\u0105 dw\u00f3ch nitek w\u0142\u00f3czki razem</p><p>- Zawiera pomocne zdj\u0119cia</p><p>- Zawiera metalowe dodatki</p><p>- Wykonany p\u00f3\u0142s\u0142upami i \u015bciegiem ja\u015bminowym</p><p>- Link do tutorialu ze \u015bciegiem ja\u015bminowym</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423391281341,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1344-241-8425",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857001070781,
+        "created_at": "2024-08-06T10:20:07+02:00",
+        "updated_at": "2024-11-22T22:14:23+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378353930429,
+        "created_at": "2024-09-17T14:21:24+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:21:26+02:00",
+        "product_id": 7857001070781,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/646af2a2b04af2f00b60b2c3a27c22b5e4aa9d2f-802x802jpg.jpg?v=1726575686",
+        "width": 802,
+        "height": 802
+      },
+      {
+        "id": 35378353963197,
+        "created_at": "2024-09-17T14:21:24+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:21:26+02:00",
+        "product_id": 7857001070781,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8a430b9a95b75f8b25925eaf8fd85a592d247599-810x810jpg.jpg?v=1726575686",
+        "width": 810,
+        "height": 810
+      },
+      {
+        "id": 35378353897661,
+        "created_at": "2024-09-17T14:21:24+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:21:26+02:00",
+        "product_id": 7857001070781,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/313d0d1627002d817bdc5ddbd1647d1b1dc5bd22-810x810jpg.jpg?v=1726575686",
+        "width": 810,
+        "height": 810
+      },
+      {
+        "id": 35378353995965,
+        "created_at": "2024-09-17T14:21:25+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:21:26+02:00",
+        "product_id": 7857001070781,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/31d2b5047063a4e4a2165361c7c64359f052ce08-810x810jpg.jpg?v=1726575686",
+        "width": 810,
+        "height": 810
+      },
+      {
+        "id": 35378354028733,
+        "created_at": "2024-09-17T14:21:25+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:21:26+02:00",
+        "product_id": 7857001070781,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a6b4d83f0efdc4c43a1f9ad0874e4cadcd9a3f41-707x707jpg.jpg?v=1726575686",
+        "width": 707,
+        "height": 707
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856992780477,
+    "title": "The Betty Belt Bag - Torba na rami\u0119",
+    "handle": "hp-1007538-the-betty-belt-bag-crossbody-bag",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 14 cm</p><p>D\u0142ugo\u015b\u0107: 23 cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Szukasz wygodnej torby, kt\u00f3ra pomie\u015bci wszystkie Twoje rzeczy? Ten wz\u00f3r to szybki i \u0142atwy projekt, kt\u00f3ry wykorzystuje wst\u0105\u017ck\u0119 i akcesoria do toreb, aby stworzy\u0107 wytrzyma\u0142\u0105 torb\u0119 idealn\u0105 do codziennego u\u017cytku!</p><p>O wzorze:</p><p>- Jest \u0142atwy do wykonania</p><p>- Wykonany za pomoc\u0105 dw\u00f3ch pasm w\u0142\u00f3czki razem</p><p>- Zawiera pomocne zdj\u0119cia</p><p>- Zawiera elementy metalowe</p><p>- Tutorial jak zszy\u0107 szyde\u0142kiem zamek b\u0142yskawiczny\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423368278205,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1344-241-7067",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856992780477,
+        "created_at": "2024-08-06T10:19:09+02:00",
+        "updated_at": "2024-11-22T22:14:23+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378354356413,
+        "created_at": "2024-09-17T14:21:29+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:21:31+02:00",
+        "product_id": 7856992780477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b6f3c26659763ca47d3cee4d7e4ef56821c1f706-2236x2236jpg.jpg?v=1726575691",
+        "width": 2236,
+        "height": 2236
+      },
+      {
+        "id": 35378354323645,
+        "created_at": "2024-09-17T14:21:29+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:21:31+02:00",
+        "product_id": 7856992780477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bc7ffc4387b8babf0506ffa8dc9937d5159dc636-945x945png.png?v=1726575691",
+        "width": 945,
+        "height": 945
+      },
+      {
+        "id": 35378354389181,
+        "created_at": "2024-09-17T14:21:29+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:21:31+02:00",
+        "product_id": 7856992780477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/565b3404b05098b4a5c9804d6a5dec7f79a350ae-945x945png.png?v=1726575691",
+        "width": 945,
+        "height": 945
+      },
+      {
+        "id": 35378354487485,
+        "created_at": "2024-09-17T14:21:29+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:21:31+02:00",
+        "product_id": 7856992780477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/da096da5defafc8ed41828c858abfb87dfcaaf10-945x945png.png?v=1726575691",
+        "width": 945,
+        "height": 945
+      },
+      {
+        "id": 35378354553021,
+        "created_at": "2024-09-17T14:21:29+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:21:31+02:00",
+        "product_id": 7856992780477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e24959e43c54fd09dd4914401f50b979a7da002c-945x945png.png?v=1726575691",
+        "width": 945,
+        "height": 945
+      },
+      {
+        "id": 35378354520253,
+        "created_at": "2024-09-17T14:21:29+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:21:31+02:00",
+        "product_id": 7856992780477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8abf3526b7f585e653fe820470ca9743b66a945b-945x945png.png?v=1726575691",
+        "width": 945,
+        "height": 945
+      },
+      {
+        "id": 35378354454717,
+        "created_at": "2024-09-17T14:21:29+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:21:31+02:00",
+        "product_id": 7856992780477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d4c0919a11812ea0175bf902f18f869f0adf9275-945x945png.png?v=1726575691",
+        "width": 945,
+        "height": 945
+      },
+      {
+        "id": 35378354421949,
+        "created_at": "2024-09-17T14:21:29+02:00",
+        "position": 8,
+        "updated_at": "2024-09-17T14:21:31+02:00",
+        "product_id": 7856992780477,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c6acfe7a413625fd787df88d7a3537605aec24b9-810x810jpg.jpg?v=1726575691",
+        "width": 810,
+        "height": 810
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

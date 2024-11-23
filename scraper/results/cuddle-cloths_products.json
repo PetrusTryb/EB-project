@@ -1,0 +1,1156 @@
+[
+  {
+    "id": 7857056153789,
+    "title": "Dino Przytulanka",
+    "handle": "hp-1003967-dino-cuddle-cloth",
+    "body_html": "<p>Dino Przytulanka jest idealna do pocieszania male\u0144stwa. Jest s\u0142odka i mi\u0119kka - idealna podczas snu. Wybierz ulubione kolory i po\u015bpiesz si\u0119 w zrobieniu Dino Przytulanki.</p><p></p><p>Du\u017co przyjemno\u015bci!</p><p>\n</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423541981373,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1011-203-3155",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857056153789,
+        "created_at": "2024-08-06T10:25:44+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35191777984701,
+        "created_at": "2024-08-07T01:49:45+02:00",
+        "position": 1,
+        "updated_at": "2024-08-07T01:49:47+02:00",
+        "product_id": 7857056153789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20200717-115044-squarejpg.jpg?v=1722988187",
+        "width": 2254,
+        "height": 2254
+      },
+      {
+        "id": 35191777951933,
+        "created_at": "2024-08-07T01:49:45+02:00",
+        "position": 2,
+        "updated_at": "2024-08-07T01:49:46+02:00",
+        "product_id": 7857056153789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20200717-115006-squarejpg.jpg?v=1722988186",
+        "width": 2868,
+        "height": 2868
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857052811453,
+    "title": "Przytulanka dla niemowl\u0105t - Mi\u015b",
+    "handle": "hp-1002698-snuggle-bear-blanket",
+    "body_html": "<p>Najs\u0142odsza i najmi\u0119ksza przytulanka. Zrobiona szyde\u0142kiem z Boh\u00e9me Velvet Fine od Go Handmade, czyli niewiarygodnie mi\u0119kkiej i luksusowej w\u0142\u00f3czki welurowej.</p><p>Dobrej zabawy przy tworzeniu!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423532576957,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-191-2765",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857052811453,
+        "created_at": "2024-08-06T10:25:23+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373510131901,
+        "created_at": "2024-09-16T14:17:46+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:17:48+02:00",
+        "product_id": 7857052811453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/edf198bd23a7e1ad6d237148be2a486cf0c4c260-4000x3999jpg.jpg?v=1726489068",
+        "width": 4000,
+        "height": 3999
+      },
+      {
+        "id": 35373510033597,
+        "created_at": "2024-09-16T14:17:46+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:17:48+02:00",
+        "product_id": 7857052811453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f63b385ce1773379c1662e0d031814e9f40f0981-3995x3995jpg.jpg?v=1726489068",
+        "width": 3995,
+        "height": 3995
+      },
+      {
+        "id": 35373510099133,
+        "created_at": "2024-09-16T14:17:46+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:17:48+02:00",
+        "product_id": 7857052811453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/211991ded66cfee2cbba1cc5ee6c778be0ee3727-4000x3999jpg.jpg?v=1726489068",
+        "width": 4000,
+        "height": 3999
+      },
+      {
+        "id": 35373510066365,
+        "created_at": "2024-09-16T14:17:46+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:17:48+02:00",
+        "product_id": 7857052811453,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fe33da63388de8b6761b383280c25c24056432de-1200x1200jpg.jpg?v=1726489068",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857035182269,
+    "title": "Kawaii Arbuz - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1003896-kawaii-watermelon-cuddle-cloth",
+    "body_html": "<p>Wyszyde\u0142kuj s\u0142odk\u0105 arbuz- przytulank\u0119 dla niemowlaka. Przytulanka wykonana z mi\u0119kkiej w\u0142\u00f3czki Baby Merino XL a arbuz z w\u0142\u00f3czki Rainbow Cotton 8/4. Przytulank\u0119 mo\u017cesz zrobi\u0107 w dowolnych kolorach!</p><p>Przyjemnego szyde\u0142kowania!</p><p>\n</p><p><strong>Ups! Ten wz\u00f3r jest wykonany z w\u0142\u00f3czki, kt\u00f3rej ju\u017c nie mamy w sprzeda\u017cy. Je\u015bli potrzebujesz pomocy w znalezieniu alternatywnej w\u0142\u00f3czki, skontaktuj si\u0119 prosz\u0119 z naszym dzia\u0142em obs\u0142ugi klienta.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423484899517,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1011-202-6248",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857035182269,
+        "created_at": "2024-08-06T10:23:28+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35191659102397,
+        "created_at": "2024-08-07T01:37:38+02:00",
+        "position": 1,
+        "updated_at": "2024-08-07T01:37:40+02:00",
+        "product_id": 7857035182269,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/202006086859817668557814837-squarejpg.jpg?v=1722987460",
+        "width": 2547,
+        "height": 2547
+      },
+      {
+        "id": 35191659069629,
+        "created_at": "2024-08-07T01:37:38+02:00",
+        "position": 2,
+        "updated_at": "2024-08-07T01:37:40+02:00",
+        "product_id": 7857035182269,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/202006088119768118803420053jpg.jpg?v=1722987460",
+        "width": 2597,
+        "height": 2597
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857024106685,
+    "title": "Lew William - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1005327-william-the-lion-baby-comforter",
+    "body_html": "<p>Lew William to urocza przytulanka, kt\u00f3ra ka\u017cdemu zapewni przytulno\u015b\u0107 i rado\u015b\u0107.\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423454523581,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-221-9167",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857024106685,
+        "created_at": "2024-08-06T10:22:24+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377507172541,
+        "created_at": "2024-09-17T12:33:35+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:33:37+02:00",
+        "product_id": 7857024106685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7fddf8f7461f458f64c927dfb779a6a99aabb41d-1620x1620jpg.jpg?v=1726569217",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377507074237,
+        "created_at": "2024-09-17T12:33:35+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:33:37+02:00",
+        "product_id": 7857024106685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0c0f35ba499897d94e38a15a328f6f9ce3f6ded5-1620x1620jpg.jpg?v=1726569217",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377507107005,
+        "created_at": "2024-09-17T12:33:35+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:33:37+02:00",
+        "product_id": 7857024106685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1d6f1a634008ecc66464d29246a1ce5e05d7aa04-1620x1620jpg.jpg?v=1726569217",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377507139773,
+        "created_at": "2024-09-17T12:33:35+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:33:37+02:00",
+        "product_id": 7857024106685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/70f646468e62eeff501f79a42528257a808dcce7-1620x1620jpg.jpg?v=1726569217",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377507041469,
+        "created_at": "2024-09-17T12:33:35+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:33:37+02:00",
+        "product_id": 7857024106685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/330587835fc2f0657868b3ed6329e3d199b189cc-1620x1620jpg.jpg?v=1726569217",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857019289789,
+    "title": "Kawaii Kr\u00f3liczek - Przytulanka dla Niemowl\u0105t",
+    "handle": "hp-1003543-kawaii-bunny-cuddle-cloth",
+    "body_html": "<p>\u015api\u0105cy kr\u00f3liczek to dobry kompan do usypiania niemowl\u0105t, kt\u00f3ry kocha by\u0107 ca\u0142owany i przytulany przed snem. Zwierz\u0105tko dba o to, aby zawsze niedaleko by\u0142a jaka\u015b marchewka, na wypadek nocnego napadu g\u0142odu.</p><p>Wisz\u0105c\u0105 cz\u0119\u015b\u0107 przytulanki wykonuje si\u0119 na szyde\u0142ku z mi\u0119kkiej Baby Merino XL, a elementy kr\u00f3licze z Rainbow Cotton 8/4. Kolory w\u0142\u00f3czki mo\u017cesz wybra\u0107 takie, jakie tylko chcesz. To Twoja wyobra\u017ania stawia Ci granice.</p><p>Do przytulanki mo\u017cesz zrobi\u0107 tak\u017ce grzechotk\u0119 -\u00a0<a href=\"https://hobbii.pl/kawaii-kroliczek-grzechotka\"><strong>Kawaii Kr\u00f3liczek Grzechotka</strong></a>.</p><p>Mi\u0142ej pracy!</p><p>\n</p><p><strong>Ups! Ten wz\u00f3r jest wykonany z w\u0142\u00f3czki, kt\u00f3rej ju\u017c nie mamy w sprzeda\u017cy. Je\u015bli potrzebujesz pomocy w znalezieniu alternatywnej w\u0142\u00f3czki, skontaktuj si\u0119 prosz\u0119 z naszym dzia\u0142em obs\u0142ugi klienta.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423442137277,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1011-201-6116",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857019289789,
+        "created_at": "2024-08-06T10:21:57+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35193362874557,
+        "created_at": "2024-08-07T11:38:14+02:00",
+        "position": 1,
+        "updated_at": "2024-08-07T11:38:16+02:00",
+        "product_id": 7857019289789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/image48jpg.jpg?v=1723023496",
+        "width": 1386,
+        "height": 1386
+      },
+      {
+        "id": 35193362841789,
+        "created_at": "2024-08-07T11:38:14+02:00",
+        "position": 2,
+        "updated_at": "2024-08-07T11:38:16+02:00",
+        "product_id": 7857019289789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/image71jpg.jpg?v=1723023496",
+        "width": 606,
+        "height": 606
+      },
+      {
+        "id": 35193362809021,
+        "created_at": "2024-08-07T11:38:14+02:00",
+        "position": 3,
+        "updated_at": "2024-08-07T11:38:16+02:00",
+        "product_id": 7857019289789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/image68jpg.jpg?v=1723023496",
+        "width": 606,
+        "height": 606
+      },
+      {
+        "id": 35193362907325,
+        "created_at": "2024-08-07T11:38:14+02:00",
+        "position": 4,
+        "updated_at": "2024-08-07T11:38:16+02:00",
+        "product_id": 7857019289789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bunniesjpg_fcdf0de7-9c0c-4249-a87e-58d99887d5cf.jpg?v=1723023496",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856994287805,
+    "title": "Kr\u00f3liczek - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1003861-bunny-baby-comforter",
+    "body_html": "<p>Mo\u017cesz wyszyde\u0142kowa\u0107 t\u0119 s\u0142odk\u0105 przytulank\u0119 - kr\u00f3liczka, idealn\u0105 do usypiania niemowlaka. Wykonano j\u0105 z Rainbow Cotton 8/8, wyst\u0119puj\u0105cej w \u015bwietnych kolorach. Wybierz ulubiony i zaczynaj! Dobrej zabawy :)</p><p>\n</p><p><strong>Ups! Wz\u00f3r na zdj\u0119ciu zosta\u0142 wykonany przy u\u017cyciu jednego lub wi\u0119cej wycofanych kolor\u00f3w. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce kolory.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423372734653,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-202-6828",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856994287805,
+        "created_at": "2024-08-06T10:19:22+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373640941757,
+        "created_at": "2024-09-16T14:43:12+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:43:13+02:00",
+        "product_id": 7856994287805,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c16ec70ffcd5f6cc3de500c83133b4631657a588-2730x2726jpg.jpg?v=1726490593",
+        "width": 2730,
+        "height": 2726
+      },
+      {
+        "id": 35373640908989,
+        "created_at": "2024-09-16T14:43:12+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:43:13+02:00",
+        "product_id": 7856994287805,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e2eee8254bfd4dd21d6403bd452ddeb9abef3e4e-1440x1437jpg.jpg?v=1726490593",
+        "width": 1440,
+        "height": 1437
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856993304765,
+    "title": "Jednoro\u017cec - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1003849-unicorn-comforter",
+    "body_html": "<p>Czy znasz jakie\u015b ma\u0142e, urocze niemowl\u0119, kt\u00f3re warto by\u0142oby rozpie\u015bci\u0107 przytulank\u0105-jednoro\u017ccem? Ta maskotka nale\u017cy do najs\u0142odszych rzeczy, kt\u00f3re widzieli\u015bmy. Wykonuje si\u0119 j\u0105 z Rainbow Cotton 8/8. Przytulanka idealnie nadaje si\u0119 do stworzenia mi\u0142ej i bezpiecznej atmosfery dla najm\u0142odszych :)</p><p>Mi\u0142ego szyde\u0142kowania!</p><p>\n</p><p><strong>Ups! Wz\u00f3r na zdj\u0119ciu zosta\u0142 wykonany przy u\u017cyciu jednego lub wi\u0119cej wycofanych kolor\u00f3w. Sprawd\u017a sw\u00f3j koszyk, aby zobaczy\u0107 inne pasuj\u0105ce kolory.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423369687229,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-202-6205",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856993304765,
+        "created_at": "2024-08-06T10:19:13+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373642514621,
+        "created_at": "2024-09-16T14:43:27+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:43:29+02:00",
+        "product_id": 7856993304765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4858aba7f429d9da5e9091c40271e3ae353b8ce0-1440x1437jpg.jpg?v=1726490609",
+        "width": 1440,
+        "height": 1437
+      },
+      {
+        "id": 35373642580157,
+        "created_at": "2024-09-16T14:43:27+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:43:29+02:00",
+        "product_id": 7856993304765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c004013598d6cd1bafb9df84d598bc3825f20f91-1440x1437jpg.jpg?v=1726490609",
+        "width": 1440,
+        "height": 1437
+      },
+      {
+        "id": 35373642547389,
+        "created_at": "2024-09-16T14:43:27+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:43:29+02:00",
+        "product_id": 7856993304765,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2847ec3cc2617333d13032ac07f4979f88b43d11-1440x1437jpg.jpg?v=1726490609",
+        "width": 1440,
+        "height": 1437
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856986849469,
+    "title": "Osio\u0142ek - Przytulanka dla Niemowl\u0105t",
+    "handle": "hp-1003750-donkey-baby-comforter",
+    "body_html": "<p>This charming and adorable donkey comforter is ready for some cozy cuddling with a sweet little baby. It\u2019s crocheted in Rainbow Cotton 8/4, a cotton yarn that is just wonderful for making softies for little kids. Donkey simply loves sleeping and she would adore a loving little buddy to take naps with :)</p><p>Have fun crocheting!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423350943933,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-202-6055",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856986849469,
+        "created_at": "2024-08-06T10:18:23+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373623312573,
+        "created_at": "2024-09-16T14:40:40+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:40:42+02:00",
+        "product_id": 7856986849469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3c68fd76e258624068c913a8d2543e3ca17f7c2e-3072x3072jpg.jpg?v=1726490442",
+        "width": 3072,
+        "height": 3072
+      },
+      {
+        "id": 35373623279805,
+        "created_at": "2024-09-16T14:40:40+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:40:42+02:00",
+        "product_id": 7856986849469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f5a5310f573663cdcf47ac7e11c09f45d1dcedc7-1440x1437jpg.jpg?v=1726490442",
+        "width": 1440,
+        "height": 1437
+      },
+      {
+        "id": 35373623214269,
+        "created_at": "2024-09-16T14:40:40+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:40:42+02:00",
+        "product_id": 7856986849469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b5ff69be04b919413197bad430d7cc7c53cd8742-3072x3072jpg.jpg?v=1726490442",
+        "width": 3072,
+        "height": 3072
+      },
+      {
+        "id": 35373623247037,
+        "created_at": "2024-09-16T14:40:40+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:40:42+02:00",
+        "product_id": 7856986849469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0f169bf05dc70390f533097ff066f1b57b0a3727-3072x3072jpg.jpg?v=1726490442",
+        "width": 3072,
+        "height": 3072
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856983539901,
+    "title": "Panda Penny - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1005337-penny-the-panda-baby-comforter",
+    "body_html": "<p>Panda Penny to urocza przytulanka, kt\u00f3ra ka\u017cdemu zapewni przytulno\u015b\u0107 i rado\u015b\u0107.\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423340392637,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-221-3507",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856983539901,
+        "created_at": "2024-08-06T10:17:55+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377511727293,
+        "created_at": "2024-09-17T12:34:33+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:34:35+02:00",
+        "product_id": 7856983539901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20365e1c184634eb2f44b0d15183918cb54e864d-2048x2048jpg.jpg?v=1726569275",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377511858365,
+        "created_at": "2024-09-17T12:34:33+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:34:35+02:00",
+        "product_id": 7856983539901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/95a96db650219dee52c0676271d7f2abe55e56ba-2048x2048jpg.jpg?v=1726569275",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377511661757,
+        "created_at": "2024-09-17T12:34:33+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:34:35+02:00",
+        "product_id": 7856983539901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2a6d5feea9ae27fa22b1af356af30948196258e9-2048x2048jpg.jpg?v=1726569275",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377511563453,
+        "created_at": "2024-09-17T12:34:33+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:34:35+02:00",
+        "product_id": 7856983539901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/13d978c480d5fc77e54f5186ecf701e5cdd7fb0b-2048x2048jpg.jpg?v=1726569275",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377511628989,
+        "created_at": "2024-09-17T12:34:33+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:34:35+02:00",
+        "product_id": 7856983539901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fd6a5e48fd09f40c7a6bc2800b04d259f71b2c84-2048x2048jpg_dd672479-ef9e-40e1-bd49-df78e6962cec.jpg?v=1726569275",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856978034877,
+    "title": "Kawaii Cytryna - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1003895-kawaii-lemon-cuddle-cloth",
+    "body_html": "<p>Mo\u017cesz wyszyde\u0142kowa\u0107 t\u0119 s\u0142odk\u0105 przytulank\u0119 - cytryn\u0119, idealn\u0105 do usypiania niemowlaka. Przytulanka zosta\u0142a wykonana z mi\u0119kkiej Baby Merino XL a cytryna z Rainbow Cotton 8/4. Mo\u017cesz j\u0105 zrobi\u0107 w dowolnych kolorach!</p><p>Dobrej zabawy!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423322566845,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1011-202-9754",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856978034877,
+        "created_at": "2024-08-06T10:17:11+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35188505280701,
+        "created_at": "2024-08-06T13:44:55+02:00",
+        "position": 1,
+        "updated_at": "2024-08-06T13:44:57+02:00",
+        "product_id": 7856978034877,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20200608-142431jpg.jpg?v=1722944697",
+        "width": 2422,
+        "height": 2422
+      },
+      {
+        "id": 35188505379005,
+        "created_at": "2024-08-06T13:44:55+02:00",
+        "position": 2,
+        "updated_at": "2024-08-06T13:44:58+02:00",
+        "product_id": 7856978034877,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20200608-142602jpg.jpg?v=1722944698",
+        "width": 2540,
+        "height": 2540
+      },
+      {
+        "id": 35188505641149,
+        "created_at": "2024-08-06T13:44:56+02:00",
+        "position": 3,
+        "updated_at": "2024-08-06T13:44:58+02:00",
+        "product_id": 7856978034877,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20200608-142457-squarejpg.jpg?v=1722944698",
+        "width": 2452,
+        "height": 2496
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856965910717,
+    "title": "Kalle \u017byrafa - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1005335-kalle-the-giraffe-baby-comforter",
+    "body_html": "<p>Kalle \u017cyrafa to urocza przytulanka, kt\u00f3ra ka\u017cdemu zapewni przytulno\u015b\u0107 i rado\u015b\u0107.\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423291207869,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-221-8862",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856965910717,
+        "created_at": "2024-08-06T10:15:25+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377512677565,
+        "created_at": "2024-09-17T12:34:42+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:34:45+02:00",
+        "product_id": 7856965910717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a45e71499f6f7af1c7c06de9cb557f10f9c4f8f2-1620x1620jpg.jpg?v=1726569285",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377512612029,
+        "created_at": "2024-09-17T12:34:43+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:34:45+02:00",
+        "product_id": 7856965910717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/86bf20c306c3ef7c47098d00ee724be9b2c830d4-1620x1620jpg.jpg?v=1726569285",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377512710333,
+        "created_at": "2024-09-17T12:34:43+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:34:45+02:00",
+        "product_id": 7856965910717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/93897ed1311011b65d85a6931e230228edcf2d1d-1620x1620jpg.jpg?v=1726569285",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377512775869,
+        "created_at": "2024-09-17T12:34:43+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:34:45+02:00",
+        "product_id": 7856965910717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/631660572fc2096bccf6d5746bddee8a1e80cc36-1620x1620jpg.jpg?v=1726569285",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377512743101,
+        "created_at": "2024-09-17T12:34:43+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:34:45+02:00",
+        "product_id": 7856965910717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a2a0bc89546af43e49fb375bfc96244645c72742-1620x1620jpg.jpg?v=1726569285",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377512644797,
+        "created_at": "2024-09-17T12:34:43+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T12:34:45+02:00",
+        "product_id": 7856965910717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1ebdf54a2d7e5f8f3d91c819ba3ecd948262b222-2730x2726jpg.jpg?v=1726569285",
+        "width": 2730,
+        "height": 2726
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856956113085,
+    "title": "Kawaii Truskawka - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1003894-kawaii-strawberry-cuddle-cloth",
+    "body_html": "<p>Wyszyde\u0142kuj t\u0105 urocz\u0105 truskawkow\u0105-przytulank\u0119 dla niemowlaka. Przytulanka wykonana z mi\u0119kkiej Baby Merino XL a truskawka z Rainbow Cotton 8/4. Mo\u017cesz zrobi\u0107 j\u0105 w dowolnych kolorach!</p><p>Mi\u0142ej zabawy!</p><p>\n</p><p><strong>Ups! Ten wz\u00f3r jest wykonany z w\u0142\u00f3czki, kt\u00f3rej ju\u017c nie mamy w sprzeda\u017cy. Je\u015bli potrzebujesz pomocy w znalezieniu alternatywnej w\u0142\u00f3czki, skontaktuj si\u0119 prosz\u0119 z naszym dzia\u0142em obs\u0142ugi klienta.</strong>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423267025085,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1011-202-2223",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856956113085,
+        "created_at": "2024-08-06T10:13:54+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35188112064701,
+        "created_at": "2024-08-06T10:39:58+02:00",
+        "position": 1,
+        "updated_at": "2024-08-06T10:40:00+02:00",
+        "product_id": 7856956113085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/202006085668305592873203353-squarejpg.jpg?v=1722933600",
+        "width": 2726,
+        "height": 2726
+      },
+      {
+        "id": 35188112097469,
+        "created_at": "2024-08-06T10:39:58+02:00",
+        "position": 2,
+        "updated_at": "2024-08-06T10:40:00+02:00",
+        "product_id": 7856956113085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/202006081994686374156957967jpg.jpg?v=1722933600",
+        "width": 2737,
+        "height": 2737
+      },
+      {
+        "id": 35188112031933,
+        "created_at": "2024-08-06T10:39:58+02:00",
+        "position": 3,
+        "updated_at": "2024-08-06T10:40:00+02:00",
+        "product_id": 7856956113085,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/20200608-144915-squarejpg.jpg?v=1722933600",
+        "width": 2785,
+        "height": 2785
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856951263421,
+    "title": "Fiona Hipopotam - Przytulanka dla niemowl\u0105t",
+    "handle": "hp-1005328-fiona-the-hippo-baby-comforter",
+    "body_html": "<p>Fiona Hipopotam to urocza przytulanka, kt\u00f3ra ka\u017cdemu zapewni przytulno\u015b\u0107 i rado\u015b\u0107.\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423253524669,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1020-221-8337",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856951263421,
+        "created_at": "2024-08-06T10:13:06+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377509957821,
+        "created_at": "2024-09-17T12:34:15+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:34:17+02:00",
+        "product_id": 7856951263421,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/487e1810171c39fec96a1053604729a4109a3bdd-2048x2048jpg.jpg?v=1726569257",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377509925053,
+        "created_at": "2024-09-17T12:34:15+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:34:17+02:00",
+        "product_id": 7856951263421,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/839bd1b58460158c1f906056a75fcef491ce6e1e-2048x2048jpg.jpg?v=1726569257",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377510056125,
+        "created_at": "2024-09-17T12:34:15+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:34:18+02:00",
+        "product_id": 7856951263421,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c791aa73e97fa12028ddb49f2c065f9d0e7a7417-2048x2048jpg.jpg?v=1726569258",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377510023357,
+        "created_at": "2024-09-17T12:34:15+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:34:17+02:00",
+        "product_id": 7856951263421,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/de0a1acce28c2b20cf405d1e46694986ba28cb2c-2048x2048jpg.jpg?v=1726569257",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377509990589,
+        "created_at": "2024-09-17T12:34:16+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:34:17+02:00",
+        "product_id": 7856951263421,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c35eec47f66a18ce6b26343bca091f2cccb1c709-2048x2048jpg.jpg?v=1726569257",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377509892285,
+        "created_at": "2024-09-17T12:34:16+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T12:34:17+02:00",
+        "product_id": 7856951263421,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fd6a5e48fd09f40c7a6bc2800b04d259f71b2c84-2048x2048jpg.jpg?v=1726569257",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856928653501,
+    "title": "Nuzzle - Przytulanka dla Niemowl\u0105t",
+    "handle": "hp-1003573-nuzzle-cuddle-cloth",
+    "body_html": "<p>Przytulanka Nuzzle jest idealna do tulenia, zabawy i usypiania!</p><p>Cechuje si\u0119 mi\u0119kko\u015bci\u0105 i urokiem, wr\u0119cz zaprasza do wzi\u0119cia w ramiona.</p><p>Wykonano j\u0105 szyde\u0142kiem z Baby Snuggle, wyst\u0119puj\u0105cej w wielu kompozycjach kolorystycznych, bardzo dobrze nadaj\u0105cej si\u0119 na ten ma\u0142y projekt.</p><p>Nuzzle bazuje na kwadracie, w kt\u00f3rym ka\u017cdy r\u00f3g ma swoje zadanie.</p><p>W jednym z nich znajduje si\u0119 \u0142\u0105cznik do smoczka.</p><p>Inne to w\u0119ze\u0142 do przytulania, spirala i gryzak.</p><p>Mi\u0142ej pracy!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423183007933,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-201-6345",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856928653501,
+        "created_at": "2024-08-06T10:05:53+02:00",
+        "updated_at": "2024-11-22T22:58:47+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373598638269,
+        "created_at": "2024-09-16T14:35:35+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:35:37+02:00",
+        "product_id": 7856928653501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4f0a8a33d26180717ea4e5e9be3bd51992118e44-1200x1200jpg.jpg?v=1726490137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373598671037,
+        "created_at": "2024-09-16T14:35:35+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:35:37+02:00",
+        "product_id": 7856928653501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f316b695dc5a3c6de8d2c020a69013f76258597d-1200x1200jpg.jpg?v=1726490137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373598605501,
+        "created_at": "2024-09-16T14:35:35+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:35:37+02:00",
+        "product_id": 7856928653501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e6eee2d4bae5a299926b387b3368b93aa87d8917-1200x1200jpg.jpg?v=1726490137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373598572733,
+        "created_at": "2024-09-16T14:35:35+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:35:37+02:00",
+        "product_id": 7856928653501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/64c4180588084366ba687319f731d9b986cb470c-1200x1200jpg.jpg?v=1726490137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373598703805,
+        "created_at": "2024-09-16T14:35:35+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:35:37+02:00",
+        "product_id": 7856928653501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bcc26192c04310c65f17e74c4cd04d3fdbf98e67-1200x1200jpg.jpg?v=1726490137",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

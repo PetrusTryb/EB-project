@@ -1,0 +1,653 @@
+[
+  {
+    "id": 7857067425981,
+    "title": "Cute Stockings Etui na Sztu\u0107ce",
+    "handle": "hp-1007115-cute-cutlery-stockings",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>21 cm d\u0142ugie X 8 cm szerokie</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Te urocze skarpety na sztu\u0107ce b\u0119d\u0105 idealnym dodatkiem do \u015bwi\u0105tecznego sto\u0142u i nadadz\u0105 mu przytulnego, \u015bwi\u0105tecznego charakteru! Wz\u00f3r pozwala na wykonanie 6 skarpet, po 3 w ka\u017cdym kolorze. Podane ilo\u015bci w\u0142\u00f3czki oznaczaj\u0105 r\u00f3wnie\u017c, \u017ce z tego, co zosta\u0142o, mo\u017cna wykona\u0107 6 pasuj\u0105cych mini opasek na serwetki! Wz\u00f3r Mini Mitten mo\u017cna znale\u017a\u0107 w kolekcji Katie Jones Candyland.</p><p>Opr\u00f3cz tego, \u017ce pi\u0119knie wygl\u0105daj\u0105 jako dekoracja sto\u0142u, \u015bwietnie prezentuj\u0105 si\u0119 r\u00f3wnie\u017c na choince lub po\u0142\u0105czone razem w girland\u0119!</p><p>Wz\u00f3r jest przerabiany na okr\u0105g\u0142o i zawiera zdj\u0119cia, kt\u00f3re pomog\u0105 Ci wykona\u0107 pi\u0119t\u0119.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423573307581,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1199-233-8717",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857067425981,
+        "created_at": "2024-08-06T10:26:54+02:00",
+        "updated_at": "2024-11-22T22:43:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378157093053,
+        "created_at": "2024-09-17T14:01:58+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:02:00+02:00",
+        "product_id": 7857067425981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0921066fab48a49b6352ba3ba9917b9d03a4f49e-3321x3321jpg.jpg?v=1726574520",
+        "width": 3321,
+        "height": 3321
+      },
+      {
+        "id": 35378156765373,
+        "created_at": "2024-09-17T14:01:58+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:02:00+02:00",
+        "product_id": 7857067425981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/effe33b11159cf21a187ef23897fd28da7b81f34-2150x2150jpg.jpg?v=1726574520",
+        "width": 2150,
+        "height": 2150
+      },
+      {
+        "id": 35378156929213,
+        "created_at": "2024-09-17T14:01:58+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:02:00+02:00",
+        "product_id": 7857067425981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7fa7931f4a3ad6b8041405820c45c125f97f7743-2666x2666jpg.jpg?v=1726574520",
+        "width": 2666,
+        "height": 2666
+      },
+      {
+        "id": 35378156896445,
+        "created_at": "2024-09-17T14:01:58+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:02:00+02:00",
+        "product_id": 7857067425981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/de24a6c8109f41bd63d9f3fe028c8c91f23b029c-1902x1902jpg.jpg?v=1726574520",
+        "width": 1902,
+        "height": 1902
+      },
+      {
+        "id": 35378156961981,
+        "created_at": "2024-09-17T14:01:58+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:02:00+02:00",
+        "product_id": 7857067425981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9836172fbc772430202631ba4609759bf33a0a5c-2443x2443jpg.jpg?v=1726574520",
+        "width": 2443,
+        "height": 2443
+      },
+      {
+        "id": 35378156994749,
+        "created_at": "2024-09-17T14:01:58+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:02:00+02:00",
+        "product_id": 7857067425981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2d2df91151c1b959f4b58c9f0635c79801843633-3975x3975jpg.jpg?v=1726574520",
+        "width": 3975,
+        "height": 3975
+      },
+      {
+        "id": 35378157125821,
+        "created_at": "2024-09-17T14:01:58+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:02:00+02:00",
+        "product_id": 7857067425981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/28ea7134af345240e61527cc4e4c001dd8875f42-4103x4103jpg.jpg?v=1726574520",
+        "width": 4103,
+        "height": 4103
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857065787581,
+    "title": "Fair Isle Fancy - Komplet obiadowy",
+    "handle": "hp-1007113-fair-isle-fancy-dining-set",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Podk\u0142adka</p><p>Szeroko\u015b\u0107: 36 cm / Wysoko\u015b\u0107: 32 cm</p><p>Etui na sztu\u0107ce</p><p>Szeroko\u015b\u0107: 9 cm / Wysoko\u015b\u0107: 25 cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Zestaw Fair Isle Fancy to odwa\u017cny, zabawny wz\u00f3r Fair Isle, kt\u00f3ry zapewni weso\u0142y \u015bwi\u0105teczny akcent na Twoim wigilijnym stole. Wz\u00f3r jest przeznaczony dla zaawansowanych pocz\u0105tkuj\u0105cych i jest idealny do spr\u00f3bowania swoich si\u0142 we wrabianiu kolor\u00f3w. Wz\u00f3r zawiera schematy wprowadzania kolor\u00f3w Fair Isle i jest dost\u0119pny w 2 opcjach kolorystycznych. Zestaw sk\u0142ada si\u0119 z 2 podk\u0142adek i 2 etui na sztu\u0107ce.</p><p>Wz\u00f3r \u0142\u0105czy w sobie jednolite kolory i r\u00f3\u017cne b\u0142yszcz\u0105ce w\u0142\u00f3czki aby stworzy\u0107 \u015bwi\u0105teczny nastr\u00f3j!</p><p>\n</p><p><strong>Kolorystyka 2:</strong></p><p>Friends Cotton 8/8:</p><p>Candyfloss (45) X 2 motki</p><p>Pink (47) X 1 motek</p><p>Tomato (40) X 1 motek</p><p>Oatmilk (03) X 1 motek</p><p>Baby Pink (51) X 1 motek</p><p>Panettone:</p><p>Red/Pink (05) X 1 motek</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423569309885,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2199-233-8488",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857065787581,
+        "created_at": "2024-08-06T10:26:43+02:00",
+        "updated_at": "2024-11-22T22:43:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378151325885,
+        "created_at": "2024-09-17T14:01:42+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3fbccba09d97f0a82f2eb8d807e6cbef5857463f-3456x3456jpg.jpg?v=1726574505",
+        "width": 3456,
+        "height": 3456
+      },
+      {
+        "id": 35378150998205,
+        "created_at": "2024-09-17T14:01:42+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34fc2c3630eb95042614d82cc6286638519b0139-3306x3306jpg.jpg?v=1726574505",
+        "width": 3306,
+        "height": 3306
+      },
+      {
+        "id": 35378151063741,
+        "created_at": "2024-09-17T14:01:42+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a990bbdb729997774c5a3151ee2cd8c1d05c7308-1297x1297jpg.jpg?v=1726574505",
+        "width": 1297,
+        "height": 1297
+      },
+      {
+        "id": 35378151456957,
+        "created_at": "2024-09-17T14:01:42+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fb5775bbe95ed1e687aab293a6b83288b0358fc5-2934x2934jpg.jpg?v=1726574505",
+        "width": 2934,
+        "height": 2934
+      },
+      {
+        "id": 35378151194813,
+        "created_at": "2024-09-17T14:01:42+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffd9b4c1850569a7a6870771718c253adcc10cb7-3456x3456jpg.jpg?v=1726574505",
+        "width": 3456,
+        "height": 3456
+      },
+      {
+        "id": 35378151424189,
+        "created_at": "2024-09-17T14:01:43+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b535568beb71c7f80489c6aaa7c576a04b1a5a40-3097x3097jpg.jpg?v=1726574505",
+        "width": 3097,
+        "height": 3097
+      },
+      {
+        "id": 35378151522493,
+        "created_at": "2024-09-17T14:01:43+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ce071464357ebc4b3cdbe94a1cbd872d1168f56c-3305x3456jpg.jpg?v=1726574505",
+        "width": 3305,
+        "height": 3456
+      },
+      {
+        "id": 35378151391421,
+        "created_at": "2024-09-17T14:01:43+02:00",
+        "position": 8,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a7e764b6e6d3e785615e53a26928b5bfafb68cc9-3456x3456jpg.jpg?v=1726574505",
+        "width": 3456,
+        "height": 3456
+      },
+      {
+        "id": 35378151260349,
+        "created_at": "2024-09-17T14:01:43+02:00",
+        "position": 9,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7e926f4674f1905bf4bf58994459b7b76d198df3-2645x2645jpg.jpg?v=1726574505",
+        "width": 2645,
+        "height": 2645
+      },
+      {
+        "id": 35378151293117,
+        "created_at": "2024-09-17T14:01:43+02:00",
+        "position": 10,
+        "updated_at": "2024-09-17T14:01:45+02:00",
+        "product_id": 7857065787581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a387b05a0bae70b541dc1ba5369c93c7238f6cd7-1314x1314jpg.jpg?v=1726574505",
+        "width": 1314,
+        "height": 1314
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856999465149,
+    "title": "Sweet Treat - \u015awi\u0105teczna Skarpeta",
+    "handle": "hp-1007110-sweet-treat-christmas-stocking",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 26 cm</p><p>D\u0142ugo\u015b\u0107: 70 cm</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Wz\u00f3r na skarpet\u0119 Sweet Treat to wyrazisty, zabawny wz\u00f3r Fair Isle, kt\u00f3ry jest dziergany na p\u0142asko. Wz\u00f3r jest odpowiedni dla \u015brednio-zaawansowanych i zaawansowanych pocz\u0105tkuj\u0105cych i jest idealn\u0105 okazj\u0105 do spr\u00f3bowania swoich si\u0142 we wrabianiu kolor\u00f3w, poniewa\u017c sekcje Fair Isle s\u0105 przerabiane s\u0105 na prosto, bez dodawania i odejmowania oczek. Wz\u00f3r zawiera zdj\u0119cia i schemat Fair Isle. Projekt wykonany jest z mieszanki tweedu i per\u0142owej w\u0142\u00f3czki, dzi\u0119ki czemu ma wyj\u0105tkow\u0105 tekstur\u0119 i po\u0142ysk, a dzi\u0119ki b\u0105belkom dodatkowo efekt 3D.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423385448637,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2199-233-2648",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856999465149,
+        "created_at": "2024-08-06T10:19:57+02:00",
+        "updated_at": "2024-11-22T22:43:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378135892157,
+        "created_at": "2024-09-17T14:00:46+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:00:50+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/053a6b7d746cda0b69f33f61b7257fc797fc6f1c-4220x4220jpg.jpg?v=1726574450",
+        "width": 4220,
+        "height": 4220
+      },
+      {
+        "id": 35378135957693,
+        "created_at": "2024-09-17T14:00:46+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:00:50+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6d6fabf1e2ec4914ab8128777354a169b544962e-1911x1911jpg.jpg?v=1726574450",
+        "width": 1911,
+        "height": 1911
+      },
+      {
+        "id": 35378135793853,
+        "created_at": "2024-09-17T14:00:46+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:00:49+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/575c9f4eeb18af63284db4120190f2dbb3224613-2119x2119jpg.jpg?v=1726574449",
+        "width": 2119,
+        "height": 2119
+      },
+      {
+        "id": 35378135924925,
+        "created_at": "2024-09-17T14:00:46+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:00:50+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5887bb3be7d6641ddac024ef417366b1ba824dd9-3456x3456jpg.jpg?v=1726574450",
+        "width": 3456,
+        "height": 3456
+      },
+      {
+        "id": 35378135859389,
+        "created_at": "2024-09-17T14:00:46+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:00:50+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c1ed29d60da14da81263d4e915fe8f14abb76dfd-3345x3345jpg.jpg?v=1726574450",
+        "width": 3345,
+        "height": 3345
+      },
+      {
+        "id": 35378135826621,
+        "created_at": "2024-09-17T14:00:46+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:00:49+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c48e650e0a3fceaf156e9582579d6d62545e0f7d-2984x2984jpg.jpg?v=1726574449",
+        "width": 2984,
+        "height": 2984
+      },
+      {
+        "id": 35378136088765,
+        "created_at": "2024-09-17T14:00:46+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:00:50+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c0fb0efdef7208d2d6af90eeaa48a85845bd99b1-1681x1681jpg.jpg?v=1726574450",
+        "width": 1681,
+        "height": 1681
+      },
+      {
+        "id": 35378135761085,
+        "created_at": "2024-09-17T14:00:47+02:00",
+        "position": 8,
+        "updated_at": "2024-09-17T14:00:49+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2f80154ba595da266f31c1821600abc27ed570b7-1503x1503jpg.jpg?v=1726574449",
+        "width": 1503,
+        "height": 1503
+      },
+      {
+        "id": 35378136023229,
+        "created_at": "2024-09-17T14:00:47+02:00",
+        "position": 9,
+        "updated_at": "2024-09-17T14:00:50+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0f1069adaf70948f1731e88a2ad198c16f467e1a-1109x1109jpg.jpg?v=1726574450",
+        "width": 1109,
+        "height": 1109
+      },
+      {
+        "id": 35378136252605,
+        "created_at": "2024-09-17T14:00:47+02:00",
+        "position": 10,
+        "updated_at": "2024-09-17T14:00:50+02:00",
+        "product_id": 7856999465149,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a96136b09cdfdc4283ba210d47ad7bd15e2374da-795x794jpg.jpg?v=1726574450",
+        "width": 795,
+        "height": 794
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856960438461,
+    "title": "Advent Xmas Lights",
+    "handle": "hp-1007116-advent-xmas-lights",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>11 cm d\u0142ugie X 5,2 cm szerokie</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Ten idealny dla pocz\u0105tkuj\u0105cych wz\u00f3r pozwala na wykonanie 24 adwentowych zawieszek na \u015bwi\u0105teczne cukierki! Mo\u017cna je wykona\u0107 jako pojedyncze lampki i umie\u015bci\u0107 na choince jako dekoracje adwentowe lub po\u0142\u0105czy\u0107 ze sob\u0105 za pomoc\u0105 \u0142a\u0144cuszka, aby stworzy\u0107 girland\u0119.</p><p>Ka\u017cde \u015bwiate\u0142ko ma idealny rozmiar, aby zmie\u015bci\u0107 s\u0142odki przysmak i stanowi naprawd\u0119 zabawn\u0105 interaktywn\u0105 dekoracj\u0119 do domu! Wz\u00f3r jest przerabiany na okr\u0105g\u0142o.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423277674685,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1199-233-1251",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856960438461,
+        "created_at": "2024-08-06T10:14:33+02:00",
+        "updated_at": "2024-11-22T22:43:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378148933821,
+        "created_at": "2024-09-17T14:01:36+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:01:38+02:00",
+        "product_id": 7856960438461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dd69c52235963ce2fd514d767f82fa1cf5e2f333-3456x3456jpg.jpg?v=1726574498",
+        "width": 3456,
+        "height": 3456
+      },
+      {
+        "id": 35378149032125,
+        "created_at": "2024-09-17T14:01:36+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:01:38+02:00",
+        "product_id": 7856960438461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c4a07c0d35da799f8734d4ec4d4a24a57b4993e0-2270x2270jpg.jpg?v=1726574498",
+        "width": 2270,
+        "height": 2270
+      },
+      {
+        "id": 35378149097661,
+        "created_at": "2024-09-17T14:01:36+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:01:38+02:00",
+        "product_id": 7856960438461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0b3cf2a6944ed618cd1aafe47e8d3fa0228e67b1-3456x3456jpg.jpg?v=1726574498",
+        "width": 3456,
+        "height": 3456
+      },
+      {
+        "id": 35378148868285,
+        "created_at": "2024-09-17T14:01:36+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:01:38+02:00",
+        "product_id": 7856960438461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/718bacd7daf36a075bbb61279c21357d685619a2-2422x2422jpg.jpg?v=1726574498",
+        "width": 2422,
+        "height": 2422
+      },
+      {
+        "id": 35378148966589,
+        "created_at": "2024-09-17T14:01:36+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:01:38+02:00",
+        "product_id": 7856960438461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5c6f16897d85ee187e306e7dd3b8bf68a12fe228-2543x2543jpg.jpg?v=1726574498",
+        "width": 2543,
+        "height": 2543
+      },
+      {
+        "id": 35378148901053,
+        "created_at": "2024-09-17T14:01:36+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:01:38+02:00",
+        "product_id": 7856960438461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/428925a5ca27f8820198adb7d83ea823966ab66f-2516x2516jpg.jpg?v=1726574498",
+        "width": 2516,
+        "height": 2516
+      },
+      {
+        "id": 35378149064893,
+        "created_at": "2024-09-17T14:01:36+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:01:38+02:00",
+        "product_id": 7856960438461,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fc6bf4b8cee8313e48ed4e1a9fa718730e89dc36-3472x3472jpg.jpg?v=1726574498",
+        "width": 3472,
+        "height": 3472
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856928063677,
+    "title": "Mini Mitten - Opaski na serwetki",
+    "handle": "hp-1007112-mini-mitten-napkin-ties",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>W najd\u0142u\u017cszym miejscu r\u0119kawiczka ma d\u0142ugo\u015b\u0107 10 cm X 9 cm szeroko\u015bci</p><p>\n<strong>INFORMACJE O WZORZE</strong></p><p>Te urocze r\u0119kawiczki b\u0119d\u0105 idealnym dodatkiem do \u015bwi\u0105tecznego sto\u0142u i nadadz\u0105 mu przytulnego, \u015bwi\u0105tecznego charakteru! Wz\u00f3r pozwala na wykonanie 6 r\u0119kawiczek, po 3 w ka\u017cdej wersji kolorystycznej. Podane ilo\u015bci w\u0142\u00f3czki oznaczaj\u0105 r\u00f3wnie\u017c, \u017ce z tego, co zosta\u0142o, mo\u017cna wykona\u0107 6 pasuj\u0105cych etui na sztu\u0107ce! Urocze etui- skarpety na sztu\u0107ce znajdziesz w kolekcji Katie Jones Candyland.</p><p>Opr\u00f3cz tego, \u017ce pi\u0119knie wygl\u0105daj\u0105 jako dekoracje sto\u0142u, \u015bwietnie prezentuj\u0105 si\u0119 r\u00f3wnie\u017c na choince!</p><p>Wz\u00f3r jest przerabiany na okr\u0105g\u0142o i zawiera zdj\u0119cia, kt\u00f3re pomog\u0105 Ci wykona\u0107 kciuk.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423181107389,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1199-233-9212",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856928063677,
+        "created_at": "2024-08-06T10:05:45+02:00",
+        "updated_at": "2024-11-22T22:43:27+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378134614205,
+        "created_at": "2024-09-17T14:00:37+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:00:39+02:00",
+        "product_id": 7856928063677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fdaf8c97bf2a73849f35f40a06c77c959ece7921-2937x2937jpg.jpg?v=1726574439",
+        "width": 2937,
+        "height": 2937
+      },
+      {
+        "id": 35378134712509,
+        "created_at": "2024-09-17T14:00:37+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:00:39+02:00",
+        "product_id": 7856928063677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/580ac870e8301bb3fb0e518857719b204eb3c684-3064x3064jpg.jpg?v=1726574439",
+        "width": 3064,
+        "height": 3064
+      },
+      {
+        "id": 35378134352061,
+        "created_at": "2024-09-17T14:00:37+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:00:39+02:00",
+        "product_id": 7856928063677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2b2d92c029f362e9537e6bc9657b2a6c44d595b4-1597x1597jpg.jpg?v=1726574439",
+        "width": 1597,
+        "height": 1597
+      },
+      {
+        "id": 35378134384829,
+        "created_at": "2024-09-17T14:00:37+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:00:39+02:00",
+        "product_id": 7856928063677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/890d24bb4e4d2168ea0501f86234e2e88ce7db27-3456x3456jpg.jpg?v=1726574439",
+        "width": 3456,
+        "height": 3456
+      },
+      {
+        "id": 35378134515901,
+        "created_at": "2024-09-17T14:00:37+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:00:39+02:00",
+        "product_id": 7856928063677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1373905286225a558e8e97cacabdd0be90bf5cf4-2357x2357jpg.jpg?v=1726574439",
+        "width": 2357,
+        "height": 2357
+      },
+      {
+        "id": 35378134450365,
+        "created_at": "2024-09-17T14:00:37+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:00:39+02:00",
+        "product_id": 7856928063677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be9b1c3fb2fcce99958822c1f07169cc88f84a40-2082x2082jpg.jpg?v=1726574439",
+        "width": 2082,
+        "height": 2082
+      },
+      {
+        "id": 35378134778045,
+        "created_at": "2024-09-17T14:00:37+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T14:00:39+02:00",
+        "product_id": 7856928063677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9f71dd7c1da21611a19151b63bde1b2a59232e80-3243x3243jpg.jpg?v=1726574439",
+        "width": 3243,
+        "height": 3243
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

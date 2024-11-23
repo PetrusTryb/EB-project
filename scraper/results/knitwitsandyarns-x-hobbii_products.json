@@ -1,0 +1,374 @@
+[
+  {
+    "id": 7857054843069,
+    "title": "Cheynes - Beanie",
+    "handle": "hp-1007342-cheynes-beanie",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M) L</p><p>\n<strong>WYMIAR</strong></p><p>Obw\u00f3d g\u0142owy:</p><p>S \u2013 49-54cm</p><p>M \u2013 54\u201359cm</p><p>L \u2013 59-64cm</p><p>\n</p><p>D\u0142ugo\u015b\u0107 (odwini\u0119ty \u015bci\u0105gacz):</p><p>S/M/L \u2013 25cm</p><p>\n</p><p>U\u017cyta w\u0142\u00f3czka i metoda nabierania oczek \u201clong tail cast on\u201d zapewniaj\u0105 rozci\u0105gliw\u0105 czapk\u0119 z ujemnym luzem (negative ease).</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Powitaj Cheynes Beanie (wymawiaj chains). Jest to \u017cakardowa czapka, odpowiednia dla pocz\u0105tkuj\u0105cych. Jest wykonana na okr\u0105g\u0142o i zapewnia \u0142atwe wprowadzenie we wzory \u017cakardowe. Cheynes to ma\u0142e nadmorskie miasteczko niedaleko mojego miejsca zamieszkania, w regionie Great Southern w Australii Zachodniej. Wydawa\u0142o mi si\u0119, \u017ce \u0142a\u0144cuszek po\u015brodku tego wzoru by\u0142 idealn\u0105 inspiracj\u0105 przy nadaniu nazwy tej czapce.</p><p>\n</p><p>Podczas \u017cakardowych prac na drutach wa\u017cne jest, aby nitka z ty\u0142u rob\u00f3tki by\u0142a \u201elu\u017ano\u201d prowadzona. Je\u015bli nitka b\u0119dzie zbyt \u201enapi\u0119ta\u201d nie b\u0119dzie mog\u0142a si\u0119 rozci\u0105gn\u0105\u0107 i chocia\u017c Twoja czapka mo\u017ce wygl\u0105da\u0107 \u0142adnie, nie b\u0119dzie dobrze dopasowana.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423538409661,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-8794",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857054843069,
+        "created_at": "2024-08-06T10:25:35+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      },
+      {
+        "id": 44423538442429,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-8794",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7857054843069,
+        "created_at": "2024-08-06T10:25:35+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      },
+      {
+        "id": 44423538475197,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-8794",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7857054843069,
+        "created_at": "2024-08-06T10:25:35+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378230526141,
+        "created_at": "2024-09-17T14:11:45+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:11:47+02:00",
+        "product_id": 7857054843069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/43c6d14e7cf9ec68f2bda2f946a5490ca01156fe-1080x1080png.png?v=1726575107",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378230624445,
+        "created_at": "2024-09-17T14:11:45+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:11:47+02:00",
+        "product_id": 7857054843069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4f26b5db83062119c202879e1c1a537f05071956-1080x1080png.png?v=1726575107",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378230591677,
+        "created_at": "2024-09-17T14:11:45+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:11:47+02:00",
+        "product_id": 7857054843069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/de64604ca8d4cf682334980cad239ba2f0a27cfb-1080x1080png.png?v=1726575107",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378230558909,
+        "created_at": "2024-09-17T14:11:45+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:11:47+02:00",
+        "product_id": 7857054843069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f1c1a685b3e16c4a980612f7e4228690f64db984-1080x1080png.png?v=1726575107",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857008410813,
+    "title": "Torbay - Beanie",
+    "handle": "hp-1007340-torbay-beanie",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M) L</p><p>\n<strong>WYMIAR</strong></p><p>Obw\u00f3d g\u0142owy:</p><p>S \u2013 47-52cm</p><p>M \u2013 52\u201357cm</p><p>L \u2013 57-62cm</p><p>\n</p><p>D\u0142ugo\u015b\u0107 (odwini\u0119ty \u015bci\u0105gacz):</p><p>S \u2013 19cm</p><p>M/L \u2013 23cm</p><p>\n</p><p>U\u017cyta w\u0142\u00f3czka i metoda nabierania oczek \u201clong tail cast on\u201d zapewniaj\u0105 rozci\u0105gliw\u0105 czapk\u0119 z ujemnym luzem (negative ease). Oznacza to, \u017ce gotowa czapka b\u0119dzie wygl\u0105da\u0107 na ma\u0142\u0105, ale \u0142adnie rozci\u0105ga si\u0119 na g\u0142owie.</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Powitaj Torbay Beanie. Ta czapka z warkoczowym wzorem idealnie nada si\u0119 dla pocz\u0105tkuj\u0105cych. Wz\u00f3r sk\u0142ada si\u0119 z 12 rz\u0119d\u00f3w i wymaga wykonania oczek warkoczowych (splotu) tylko w jednym z tych rz\u0119d\u00f3w. Pozosta\u0142a cz\u0119\u015b\u0107 wzoru sk\u0142ada si\u0119 z oczek prawych i lewych. Moja przyjaci\u00f3\u0142ka pomog\u0142a mi nazwa\u0107 t\u0105 czapk\u0119, bo wed\u0142ug niej przypomina ona szparagi rosn\u0105ce w ma\u0142ym miasteczku Torbay, po\u0142o\u017conym w regionie Great Southern w Australii Zachodniej.</p><p>\n</p><p>Czapka jest przerabiana na okr\u0105g\u0142o i wykorzystane s\u0105 dwa sploty, aby uzyska\u0107 niepowtarzalny wz\u00f3r. Wysoko\u015b\u0107 tej czapki mo\u017cna \u0142atwo regulowa\u0107, zwi\u0119kszaj\u0105c lub zmniejszaj\u0105c liczb\u0119 powt\u00f3rze\u0144.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423411794109,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-1292",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857008410813,
+        "created_at": "2024-08-06T10:20:52+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      },
+      {
+        "id": 44423411826877,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-1292",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7857008410813,
+        "created_at": "2024-08-06T10:20:52+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      },
+      {
+        "id": 44423411859645,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-1292",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7857008410813,
+        "created_at": "2024-08-06T10:20:52+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378228822205,
+        "created_at": "2024-09-17T14:11:32+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:11:34+02:00",
+        "product_id": 7857008410813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b3e555dfe6fc27a42107016a0c2ab9c54c1643c7-1080x1080png.png?v=1726575094",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378228887741,
+        "created_at": "2024-09-17T14:11:32+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:11:34+02:00",
+        "product_id": 7857008410813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6e02acf5b0d57d4517b25d39d98f0bfe13470c28-1080x1080png.png?v=1726575094",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378228854973,
+        "created_at": "2024-09-17T14:11:32+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:11:34+02:00",
+        "product_id": 7857008410813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9516d0a725db0b05c300ff1a15a67e4a3f0b9f1e-1080x1080png.png?v=1726575094",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378228986045,
+        "created_at": "2024-09-17T14:11:33+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:11:35+02:00",
+        "product_id": 7857008410813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c6b1906a13abe962e527d0d5900c8516ed700133-1080x1080png.png?v=1726575095",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856941531325,
+    "title": "Manypeaks - Beanie",
+    "handle": "hp-1007341-manypeaks-beanie",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M) L</p><p>\n<strong>WYMIAR</strong></p><p>Obw\u00f3d g\u0142owy:</p><p>S \u2013 45-50cm</p><p>M \u2013 50\u201356cm</p><p>L \u2013 56-62cm</p><p>\n</p><p>D\u0142ugo\u015b\u0107:</p><p>S \u2013 21cm</p><p>M/L \u2013 25cm</p><p>\n</p><p>U\u017cyta w\u0142\u00f3czka i metoda nabierania oczek \u201clong tail cast on\u201d zapewniaj\u0105 rozci\u0105gliw\u0105 czapk\u0119 z ujemnym luzem (negative ease). Oznacza to, \u017ce gotowa czapka b\u0119dzie wygl\u0105da\u0107 na ma\u0142\u0105, ale \u0142adnie rozci\u0105ga si\u0119 na g\u0142owie.</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Powitaj Manypeaks Beanie. Ten warkocz w kszta\u0142cie rog\u00f3w renifera sk\u0142ada si\u0119 z 6 rz\u0119d\u00f3w i jest przyjazny dla pocz\u0105tkuj\u0105cych. Manypeaks to ma\u0142e miasteczko po\u0142o\u017cone blisko mojego miejsca zamieszkania, w regionie Great Southern w Australii Zachodniej. Warkocze w tym projekcie tworz\u0105 szczyty, wi\u0119c pomy\u015bla\u0142em, \u017ce w\u0142a\u015bciw\u0105 nazw\u0105 dla tej czapki b\u0119dzie Manypeaks Beanie.</p><p>\n</p><p>We wzorze wykorzystano dwa r\u00f3\u017cne sploty, kt\u00f3re powtarzaj\u0105 si\u0119 w ka\u017cdym kolejnym rz\u0119dzie, aby uzyska\u0107 efekt rog\u00f3w renifera. Podczas przerabiania warkocza wa\u017cne jest utrzymanie w\u0142a\u015bciwego i lu\u017anego napr\u0119\u017cenia nitki. Mocne napr\u0119\u017cenie nitki spowoduje, \u017ce czapka b\u0119dzie niewygodna w noszeniu. Wysoko\u015b\u0107 tej czapki mo\u017cna \u0142atwo regulowa\u0107, zwi\u0119kszaj\u0105c lub zmniejszaj\u0105c liczb\u0119 powt\u00f3rze\u0144.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423223738557,
+        "title": "Small",
+        "option1": "Small",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-6021",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856941531325,
+        "created_at": "2024-08-06T10:10:57+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      },
+      {
+        "id": 44423223771325,
+        "title": "Medium",
+        "option1": "Medium",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-6021",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856941531325,
+        "created_at": "2024-08-06T10:10:57+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      },
+      {
+        "id": 44423223804093,
+        "title": "Large",
+        "option1": "Large",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2336-234-6021",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856941531325,
+        "created_at": "2024-08-06T10:10:57+02:00",
+        "updated_at": "2024-11-22T22:43:34+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378230362301,
+        "created_at": "2024-09-17T14:11:45+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:11:47+02:00",
+        "product_id": 7856941531325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f6886f593113bd7d0fe6d4a132ba79153b1a82e9-1080x1080png.png?v=1726575107",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378230395069,
+        "created_at": "2024-09-17T14:11:45+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:11:47+02:00",
+        "product_id": 7856941531325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f4565ac3cb900926e5292499676a121eecd22b7f-1080x1080png.png?v=1726575107",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378230329533,
+        "created_at": "2024-09-17T14:11:45+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:11:47+02:00",
+        "product_id": 7856941531325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d3b865e9fcfb72a3f20e6f5a218e09ce58eb9a48-1080x1080png.png?v=1726575107",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378230427837,
+        "created_at": "2024-09-17T14:11:45+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:11:47+02:00",
+        "product_id": 7856941531325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/42e94bbcf0e89d4d9655964f0616fba291e01d90-1080x1080png.png?v=1726575107",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,850 @@
+[
+  {
+    "id": 7886982971581,
+    "title": "Atahualpa Owl",
+    "handle": "hp-1008408-atahualpa-owl",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Wysoko\u015b\u0107: ok. 19 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Sowa Athaualpa to projekt dla \u015bredniozaawansowanych, przerabiany spiralnie. Zalecam zaznaczenie pocz\u0105tku okr\u0105\u017cenia markerem lub agrafk\u0105. G\u0142owa i tu\u0142\u00f3w s\u0105 przerabiane w jednym kawa\u0142ku. Atahualpa ma r\u00f3wnie\u017c 2 akcesoria: beret i szalik. Pami\u0119taj, \u017ce zawsze wskazane jest, aby przed rozpocz\u0119ciem szyde\u0142kowania zapozna\u0107 si\u0119 z ca\u0142ym wzorem i, co najwa\u017cniejsze, uzbroi\u0107 si\u0119 w cierpliwo\u015b\u0107!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44523887526077,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1313-243-5367",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7886982971581,
+        "created_at": "2024-09-24T09:15:07+02:00",
+        "updated_at": "2024-11-22T22:53:49+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35417789202621,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 1,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/370153b08bc8cb99f04552ae76fa36037379dde2-1181x1181jpg.jpg?v=1727179686",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417789235389,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 2,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ec7556abb3ebac9c27f93258d4ba665f05eff8e1-1181x1181jpg.jpg?v=1727179686",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417789038781,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 3,
+        "updated_at": "2024-09-24T14:08:05+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e5eea768970cb82423fd3ced9dfef07f3d0c4c84-1181x1181jpg.jpg?v=1727179685",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417789300925,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 4,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/000676767996fa958b0acaf77bc923aed7e6cd2f-1181x1181jpg.jpg?v=1727179686",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417789464765,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 5,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fd939428a528a59d4e0a623dbd0181e8ca43d15e-1181x1181jpg.jpg?v=1727179686",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417789169853,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 6,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7e36b66c3f4bca424da5541dc0aaaea5c9b98089-1181x1181jpg.jpg?v=1727179686",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417789104317,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 7,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d2f32b3b133b449151704d7e8900c70fc4068e15-1080x1080png.png?v=1727179686",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35417789399229,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 8,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3904b9cb803b5a41930123fe79671a549241e256-1080x1080png.png?v=1727179686",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35417789431997,
+        "created_at": "2024-09-24T14:08:03+02:00",
+        "position": 9,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ef8e2a2fcb7f999eec1585933314fcce20ef2adf-1080x1080png.png?v=1727179686",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35417789071549,
+        "created_at": "2024-09-24T14:08:04+02:00",
+        "position": 10,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/95ecc8cd15ba2ded1cdfd04441bc63db07ebbedc-1080x1080png.png?v=1727179686",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35417789137085,
+        "created_at": "2024-09-24T14:08:04+02:00",
+        "position": 11,
+        "updated_at": "2024-09-24T14:08:06+02:00",
+        "product_id": 7886982971581,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0c39de953a200aabd2740f7e53562d23704a3030-1080x1080png.png?v=1727179686",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7886982906045,
+    "title": "Bruno Squirrel",
+    "handle": "hp-1008407-bruno-squirrel",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Wysoko\u015b\u0107: ok. 19 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Wiewi\u00f3rka Bruno to projekt dla \u015bredniozaawansowanych, przerabiany spiralnie. Zalecam zaznaczenie pocz\u0105tku okr\u0105\u017cenia markerem lub agrafk\u0105. G\u0142owa, tu\u0142\u00f3w i nogi s\u0105 przerabiane w jednym kawa\u0142ku. Wiewi\u00f3rka Bruno ma r\u00f3wnie\u017c 1 akcesorium: kaptur z szalikiem. Pami\u0119taj, \u017ce zawsze wskazane jest, aby przed rozpocz\u0119ciem szyde\u0142kowania zapozna\u0107 si\u0119 z ca\u0142ym wzorem i, co najwa\u017cniejsze, uzbroi\u0107 si\u0119 w cierpliwo\u015b\u0107!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44523887493309,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1313-243-6732",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7886982906045,
+        "created_at": "2024-09-24T09:15:06+02:00",
+        "updated_at": "2024-11-22T22:53:49+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35417790447805,
+        "created_at": "2024-09-24T14:08:16+02:00",
+        "position": 1,
+        "updated_at": "2024-09-24T14:08:18+02:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/14372d8b1bdc3858ad091e78b8f42225ab89e33a-1181x1181jpg.jpg?v=1727179698",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417790578877,
+        "created_at": "2024-09-24T14:08:16+02:00",
+        "position": 2,
+        "updated_at": "2024-09-24T14:08:18+02:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/296144a714b02fc7b1d6f8b3b2ffc5add73b7061-1181x1181jpg.jpg?v=1727179698",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417790415037,
+        "created_at": "2024-09-24T14:08:16+02:00",
+        "position": 3,
+        "updated_at": "2024-09-24T14:08:18+02:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/df0226942fc3660693e6d47b70da9f60c89109fb-1181x1181jpg.jpg?v=1727179698",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417790513341,
+        "created_at": "2024-09-24T14:08:16+02:00",
+        "position": 4,
+        "updated_at": "2024-09-24T14:08:18+02:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f9ff55a560303aa38deb4539f339025c18a28f0b-1181x1181jpg.jpg?v=1727179698",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417790480573,
+        "created_at": "2024-09-24T14:08:16+02:00",
+        "position": 5,
+        "updated_at": "2024-09-24T14:08:18+02:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cb3cca501279d7e3afc86ce764f902876ca35e1c-1181x1181jpg.jpg?v=1727179698",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417790742717,
+        "created_at": "2024-09-24T14:08:16+02:00",
+        "position": 6,
+        "updated_at": "2024-09-24T14:08:18+02:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c26b7c1524b5fc6639646f0afdc097d77db0a0c1-1181x1181jpg.jpg?v=1727179698",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 71845129781626,
+        "created_at": "2024-11-05T12:11:27+01:00",
+        "position": 7,
+        "updated_at": "2024-11-05T12:11:30+01:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3b74a03c2853c85271f7a2f206f83d69.png?v=1730805090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71845129814394,
+        "created_at": "2024-11-05T12:11:27+01:00",
+        "position": 8,
+        "updated_at": "2024-11-05T12:11:30+01:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3bca1cb3523d7087cce931a98d013a32.png?v=1730805090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71845129847162,
+        "created_at": "2024-11-05T12:11:27+01:00",
+        "position": 9,
+        "updated_at": "2024-11-05T12:11:30+01:00",
+        "product_id": 7886982906045,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4badad602c98fcdd2e0114084a984575.png?v=1730805090",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7886982938813,
+    "title": "Rita Fox",
+    "handle": "hp-1008406-rita-fox",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Wysoko\u015b\u0107: ok. 24 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Lis Rita to projekt dla \u015bredniozaawansowanych, przerabiany spiralnie. Zalecam zaznaczenie pocz\u0105tku okr\u0105\u017cenia markerem lub agrafk\u0105. G\u0142owa, tu\u0142\u00f3w i nogi s\u0105 przerabiane w jednym kawa\u0142ku. Rita Lis ma r\u00f3wnie\u017c 3 akcesoria: szalik, sukienk\u0119 i par\u0119 but\u00f3w. Pami\u0119taj, \u017ce zawsze wskazane jest, aby przed rozpocz\u0119ciem szyde\u0142kowania zapozna\u0107 si\u0119 z ca\u0142ym wzorem i, co najwa\u017cniejsze, uzbroi\u0107 si\u0119 w cierpliwo\u015b\u0107!</p><p>\n\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44523887460541,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1313-243-6679",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7886982938813,
+        "created_at": "2024-09-24T09:15:06+02:00",
+        "updated_at": "2024-11-22T22:53:49+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35417798574269,
+        "created_at": "2024-09-24T14:10:09+02:00",
+        "position": 1,
+        "updated_at": "2024-09-24T14:10:12+02:00",
+        "product_id": 7886982938813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/da8c74b74cefff111292f5411e3f6641e3132bdf-1181x1181jpg.jpg?v=1727179812",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417798475965,
+        "created_at": "2024-09-24T14:10:09+02:00",
+        "position": 2,
+        "updated_at": "2024-09-24T14:10:12+02:00",
+        "product_id": 7886982938813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/37e67f61177cba73bd450f76781e68bf114eb551-1181x1181jpg.jpg?v=1727179812",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417798672573,
+        "created_at": "2024-09-24T14:10:09+02:00",
+        "position": 3,
+        "updated_at": "2024-09-24T14:10:12+02:00",
+        "product_id": 7886982938813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/42cf57aebb82d347bcf81d5654308bab221080d1-1181x1181jpg.jpg?v=1727179812",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417798508733,
+        "created_at": "2024-09-24T14:10:09+02:00",
+        "position": 4,
+        "updated_at": "2024-09-24T14:10:12+02:00",
+        "product_id": 7886982938813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e6f78e7a64c514ecb0679bcedb2ae25fb15092a4-1181x1181jpg.jpg?v=1727179812",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35417798443197,
+        "created_at": "2024-09-24T14:10:09+02:00",
+        "position": 5,
+        "updated_at": "2024-09-24T14:10:12+02:00",
+        "product_id": 7886982938813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/38699f372e559bd9f24cdd6837f558f31109ed81-1181x1181jpg.jpg?v=1727179812",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 71845118968186,
+        "created_at": "2024-11-05T12:08:54+01:00",
+        "position": 6,
+        "updated_at": "2024-11-05T12:08:56+01:00",
+        "product_id": 7886982938813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/680a4ebf48f32064be47a961c829d38f.png?v=1730804936",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71845119000954,
+        "created_at": "2024-11-05T12:08:54+01:00",
+        "position": 7,
+        "updated_at": "2024-11-05T12:08:57+01:00",
+        "product_id": 7886982938813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7f4ef06e67e6bd8cbb352fd25a818e4d.png?v=1730804937",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71845119099258,
+        "created_at": "2024-11-05T12:08:54+01:00",
+        "position": 8,
+        "updated_at": "2024-11-05T12:09:00+01:00",
+        "product_id": 7886982938813,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f4758fa1945df3a33f26eeb9ecc70796.png?v=1730804940",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857031250109,
+    "title": "Madeleine Dog",
+    "handle": "hp-1007201-madeleine-dog",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Wysoko\u015b\u0107: oko\u0142o 24 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Madeleine Pies jest szyde\u0142kowany spiralnie, aby nie pogubi\u0107 si\u0119 w okr\u0105\u017ceniach u\u017cyj znacznika lub agrafki do oznaczenia pocz\u0105tku okr\u0105\u017cenia.</p><p>G\u0142owa, tu\u0142\u00f3w i nogi s\u0105 przerabiane w jednym kawa\u0142ku. Madeleine Pies ma tak\u017ce 4 akcesoria: beret, szalik, sp\u00f3dnic\u0119 i par\u0119 but\u00f3w.</p><p>Pami\u0119taj, \u017ce zawsze wskazane jest przeczytanie ca\u0142ego wzoru przed rozpocz\u0119ciem szyde\u0142kowania, a co najwa\u017cniejsze, musisz uzbroi\u0107 si\u0119 w cierpliwo\u015b\u0107!</p><p>Wz\u00f3r przeznaczony dla \u015bredniozaawansowanych.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423474380989,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1313-234-6385",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857031250109,
+        "created_at": "2024-08-06T10:23:07+02:00",
+        "updated_at": "2024-11-22T22:53:49+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378182815933,
+        "created_at": "2024-09-17T14:05:50+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:05:52+02:00",
+        "product_id": 7857031250109,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b137c98d00e50ddc13b8bbba5203f9a7fad991cd-1181x1182jpg.jpg?v=1726574752",
+        "width": 1181,
+        "height": 1182
+      },
+      {
+        "id": 35378182914237,
+        "created_at": "2024-09-17T14:05:50+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:05:53+02:00",
+        "product_id": 7857031250109,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/00308e924af846573de5307289b41c1a3bca8135-1181x1181jpg.jpg?v=1726574753",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378182848701,
+        "created_at": "2024-09-17T14:05:50+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:05:52+02:00",
+        "product_id": 7857031250109,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/726ab0251fb87a271c378268e2f958375d1234b0-1181x1181jpg.jpg?v=1726574752",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378182881469,
+        "created_at": "2024-09-17T14:05:51+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:05:52+02:00",
+        "product_id": 7857031250109,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dae53471ed4f1299b3db413222cb6a716b44d9e3-1181x1181jpg.jpg?v=1726574752",
+        "width": 1181,
+        "height": 1181
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856998809789,
+    "title": "Oliver Frog",
+    "handle": "hp-1007200-oliver-frog",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Wysoko\u015b\u0107: oko\u0142o 10 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Oliver \u017baba jest szyde\u0142kowana spiralnie, aby nie pogubi\u0107 si\u0119 w okr\u0105\u017ceniach u\u017cyj znacznika lub agrafki do oznaczenia pocz\u0105tku okr\u0105\u017cenia.</p><p>G\u0142owa, tu\u0142\u00f3w i nogi s\u0105 przerabiane w jednym kawa\u0142ku. Oliver \u017baba ma tak\u017ce 3 akcesoria: szorty, szalik i par\u0119 but\u00f3w.</p><p>Pami\u0119taj, \u017ce zawsze wskazane jest przeczytanie ca\u0142ego wzoru przed rozpocz\u0119ciem szyde\u0142kowania, a co najwa\u017cniejsze, musisz uzbroi\u0107 si\u0119 w cierpliwo\u015b\u0107!</p><p>Wz\u00f3r przeznaczony dla \u015bredniozaawansowanych.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423383843005,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1313-234-4615",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856998809789,
+        "created_at": "2024-08-06T10:19:53+02:00",
+        "updated_at": "2024-11-22T22:53:49+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378182521021,
+        "created_at": "2024-09-17T14:05:48+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:05:50+02:00",
+        "product_id": 7856998809789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3c77c2e93a8594b1c208ebfadfbbf8a590673062-1181x1181jpg.jpg?v=1726574750",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378182455485,
+        "created_at": "2024-09-17T14:05:48+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:05:50+02:00",
+        "product_id": 7856998809789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f70fb8c94ea90cffcc3fb0c7f6f87b3ee5a26de7-1181x1181jpg.jpg?v=1726574750",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378182389949,
+        "created_at": "2024-09-17T14:05:48+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:05:50+02:00",
+        "product_id": 7856998809789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7017ec93efb19436c524484522bfb82c3386b456-1181x1181jpg.jpg?v=1726574750",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378182422717,
+        "created_at": "2024-09-17T14:05:49+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:05:50+02:00",
+        "product_id": 7856998809789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3025ce0b05bdcfe1a6a3dca31ae5907a2fcff289-1181x1181jpg.jpg?v=1726574750",
+        "width": 1181,
+        "height": 1181
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856982425789,
+    "title": "Anita Octopus",
+    "handle": "hp-1007203-anita-octopus",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Wysoko\u015b\u0107: oko\u0142o 20 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Anita O\u015bmiornica jest szyde\u0142kowana spiralnie, aby nie pogubi\u0107 si\u0119 w okr\u0105\u017ceniach u\u017cyj znacznika lub agrafki do oznaczenia pocz\u0105tku okr\u0105\u017cenia.</p><p>G\u0142owa i tu\u0142\u00f3w s\u0105 przerabiane w jednym kawa\u0142ku. Anita O\u015bmiornica ma tak\u017ce 2 akcesoria: kaptur i par\u0119 but\u00f3w.</p><p>Pami\u0119taj, \u017ce zawsze wskazane jest przeczytanie ca\u0142ego wzoru przed rozpocz\u0119ciem szyde\u0142kowania, a co najwa\u017cniejsze, musisz uzbroi\u0107 si\u0119 w cierpliwo\u015b\u0107!</p><p>Wz\u00f3r przeznaczony dla \u015bredniozaawansowanych.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423337115837,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1313-234-7022",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856982425789,
+        "created_at": "2024-08-06T10:17:46+02:00",
+        "updated_at": "2024-11-22T22:53:49+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378182062269,
+        "created_at": "2024-09-17T14:05:45+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:05:47+02:00",
+        "product_id": 7856982425789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/61d816977f0b85b7a35598f75f6aff5bae186b23-1181x1181jpg.jpg?v=1726574747",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378181963965,
+        "created_at": "2024-09-17T14:05:46+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:05:47+02:00",
+        "product_id": 7856982425789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/94de940bc702fd53a0a2161c842d1cccf0f127e1-1181x1181jpg.jpg?v=1726574747",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378182029501,
+        "created_at": "2024-09-17T14:05:46+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:05:47+02:00",
+        "product_id": 7856982425789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5ae9d45d7fd52d69acad72b0ba5d1b48458ed427-1181x1181jpg.jpg?v=1726574747",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378181996733,
+        "created_at": "2024-09-17T14:05:46+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:05:47+02:00",
+        "product_id": 7856982425789,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b1b8a64f28d80707ba6d826e12bbcf53cd79b111-1181x1181jpg.jpg?v=1726574747",
+        "width": 1181,
+        "height": 1181
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856929243325,
+    "title": "Lenny Cat",
+    "handle": "hp-1007199-lenny-cat",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Wysoko\u015b\u0107: oko\u0142o 25 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Lenny Kot jest szyde\u0142kowany spiralnie, aby nie pogubi\u0107 si\u0119 w okr\u0105\u017ceniach u\u017cyj znacznika lub agrafki do oznaczenia pocz\u0105tku okr\u0105\u017cenia.</p><p>G\u0142owa, tu\u0142\u00f3w i nogi s\u0105 przerabiane w jednym kawa\u0142ku. Lenny Kat ma tak\u017ce 3 akcesoria: czapk\u0119, szalik i par\u0119 but\u00f3w.</p><p>Pami\u0119taj, \u017ce zawsze wskazane jest przeczytanie ca\u0142ego wzoru przed rozpocz\u0119ciem szyde\u0142kowania, a co najwa\u017cniejsze, musisz uzbroi\u0107 si\u0119 w cierpliwo\u015b\u0107!</p><p>Wz\u00f3r przeznaczony dla \u015bredniozaawansowanych.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423184023741,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1313-234-3941",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856929243325,
+        "created_at": "2024-08-06T10:06:02+02:00",
+        "updated_at": "2024-11-22T22:53:49+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378178949309,
+        "created_at": "2024-09-17T14:05:19+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:05:21+02:00",
+        "product_id": 7856929243325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b1bf7c2b28598d6542acb13db01ba8dec5d1ecfb-1181x1181jpg.jpg?v=1726574721",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378178982077,
+        "created_at": "2024-09-17T14:05:19+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:05:21+02:00",
+        "product_id": 7856929243325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2ac3c6040dec55f557848cda1e704b410616e526-1181x1181jpg.jpg?v=1726574721",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378179014845,
+        "created_at": "2024-09-17T14:05:19+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:05:21+02:00",
+        "product_id": 7856929243325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c71122a47ddfe02352fc7a7af17bc815dbabe049-1181x1181jpg.jpg?v=1726574721",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378179047613,
+        "created_at": "2024-09-17T14:05:19+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:05:21+02:00",
+        "product_id": 7856929243325,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fb013ed163e3c3f86c35f7db7156d217063dad3e-1181x1181jpg.jpg?v=1726574721",
+        "width": 1181,
+        "height": 1181
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856929145021,
+    "title": "Luna Cockatoo",
+    "handle": "hp-1007202-luna-cockatoo",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>Wysoko\u015b\u0107: oko\u0142o 19 cm</p><p>\n</p><p><strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Luna Kakadu jest szyde\u0142kowana spiralnie, aby nie pogubi\u0107 si\u0119 w okr\u0105\u017ceniach u\u017cyj znacznika lub agrafki do oznaczenia pocz\u0105tku okr\u0105\u017cenia.</p><p>G\u0142owa i tu\u0142\u00f3w s\u0105 przerabiane w jednym kawa\u0142ku. Luna Kakadu ma tak\u017ce 1 akcesorium: wieniec, kt\u00f3rego u\u017cywa jako gniazda.</p><p>Pami\u0119taj, \u017ce zawsze wskazane jest przeczytanie ca\u0142ego wzoru przed rozpocz\u0119ciem szyde\u0142kowania, a co najwa\u017cniejsze, musisz uzbroi\u0107 si\u0119 w cierpliwo\u015b\u0107!</p><p>Wz\u00f3r przeznaczony dla \u015bredniozaawansowanych.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423183728829,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1313-234-6711",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856929145021,
+        "created_at": "2024-08-06T10:06:01+02:00",
+        "updated_at": "2024-11-22T22:53:49+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378179244221,
+        "created_at": "2024-09-17T14:05:21+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:05:23+02:00",
+        "product_id": 7856929145021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ca2b05cc4d06bcdd0905eec819c93d403c81fff7-1181x1181jpg.jpg?v=1726574723",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378179276989,
+        "created_at": "2024-09-17T14:05:22+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:05:23+02:00",
+        "product_id": 7856929145021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0659d8e4a560439bfe16309c95cb8411075c8156-1181x1181jpg.jpg?v=1726574723",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378179309757,
+        "created_at": "2024-09-17T14:05:22+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:05:23+02:00",
+        "product_id": 7856929145021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8c647b409cba16b5c323c91df83b17560f2826f7-1181x1181jpg.jpg?v=1726574723",
+        "width": 1181,
+        "height": 1181
+      },
+      {
+        "id": 35378179211453,
+        "created_at": "2024-09-17T14:05:22+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:05:23+02:00",
+        "product_id": 7856929145021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ba458ac5616a1e94ce7b8ed6919518d8c9994652-1181x1181jpg.jpg?v=1726574723",
+        "width": 1181,
+        "height": 1181
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,987 @@
+[
+  {
+    "id": 7856018817213,
+    "title": "Elektroniczny Licznik Rz\u0119d\u00f3w",
+    "handle": "hp-1004920-digital-row-counter-1004920",
+    "body_html": "<p>Elektroniczny licznik rz\u0119d\u00f3w bardzo przydatny do rob\u00f3tek na drutach lub szyde\u0142ku. Mo\u017cna go \u0142atwo za\u0142o\u017cy\u0107 na palec i liczy\u0107 bez konieczno\u015bci odk\u0142adania rob\u00f3tki.\n</p><p>Gdy licznik wy\u0142\u0105czy si\u0119 po kwadransie, zapami\u0119tuje ostatni rz\u0105d, a gdy ponownie zostanie w\u0142\u0105czony pokazuje na kt\u00f3rym rz\u0119dzie zako\u0144czyli\u015bmy prac\u0119. Je\u015bli ma zosta\u0107 zresetowany do 0, po prostu naci\u015bnij &quot;&quot;Resetuj&quot;&quot;.</p><p>Niezb\u0119dne narz\u0119dzie dla tych, kt\u00f3rzy kochaj\u0105 robi\u0107 na drutach lub szyde\u0142ku!</p><p><em>Uwaga! Licznik rz\u0119d\u00f3w nie mo\u017ce by\u0107 ponownie u\u017cyty, poniewa\u017c nie mo\u017cna wymieni\u0107 w nim baterii.</em></p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421105483965,
+        "title": "Blue",
+        "option1": "Blue",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0443",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186522718397,
+          "product_id": 7856018817213,
+          "position": 6,
+          "created_at": "2024-08-05T22:17:29+02:00",
+          "updated_at": "2024-08-05T22:17:31+02:00",
+          "alt": "hobbii-01-02-2022-2141jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2141jpg.jpg?v=1722889051",
+          "variant_ids": [
+            44421105483965
+          ]
+        },
+        "available": true,
+        "price": "7.98",
+        "grams": 16,
+        "compare_at_price": "19.00",
+        "position": 1,
+        "product_id": 7856018817213,
+        "created_at": "2024-08-05T10:34:45+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      },
+      {
+        "id": 44421105516733,
+        "title": "Green",
+        "option1": "Green",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0444",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186522816701,
+          "product_id": 7856018817213,
+          "position": 7,
+          "created_at": "2024-08-05T22:17:29+02:00",
+          "updated_at": "2024-08-05T22:17:31+02:00",
+          "alt": "hobbii-01-02-2022-2143jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2143jpg.jpg?v=1722889051",
+          "variant_ids": [
+            44421105516733
+          ]
+        },
+        "available": true,
+        "price": "7.98",
+        "grams": 16,
+        "compare_at_price": "19.00",
+        "position": 2,
+        "product_id": 7856018817213,
+        "created_at": "2024-08-05T10:34:45+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      },
+      {
+        "id": 44421105549501,
+        "title": "Pink",
+        "option1": "Pink",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0445",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186522783933,
+          "product_id": 7856018817213,
+          "position": 8,
+          "created_at": "2024-08-05T22:17:29+02:00",
+          "updated_at": "2024-08-05T22:17:31+02:00",
+          "alt": "hobbii-01-02-2022-2140jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2140jpg.jpg?v=1722889051",
+          "variant_ids": [
+            44421105549501
+          ]
+        },
+        "available": true,
+        "price": "7.98",
+        "grams": 16,
+        "compare_at_price": "19.00",
+        "position": 3,
+        "product_id": 7856018817213,
+        "created_at": "2024-08-05T10:34:45+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      },
+      {
+        "id": 44421105582269,
+        "title": "Black",
+        "option1": "Black",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0446",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186522915005,
+          "product_id": 7856018817213,
+          "position": 9,
+          "created_at": "2024-08-05T22:17:29+02:00",
+          "updated_at": "2024-08-05T22:17:31+02:00",
+          "alt": "hobbii-01-02-2022-2142jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2142jpg.jpg?v=1722889051",
+          "variant_ids": [
+            44421105582269
+          ]
+        },
+        "available": true,
+        "price": "7.98",
+        "grams": 16,
+        "compare_at_price": "19.00",
+        "position": 4,
+        "product_id": 7856018817213,
+        "created_at": "2024-08-05T10:34:45+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35186522882237,
+        "created_at": "2024-08-05T22:17:28+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2135jpg.jpg?v=1722889051",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186522751165,
+        "created_at": "2024-08-05T22:17:28+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2137jpg.jpg?v=1722889051",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186522849469,
+        "created_at": "2024-08-05T22:17:28+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/digitalrowcounter-1-1-picture-katrina-home-1jpg.jpg?v=1722889051",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35186522947773,
+        "created_at": "2024-08-05T22:17:28+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/digitalrowcounter-1-1-picture-katrina-home-2jpg.jpg?v=1722889051",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35186522980541,
+        "created_at": "2024-08-05T22:17:28+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/digitalrowcounter-1-1-picture-katrina-home-3jpg.jpg?v=1722889051",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35186522718397,
+        "created_at": "2024-08-05T22:17:29+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [
+          44421105483965
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2141jpg.jpg?v=1722889051",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186522816701,
+        "created_at": "2024-08-05T22:17:29+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [
+          44421105516733
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2143jpg.jpg?v=1722889051",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186522783933,
+        "created_at": "2024-08-05T22:17:29+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [
+          44421105549501
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2140jpg.jpg?v=1722889051",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186522915005,
+        "created_at": "2024-08-05T22:17:29+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T22:17:31+02:00",
+        "product_id": 7856018817213,
+        "variant_ids": [
+          44421105582269
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2142jpg.jpg?v=1722889051",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Blue",
+          "Green",
+          "Pink",
+          "Black"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855926837437,
+    "title": "Licznik rz\u0119d\u00f3w",
+    "handle": "hp-1004919-manual-row-counter",
+    "body_html": "<p>Sprytny, manualny licznik rz\u0119d\u00f3w w \u0142adnym turkusowym kolorze. Kiedy zrobisz na drutach lub szyde\u0142ku rz\u0105d, po prostu kliknij na bia\u0142y przycisk u g\u00f3ry, aby zarejestrowa\u0107, jak daleko zasz\u0142a\u015b w rob\u00f3tce. Jest to fantastyczna pomoc, gdy np. musisz odj\u0105\u0107 oczka w ka\u017cdym 6 rz\u0119dzie.</p><p>Licznik rz\u0119d\u00f3w mo\u017ce liczy\u0107 do 99, a liczb\u0119 mo\u017cesz poprawi\u0107 lub zresetowa\u0107 za pomoc\u0105 przycisk\u00f3w po bokach. Licznik posiada funkcj\u0119 blokowania, co zapewnia, \u017ce nie le\u017cy i nie klika w torbie projektowej ;-)</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420660986045,
+        "title": "Blue",
+        "option1": "Blue",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0442",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184052699325,
+          "product_id": 7855926837437,
+          "position": 4,
+          "created_at": "2024-08-05T10:54:58+02:00",
+          "updated_at": "2024-08-05T10:54:59+02:00",
+          "alt": "hobbii-01-02-2022-2144jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2144jpg.jpg?v=1722848099",
+          "variant_ids": [
+            44420660986045
+          ]
+        },
+        "available": true,
+        "price": "22.05",
+        "grams": 35,
+        "compare_at_price": "45.00",
+        "position": 1,
+        "product_id": 7855926837437,
+        "created_at": "2024-08-05T10:23:28+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184052797629,
+        "created_at": "2024-08-05T10:54:58+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:54:59+02:00",
+        "product_id": 7855926837437,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2145jpg.jpg?v=1722848099",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184052830397,
+        "created_at": "2024-08-05T10:54:58+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:54:59+02:00",
+        "product_id": 7855926837437,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-1664jpg.jpg?v=1722848099",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35184052732093,
+        "created_at": "2024-08-05T10:54:58+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:54:59+02:00",
+        "product_id": 7855926837437,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-1655jpg.jpg?v=1722848099",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35184052699325,
+        "created_at": "2024-08-05T10:54:58+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:54:59+02:00",
+        "product_id": 7855926837437,
+        "variant_ids": [
+          44420660986045
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-01-02-2022-2144jpg.jpg?v=1722848099",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Blue"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855908454589,
+    "title": "Licznik dziewiarski z wisiorkiem - 10 pier\u015bcieni",
+    "handle": "hp-1006469-row-counter-chain-with-pendant-10-rings",
+    "body_html": "<p>Fantastyczny licznik dziewiarski, dla tych z Was, kt\u00f3rzy lubi\u0105 co\u015b wyj\u0105tkowego.\n</p><p>Jest to \u015bwietne narz\u0119dzie do liczenia, je\u015bli na przyk\u0142ad musisz doda\u0107 oczka w ka\u017cdym 10 rz\u0119dzie. W przeciwie\u0144stwie do cyfrowych licznik\u00f3w, tutaj prawie niemo\u017cliwe jest zapomnienie o policzeniu okr\u0105\u017ce\u0144, poniewa\u017c za ka\u017cdym razem, gdy si\u0119 spotkasz z licznikiem, musisz fizycznie przenie\u015b\u0107 go na drugi drut. Przeczytaj tutaj jak to dzia\u0142a:</p><p>Na pocz\u0105tku okr\u0105\u017cenia zak\u0142adasz pierwszy pier\u015bcie\u0144 licznika na drut dziewiarski. Kiedy wykonasz okr\u0105\u017cenie i ponownie spotkasz sw\u00f3j licznik, wbij drut w kolejny pier\u015bcie\u0144. Nast\u0119pnie kontynuuj dzierganie. Kiedy prze\u0142o\u017cysz wszystkie pier\u015bcienie, nadszed\u0142 czas, aby doda\u0107 oczka. Proste, prawda?</p><p>Licznik nadaje si\u0119 na druty dziewiarskie do 8 mm.</p><p>Aby unikn\u0105\u0107 nieporozumie\u0144, pami\u0119taj, \u017ce tan licznik ma w rzeczywisto\u015bci 11 pier\u015bcieni. Ostatni pier\u015bcie\u0144 mo\u017cna usun\u0105\u0107, je\u015bli nie chcesz wisiorka na \u0142a\u0144cuszku. Wisiorek mo\u017cna zatem odpi\u0105\u0107 i u\u017cywa\u0107 go jako zwyk\u0142ego znacznika \u015bcieg\u00f3w. Mo\u017cesz r\u00f3wnie\u017c rzuci\u0107 okiem na nasze inne <a href=\"https://hobbii.pl/maskemarkorer-2-stk\"><strong>znacznik \u015bcieg\u00f3w</strong></a>, je\u015bli chcesz, wymieni\u0107 wisiorek na swoim liczniku dziewiarskim!</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420580016317,
+        "title": "Dog",
+        "option1": "Dog",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0523",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183809626301,
+          "product_id": 7855908454589,
+          "position": 4,
+          "created_at": "2024-08-05T10:44:08+02:00",
+          "updated_at": "2024-08-05T10:44:10+02:00",
+          "alt": "row-counter-dogjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-dogjpg.jpg?v=1722847450",
+          "variant_ids": [
+            44420580016317
+          ]
+        },
+        "available": true,
+        "price": "46.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855908454589,
+        "created_at": "2024-08-05T10:20:18+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      },
+      {
+        "id": 44420580049085,
+        "title": "Llama",
+        "option1": "Llama",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0524",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183809593533,
+          "product_id": 7855908454589,
+          "position": 5,
+          "created_at": "2024-08-05T10:44:08+02:00",
+          "updated_at": "2024-08-05T10:44:10+02:00",
+          "alt": "row-counter-lammajpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-lammajpg.jpg?v=1722847450",
+          "variant_ids": [
+            44420580049085
+          ]
+        },
+        "available": true,
+        "price": "46.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855908454589,
+        "created_at": "2024-08-05T10:20:18+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183809560765,
+        "created_at": "2024-08-05T10:44:08+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:44:10+02:00",
+        "product_id": 7855908454589,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-lamma-dogjpg.jpg?v=1722847450",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183809659069,
+        "created_at": "2024-08-05T10:44:08+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:44:11+02:00",
+        "product_id": 7855908454589,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-dog-lamma-heartjpg.jpg?v=1722847451",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183809396925,
+        "created_at": "2024-08-05T10:44:08+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:44:10+02:00",
+        "product_id": 7855908454589,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-back-side-lammajpg.jpg?v=1722847450",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183809626301,
+        "created_at": "2024-08-05T10:44:08+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:44:10+02:00",
+        "product_id": 7855908454589,
+        "variant_ids": [
+          44420580016317
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-dogjpg.jpg?v=1722847450",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183809593533,
+        "created_at": "2024-08-05T10:44:08+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:44:10+02:00",
+        "product_id": 7855908454589,
+        "variant_ids": [
+          44420580049085
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-lammajpg.jpg?v=1722847450",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415777558906,
+        "created_at": "2024-10-23T17:32:10+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:32:13+02:00",
+        "product_id": 7855908454589,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5254af176c52467ac9b819f9dd2caa8c.jpg?v=1729697533",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Dog",
+          "Llama"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855896723645,
+    "title": "2 liczniki \u015bcieg\u00f3w - Du\u017cy i ma\u0142y",
+    "handle": "hp-1000295-row-counter-2-pcs-blue-red",
+    "body_html": "<p>W tym zestawie otrzymasz 2 liczniki w r\u00f3\u017cnych rozmiarach: ma\u0142y (kolor niebieski) oraz du\u017cy (kolor czerwony). Pomog\u0105 Ci one zachowa\u0107 kontrol\u0119 nad tym ile oczek ju\u017c masz przerobione a ile Ci jeszcze zosta\u0142o. Liczniki wystarczy przymocowa\u0107 do ko\u0144c\u00f3wek drut\u00f3w, a wykonaj\u0105 one ca\u0142e liczenie za Ciebie - uwielbiamy tak\u0105 wygod\u0119!</p><p>Liczniki mo\u017cesz przymocowa\u0107 do drut\u00f3w pojedynczych, podw\u00f3jnych oraz na \u017cy\u0142ce. Pasuje on do rozmiar\u00f3w nie wi\u0119kszych ni\u017c 6,50 mm.</p><p></p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420536172733,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "10816",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855896723645,
+        "created_at": "2024-08-05T10:17:38+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 71416039342458,
+        "created_at": "2024-10-23T17:58:20+02:00",
+        "position": 1,
+        "updated_at": "2024-10-23T17:58:22+02:00",
+        "product_id": 7855896723645,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6b2075350a807283b7a43fbff1f7fcea.png?v=1729699102",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855976710333,
+    "title": "Licznik dziewiarski - 10 pier\u015bcienie",
+    "handle": "hp-1006208-row-counter-chain-10-rings",
+    "body_html": "<p><strong>Luksus dla Twoich projekt\u00f3w dziewiarskich!</strong></p><p>Fantastyczny licznik dziewiarski, kt\u00f3ry pomaga liczy\u0107 okr\u0105\u017cenia/rz\u0119dy. Je\u015bli na przyk\u0142ad musisz doda\u0107 oczka w ka\u017cdym 10 rz\u0119dzie w swojej rob\u00f3tce, ten licznik \u0142atwo Ci w tym pomo\u017ce!</p><p>W przeciwie\u0144stwie do np. cyfrowych licznik\u00f3w, prawie niemo\u017cliwe jest zapomnienie o policzeniu wszystkich okr\u0105\u017ce\u0144. Wystarczy, \u017ce zawiesisz licznik dziewiarski na drucie na pocz\u0105tku okr\u0105\u017cenia. Kiedy przerobisz jedno okr\u0105\u017cenie, przesu\u0144 licznik dziewiarski w d\u00f3\u0142 o jeden pier\u015bcie\u0144 i kontynuuj dzierganie na drutach. Po przej\u015bciu przez wszystkie pier\u015bcienie nadszed\u0142 czas, aby doda\u0107 oczka w rob\u00f3tce. \u0141atwo i sprytnie! A poniewa\u017c w ka\u017cdym okr\u0105\u017ceniu musisz przesun\u0105\u0107 licznik dziewiarski z jednego drutu na drugi, nie zapomnisz o liczeniu. Sprytnie!</p><p>Mowa tu o naprawd\u0119 luksusowym liczniku dziewiarskim. Pere\u0142ki s\u0105 r\u0119cznie robione z wy\u015bmienitych materia\u0142\u00f3w pochodz\u0105cych ze skarbc\u00f3w natury, a ka\u017cdy kamie\u0144 jest niepowtarzalny. Z tego samego powodu koraliki mog\u0105 r\u00f3wnie\u017c nieznacznie r\u00f3\u017cni\u0107 si\u0119 kolorem.</p><p>Licznik dziewiarski mo\u017ce by\u0107 u\u017cywany na druty do 6,5 mm.</p><p><strong>Rozmiar pere\u0142ek</strong>: 10 mm\n<strong>Pere\u0142ki</strong>:\nKwarc r\u00f3\u017cowy: Dost\u0119pny w wielu r\u00f3\u017cnych odcieniach i przezroczysto\u015bciach.\nAwenturyn: Charakteryzuje si\u0119 tym, \u017ce jest p\u00f3\u0142przezroczystym z widocznymi ma\u0142ymi p\u0142askimi ziarenkami mineralnymi.\nCzarny Agat: Istnieje wiele r\u00f3\u017cnych kolor\u00f3w agatu. Agaty s\u0105 bardzo powszechne w wi\u0119kszo\u015bci kraj\u00f3w \u015bwiata.\nAmetyst: To p\u00f3\u0142szlachetny kamie\u0144 nale\u017c\u0105cy do rodziny kwarcu o fioletowej i purpurowej barwie.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420897800381,
+        "title": "Amethyst",
+        "option1": "Amethyst",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2074",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71835895660922,
+          "product_id": 7855976710333,
+          "position": 7,
+          "created_at": "2024-11-04T10:06:38+01:00",
+          "updated_at": "2024-11-04T10:06:40+01:00",
+          "alt": "d7c3ec5acdf9b5fde5734ac5b64c9bb1",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d7c3ec5acdf9b5fde5734ac5b64c9bb1.jpg?v=1730711200",
+          "variant_ids": [
+            44420897800381
+          ]
+        },
+        "available": true,
+        "price": "66.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855976710333,
+        "created_at": "2024-08-05T10:29:38+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      },
+      {
+        "id": 44420897833149,
+        "title": "Rose Quartz",
+        "option1": "Rose Quartz",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2075",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71835895628154,
+          "product_id": 7855976710333,
+          "position": 8,
+          "created_at": "2024-11-04T10:06:38+01:00",
+          "updated_at": "2024-11-04T10:06:40+01:00",
+          "alt": "b2be8c6b04d8af8dcb71757db72682cd",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b2be8c6b04d8af8dcb71757db72682cd.jpg?v=1730711200",
+          "variant_ids": [
+            44420897833149
+          ]
+        },
+        "available": true,
+        "price": "66.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855976710333,
+        "created_at": "2024-08-05T10:29:38+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      },
+      {
+        "id": 44420897865917,
+        "title": "Black Agate",
+        "option1": "Black Agate",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2076",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71835895759226,
+          "product_id": 7855976710333,
+          "position": 9,
+          "created_at": "2024-11-04T10:06:38+01:00",
+          "updated_at": "2024-11-04T10:06:40+01:00",
+          "alt": "217faa37d49abf5f8af8091a9571c0ea",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/217faa37d49abf5f8af8091a9571c0ea.jpg?v=1730711200",
+          "variant_ids": [
+            44420897865917
+          ]
+        },
+        "available": true,
+        "price": "66.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855976710333,
+        "created_at": "2024-08-05T10:29:38+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      },
+      {
+        "id": 44420897898685,
+        "title": "Aventurin",
+        "option1": "Aventurin",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-2077",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71835895824762,
+          "product_id": 7855976710333,
+          "position": 10,
+          "created_at": "2024-11-04T10:06:38+01:00",
+          "updated_at": "2024-11-04T10:06:41+01:00",
+          "alt": "16e0e96075ba117f97f1f9fbddc6a4d9",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16e0e96075ba117f97f1f9fbddc6a4d9.jpg?v=1730711201",
+          "variant_ids": [
+            44420897898685
+          ]
+        },
+        "available": true,
+        "price": "66.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855976710333,
+        "created_at": "2024-08-05T10:29:38+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 71835895726458,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 1,
+        "updated_at": "2024-11-04T10:06:40+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0727e5d95b1627b62971cde101506786.jpg?v=1730711200",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895955834,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 2,
+        "updated_at": "2024-11-04T10:06:41+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/754a16fb9c2c6502e1ab1a441d95f7d7.jpg?v=1730711201",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895890298,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 3,
+        "updated_at": "2024-11-04T10:06:41+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d25f8efe3b6b4952975f754b358cee3f.jpg?v=1730711201",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895791994,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 4,
+        "updated_at": "2024-11-04T10:06:41+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cdbd98dc6fd55e0c61cb71b730320268.jpg?v=1730711201",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895923066,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 5,
+        "updated_at": "2024-11-04T10:06:41+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/30cbb218cdf8e77a2c9d75e9cc4488aa.jpg?v=1730711201",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895857530,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 6,
+        "updated_at": "2024-11-04T10:06:41+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8ce0ad2c78b2df0f8ab8dc47edc5b5a4.jpg?v=1730711201",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895660922,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 7,
+        "updated_at": "2024-11-04T10:06:40+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [
+          44420897800381
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d7c3ec5acdf9b5fde5734ac5b64c9bb1.jpg?v=1730711200",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895628154,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 8,
+        "updated_at": "2024-11-04T10:06:40+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [
+          44420897833149
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b2be8c6b04d8af8dcb71757db72682cd.jpg?v=1730711200",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895759226,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 9,
+        "updated_at": "2024-11-04T10:06:40+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [
+          44420897865917
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/217faa37d49abf5f8af8091a9571c0ea.jpg?v=1730711200",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71835895824762,
+        "created_at": "2024-11-04T10:06:38+01:00",
+        "position": 10,
+        "updated_at": "2024-11-04T10:06:41+01:00",
+        "product_id": 7855976710333,
+        "variant_ids": [
+          44420897898685
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/16e0e96075ba117f97f1f9fbddc6a4d9.jpg?v=1730711201",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Amethyst",
+          "Rose Quartz",
+          "Black Agate",
+          "Aventurin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855939846333,
+    "title": "Licznik dziewiarski \u2013 Bo\u017ce Narodzenie - 10 pier\u015bcieni",
+    "handle": "hp-1006467-row-counter-chain-christmas-10-rings",
+    "body_html": "<p>Uroczy licznik dziewiarski z ma\u0142ym \u015bwi\u0105tecznym ptaszkiem \u2013 dla tych z Was, kt\u00f3re nie mog\u0105 si\u0119 nacieszy\u0107 \u015bwi\u0119tami w ch\u0142odne miesi\u0105ce i sp\u0119dzaj\u0105 przytulny czas z w\u0142\u00f3czk\u0105 w r\u0119kach.</p><p>Jest to \u015bwietne narz\u0119dzie do liczenia, je\u015bli na przyk\u0142ad musisz doda\u0107 oczka w ka\u017cdym 10 rz\u0119dzie. W przeciwie\u0144stwie do cyfrowych licznik\u00f3w, tutaj prawie niemo\u017cliwe jest zapomnienie o policzeniu okr\u0105\u017ce\u0144, poniewa\u017c za ka\u017cdym razem, gdy si\u0119 spotkasz z licznikiem, musisz fizycznie przenie\u015b\u0107 go na drugi drut. Przeczytaj tutaj jak to dzia\u0142a:\n</p><p>Na pocz\u0105tku okr\u0105\u017cenia zak\u0142adasz pierwszy pier\u015bcie\u0144 licznika na drut dziewiarski. Kiedy wykonasz okr\u0105\u017cenie i ponownie spotkasz sw\u00f3j licznik, wbij drut w kolejny pier\u015bcie\u0144. Nast\u0119pnie kontynuuj dzierganie. Kiedy prze\u0142o\u017cysz wszystkie pier\u015bcienie, nadszed\u0142 czas, aby doda\u0107 oczka. Proste, prawda?</p><p>Licznik nadaje si\u0119 na druty dziewiarskie do 8 mm.</p><p>Aby unikn\u0105\u0107 nieporozumie\u0144, pami\u0119taj, \u017ce tan licznik ma w rzeczywisto\u015bci 11 pier\u015bcieni. Ostatni pier\u015bcie\u0144 mo\u017cna usun\u0105\u0107, je\u015bli nie chcesz wisiorka na \u0142a\u0144cuszku. Wisiorek mo\u017cna zatem odpi\u0105\u0107 i u\u017cywa\u0107 go jako zwyk\u0142ego znacznika \u015bcieg\u00f3w. Mo\u017cesz r\u00f3wnie\u017c rzuci\u0107 okiem na nasze inne <a href=\"https://hobbii.pl/maskemarkorer-2-stk\"><strong>znacznik \u015bcieg\u00f3w</strong></a>, je\u015bli chcesz, wymieni\u0107 wisiorek na swoim liczniku dziewiarskim!</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420725735613,
+        "title": "Christmas Bird",
+        "option1": "Christmas Bird",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0522",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184183541949,
+          "product_id": 7855939846333,
+          "position": 2,
+          "created_at": "2024-08-05T11:01:50+02:00",
+          "updated_at": "2024-08-05T11:01:51+02:00",
+          "alt": "row-counter-birdjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-birdjpg.jpg?v=1722848511",
+          "variant_ids": [
+            44420725735613
+          ]
+        },
+        "available": false,
+        "price": "46.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855939846333,
+        "created_at": "2024-08-05T10:25:06+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184184262845,
+        "created_at": "2024-08-05T11:01:50+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:01:52+02:00",
+        "product_id": 7855939846333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-bird-close-upjpg.jpg?v=1722848512",
+        "width": 1200,
+        "height": 1199
+      },
+      {
+        "id": 35184183541949,
+        "created_at": "2024-08-05T11:01:50+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:01:51+02:00",
+        "product_id": 7855939846333,
+        "variant_ids": [
+          44420725735613
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/row-counter-birdjpg.jpg?v=1722848511",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415826841978,
+        "created_at": "2024-10-23T17:36:50+02:00",
+        "position": 3,
+        "updated_at": "2024-10-23T17:36:52+02:00",
+        "product_id": 7855939846333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/33e50f419ad96f1e52c9600673f051e0.jpg?v=1729697812",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Christmas Bird"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855899803837,
+    "title": "Uniwersalny licznik rz\u0119d\u00f3w",
+    "handle": "hp-6955-universel-omgangstaeller",
+    "body_html": "<p>Ten gad\u017cet to nieoceniona pomoc, dzi\u0119ki kt\u00f3rej nie musisz odk\u0142ada\u0107 rob\u00f3tki na bok aby sprawdzi\u0107 ile oczek ju\u017c przerobi\u0142a\u015b i ile Ci brakuje.</p><p>Licznik wystarczy przymocowa\u0107 do drut\u00f3w, a b\u0119dzie on rejestrowa\u0142 Twoje ruchy.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420547969213,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "611+874",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 7,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855899803837,
+        "created_at": "2024-08-05T10:18:15+02:00",
+        "updated_at": "2024-11-22T22:49:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183769288893,
+        "created_at": "2024-08-05T10:42:00+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:42:02+02:00",
+        "product_id": 7855899803837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34423jpg.jpg?v=1722847322",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183769157821,
+        "created_at": "2024-08-05T10:42:00+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:42:02+02:00",
+        "product_id": 7855899803837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34428jpg.jpg?v=1722847322",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,845 @@
+[
+  {
+    "id": 7856015245501,
+    "title": "Etykiety na prezent",
+    "handle": "hp-1005867-gift-tags",
+    "body_html": "<p>Ka\u017cdy lubi dostawa\u0107 r\u0119cznie wykonane prezenty. A wi\u0119kszo\u015b\u0107 z nas uwielbia obdarowywa\u0107 i sprawia\u0107 niespodzianki :-) Dzi\u0119ki tym \u0142adnym etykietom sprawisz, \u017ce Twoje prezenty b\u0119d\u0105 wyj\u0105tkowe!</p><p>Zestaw etykiet na prezent zawiera cztery r\u00f3\u017cne wzory, kolory i nadruki. Nie masz w\u0105tpliwo\u015bci, \u017ce prezent to r\u0119kodzie\u0142o.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421080285373,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0476",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "12.00",
+        "grams": 26,
+        "compare_at_price": "20.00",
+        "position": 1,
+        "product_id": 7856015245501,
+        "created_at": "2024-08-05T10:34:13+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185084432573,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-3-1jpg.jpg?v=1722852101",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185084465341,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards1jpg.jpg?v=1722852101",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185084530877,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-2-1jpg.jpg?v=1722852101",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185084498109,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/gifttags-1-1-picture-katrina-home-2jpg.jpg?v=1722852101",
+        "width": 2689,
+        "height": 2689
+      },
+      {
+        "id": 35185084563645,
+        "created_at": "2024-08-05T12:01:39+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T12:01:41+02:00",
+        "product_id": 7856015245501,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/gifttags-1-1-picture-katrina-home-1jpg.jpg?v=1722852101",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856012722365,
+    "title": "Wst\u0105\u017cka do prezent\u00f3w \u2013 Bo\u017ce Narodzenie",
+    "handle": "hp-1006515-gift-ribbons-christmas",
+    "body_html": "<p>Wst\u0105\u017cka to niewielki dodatek, kt\u00f3ry pozwoli Ci na pi\u0119kne udekorowanie upomink\u00f3w dla bliskich.\n</p><p>Te pi\u0119kne wst\u0105\u017cki na prezenty \u015bwi\u0105teczne s\u0105 dost\u0119pne w opakowaniu z trzema r\u00f3\u017cnymi wzorami, a ka\u017cda rolka zawiera 2 metry wst\u0105\u017cki bawe\u0142nianej wysokiej jako\u015bci!</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421070487741,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0535",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.16",
+        "grams": 45,
+        "compare_at_price": "33.00",
+        "position": 1,
+        "product_id": 7856012722365,
+        "created_at": "2024-08-05T10:33:51+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185030693053,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/89724c577235c0d7d66a4675de5a98f53013c44c-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185030660285,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be0da61d65f012d855b0150d07a45d93eb0ca804-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185030594749,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/95931521d5af6296bbb9dc1e998de7f98fea5133-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185030627517,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac5dddfac3894174fed423144b52bac05f11a413-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185030758589,
+        "created_at": "2024-08-05T11:56:20+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:56:22+02:00",
+        "product_id": 7856012722365,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7e606f97265f9bf0ae23f938bc418aea0c082f17-1200x1200jpg.jpg?v=1722851782",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855959408829,
+    "title": "Etykiety na prezent",
+    "handle": "hp-1006355-gift-tags-1006355",
+    "body_html": "<p>Sp\u00f3jrz na te urocze drewniane etykiety na prezenty!\n</p><p>Ka\u017cdy lubi dostawa\u0107 r\u0119cznie wykonane upominki. A wi\u0119kszo\u015b\u0107 z nas uwielbia obdarowywa\u0107 i sprawia\u0107 rado\u015b\u0107 bliskim. Dzi\u0119ki tym \u0142adnym etykietom sprawisz, \u017ce Twoje prezenty b\u0119d\u0105 wyj\u0105tkowe. Gdy \u0142adnie zapakujesz prezent wystarczy, \u017ce zawi\u0105\u017cesz etykietk\u0119, aby doda\u0142a mu wyj\u0105tkowo\u015bci i sporo uroku.</p><p>Te pi\u0119kne, okr\u0105g\u0142e etykiety na prezent s\u0105 wykonane ze sklejki, a napis &quot;Handmade&quot; jest nadrukowany laserowo romantyczn\u0105 czcionk\u0105. Zestaw zawiera dodatkowo sze\u015b\u0107 sznurk\u00f3w jutowych.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420807327933,
+        "title": "Wreath",
+        "option1": "Wreath",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0520",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393910997181,
+          "product_id": 7855959408829,
+          "position": 5,
+          "created_at": "2024-09-20T12:34:57+02:00",
+          "updated_at": "2024-09-20T12:34:58+02:00",
+          "alt": "982ee1d3c3c1d5736548af024bc0df5da2c0a9ff-1417x1417jpg",
+          "width": 1417,
+          "height": 1417,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/982ee1d3c3c1d5736548af024bc0df5da2c0a9ff-1417x1417jpg.jpg?v=1726828498",
+          "variant_ids": [
+            44420807327933
+          ]
+        },
+        "available": true,
+        "price": "9.92",
+        "grams": 22,
+        "compare_at_price": "16.00",
+        "position": 1,
+        "product_id": 7855959408829,
+        "created_at": "2024-08-05T10:27:18+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      },
+      {
+        "id": 44420807360701,
+        "title": "Handmade",
+        "option1": "Handmade",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0521",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393910931645,
+          "product_id": 7855959408829,
+          "position": 6,
+          "created_at": "2024-09-20T12:34:57+02:00",
+          "updated_at": "2024-09-20T12:34:58+02:00",
+          "alt": "8d5ba309117edc5c4998997afb13d663901e52f6-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8d5ba309117edc5c4998997afb13d663901e52f6-1200x1200jpg.jpg?v=1726828498",
+          "variant_ids": [
+            44420807360701
+          ]
+        },
+        "available": true,
+        "price": "9.92",
+        "grams": 22,
+        "compare_at_price": "16.00",
+        "position": 2,
+        "product_id": 7855959408829,
+        "created_at": "2024-08-05T10:27:18+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35393910898877,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T12:34:58+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fbd835618b5cf28d08580977139d320ee43b6b76-1200x1200jpg.jpg?v=1726828498",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393910964413,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T12:34:58+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac3cb9b9464e789dced32a4c00864a053a36ecb7-1200x1200jpg.jpg?v=1726828498",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393911062717,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T12:34:59+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f59f7d8ba029d16cbed078b6ebcdf028b3f87770-2794x2794jpg.jpg?v=1726828499",
+        "width": 2794,
+        "height": 2794
+      },
+      {
+        "id": 35393911095485,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 4,
+        "updated_at": "2024-09-20T12:34:59+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/721f0b13ed7ee344e1f4aa7afa0175b7cbf5dc50-3024x3024jpg.jpg?v=1726828499",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35393910997181,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 5,
+        "updated_at": "2024-09-20T12:34:58+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [
+          44420807327933
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/982ee1d3c3c1d5736548af024bc0df5da2c0a9ff-1417x1417jpg.jpg?v=1726828498",
+        "width": 1417,
+        "height": 1417
+      },
+      {
+        "id": 35393910931645,
+        "created_at": "2024-09-20T12:34:57+02:00",
+        "position": 6,
+        "updated_at": "2024-09-20T12:34:58+02:00",
+        "product_id": 7855959408829,
+        "variant_ids": [
+          44420807360701
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8d5ba309117edc5c4998997afb13d663901e52f6-1200x1200jpg.jpg?v=1726828498",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Wreath",
+          "Handmade"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855942566077,
+    "title": "Poczt\u00f3wki - I wool always love you",
+    "handle": "hp-1005280-postcards-6-pcs-i-wool-always-love-you",
+    "body_html": "<p>Wreszcie tu s\u0105.... Poczt\u00f3wki dla os\u00f3b, kt\u00f3re kochaj\u0105 w\u0142\u00f3czk\u0119! Wyj\u0105tkowo zdolny ilustrator Hobbii by\u0142 w swoim k\u0105ciku tw\u00f3rczym i wymy\u015bli\u0142 szereg \u015bwietnych ilustracji.</p><p>Wiemy, \u017ce uwielbisz dawa\u0107 mi\u0119kkie, w\u0142asnor\u0119cznie zrobione prezenty bliskim Ci osobom, a teraz masz mo\u017cliwo\u015b\u0107 uczynienia prezentu wyj\u0105tkowym i do\u0142\u0105czenia do niego \u0142adnej poczt\u00f3wki z mi\u0142ym pozdrowieniem. Podaruj kartk\u0119 mamie, siostrze, przyjaci\u00f3\u0142ce lub innej osobie kochaj\u0105cej w\u0142\u00f3czki \u2013 na pewno sprawi to ogromn\u0105 rado\u015b\u0107! Mo\u017cesz poleci\u0107, aby poczt\u00f3wk\u0119 powiesili jako dekoracj\u0119 na \u015bcianie lub tablicy :-)</p><p>Poczt\u00f3wki maj\u0105 uroczy design z pi\u0119knymi kolorami i motywami. W tym pakiecie otrzymasz sze\u015b\u0107 poczt\u00f3wek z trzema r\u00f3\u017cnymi wzorami:</p><ul><li><p>&quot;I wool always love you&quot; \u2013 na zielonym tle</p></li><li><p>Kobieta z motkami we w\u0142osach \u2013 na be\u017cowym tle</p></li><li><p>&quot;Made with love&quot; \u2013 niebieskie t\u0142o z fioletowym nadrukiem\n</p></li></ul><p>Lewa strona poczt\u00f3wek jest w bia\u0142ym kolorze. (FSC oraz Nordycki \u0141ab\u0119d\u017a).</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420735140029,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-4066",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "15.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855942566077,
+        "created_at": "2024-08-05T10:25:34+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184211460285,
+        "created_at": "2024-08-05T11:02:43+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:02:44+02:00",
+        "product_id": 7855942566077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-2jpg.jpg?v=1722848564",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184211493053,
+        "created_at": "2024-08-05T11:02:43+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:02:44+02:00",
+        "product_id": 7855942566077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-1jpg.jpg?v=1722848564",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184211263677,
+        "created_at": "2024-08-05T11:02:43+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:02:44+02:00",
+        "product_id": 7855942566077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-4jpg.jpg?v=1722848564",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184211394749,
+        "created_at": "2024-08-05T11:02:43+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:02:44+02:00",
+        "product_id": 7855942566077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-3jpg.jpg?v=1722848564",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184211296445,
+        "created_at": "2024-08-05T11:02:43+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:02:44+02:00",
+        "product_id": 7855942566077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cards-5jpg.jpg?v=1722848564",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855956230333,
+    "title": "Znaczki z drewna - Handmade",
+    "handle": "hp-1005983-wooden-labels-handmade",
+    "body_html": "<p>Urocze znaczki na kosze, torby lub inne przedmioty domowej roboty, kt\u00f3re zatrzymasz dla siebie lub podarujesz bliskiej osobie.</p><p>Te pi\u0119kne znaczki s\u0105 wykonane ze sklejki topolowej, a ich prostok\u0105tne kszta\u0142ty maj\u0105 precyzyjnie wyg\u0142adzone kraw\u0119dzie. Tekst \u201eHandmade\u201d jest nadrukowany laserowo romantycznym pismem wraz z ma\u0142\u0105, delikatn\u0105 ga\u0142\u0105zk\u0105.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420795105469,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0505",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "19.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855956230333,
+        "created_at": "2024-08-05T10:26:57+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184442081469,
+        "created_at": "2024-08-05T11:13:23+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:13:25+02:00",
+        "product_id": 7855956230333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/plywood-handmade-1jpg.jpg?v=1722849205",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184442409149,
+        "created_at": "2024-08-05T11:13:23+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:13:26+02:00",
+        "product_id": 7855956230333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/wooden-labels-1-1-picture-sylwia-accessories2jpg.jpg?v=1722849206",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35184442015933,
+        "created_at": "2024-08-05T11:13:24+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:13:25+02:00",
+        "product_id": 7855956230333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1680170231-wooden-labels-1-1-picture-sylwia-accessoriesjpg.jpg?v=1722849205",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35184442212541,
+        "created_at": "2024-08-05T11:13:24+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:13:25+02:00",
+        "product_id": 7855956230333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/plywood-handmade-2jpg.jpg?v=1722849205",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184442147005,
+        "created_at": "2024-08-05T11:13:24+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:13:25+02:00",
+        "product_id": 7855956230333,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/plywood-handmade-3jpg.jpg?v=1722849205",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855969566909,
+    "title": "Znaczki z drewna - Made With Love",
+    "handle": "hp-1005984-wooden-labels-made-with-love",
+    "body_html": "<p>Urocze znaczki na kosze, torby lub inne przedmioty domowej roboty, kt\u00f3re zatrzymasz dla siebie lub podarujesz bliskiej osobie.</p><p>Te pi\u0119kne znaczki s\u0105 wykonane ze sklejki topolowej, a ich prostok\u0105tne kszta\u0142ty maj\u0105 precyzyjnie wyg\u0142adzone kraw\u0119dzie. Tekst \u201eMade with love\u201d z ma\u0142ym serduszkiem jest nadrukowany laserowo romantycznym pismem.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420860477629,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0506",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "19.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855969566909,
+        "created_at": "2024-08-05T10:28:38+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184591405245,
+        "created_at": "2024-08-05T11:23:15+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:23:17+02:00",
+        "product_id": 7855969566909,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/plywood-handmade-love-2jpg.jpg?v=1722849797",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184590913725,
+        "created_at": "2024-08-05T11:23:15+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:23:17+02:00",
+        "product_id": 7855969566909,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/plywood-handmade-love-1jpg.jpg?v=1722849797",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184590880957,
+        "created_at": "2024-08-05T11:23:15+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:23:17+02:00",
+        "product_id": 7855969566909,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/plywood-handmade-love-3jpg.jpg?v=1722849797",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415907516794,
+        "created_at": "2024-10-23T17:45:28+02:00",
+        "position": 4,
+        "updated_at": "2024-10-23T17:45:31+02:00",
+        "product_id": 7855969566909,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/67ebecb3b5d0f35474a77a7b386bf9ad.jpg?v=1729698331",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415907877242,
+        "created_at": "2024-10-23T17:45:28+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:45:31+02:00",
+        "product_id": 7855969566909,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/da97a34dc6948c64f1a016c5481104e5.jpg?v=1729698331",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855947710653,
+    "title": "Poczt\u00f3wki - Made With Love",
+    "handle": "hp-1004691-made-with-love",
+    "body_html": "<p>Wreszcie tu s\u0105.... Poczt\u00f3wki dla os\u00f3b, kt\u00f3re kochaj\u0105 w\u0142\u00f3czk\u0119! Wyj\u0105tkowo zdolny ilustrator Hobbii by\u0142 w swoim k\u0105ciku tw\u00f3rczym i wymy\u015bli\u0142 szereg \u015bwietnych ilustracji.</p><p>Wiemy, \u017ce uwielbisz dawa\u0107 mi\u0119kkie, w\u0142asnor\u0119cznie zrobione prezenty bliskim Ci osobom, a teraz masz mo\u017cliwo\u015b\u0107 uczynienia prezentu wyj\u0105tkowym i do\u0142\u0105czenia do niego \u0142adnej poczt\u00f3wki z mi\u0142ym pozdrowieniem. Podaruj kartk\u0119 mamie, siostrze, przyjaci\u00f3\u0142ce lub innej osobie kochaj\u0105cej w\u0142\u00f3czki \u2013 na pewno sprawi to ogromn\u0105 rado\u015b\u0107! Mo\u017cesz poleci\u0107, aby poczt\u00f3wk\u0119 powiesili jako dekoracj\u0119 na \u015bcianie lub tablicy :-)</p><p>Poczt\u00f3wki maj\u0105 uroczy design z pi\u0119knymi kolorami i motywami. W tym pakiecie otrzymasz sze\u015b\u0107 poczt\u00f3wek z trzema r\u00f3\u017cnymi wzorami:</p><ul><li><p>&quot;MADE WITH LOVE&quot; \u2013 zielone t\u0142o z fioletowym nadrukiem</p></li><li><p>&quot;Handmade&quot; \u2013 niebieskie t\u0142o z motywami prz\u0119dzy w fioletowym kolorze</p></li><li><p>Dziewiarka w pozycji jogi \u2013 na fioletowym tle</p></li></ul><p>Lewa strona poczt\u00f3wek jest w bia\u0142ym kolorze. (FSC oraz Nordycki \u0141ab\u0119d\u017a).</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420762271933,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-4050",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "15.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855947710653,
+        "created_at": "2024-08-05T10:26:06+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184312811709,
+        "created_at": "2024-08-05T11:06:49+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:06:51+02:00",
+        "product_id": 7855947710653,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0555jpg.jpg?v=1722848811",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184312844477,
+        "created_at": "2024-08-05T11:06:49+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:06:51+02:00",
+        "product_id": 7855947710653,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0547jpg.jpg?v=1722848811",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184312713405,
+        "created_at": "2024-08-05T11:06:50+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:06:51+02:00",
+        "product_id": 7855947710653,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0546jpg.jpg?v=1722848811",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184312910013,
+        "created_at": "2024-08-05T11:06:50+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:06:52+02:00",
+        "product_id": 7855947710653,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0553jpg.jpg?v=1722848812",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415844471162,
+        "created_at": "2024-10-23T17:39:38+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:39:40+02:00",
+        "product_id": 7855947710653,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ef3583205d8c8f0de55bf97205dbac02.jpg?v=1729697980",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855956426941,
+    "title": "Zestaw banderolek",
+    "handle": "hp-1005870-label-set",
+    "body_html": "<p>Tutaj otrzymasz wspania\u0142\u0105 kolekcj\u0119 banderol do swoich projekt\u00f3w dziewiarskich. Idealnie nadaj\u0105 si\u0119 do ozdobienia wyrob\u00f3w, kt\u00f3re chcesz podarowa\u0107 bliskiej osobie.\n</p><p>Pasuj\u0105 na mniejsze projekty, takie jak \u015bciereczki kuchenne, skarpety, czapki, szaliki itp. Banderolk\u0119 po\u0142\u0105czysz za pomoc\u0105 do\u0142\u0105czonych naklejek.\nZestaw zawiera banderole o dw\u00f3ch r\u00f3\u017cnych wzorach \u2013 oba z romantycznym motywem li\u015bcia, \u0142\u0105cznie 12 banderol i naklejek\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420795367613,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0492",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "20.00",
+        "grams": 28,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855956426941,
+        "created_at": "2024-08-05T10:26:57+02:00",
+        "updated_at": "2024-11-22T22:29:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184475144381,
+        "created_at": "2024-08-05T11:15:25+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:15:27+02:00",
+        "product_id": 7855956426941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/handmade-labelsjpg.jpg?v=1722849327",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184475242685,
+        "created_at": "2024-08-05T11:15:25+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:15:27+02:00",
+        "product_id": 7855956426941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/banderoles-1-1-picture-katrina-home-2jpg.jpg?v=1722849327",
+        "width": 2826,
+        "height": 2826
+      },
+      {
+        "id": 35184475340989,
+        "created_at": "2024-08-05T11:15:25+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:15:28+02:00",
+        "product_id": 7855956426941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/banderoles-1-1-picture-katrina-home-1jpg.jpg?v=1722849328",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35184475308221,
+        "created_at": "2024-08-05T11:15:25+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:15:28+02:00",
+        "product_id": 7855956426941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/banderoles-1-1-picture-katrina-home-3jpg.jpg?v=1722849328",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35184475177149,
+        "created_at": "2024-08-05T11:15:25+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:15:27+02:00",
+        "product_id": 7855956426941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/banderoles-1-1-picture-katrina-home-4jpg.jpg?v=1722849327",
+        "width": 2648,
+        "height": 2648
+      },
+      {
+        "id": 35184475209917,
+        "created_at": "2024-08-05T11:15:25+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:15:27+02:00",
+        "product_id": 7855956426941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/handmade-1jpg.jpg?v=1722849327",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415875731834,
+        "created_at": "2024-10-23T17:42:18+02:00",
+        "position": 7,
+        "updated_at": "2024-10-23T17:42:20+02:00",
+        "product_id": 7855956426941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9024401b1bb4f50ecb8811c6e6cfd5ae.jpg?v=1729698140",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  }
+]

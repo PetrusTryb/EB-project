@@ -1,0 +1,955 @@
+[
+  {
+    "id": 7857063067837,
+    "title": "Budapest - Myjka",
+    "handle": "hp-1005035-budapest-scrubbing-cloth",
+    "body_html": "<p>Budapest to mini-seria, kt\u00f3ra zawiera wz\u00f3r na myjk\u0119 i koszyk. Zar\u00f3wno koszyk jak i myjka s\u0105 wykonane z prz\u0119dzy jutowej Judy, kt\u00f3ra jest grub\u0105 i bardzo wytrzyma\u0142\u0105 w\u0142\u00f3czk\u0105 nadaj\u0105c\u0105 wyrobom rustykalny wygl\u0105d.</p><p>Myjka jest dziergana oczkami prawymi w te\u0328 i z powrotem.</p><p><strong>WYMIAR</strong></p><p>Szerokos\u0301c\u0301: ok. 15 cm</p><p>D\u0142ugos\u0301c\u0301: 50 cm</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423561838781,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2016-213-9948",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857063067837,
+        "created_at": "2024-08-06T10:26:27+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377438556349,
+        "created_at": "2024-09-17T12:19:16+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:19:18+02:00",
+        "product_id": 7857063067837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/04169b70dd8d72789754cd137bcb4e0f87700f12-1500x1500jpg.jpg?v=1726568358",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438785725,
+        "created_at": "2024-09-17T12:19:16+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:19:18+02:00",
+        "product_id": 7857063067837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f23be860643a2e2c04d3d1bee47dd308fd641ad4-1500x1500jpg.jpg?v=1726568358",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438720189,
+        "created_at": "2024-09-17T12:19:16+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:19:18+02:00",
+        "product_id": 7857063067837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/49991c213494d4de97a2b58de9738a7699f4e8fe-1500x1500jpg.jpg?v=1726568358",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438752957,
+        "created_at": "2024-09-17T12:19:16+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:19:18+02:00",
+        "product_id": 7857063067837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b3102131f42237e691bea79188f986bbd6147abd-1500x1500jpg.jpg?v=1726568358",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438654653,
+        "created_at": "2024-09-17T12:19:16+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T12:19:18+02:00",
+        "product_id": 7857063067837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/565f08284ef686b387ce390924ac8765b3c6f673-1500x1500jpg.jpg?v=1726568358",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438589117,
+        "created_at": "2024-09-17T12:19:16+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T12:19:18+02:00",
+        "product_id": 7857063067837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f1325a94fc83e074004c091d4872f208712f7bbf-1500x1500jpg.jpg?v=1726568358",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438687421,
+        "created_at": "2024-09-17T12:19:17+02:00",
+        "position": 7,
+        "updated_at": "2024-09-17T12:19:18+02:00",
+        "product_id": 7857063067837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/be32812040ecc8b0ff0acef31de46b9233220eff-1500x1500jpg.jpg?v=1726568358",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438621885,
+        "created_at": "2024-09-17T12:19:17+02:00",
+        "position": 8,
+        "updated_at": "2024-09-17T12:19:18+02:00",
+        "product_id": 7857063067837,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/026aea1a064e281702b7693ce5933832bf6cbbaa-1500x1500jpg.jpg?v=1726568358",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857054286013,
+    "title": "Fredensborg - Dywanik \u0141azienkowy",
+    "handle": "hp-1003720-fredensborg-bath-math",
+    "body_html": "<p>Zr\u00f3b sobie na drutach dywanik \u0142azienkowy z Happy Chunky Double. B\u0119dzie cudownie mi\u0119kki i ochroni stopy przed ch\u0142odem pod\u0142ogi podczas zimnych porank\u00f3w.</p><p>Wybierz kolory, kt\u00f3re najlepiej pasuj\u0105 do wn\u0119trza Twojej \u0142azienki.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423537295549,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2016-202-2204",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857054286013,
+        "created_at": "2024-08-06T10:25:32+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373619445949,
+        "created_at": "2024-09-16T14:39:51+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:39:52+02:00",
+        "product_id": 7857054286013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7415c7be89e82e6999be4cf5ce15d00b0619c549-2752x2752jpg.jpg?v=1726490392",
+        "width": 2752,
+        "height": 2752
+      },
+      {
+        "id": 35373619544253,
+        "created_at": "2024-09-16T14:39:51+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:39:53+02:00",
+        "product_id": 7857054286013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/82eb1055c8c9aafff9af49626c9b2a155b91719e-2714x2714jpg.jpg?v=1726490393",
+        "width": 2714,
+        "height": 2714
+      },
+      {
+        "id": 35373619478717,
+        "created_at": "2024-09-16T14:39:51+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:39:53+02:00",
+        "product_id": 7857054286013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4ec755233806eebbd6b56b0eee67647aebed85b2-2493x2493jpg.jpg?v=1726490393",
+        "width": 2493,
+        "height": 2493
+      },
+      {
+        "id": 35373619511485,
+        "created_at": "2024-09-16T14:39:51+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:39:53+02:00",
+        "product_id": 7857054286013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c9f3cd871e2d9d323230560d7fe8d6c5a662cbaa-2203x2203jpg.jpg?v=1726490393",
+        "width": 2203,
+        "height": 2203
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857051795645,
+    "title": "Budapest - Kosz",
+    "handle": "hp-1005036-budapest-basket",
+    "body_html": "<p>Budapest to mini-seria, kt\u00f3ra zawiera wz\u00f3r na myjk\u0119 i koszyk. Zar\u00f3wno koszyk jak i myjka s\u0105 wykonane z prz\u0119dzy jutowej Judy, kt\u00f3ra jest grub\u0105 i bardzo wytrzyma\u0142\u0105 w\u0142\u00f3czk\u0105 nadaj\u0105c\u0105 wyrobom rustykalny wygl\u0105d.</p><p>Przerabiac\u0301 oczka prawe w te\u0328 i z powrotem z paskiem z patentowych oczek.</p><p><strong>WYMIAR</strong></p><p>Wysokos\u0301c\u0301: ok. 14 cm</p><p>S\u0301rednica: ok 20 cm</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423529234621,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2016-213-2693",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857051795645,
+        "created_at": "2024-08-06T10:25:16+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377438163133,
+        "created_at": "2024-09-17T12:19:15+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:19:17+02:00",
+        "product_id": 7857051795645,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/25a8770305dc17b384e4c7f265afaca9021ebe12-1500x1500jpg.jpg?v=1726568357",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438195901,
+        "created_at": "2024-09-17T12:19:15+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:19:17+02:00",
+        "product_id": 7857051795645,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3ed001c469c72baef2a7007c03e0d63eadb49921-1500x1500jpg.jpg?v=1726568357",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438294205,
+        "created_at": "2024-09-17T12:19:15+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:19:17+02:00",
+        "product_id": 7857051795645,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/48b7a65f61428698e738a6b571456b5a5a1b54eb-1500x1500jpg.jpg?v=1726568357",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "id": 35377438261437,
+        "created_at": "2024-09-17T12:19:15+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:19:17+02:00",
+        "product_id": 7857051795645,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/49c3d64d4b58a848c8b202d202a7ba48117674ce-1500x1500jpg.jpg?v=1726568357",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857029284029,
+    "title": "Szyde\u0142kowe P\u0142atki Kosmetyczne",
+    "handle": "hp-1000833-crochet-cotton-makeup-pads",
+    "body_html": "<p>Teraz masz mo\u017cliwo\u015b\u0107 aby stworzy\u0107 w\u0142asne p\u0142atki w ulubionym kolorze. Ich wz\u00f3r jest pi\u0119kny, wi\u0119c delikatnie ozdobi\u0105 \u0142azienk\u0119, a ich wykonanie nie nastr\u0119cza trudno\u015bci. Rewelacyjnie sprawdz\u0105 si\u0119 te\u017c jako prezent dla gospodarzy na przyj\u0119ciu, albo dla siebie samej, gdy najdzie Ci\u0119 ochota na troch\u0119 przyjemno\u015bci.</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423469924541,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1000833",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857029284029,
+        "created_at": "2024-08-06T10:22:55+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373365821629,
+        "created_at": "2024-09-16T13:58:52+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T13:58:54+02:00",
+        "product_id": 7857029284029,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dface15c7a58cb754a700fac4ce1454402712a27-667x667jpg.jpg?v=1726487934",
+        "width": 667,
+        "height": 667
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857023713469,
+    "title": "Venice - Myjka do twarzy",
+    "handle": "hp-1003975-venice-face-and-hand-towel",
+    "body_html": "<p>Teraz mo\u017cesz wyszyde\u0142kowa\u0107 t\u0119 urocz\u0105 myjk\u0119 do twarzy pi\u0119knym wzorem p\u00f3\u0142s\u0142upkami. Myjka wykonana na szyde\u0142ku w\u0142\u00f3czk\u0105 Rainbow Cotton 8/6, kt\u00f3ra jest dost\u0119pna w najpi\u0119kniejszych kolorach. \u0141atwo mo\u017cesz dopasowa\u0107 wielko\u015b\u0107 \u015bciereczki wed\u0142ug w\u0142asnych potrzeb.</p><p>Przyjemnego szyde\u0142kowania!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423453016253,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1006-203-6518",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857023713469,
+        "created_at": "2024-08-06T10:22:23+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373662765245,
+        "created_at": "2024-09-16T14:47:36+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:47:38+02:00",
+        "product_id": 7857023713469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/abafda0ee756ad225120b2cfe569d62ba6ffffda-1528x1528jpg.jpg?v=1726490858",
+        "width": 1528,
+        "height": 1528
+      },
+      {
+        "id": 35373662798013,
+        "created_at": "2024-09-16T14:47:36+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:47:38+02:00",
+        "product_id": 7857023713469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4bda8f1e3fde10a275706ce35a75ce6c2ddf0ba3-2060x2060jpg.jpg?v=1726490858",
+        "width": 2060,
+        "height": 2060
+      },
+      {
+        "id": 35373662863549,
+        "created_at": "2024-09-16T14:47:36+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:47:38+02:00",
+        "product_id": 7857023713469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2bf5735be4adc07a47e4ded641a7469a3f72ff6c-2268x2268jpg.jpg?v=1726490858",
+        "width": 2268,
+        "height": 2268
+      },
+      {
+        "id": 35373662830781,
+        "created_at": "2024-09-16T14:47:36+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:47:38+02:00",
+        "product_id": 7857023713469,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dc2c50d229ebb08fdaf23d4225b8eb48bfcef4a3-2268x2268jpg.jpg?v=1726490858",
+        "width": 2268,
+        "height": 2268
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857021812925,
+    "title": "Danstrup - P\u0142atki kosmetyczne",
+    "handle": "hp-1003775-danstrup-cotton-pad",
+    "body_html": "<p>Oto on: wz\u00f3r na p\u0142atki kosmetyczne na drutach!</p><p>P\u0142atki zrobione szyde\u0142kiem od dawna ciesz\u0105 si\u0119 popularno\u015bci\u0105 jako alternatywa dla tych jednorazowych.</p><p>Trudniej by\u0142o znale\u017a\u0107 instrukcj\u0119 na wydzierganie ich na drutach. Ju\u017c nie! Oto w\u0142a\u015bnie jest, wz\u00f3r na dziane, pi\u0119kne p\u0142atki kosmetyczne.</p><p>Danstrup robi si\u0119 oczkami prawymi, wi\u0119c ka\u017cdy mo\u017ce je wykona\u0107 :)</p><p>Mi\u0142ej pracy!</p><p>\n\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423448133821,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2016-202-4365",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857021812925,
+        "created_at": "2024-08-06T10:22:11+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35191577575613,
+        "created_at": "2024-08-07T01:29:56+02:00",
+        "position": 1,
+        "updated_at": "2024-08-07T01:29:58+02:00",
+        "product_id": 7857021812925,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/737974b64412947c9c92321c1aa05085d2123162-1080x1080jpg.jpg?v=1722986998",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35191577673917,
+        "created_at": "2024-08-07T01:29:57+02:00",
+        "position": 2,
+        "updated_at": "2024-08-07T01:29:58+02:00",
+        "product_id": 7857021812925,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fb16cdbd5e79f6ade3ac5d034032f1c78e5d37dc-428x427jpg.jpg?v=1722986998",
+        "width": 428,
+        "height": 427
+      },
+      {
+        "id": 35191577608381,
+        "created_at": "2024-08-07T01:29:57+02:00",
+        "position": 3,
+        "updated_at": "2024-08-07T01:29:58+02:00",
+        "product_id": 7857021812925,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6152a3a4378660431519abe9188e6d890f59a432-640x640jpg.jpg?v=1722986998",
+        "width": 640,
+        "height": 640
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857014177981,
+    "title": "Checker - Kosmetyczka",
+    "handle": "hp-1003974-checker-makeup-pouch",
+    "body_html": "<p>Teraz mo\u017cesz wyszyde\u0142kowa\u0107 urocz\u0105 kosmetyczk\u0119 wzorem mozaikowym. Kosmetyczka wykonana w\u0142\u00f3czk\u0105 Rainbow 8/4 Glitter, przyda si\u0119 nie tylko na kosmetyki. U\u017cyj j\u0105 np. na szyde\u0142ka lub inne przybory. Wykonaj j\u0105 w 2 kontrastowych kolorach, aby stworzy\u0107 efekt mozaiki. Powodzenia!\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423428604093,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1006-203-8917",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857014177981,
+        "created_at": "2024-08-06T10:21:30+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373663125693,
+        "created_at": "2024-09-16T14:47:42+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:47:44+02:00",
+        "product_id": 7857014177981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/070ed09fc372cf17815256782d3fb30bd9e10f2e-1808x1808jpg.jpg?v=1726490864",
+        "width": 1808,
+        "height": 1808
+      },
+      {
+        "id": 35373663092925,
+        "created_at": "2024-09-16T14:47:42+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:47:44+02:00",
+        "product_id": 7857014177981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5b199c0c434942d96cc8e1256ff0331fe3ba1c88-2268x2268jpg.jpg?v=1726490864",
+        "width": 2268,
+        "height": 2268
+      },
+      {
+        "id": 35373663191229,
+        "created_at": "2024-09-16T14:47:42+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:47:44+02:00",
+        "product_id": 7857014177981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cecc72f8929743fefba85ed8517e89fd5ba377fc-2268x2268jpg.jpg?v=1726490864",
+        "width": 2268,
+        "height": 2268
+      },
+      {
+        "id": 35373663158461,
+        "created_at": "2024-09-16T14:47:42+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:47:44+02:00",
+        "product_id": 7857014177981,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/07e624310d47d907123c43da835bcf1f69a94630-2765x2764jpg.jpg?v=1726490864",
+        "width": 2765,
+        "height": 2764
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857006280893,
+    "title": "Poppy - Koszyki",
+    "handle": "hp-1006691-poppy-baskets",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>S (M) L</p><p>\n<strong>WYMIAR</strong></p><p>\u015arednica: 14 (18) 24 cm</p><p>Wysoko\u015b\u0107: 8 (11) 16 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Poppy Koszyki to kolorowe rozwi\u0105zanie do przechowywania r\u00f3\u017cnych drobiazg\u00f3w. Trzy rozmiary daj\u0105ce mo\u017cliwo\u015b\u0107 pomieszczenia wszystkich w\u0142\u00f3czek i akcesori\u00f3w.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423407141053,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1154-223-7963",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857006280893,
+        "created_at": "2024-08-06T10:20:39+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377971396797,
+        "created_at": "2024-09-17T13:36:44+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:36:46+02:00",
+        "product_id": 7857006280893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/25b7178bc5e4ba025f7c81081326c2b2d2269ec9-512x512jpg.jpg?v=1726573006",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "id": 35377971364029,
+        "created_at": "2024-09-17T13:36:44+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:36:45+02:00",
+        "product_id": 7857006280893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cde5e741267c7a608e07d3b5817fc77f5c13f3e2-512x512jpg.jpg?v=1726573005",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "id": 35377971429565,
+        "created_at": "2024-09-17T13:36:44+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:36:46+02:00",
+        "product_id": 7857006280893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e000bc1c0bd793d69614dc3c2bca2adccbef90a4-512x512jpg.jpg?v=1726573006",
+        "width": 512,
+        "height": 512
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856985604285,
+    "title": "Bungee XL - Gulvm\u00e5tte i flet",
+    "handle": "hp-1001573-bungee-gulvmatte-i-flet",
+    "body_html": "<p>Uden tvivl - Danmarks l\u00e6kreste gulvm\u00e5tte. M\u00e5tten er lavet i vores fantastiske Bungee XL garn, i et flot flettet m\u00f8nster. Perfekt som leget\u00e6ppe til de mindste eller bare som ekstra hygge i hjemmet :) Rigtig god forn\u00f8jelse!</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423346618557,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001573",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856985604285,
+        "created_at": "2024-08-06T10:18:13+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35188886700221,
+        "created_at": "2024-08-06T14:54:51+02:00",
+        "position": 1,
+        "updated_at": "2024-08-06T14:54:53+02:00",
+        "product_id": 7856985604285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1517255268-matte2jpg.jpg?v=1722948893",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35188886765757,
+        "created_at": "2024-08-06T14:54:51+02:00",
+        "position": 2,
+        "updated_at": "2024-08-06T14:54:53+02:00",
+        "product_id": 7856985604285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1517255617-matte3jpg.jpg?v=1722948893",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35188886732989,
+        "created_at": "2024-08-06T14:54:51+02:00",
+        "position": 3,
+        "updated_at": "2024-08-06T14:54:53+02:00",
+        "product_id": 7856985604285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1517255633-matte1jpg.jpg?v=1722948893",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856968270013,
+    "title": "Hera - R\u0119cznik",
+    "handle": "hp-1005059-hera-hand-towel",
+    "body_html": "<p>Re\u0328cznik jest szyde\u0142kowany w paski z ma\u0142ym wzorem.\nNa kon\u0301cu wykonane jedno okra\u0328z\u0307enie po\u0301\u0142s\u0142upkami nawijanymi wzd\u0142uz\u0307 wszystkich brzego\u0301w.</p><p>Przywia\u0328z\u0307 sko\u0301rzany sznurek w jednym rogu na uchwyt.</p><p><strong>WYMIAR</strong></p><p>Szerokos\u0301c\u0301: ok. 40 cm</p><p>D\u0142ugos\u0301c\u0301: ok. 55 cm</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423297073341,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1004-213-9023",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856968270013,
+        "created_at": "2024-08-06T10:15:49+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377444913341,
+        "created_at": "2024-09-17T12:20:30+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T12:20:32+02:00",
+        "product_id": 7856968270013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6d5438251277a5c2dd8a1753222b74f0088ed5fd-5055x5055jpg.jpg?v=1726568432",
+        "width": 5055,
+        "height": 5055
+      },
+      {
+        "id": 35377444749501,
+        "created_at": "2024-09-17T12:20:30+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T12:20:31+02:00",
+        "product_id": 7856968270013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b43f70d74a642398a64fcb230b19dcb4976373a7-2288x2288jpg.jpg?v=1726568431",
+        "width": 2288,
+        "height": 2288
+      },
+      {
+        "id": 35377444847805,
+        "created_at": "2024-09-17T12:20:30+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T12:20:31+02:00",
+        "product_id": 7856968270013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a64c50d93176990b16d18c3fe7e8fd4cd565befc-2587x2587jpg.jpg?v=1726568431",
+        "width": 2587,
+        "height": 2587
+      },
+      {
+        "id": 35377444880573,
+        "created_at": "2024-09-17T12:20:30+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T12:20:32+02:00",
+        "product_id": 7856968270013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/969bdde95ceb5a7f08a71f05af8ed0932bda7359-3609x3609jpg.jpg?v=1726568432",
+        "width": 3609,
+        "height": 3609
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856958701757,
+    "title": "Koszyki - Serca - Zestaw 3 koszyk\u00f3w",
+    "handle": "hp-1006548-heart-baskets-set-of-3",
+    "body_html": "<p><strong>ROZMIAR</strong></p><p>Ma\u0142y, (\u015aredni, Du\u017cy)</p><p>\n<strong>WYMIAR</strong></p><p>Ma\u0142y: 15 x 14,5 cm</p><p>\u015aredni: 20 x 19,3 cm</p><p>Du\u017cy: 25 x 24,2 cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Pi\u0119kne i praktyczne koszyki w kszta\u0142cie serca. Idealne do przechowywania drobiazg\u00f3w takich jak akcesoria dziewiarskie, kosmetyki czy artyku\u0142y biurowe. Doskonale sprawdz\u0105 si\u0119 jako upominki dla gospodyni lub na babyshower, wype\u0142niaj\u0105c je drobiazgami dla maluszka i mamy/taty.</p><p>Wz\u00f3r zawiera instrukcj\u0119 dla wszystkich trzech rozmiar\u00f3w.</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423273414845,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1004-232-9643",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856958701757,
+        "created_at": "2024-08-06T10:14:17+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377934500029,
+        "created_at": "2024-09-17T13:29:26+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:29:27+02:00",
+        "product_id": 7856958701757,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8b45eb893695450da9b9d1f7a6719a7c5950177a-2048x2048jpg.jpg?v=1726572567",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377934434493,
+        "created_at": "2024-09-17T13:29:26+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:29:27+02:00",
+        "product_id": 7856958701757,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dbed71bd289a32bb540b60125dab48f16412f90e-2048x2048jpg.jpg?v=1726572567",
+        "width": 2048,
+        "height": 2048
+      },
+      {
+        "id": 35377934598333,
+        "created_at": "2024-09-17T13:29:26+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:29:27+02:00",
+        "product_id": 7856958701757,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c2b18e73df45be2b4aa6f24dba326f2cd90a6264-2048x2048jpg.jpg?v=1726572567",
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856952279229,
+    "title": "Tisvilde - R\u0119cznik",
+    "handle": "hp-1003774-tisvilde-towel",
+    "body_html": "<p>Tisvilde to \u015bwietny, wielokolorowy r\u0119cznik zrobiony na drutach z Rainbow Bamboo. Kompozycja kolorystyczna sprawia, \u017ce jest ciekawy, nowoczesny i fajnie si\u0119 go dzierga.</p><p>R\u0119cznik jest cudownie mi\u0119kki i nadaje si\u0119 zar\u00f3wno do \u0142azienki jak i do kuchni.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423256408253,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2016-202-4624",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856952279229,
+        "created_at": "2024-08-06T10:13:16+02:00",
+        "updated_at": "2024-11-22T23:46:00+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373632061629,
+        "created_at": "2024-09-16T14:41:23+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:41:24+02:00",
+        "product_id": 7856952279229,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5404cebf3aa190aaca4f67df3dbcc62c5775923c-640x640jpg.jpg?v=1726490484",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "id": 35373632094397,
+        "created_at": "2024-09-16T14:41:23+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:41:24+02:00",
+        "product_id": 7856952279229,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/093e58f17b8182ff562860b24c5f8056b481351e-467x467jpg.jpg?v=1726490484",
+        "width": 467,
+        "height": 467
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

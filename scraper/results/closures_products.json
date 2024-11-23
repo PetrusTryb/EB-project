@@ -1,0 +1,3770 @@
+[
+  {
+    "id": 7855917105341,
+    "title": "Magnetyczny zatrzask - 20 mm",
+    "handle": "hp-1001714-magnetic-buttons-20-mm",
+    "body_html": "<p>Magnetyczne zatrzaski o \u015brednicy 20 mm doskonale sprawdz\u0105 si\u0119 do r\u0119cznie robionej torebki, portfelika itp.\n</p><p>W opakowaniu otrzymasz 2 pary zatrzask\u00f3w.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420610326717,
+        "title": "Srebrny",
+        "option1": "Srebrny",
+        "option2": null,
+        "option3": null,
+        "sku": "22199-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183882240189,
+          "product_id": 7855917105341,
+          "position": 4,
+          "created_at": "2024-08-05T10:47:00+02:00",
+          "updated_at": "2024-08-05T10:47:02+02:00",
+          "alt": "1521541115-22199-hobbiijpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521541115-22199-hobbiijpg.jpg?v=1722847622",
+          "variant_ids": [
+            44420610326717
+          ]
+        },
+        "available": true,
+        "price": "25.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855917105341,
+        "created_at": "2024-08-05T10:22:09+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420610359485,
+        "title": "Grey",
+        "option1": "Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22200-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183882272957,
+          "product_id": 7855917105341,
+          "position": 5,
+          "created_at": "2024-08-05T10:47:01+02:00",
+          "updated_at": "2024-08-05T10:47:02+02:00",
+          "alt": "1521541135-22200-hobbiijpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521541135-22200-hobbiijpg.jpg?v=1722847622",
+          "variant_ids": [
+            44420610359485
+          ]
+        },
+        "available": true,
+        "price": "25.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855917105341,
+        "created_at": "2024-08-05T10:22:09+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420610392253,
+        "title": "Guld",
+        "option1": "Guld",
+        "option2": null,
+        "option3": null,
+        "sku": "22201-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183882371261,
+          "product_id": 7855917105341,
+          "position": 6,
+          "created_at": "2024-08-05T10:47:01+02:00",
+          "updated_at": "2024-08-05T10:47:03+02:00",
+          "alt": "1521541148-22201-hobbiijpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521541148-22201-hobbiijpg.jpg?v=1722847623",
+          "variant_ids": [
+            44420610392253
+          ]
+        },
+        "available": true,
+        "price": "25.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855917105341,
+        "created_at": "2024-08-05T10:22:09+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183882633405,
+        "created_at": "2024-08-05T10:47:00+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:47:03+02:00",
+        "product_id": 7855917105341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1522758937-sho6-700xautojpg.jpg?v=1722847623",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35183882502333,
+        "created_at": "2024-08-05T10:47:00+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:47:03+02:00",
+        "product_id": 7855917105341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a-700xautojpg.jpg?v=1722847623",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35183882666173,
+        "created_at": "2024-08-05T10:47:00+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:47:03+02:00",
+        "product_id": 7855917105341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1524666123-valket2-700xautojpg.jpg?v=1722847623",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35183882240189,
+        "created_at": "2024-08-05T10:47:00+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:47:02+02:00",
+        "product_id": 7855917105341,
+        "variant_ids": [
+          44420610326717
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521541115-22199-hobbiijpg.jpg?v=1722847622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183882272957,
+        "created_at": "2024-08-05T10:47:01+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:47:02+02:00",
+        "product_id": 7855917105341,
+        "variant_ids": [
+          44420610359485
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521541135-22200-hobbiijpg.jpg?v=1722847622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183882371261,
+        "created_at": "2024-08-05T10:47:01+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T10:47:03+02:00",
+        "product_id": 7855917105341,
+        "variant_ids": [
+          44420610392253
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521541148-22201-hobbiijpg.jpg?v=1722847623",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415810425210,
+        "created_at": "2024-10-23T17:34:27+02:00",
+        "position": 7,
+        "updated_at": "2024-10-23T17:34:29+02:00",
+        "product_id": 7855917105341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/14d17b2cbff71a5e94aa1c1e266e3450.jpg?v=1729697669",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Srebrny",
+          "Grey",
+          "Guld"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855975039165,
+    "title": "Zatrzaski",
+    "handle": "hp-1003754-snaps-11-mm-0-43-inches",
+    "body_html": "<p>Zatrzaski marki Prym mog\u0105 by\u0107 u\u017cyte w swetrach i innych ubraniach, ale te\u017c we w\u0142asnor\u0119cznie wykonanych akcesoriach. Mocuje si\u0119 je poprzez przyszycie.\n</p><p><strong>Kolor</strong>: srebrny\n<strong>\u015arednica</strong>: 11 mm\n<strong>Liczba w zestawie</strong>: 12 zatrzask\u00f3w</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420891214013,
+        "title": "11 mm / Srebrny",
+        "option1": "11 mm / Srebrny",
+        "option2": null,
+        "option3": null,
+        "sku": "80341246",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184675782845,
+          "product_id": 7855975039165,
+          "position": 4,
+          "created_at": "2024-08-05T11:28:12+02:00",
+          "updated_at": "2024-08-05T11:28:14+02:00",
+          "alt": "1589369236-13412520-f-ajpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1589369236-13412520-f-ajpg.jpg?v=1722850094",
+          "variant_ids": [
+            44420891214013
+          ]
+        },
+        "available": true,
+        "price": "15.00",
+        "grams": 6,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855975039165,
+        "created_at": "2024-08-05T10:29:25+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184675848381,
+        "created_at": "2024-08-05T11:28:12+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:28:14+02:00",
+        "product_id": 7855975039165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/13412460-ps-ajpg.jpg?v=1722850094",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184675750077,
+        "created_at": "2024-08-05T11:28:12+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:28:13+02:00",
+        "product_id": 7855975039165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/13412460-f-ajpg.jpg?v=1722850093",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184675815613,
+        "created_at": "2024-08-05T11:28:12+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:28:14+02:00",
+        "product_id": 7855975039165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/13412520-d-ajpg.jpg?v=1722850094",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184675782845,
+        "created_at": "2024-08-05T11:28:12+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:28:14+02:00",
+        "product_id": 7855975039165,
+        "variant_ids": [
+          44420891214013
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1589369236-13412520-f-ajpg.jpg?v=1722850094",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 71415900537210,
+        "created_at": "2024-10-23T17:44:59+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:45:00+02:00",
+        "product_id": 7855975039165,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7151e556b10a8490c1252c6dd7f28b17.jpg?v=1729698300",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "11 mm / Srebrny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855972909245,
+    "title": "Klamrowe zapi\u0119cia do torebek",
+    "handle": "hp-1001712-lobster-lock-w-d-rings",
+    "body_html": "<p>2 klamry z pier\u015bcieniami w kszta\u0142cie litery D, kt\u00f3rych mo\u017cesz u\u017cy\u0107 np jako zapi\u0119cia do Twoich r\u0119cznie robionych torebek.</p><p>Zapi\u0119cia s\u0105 dost\u0119pne w r\u00f3\u017cnych rozmiarach i kolorach.</p><p>Wymiar:</p><p></p><ul><li><p>35 x 15 mm (pier\u015bcie\u0144-D: szeroko\u015b\u0107 20 mm)</p></li><li><p>48 x 20 mm (pier\u015bcie\u0144-D: szeroko\u015b\u0107 25 mm)</p></li><li><p>55 x 25 mm (pier\u015bcie\u0144-D: szeroko\u015b\u0107 27 mm)</p></li></ul><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420881842365,
+        "title": "35 mm - Silver",
+        "option1": "35 mm - Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22183-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184654090429,
+          "product_id": 7855972909245,
+          "position": 5,
+          "created_at": "2024-08-05T11:26:55+02:00",
+          "updated_at": "2024-08-05T11:26:57+02:00",
+          "alt": "35mm-slvpng",
+          "width": 2725,
+          "height": 2725,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35mm-slvpng.png?v=1722850017",
+          "variant_ids": [
+            44420881842365
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420881875133,
+        "title": "35 mm - Grey",
+        "option1": "35 mm - Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22184-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184654549181,
+          "product_id": 7855972909245,
+          "position": 6,
+          "created_at": "2024-08-05T11:26:55+02:00",
+          "updated_at": "2024-08-05T11:26:58+02:00",
+          "alt": "35mm-grapng",
+          "width": 2725,
+          "height": 2725,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35mm-grapng.png?v=1722850018",
+          "variant_ids": [
+            44420881875133
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420881907901,
+        "title": "35 mm - Gold",
+        "option1": "35 mm - Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22185-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184654516413,
+          "product_id": 7855972909245,
+          "position": 7,
+          "created_at": "2024-08-05T11:26:55+02:00",
+          "updated_at": "2024-08-05T11:26:58+02:00",
+          "alt": "35mm-guldpng",
+          "width": 2725,
+          "height": 2725,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35mm-guldpng.png?v=1722850018",
+          "variant_ids": [
+            44420881907901
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420881940669,
+        "title": "48 mm - Silver",
+        "option1": "48 mm - Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22180-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184654254269,
+          "product_id": 7855972909245,
+          "position": 1,
+          "created_at": "2024-08-05T11:26:55+02:00",
+          "updated_at": "2024-08-05T11:26:58+02:00",
+          "alt": "48mm-slvpng",
+          "width": 2663,
+          "height": 2663,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/48mm-slvpng.png?v=1722850018",
+          "variant_ids": [
+            44420881940669
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 25,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420881973437,
+        "title": "48 mm - Grey",
+        "option1": "48 mm - Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22181-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184653893821,
+          "product_id": 7855972909245,
+          "position": 8,
+          "created_at": "2024-08-05T11:26:55+02:00",
+          "updated_at": "2024-08-05T11:26:57+02:00",
+          "alt": "48mm-grapng",
+          "width": 2663,
+          "height": 2663,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/48mm-grapng.png?v=1722850017",
+          "variant_ids": [
+            44420881973437
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 25,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420882006205,
+        "title": "48 mm - Gold",
+        "option1": "48 mm - Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22182-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184653926589,
+          "product_id": 7855972909245,
+          "position": 9,
+          "created_at": "2024-08-05T11:26:55+02:00",
+          "updated_at": "2024-08-05T11:26:57+02:00",
+          "alt": "48mm-guldpng",
+          "width": 2663,
+          "height": 2663,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/48mm-guldpng.png?v=1722850017",
+          "variant_ids": [
+            44420882006205
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 25,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420882038973,
+        "title": "55 mm - Silver",
+        "option1": "55 mm - Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22177-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184654188733,
+          "product_id": 7855972909245,
+          "position": 10,
+          "created_at": "2024-08-05T11:26:55+02:00",
+          "updated_at": "2024-08-05T11:26:57+02:00",
+          "alt": "55mm-slvpng",
+          "width": 2891,
+          "height": 2891,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/55mm-slvpng.png?v=1722850017",
+          "variant_ids": [
+            44420882038973
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420882071741,
+        "title": "55 mm - Grey",
+        "option1": "55 mm - Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22178-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184654057661,
+          "product_id": 7855972909245,
+          "position": 11,
+          "created_at": "2024-08-05T11:26:56+02:00",
+          "updated_at": "2024-08-05T11:26:57+02:00",
+          "alt": "55mm-grapng",
+          "width": 2891,
+          "height": 2891,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/55mm-grapng.png?v=1722850017",
+          "variant_ids": [
+            44420882071741
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420882104509,
+        "title": "55 mm - Gold",
+        "option1": "55 mm - Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22179-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184654483645,
+          "product_id": 7855972909245,
+          "position": 12,
+          "created_at": "2024-08-05T11:26:56+02:00",
+          "updated_at": "2024-08-05T11:26:58+02:00",
+          "alt": "55mm-guldpng",
+          "width": 2891,
+          "height": 2891,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/55mm-guldpng.png?v=1722850018",
+          "variant_ids": [
+            44420882104509
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 40,
+        "compare_at_price": "0.00",
+        "position": 9,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420882137277,
+        "title": "35 mm - Bronze",
+        "option1": "35 mm - Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22273-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184653959357,
+          "product_id": 7855972909245,
+          "position": 13,
+          "created_at": "2024-08-05T11:26:56+02:00",
+          "updated_at": "2024-08-05T11:26:57+02:00",
+          "alt": "22273jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22273jpg.jpg?v=1722850017",
+          "variant_ids": [
+            44420882137277
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 10,
+        "product_id": 7855972909245,
+        "created_at": "2024-08-05T10:29:08+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184654254269,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:26:58+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420881940669
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/48mm-slvpng.png?v=1722850018",
+        "width": 2663,
+        "height": 2663
+      },
+      {
+        "id": 35184654123197,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:26:57+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1581074979-2019-10-24-15-37-47-1200x1200px-700xautojpg.jpg?v=1722850017",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184654385341,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:26:58+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/sensommerbrise-taske-5-700xautojpg.jpg?v=1722850018",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184654024893,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:26:57+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/havbrise-taske-18-700xautojpg.jpg?v=1722850017",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184654090429,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:26:57+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420881842365
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35mm-slvpng.png?v=1722850017",
+        "width": 2725,
+        "height": 2725
+      },
+      {
+        "id": 35184654549181,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:26:58+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420881875133
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35mm-grapng.png?v=1722850018",
+        "width": 2725,
+        "height": 2725
+      },
+      {
+        "id": 35184654516413,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:26:58+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420881907901
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35mm-guldpng.png?v=1722850018",
+        "width": 2725,
+        "height": 2725
+      },
+      {
+        "id": 35184653893821,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T11:26:57+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420881973437
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/48mm-grapng.png?v=1722850017",
+        "width": 2663,
+        "height": 2663
+      },
+      {
+        "id": 35184653926589,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T11:26:57+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420882006205
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/48mm-guldpng.png?v=1722850017",
+        "width": 2663,
+        "height": 2663
+      },
+      {
+        "id": 35184654188733,
+        "created_at": "2024-08-05T11:26:55+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T11:26:57+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420882038973
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/55mm-slvpng.png?v=1722850017",
+        "width": 2891,
+        "height": 2891
+      },
+      {
+        "id": 35184654057661,
+        "created_at": "2024-08-05T11:26:56+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T11:26:57+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420882071741
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/55mm-grapng.png?v=1722850017",
+        "width": 2891,
+        "height": 2891
+      },
+      {
+        "id": 35184654483645,
+        "created_at": "2024-08-05T11:26:56+02:00",
+        "position": 12,
+        "updated_at": "2024-08-05T11:26:58+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420882104509
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/55mm-guldpng.png?v=1722850018",
+        "width": 2891,
+        "height": 2891
+      },
+      {
+        "id": 35184653959357,
+        "created_at": "2024-08-05T11:26:56+02:00",
+        "position": 13,
+        "updated_at": "2024-08-05T11:26:57+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [
+          44420882137277
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22273jpg.jpg?v=1722850017",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415899062650,
+        "created_at": "2024-10-23T17:44:38+02:00",
+        "position": 14,
+        "updated_at": "2024-10-23T17:44:40+02:00",
+        "product_id": 7855972909245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7240aa6b7b41501c69c7161761738d20.png?v=1729698280",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "35 mm - Silver",
+          "35 mm - Grey",
+          "35 mm - Gold",
+          "48 mm - Silver",
+          "48 mm - Grey",
+          "48 mm - Gold",
+          "55 mm - Silver",
+          "55 mm - Grey",
+          "55 mm - Gold",
+          "35 mm - Bronze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855976743101,
+    "title": "Karabi\u0144czyk - Okr\u0105g\u0142y - 28 mm",
+    "handle": "hp-1002212-o-ring-las-aben-solv-d28-mm-2-stk",
+    "body_html": "<p>Ten pier\u015bcie\u0144 z karabi\u0144czykiem lub O-ring je\u015bli wolisz, jest super sprytny np. do w\u0142asnor\u0119cznie wykonanej torby, je\u015bli chcesz mie\u0107 mo\u017cliwo\u015b\u0107 wymiany paska lub je\u015bli chcesz mie\u0107 mo\u017cliwo\u015b\u0107 zamontowania na torbie czego\u015b co mo\u017cesz zapi\u0105\u0107 i odpi\u0105\u0107. Na przyk\u0142ad Twoje klucze. Wystarczy nacisn\u0105\u0107 mechanizm zamykaj\u0105cy aby go otworzy\u0107 i ponownie zwolni\u0107 aby go zamkn\u0105\u0107.\n</p><p>W tym pakiecie otrzymasz dwa pier\u015bcienie o \u015brednicy 28 mm</p><p>\n</p><p><strong>Ilo\u015b\u0107</strong>: 2 szt.\n<strong>Rozmiar</strong>: \u015brednica 28 mm\n<strong>Kolory</strong>: Srebro - Br\u0105z - Z\u0142oto - Ciemnoszary\n<strong>Materia\u0142</strong>: Metal</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420897931453,
+        "title": "Silver",
+        "option1": "Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22165",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71795268780410,
+          "product_id": 7855976743101,
+          "position": 2,
+          "created_at": "2024-10-29T11:46:03+01:00",
+          "updated_at": "2024-10-29T11:46:06+01:00",
+          "alt": "8c9646c5cfad860d65ad390466aec452",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8c9646c5cfad860d65ad390466aec452.jpg?v=1730198766",
+          "variant_ids": [
+            44420897931453
+          ]
+        },
+        "available": true,
+        "price": "21.00",
+        "grams": 20,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855976743101,
+        "created_at": "2024-08-05T10:29:38+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420897964221,
+        "title": "Gold",
+        "option1": "Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22167",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71795268649338,
+          "product_id": 7855976743101,
+          "position": 3,
+          "created_at": "2024-10-29T11:46:03+01:00",
+          "updated_at": "2024-10-29T11:46:05+01:00",
+          "alt": "5db30d9dcecc767686f1deff9c13ea68",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5db30d9dcecc767686f1deff9c13ea68.jpg?v=1730198765",
+          "variant_ids": [
+            44420897964221
+          ]
+        },
+        "available": true,
+        "price": "21.00",
+        "grams": 20,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855976743101,
+        "created_at": "2024-08-05T10:29:38+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420897996989,
+        "title": "Bronze",
+        "option1": "Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22370",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71795268682106,
+          "product_id": 7855976743101,
+          "position": 4,
+          "created_at": "2024-10-29T11:46:03+01:00",
+          "updated_at": "2024-10-29T11:46:05+01:00",
+          "alt": "1d452489322abc1dd1adb4289cf46a04",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1d452489322abc1dd1adb4289cf46a04.jpg?v=1730198765",
+          "variant_ids": [
+            44420897996989
+          ]
+        },
+        "available": true,
+        "price": "21.00",
+        "grams": 20,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855976743101,
+        "created_at": "2024-08-05T10:29:38+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420898029757,
+        "title": "Dark Grey",
+        "option1": "Dark Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22166",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71795268747642,
+          "product_id": 7855976743101,
+          "position": 5,
+          "created_at": "2024-10-29T11:46:03+01:00",
+          "updated_at": "2024-10-29T11:46:05+01:00",
+          "alt": "abbf1c3b309306ab4e8650d0e9c67543",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/abbf1c3b309306ab4e8650d0e9c67543.jpg?v=1730198765",
+          "variant_ids": [
+            44420898029757
+          ]
+        },
+        "available": true,
+        "price": "21.00",
+        "grams": 20,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855976743101,
+        "created_at": "2024-08-05T10:29:38+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 71795268714874,
+        "created_at": "2024-10-29T11:46:03+01:00",
+        "position": 1,
+        "updated_at": "2024-10-29T11:46:05+01:00",
+        "product_id": 7855976743101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/83a841e38ec56a209c93672d76e68896.jpg?v=1730198765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71795268780410,
+        "created_at": "2024-10-29T11:46:03+01:00",
+        "position": 2,
+        "updated_at": "2024-10-29T11:46:06+01:00",
+        "product_id": 7855976743101,
+        "variant_ids": [
+          44420897931453
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8c9646c5cfad860d65ad390466aec452.jpg?v=1730198766",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71795268649338,
+        "created_at": "2024-10-29T11:46:03+01:00",
+        "position": 3,
+        "updated_at": "2024-10-29T11:46:05+01:00",
+        "product_id": 7855976743101,
+        "variant_ids": [
+          44420897964221
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5db30d9dcecc767686f1deff9c13ea68.jpg?v=1730198765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71795268682106,
+        "created_at": "2024-10-29T11:46:03+01:00",
+        "position": 4,
+        "updated_at": "2024-10-29T11:46:05+01:00",
+        "product_id": 7855976743101,
+        "variant_ids": [
+          44420897996989
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1d452489322abc1dd1adb4289cf46a04.jpg?v=1730198765",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71795268747642,
+        "created_at": "2024-10-29T11:46:03+01:00",
+        "position": 5,
+        "updated_at": "2024-10-29T11:46:05+01:00",
+        "product_id": 7855976743101,
+        "variant_ids": [
+          44420898029757
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/abbf1c3b309306ab4e8650d0e9c67543.jpg?v=1730198765",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Silver",
+          "Gold",
+          "Bronze",
+          "Dark Grey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855965733053,
+    "title": "Magnetyczny guzik z klapk\u0105 \u2013 4 cm",
+    "handle": "hp-1001708-magnetic-button-flap-2-cm",
+    "body_html": "<p>Magnetyczny guzik z 4-centymetrow\u0105 klapk\u0105 ze sk\u00f3ry PU.</p><p>Idealnie nada si\u0119 do r\u0119cznie robionych torebek, portfeli, etui na laptop itp.\n</p><p>Guzik dost\u0119pny jest w kilku r\u00f3\u017cnych kolorach, a metal jest srebrny, z\u0142oty lub br\u0105zowy.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420837081277,
+        "title": "Black/Gold",
+        "option1": "Black/Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22159-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132287677,
+          "product_id": 7855965733053,
+          "position": 4,
+          "created_at": "2024-08-05T21:28:14+02:00",
+          "updated_at": "2024-08-05T21:28:17+02:00",
+          "alt": "1521540734-22159jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540734-22159jpg.jpg?v=1722886097",
+          "variant_ids": [
+            44420837081277
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 12,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837114045,
+        "title": "Brown/Gold",
+        "option1": "Brown/Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22160-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132058301,
+          "product_id": 7855965733053,
+          "position": 5,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:17+02:00",
+          "alt": "1521540817-22160jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540817-22160jpg.jpg?v=1722886097",
+          "variant_ids": [
+            44420837114045
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 12,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837146813,
+        "title": "Dark Brown/Gold",
+        "option1": "Dark Brown/Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22161-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132156605,
+          "product_id": 7855965733053,
+          "position": 6,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1521540844-22161jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540844-22161jpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837146813
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 12,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837179581,
+        "title": "Black/Silver",
+        "option1": "Black/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22162-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132385981,
+          "product_id": 7855965733053,
+          "position": 7,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1521540772-22162jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540772-22162jpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837179581
+          ]
+        },
+        "available": true,
+        "price": "33.00",
+        "grams": 12,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837212349,
+        "title": "Brown/Silver",
+        "option1": "Brown/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22163-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132582589,
+          "product_id": 7855965733053,
+          "position": 8,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1521540829-22163jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540829-22163jpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837212349
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 12,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837245117,
+        "title": "Dark Brown/Silver",
+        "option1": "Dark Brown/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22164-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132189373,
+          "product_id": 7855965733053,
+          "position": 9,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1521540752-22164jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540752-22164jpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837245117
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 12,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837277885,
+        "title": "Black/Bronze",
+        "option1": "Black/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22371-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132091069,
+          "product_id": 7855965733053,
+          "position": 10,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "22371-magnetic-button-flap-4cm-black-w-bronze-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22371-magnetic-button-flap-4cm-black-w-bronze-1200x1200pxjpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837277885
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 11,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837310653,
+        "title": "Brown/Bronze",
+        "option1": "Brown/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22372-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132123837,
+          "product_id": 7855965733053,
+          "position": 11,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1553631256-22372-magnetic-button-flap-4cm-brown-w-bronze-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1553631256-22372-magnetic-button-flap-4cm-brown-w-bronze-1200x1200pxjpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837310653
+          ]
+        },
+        "available": true,
+        "price": "33.00",
+        "grams": 11,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837343421,
+        "title": "Dark Brown/Bronze",
+        "option1": "Dark Brown/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22373-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132451517,
+          "product_id": 7855965733053,
+          "position": 12,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1553631275-22373-magnetic-button-flap-4cm-dark-brown-w-bronze-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1553631275-22373-magnetic-button-flap-4cm-dark-brown-w-bronze-1200x1200pxjpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837343421
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 11,
+        "compare_at_price": "0.00",
+        "position": 9,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837376189,
+        "title": "Grey/Silver",
+        "option1": "Grey/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22365-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132418749,
+          "product_id": 7855965733053,
+          "position": 13,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "22365-magnetic-button-flap-4cm-grey-w-silver-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22365-magnetic-button-flap-4cm-grey-w-silver-1200x1200pxjpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837376189
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 11,
+        "compare_at_price": "0.00",
+        "position": 10,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837408957,
+        "title": "Apricot/Silver",
+        "option1": "Apricot/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22616",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132320445,
+          "product_id": 7855965733053,
+          "position": 14,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1605260785-22616-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605260785-22616-1200x1200pxjpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837408957
+          ]
+        },
+        "available": false,
+        "price": "33.00",
+        "grams": 11,
+        "compare_at_price": "0.00",
+        "position": 11,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837441725,
+        "title": "Beige/Silver",
+        "option1": "Beige/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22617",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132549821,
+          "product_id": 7855965733053,
+          "position": 15,
+          "created_at": "2024-08-05T21:28:15+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1605260801-22617-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605260801-22617-1200x1200pxjpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837441725
+          ]
+        },
+        "available": true,
+        "price": "33.00",
+        "grams": 11,
+        "compare_at_price": "0.00",
+        "position": 12,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420837474493,
+        "title": "Green/Silver",
+        "option1": "Green/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22618",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186132517053,
+          "product_id": 7855965733053,
+          "position": 16,
+          "created_at": "2024-08-05T21:28:16+02:00",
+          "updated_at": "2024-08-05T21:28:18+02:00",
+          "alt": "1605260793-22618-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605260793-22618-1200x1200pxjpg.jpg?v=1722886098",
+          "variant_ids": [
+            44420837474493
+          ]
+        },
+        "available": true,
+        "price": "33.00",
+        "grams": 11,
+        "compare_at_price": "0.00",
+        "position": 13,
+        "product_id": 7855965733053,
+        "created_at": "2024-08-05T10:28:07+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35186132222141,
+        "created_at": "2024-08-05T21:28:14+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/rippletaske-75-700xautojpg.jpg?v=1722886098",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35186132353213,
+        "created_at": "2024-08-05T21:28:14+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2018-09-19-18-00-38-700xautojpg.jpg?v=1722886098",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35186132254909,
+        "created_at": "2024-08-05T21:28:14+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1522758884-sho2-700xautojpg.jpg?v=1722886098",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35186132287677,
+        "created_at": "2024-08-05T21:28:14+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T21:28:17+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837081277
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540734-22159jpg.jpg?v=1722886097",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132058301,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T21:28:17+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837114045
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540817-22160jpg.jpg?v=1722886097",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132156605,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837146813
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540844-22161jpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132385981,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837179581
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540772-22162jpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132582589,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837212349
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540829-22163jpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132189373,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837245117
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521540752-22164jpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132091069,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837277885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22371-magnetic-button-flap-4cm-black-w-bronze-1200x1200pxjpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132123837,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837310653
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1553631256-22372-magnetic-button-flap-4cm-brown-w-bronze-1200x1200pxjpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132451517,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 12,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837343421
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1553631275-22373-magnetic-button-flap-4cm-dark-brown-w-bronze-1200x1200pxjpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132418749,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 13,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837376189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22365-magnetic-button-flap-4cm-grey-w-silver-1200x1200pxjpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132320445,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 14,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837408957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605260785-22616-1200x1200pxjpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132549821,
+        "created_at": "2024-08-05T21:28:15+02:00",
+        "position": 15,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837441725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605260801-22617-1200x1200pxjpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186132517053,
+        "created_at": "2024-08-05T21:28:16+02:00",
+        "position": 16,
+        "updated_at": "2024-08-05T21:28:18+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [
+          44420837474493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1605260793-22618-1200x1200pxjpg.jpg?v=1722886098",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415894835578,
+        "created_at": "2024-10-23T17:44:26+02:00",
+        "position": 17,
+        "updated_at": "2024-10-23T17:44:28+02:00",
+        "product_id": 7855965733053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3849b11c0b6fcba71c304210dba10015.jpg?v=1729698268",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black/Gold",
+          "Brown/Gold",
+          "Dark Brown/Gold",
+          "Black/Silver",
+          "Brown/Silver",
+          "Dark Brown/Silver",
+          "Black/Bronze",
+          "Brown/Bronze",
+          "Dark Brown/Bronze",
+          "Grey/Silver",
+          "Apricot/Silver",
+          "Beige/Silver",
+          "Green/Silver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855946432701,
+    "title": "Guziki na zatrzask - 19 mm",
+    "handle": "hp-1001716-snap-buttons-19-mm",
+    "body_html": "<p>Guziki na zatrzask od Go Handmade b\u0119d\u0105 bardzo \u0142adnym i praktycznym dodatkiem do Twoich r\u0119cznie robionych torebek, portfeli, r\u0119kaw\u00f3w itp. W zestawie otrzymasz 4 guziki o \u015brednicy 19 mm. Ca\u0142y asortyment guzik\u00f3w znajdziesz <a href=\"https://hobbii.pl/akcesoria/guziki\">tutaj</a>.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420755914941,
+        "title": "Silver",
+        "option1": "Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22202-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184266313917,
+          "product_id": 7855946432701,
+          "position": 1,
+          "created_at": "2024-08-05T11:04:57+02:00",
+          "updated_at": "2024-08-05T11:04:59+02:00",
+          "alt": "1522144371-22202-hobbiijpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1522144371-22202-hobbiijpg.jpg?v=1722848699",
+          "variant_ids": [
+            44420755914941
+          ]
+        },
+        "available": true,
+        "price": "21.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855946432701,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420755947709,
+        "title": "Dark Grey",
+        "option1": "Dark Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22203-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184266281149,
+          "product_id": 7855946432701,
+          "position": 2,
+          "created_at": "2024-08-05T11:04:57+02:00",
+          "updated_at": "2024-08-05T11:04:59+02:00",
+          "alt": "1522144493-22203-hobbiijpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1522144493-22203-hobbiijpg.jpg?v=1722848699",
+          "variant_ids": [
+            44420755947709
+          ]
+        },
+        "available": false,
+        "price": "21.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855946432701,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420755980477,
+        "title": "Gold",
+        "option1": "Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22204-gohandmade",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184266412221,
+          "product_id": 7855946432701,
+          "position": 3,
+          "created_at": "2024-08-05T11:04:57+02:00",
+          "updated_at": "2024-08-05T11:04:59+02:00",
+          "alt": "1522144519-22204-hobbiijpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1522144519-22204-hobbiijpg.jpg?v=1722848699",
+          "variant_ids": [
+            44420755980477
+          ]
+        },
+        "available": false,
+        "price": "21.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855946432701,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184266313917,
+        "created_at": "2024-08-05T11:04:57+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:04:59+02:00",
+        "product_id": 7855946432701,
+        "variant_ids": [
+          44420755914941
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1522144371-22202-hobbiijpg.jpg?v=1722848699",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184266281149,
+        "created_at": "2024-08-05T11:04:57+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:04:59+02:00",
+        "product_id": 7855946432701,
+        "variant_ids": [
+          44420755947709
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1522144493-22203-hobbiijpg.jpg?v=1722848699",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184266412221,
+        "created_at": "2024-08-05T11:04:57+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:04:59+02:00",
+        "product_id": 7855946432701,
+        "variant_ids": [
+          44420755980477
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1522144519-22204-hobbiijpg.jpg?v=1722848699",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415830380922,
+        "created_at": "2024-10-23T17:37:34+02:00",
+        "position": 4,
+        "updated_at": "2024-10-23T17:37:36+02:00",
+        "product_id": 7855946432701,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/de300ba6698279ec2787112fdc1a57b9.jpg?v=1729697856",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Silver",
+          "Dark Grey",
+          "Gold"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855909208253,
+    "title": "Pasek z zatrzaskiem- sk\u00f3ra PU - 9 x 1,8 cm",
+    "handle": "hp-1003585-pu-leather-strap-w-snap-3-5-x-0-7",
+    "body_html": "<p>Ten \u0142adny pasek wykonany ze sk\u00f3ry ekologicznej (sk\u00f3ra PU) nada si\u0119 idealnie jako zamkni\u0119cie Twojej r\u0119cznie robionej torebki. Produkt jest dost\u0119pny w wielu cudnych kolorach, dzi\u0119ki czemu pasuje do wi\u0119kszo\u015bci toreb.</p><p>Sam zatrzask jest barwy z\u0142otej, br\u0105zowej lub srebrnej.\n</p><p>Materia\u0142: sk\u00f3ra PU (sk\u00f3ra ekologiczna)\nRozmiar:\u00a09 x 1,8 cm</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420581130429,
+        "title": "Black/Silver",
+        "option1": "Black/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22500-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183819718845,
+          "product_id": 7855909208253,
+          "position": 5,
+          "created_at": "2024-08-05T10:44:28+02:00",
+          "updated_at": "2024-08-05T10:44:30+02:00",
+          "alt": "22500-black-w-silver-front-1-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22500-black-w-silver-front-1-1200x1200pxjpg.jpg?v=1722847470",
+          "variant_ids": [
+            44420581130429
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 8,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855909208253,
+        "created_at": "2024-08-05T10:20:29+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420581163197,
+        "title": "Black/Bronze",
+        "option1": "Black/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22501-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183819784381,
+          "product_id": 7855909208253,
+          "position": 6,
+          "created_at": "2024-08-05T10:44:28+02:00",
+          "updated_at": "2024-08-05T10:44:30+02:00",
+          "alt": "22501-black-w-bronze-front-1-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22501-black-w-bronze-front-1-1200x1200pxjpg.jpg?v=1722847470",
+          "variant_ids": [
+            44420581163197
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 8,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855909208253,
+        "created_at": "2024-08-05T10:20:29+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420581195965,
+        "title": "Black/Gold",
+        "option1": "Black/Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22502-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183819882685,
+          "product_id": 7855909208253,
+          "position": 1,
+          "created_at": "2024-08-05T10:44:28+02:00",
+          "updated_at": "2024-08-05T10:44:30+02:00",
+          "alt": "22502-black-w-gold-front-1-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22502-black-w-gold-front-1-1200x1200pxjpg.jpg?v=1722847470",
+          "variant_ids": [
+            44420581195965
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 8,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855909208253,
+        "created_at": "2024-08-05T10:20:29+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420581228733,
+        "title": "Brown/Bronze",
+        "option1": "Brown/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22503-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183819849917,
+          "product_id": 7855909208253,
+          "position": 7,
+          "created_at": "2024-08-05T10:44:28+02:00",
+          "updated_at": "2024-08-05T10:44:30+02:00",
+          "alt": "22503-brown-w-bronze-front-1-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22503-brown-w-bronze-front-1-1200x1200pxjpg.jpg?v=1722847470",
+          "variant_ids": [
+            44420581228733
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 8,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855909208253,
+        "created_at": "2024-08-05T10:20:29+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420581261501,
+        "title": "Beige/Silver",
+        "option1": "Beige/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22504-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183819948221,
+          "product_id": 7855909208253,
+          "position": 8,
+          "created_at": "2024-08-05T10:44:28+02:00",
+          "updated_at": "2024-08-05T10:44:30+02:00",
+          "alt": "22504-beige-w-silver-front-1-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22504-beige-w-silver-front-1-1200x1200pxjpg.jpg?v=1722847470",
+          "variant_ids": [
+            44420581261501
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 8,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855909208253,
+        "created_at": "2024-08-05T10:20:29+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183819882685,
+        "created_at": "2024-08-05T10:44:28+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:44:30+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [
+          44420581195965
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22502-black-w-gold-front-1-1200x1200pxjpg.jpg?v=1722847470",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183819980989,
+        "created_at": "2024-08-05T10:44:28+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:44:30+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22500-black-w-silver-back-1-1200x1200pxjpg.jpg?v=1722847470",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183820112061,
+        "created_at": "2024-08-05T10:44:28+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:44:30+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22504-beige-w-silver-back-1-1200x1200pxjpg.jpg?v=1722847470",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183820079293,
+        "created_at": "2024-08-05T10:44:28+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:44:30+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2018-08-20-19-36-34-700xautojpg.jpg?v=1722847470",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35183819718845,
+        "created_at": "2024-08-05T10:44:28+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:44:30+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [
+          44420581130429
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22500-black-w-silver-front-1-1200x1200pxjpg.jpg?v=1722847470",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183819784381,
+        "created_at": "2024-08-05T10:44:28+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T10:44:30+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [
+          44420581163197
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22501-black-w-bronze-front-1-1200x1200pxjpg.jpg?v=1722847470",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183819849917,
+        "created_at": "2024-08-05T10:44:28+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T10:44:30+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [
+          44420581228733
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22503-brown-w-bronze-front-1-1200x1200pxjpg.jpg?v=1722847470",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183819948221,
+        "created_at": "2024-08-05T10:44:28+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T10:44:30+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [
+          44420581261501
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22504-beige-w-silver-front-1-1200x1200pxjpg.jpg?v=1722847470",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71402191257978,
+        "created_at": "2024-10-21T13:23:54+02:00",
+        "position": 9,
+        "updated_at": "2024-10-21T13:23:56+02:00",
+        "product_id": 7855909208253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7cf26cc0014e9d6ee65966e6c23aabfd.jpg?v=1729509836",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black/Silver",
+          "Black/Bronze",
+          "Black/Gold",
+          "Brown/Bronze",
+          "Beige/Silver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856018030781,
+    "title": "Karabi\u0144czyk - Srebrny",
+    "handle": "hp-1000756-karbinhage-solv",
+    "body_html": "<p>Ten posrebrzany karabi\u0144czyk od Prym wykonany jest z metalu i mo\u017ce by\u0107 obracany o 360 stopni.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421097652413,
+        "title": "25 x 40,0 mm",
+        "option1": "25 x 40,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "417+902",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185086791869,
+          "product_id": 7856018030781,
+          "position": 2,
+          "created_at": "2024-08-05T12:01:53+02:00",
+          "updated_at": "2024-08-05T12:01:54+02:00",
+          "alt": "hobbii-19-04-2019-34282jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34282jpg.jpg?v=1722852114",
+          "variant_ids": [
+            44421097652413
+          ]
+        },
+        "available": false,
+        "price": "14.50",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856018030781,
+        "created_at": "2024-08-05T10:34:37+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421097685181,
+        "title": "30 x 40,0 mm",
+        "option1": "30 x 40,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "417+904",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185086824637,
+          "product_id": 7856018030781,
+          "position": 3,
+          "created_at": "2024-08-05T12:01:53+02:00",
+          "updated_at": "2024-08-05T12:01:55+02:00",
+          "alt": "hobbii-19-04-2019-34281jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34281jpg.jpg?v=1722852115",
+          "variant_ids": [
+            44421097685181
+          ]
+        },
+        "available": false,
+        "price": "18.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856018030781,
+        "created_at": "2024-08-05T10:34:37+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421097717949,
+        "title": "7 x 38,0 mm",
+        "option1": "7 x 38,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "417+900",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185086988477,
+          "product_id": 7856018030781,
+          "position": 4,
+          "created_at": "2024-08-05T12:01:53+02:00",
+          "updated_at": "2024-08-05T12:01:55+02:00",
+          "alt": "hobbii-09-05-2019-35269jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-09-05-2019-35269jpg.jpg?v=1722852115",
+          "variant_ids": [
+            44421097717949
+          ]
+        },
+        "available": true,
+        "price": "15.70",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856018030781,
+        "created_at": "2024-08-05T10:34:37+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185086890173,
+        "created_at": "2024-08-05T12:01:53+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T12:01:55+02:00",
+        "product_id": 7856018030781,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-09-05-2019-35269-700xautojpg.jpg?v=1722852115",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35185086791869,
+        "created_at": "2024-08-05T12:01:53+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T12:01:54+02:00",
+        "product_id": 7856018030781,
+        "variant_ids": [
+          44421097652413
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34282jpg.jpg?v=1722852114",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185086824637,
+        "created_at": "2024-08-05T12:01:53+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T12:01:55+02:00",
+        "product_id": 7856018030781,
+        "variant_ids": [
+          44421097685181
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34281jpg.jpg?v=1722852115",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185086988477,
+        "created_at": "2024-08-05T12:01:53+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T12:01:55+02:00",
+        "product_id": 7856018030781,
+        "variant_ids": [
+          44421097717949
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-09-05-2019-35269jpg.jpg?v=1722852115",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "25 x 40,0 mm",
+          "30 x 40,0 mm",
+          "7 x 38,0 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856016916669,
+    "title": "Brelok na klucze",
+    "handle": "hp-1004771-keyring",
+    "body_html": "<p>Ten klasyczny pier\u015bcie\u0144 mo\u017ce by\u0107 u\u017cywany do brelok\u00f3w na klucze, zawieszek do torebek, pompon\u00f3w lub innych ozd\u00f3b.\n</p><p>Tylko wyobra\u017ania wyznacza granice, je\u015bli chcesz spersonalizowa\u0107 swoj\u0105 torebk\u0119 lub kopert\u00f3wk\u0119 r\u0119cznie zrobion\u0105, unikaln\u0105 zawieszk\u0105.</p><p>Wybierz jeden z dw\u00f3ch rozmiar\u00f3w:</p><ul><li><p>30 mm - w zestawie 10 sztuk</p></li><li><p>35 mm \u2013 w zestawie 5 sztuk</p></li></ul>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421094179005,
+        "title": "35 mm",
+        "option1": "35 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0432",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186450792637,
+          "product_id": 7856016916669,
+          "position": 3,
+          "created_at": "2024-08-05T22:11:52+02:00",
+          "updated_at": "2024-08-05T22:11:54+02:00",
+          "alt": "hobbii-04-10-2021-0560jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0560jpg.jpg?v=1722888714",
+          "variant_ids": [
+            44421094179005
+          ]
+        },
+        "available": false,
+        "price": "16.00",
+        "grams": 30,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856016916669,
+        "created_at": "2024-08-05T10:34:28+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421094211773,
+        "title": "30 mm",
+        "option1": "30 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0431",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186450759869,
+          "product_id": 7856016916669,
+          "position": 4,
+          "created_at": "2024-08-05T22:11:52+02:00",
+          "updated_at": "2024-08-05T22:11:54+02:00",
+          "alt": "hobbii-04-10-2021-0561jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0561jpg.jpg?v=1722888714",
+          "variant_ids": [
+            44421094211773
+          ]
+        },
+        "available": false,
+        "price": "25.00",
+        "grams": 45,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856016916669,
+        "created_at": "2024-08-05T10:34:28+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35186450858173,
+        "created_at": "2024-08-05T22:11:52+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T22:11:54+02:00",
+        "product_id": 7856016916669,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0570jpg.jpg?v=1722888714",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186450727101,
+        "created_at": "2024-08-05T22:11:52+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T22:11:54+02:00",
+        "product_id": 7856016916669,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0564jpg.jpg?v=1722888714",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186450792637,
+        "created_at": "2024-08-05T22:11:52+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T22:11:54+02:00",
+        "product_id": 7856016916669,
+        "variant_ids": [
+          44421094179005
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0560jpg.jpg?v=1722888714",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186450759869,
+        "created_at": "2024-08-05T22:11:52+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T22:11:54+02:00",
+        "product_id": 7856016916669,
+        "variant_ids": [
+          44421094211773
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-04-10-2021-0561jpg.jpg?v=1722888714",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "35 mm",
+          "30 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856007348413,
+    "title": "Metalowy zamek do torebki - 30 x 19 mm",
+    "handle": "hp-1002231-handbag-metal-lock-30-x-19-mm",
+    "body_html": "<p>To metalowe zamkni\u0119cie do torebki jest jednym z zamk\u00f3w nale\u017c\u0105cych do kolekcji Go Handmade - producenta s\u0142yn\u0105cego z wysokiej jako\u015bci produkt\u00f3w. Zamki musz\u0105 przej\u015b\u0107 szereg test\u00f3w zanim zostan\u0105 dopuszczone do sprzeda\u017cy, dzi\u0119ki czemu mo\u017cesz by\u0107 pewien, \u017ce otrzymasz jeden z najlepszych produkt\u00f3w dost\u0119pnych na rynku.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421047877821,
+        "title": "Silver",
+        "option1": "Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22358-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185007886525,
+          "product_id": 7856007348413,
+          "position": 4,
+          "created_at": "2024-08-05T11:54:11+02:00",
+          "updated_at": "2024-08-05T11:54:13+02:00",
+          "alt": "1537946510-22358-metal-lock-30x19cm-silverjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1537946510-22358-metal-lock-30x19cm-silverjpg.jpg?v=1722851653",
+          "variant_ids": [
+            44421047877821
+          ]
+        },
+        "available": true,
+        "price": "35.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856007348413,
+        "created_at": "2024-08-05T10:33:13+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421047910589,
+        "title": "Gold",
+        "option1": "Gold",
+        "option2": null,
+        "option3": null,
+        "sku": "22359-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185008246973,
+          "product_id": 7856007348413,
+          "position": 5,
+          "created_at": "2024-08-05T11:54:11+02:00",
+          "updated_at": "2024-08-05T11:54:13+02:00",
+          "alt": "1537946742-22359-metal-lock-30x19cm-goldjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1537946742-22359-metal-lock-30x19cm-goldjpg.jpg?v=1722851653",
+          "variant_ids": [
+            44421047910589
+          ]
+        },
+        "available": true,
+        "price": "35.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856007348413,
+        "created_at": "2024-08-05T10:33:13+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421047943357,
+        "title": "Dark Grey",
+        "option1": "Dark Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22360-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185007984829,
+          "product_id": 7856007348413,
+          "position": 6,
+          "created_at": "2024-08-05T11:54:11+02:00",
+          "updated_at": "2024-08-05T11:54:13+02:00",
+          "alt": "22360-metal-lock-30x19cm-darkgreyjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22360-metal-lock-30x19cm-darkgreyjpg.jpg?v=1722851653",
+          "variant_ids": [
+            44421047943357
+          ]
+        },
+        "available": false,
+        "price": "35.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856007348413,
+        "created_at": "2024-08-05T10:33:13+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421047976125,
+        "title": "Bronze",
+        "option1": "Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22361-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185007919293,
+          "product_id": 7856007348413,
+          "position": 7,
+          "created_at": "2024-08-05T11:54:11+02:00",
+          "updated_at": "2024-08-05T11:54:13+02:00",
+          "alt": "22361-metal-lock-30x19cm-bronzejpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22361-metal-lock-30x19cm-bronzejpg.jpg?v=1722851653",
+          "variant_ids": [
+            44421047976125
+          ]
+        },
+        "available": true,
+        "price": "35.00",
+        "grams": 20,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7856007348413,
+        "created_at": "2024-08-05T10:33:13+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185007952061,
+        "created_at": "2024-08-05T11:54:11+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:54:13+02:00",
+        "product_id": 7856007348413,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-5162-lys-700xautojpg.jpg?v=1722851653",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35185007853757,
+        "created_at": "2024-08-05T11:54:11+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:54:13+02:00",
+        "product_id": 7856007348413,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2021-01-31-16-09-700xautojpg.jpg?v=1722851653",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35185008148669,
+        "created_at": "2024-08-05T11:54:11+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:54:13+02:00",
+        "product_id": 7856007348413,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2020-02-02-11-16-14-frit-1200x1200px-700xautojpg.jpg?v=1722851653",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35185007886525,
+        "created_at": "2024-08-05T11:54:11+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:54:13+02:00",
+        "product_id": 7856007348413,
+        "variant_ids": [
+          44421047877821
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1537946510-22358-metal-lock-30x19cm-silverjpg.jpg?v=1722851653",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185008246973,
+        "created_at": "2024-08-05T11:54:11+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:54:13+02:00",
+        "product_id": 7856007348413,
+        "variant_ids": [
+          44421047910589
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1537946742-22359-metal-lock-30x19cm-goldjpg.jpg?v=1722851653",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185007984829,
+        "created_at": "2024-08-05T11:54:11+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:54:13+02:00",
+        "product_id": 7856007348413,
+        "variant_ids": [
+          44421047943357
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22360-metal-lock-30x19cm-darkgreyjpg.jpg?v=1722851653",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185007919293,
+        "created_at": "2024-08-05T11:54:11+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:54:13+02:00",
+        "product_id": 7856007348413,
+        "variant_ids": [
+          44421047976125
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22361-metal-lock-30x19cm-bronzejpg.jpg?v=1722851653",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71402355425658,
+        "created_at": "2024-10-21T13:49:32+02:00",
+        "position": 8,
+        "updated_at": "2024-10-21T13:49:34+02:00",
+        "product_id": 7856007348413,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d543b4cdbe3a500f55c5fbf7391fefe3.jpg?v=1729511374",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Silver",
+          "Gold",
+          "Dark Grey",
+          "Bronze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856004202685,
+    "title": "Pasek z zatrzaskiem- sk\u00f3ra PU - 11 x 2 cm",
+    "handle": "hp-1002210-rem-m-tryklas-pu-laeder-11-x-2-cm",
+    "body_html": "<p>Ten \u0142adny pasek wykonany ze sk\u00f3ry ekologicznej (sk\u00f3ra PU) nada si\u0119 idealnie jako zamkni\u0119cie Twojej r\u0119cznie robionej torebki. Produkt jest dost\u0119pny w wielu cudnych kolorach, dzi\u0119ki czemu pasuje do wi\u0119kszo\u015bci toreb.</p><p>Guzik jest br\u0105zowy lub srebrny.</p><p><strong>Materia\u0142</strong>: sk\u00f3ra PU (sk\u00f3ra ekologiczna)\n<strong>Rozmiar</strong>: 11 x 2 cm</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421029953725,
+        "title": "Brown/Bronze",
+        "option1": "Brown/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22344",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184990748861,
+          "product_id": 7856004202685,
+          "position": 2,
+          "created_at": "2024-08-05T11:52:31+02:00",
+          "updated_at": "2024-08-05T11:52:34+02:00",
+          "alt": "22344-brown-w-bronze-frontjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22344-brown-w-bronze-frontjpg.jpg?v=1722851554",
+          "variant_ids": [
+            44421029953725
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856004202685,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421029986493,
+        "title": "Black/Bronze",
+        "option1": "Black/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22345",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184990814397,
+          "product_id": 7856004202685,
+          "position": 3,
+          "created_at": "2024-08-05T11:52:31+02:00",
+          "updated_at": "2024-08-05T11:52:34+02:00",
+          "alt": "22345-black-w-bronze-frontjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22345-black-w-bronze-frontjpg.jpg?v=1722851554",
+          "variant_ids": [
+            44421029986493
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856004202685,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421030019261,
+        "title": "Black/Silver",
+        "option1": "Black/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22363-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184990453949,
+          "product_id": 7856004202685,
+          "position": 4,
+          "created_at": "2024-08-05T11:52:31+02:00",
+          "updated_at": "2024-08-05T11:52:34+02:00",
+          "alt": "22363-black-w-silver-front-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22363-black-w-silver-front-1200x1200pxjpg.jpg?v=1722851554",
+          "variant_ids": [
+            44421030019261
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856004202685,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421030052029,
+        "title": "Apricot/Silver",
+        "option1": "Apricot/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22375",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184990421181,
+          "product_id": 7856004202685,
+          "position": 5,
+          "created_at": "2024-08-05T11:52:31+02:00",
+          "updated_at": "2024-08-05T11:52:34+02:00",
+          "alt": "22375-apricot-w-silver-front-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22375-apricot-w-silver-front-1200x1200pxjpg.jpg?v=1722851554",
+          "variant_ids": [
+            44421030052029
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7856004202685,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421030084797,
+        "title": "Beige/Silver",
+        "option1": "Beige/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22376",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184990486717,
+          "product_id": 7856004202685,
+          "position": 6,
+          "created_at": "2024-08-05T11:52:31+02:00",
+          "updated_at": "2024-08-05T11:52:34+02:00",
+          "alt": "22376-beige-w-silver-front-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22376-beige-w-silver-front-1200x1200pxjpg.jpg?v=1722851554",
+          "variant_ids": [
+            44421030084797
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7856004202685,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421030117565,
+        "title": "Green/Silver",
+        "option1": "Green/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22399",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184990585021,
+          "product_id": 7856004202685,
+          "position": 7,
+          "created_at": "2024-08-05T11:52:31+02:00",
+          "updated_at": "2024-08-05T11:52:34+02:00",
+          "alt": "22399-1-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22399-1-1200x1200pxjpg.jpg?v=1722851554",
+          "variant_ids": [
+            44421030117565
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7856004202685,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44421030150333,
+        "title": "Dark Brown/Silver",
+        "option1": "Dark Brown/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22609",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184990617789,
+          "product_id": 7856004202685,
+          "position": 8,
+          "created_at": "2024-08-05T11:52:31+02:00",
+          "updated_at": "2024-08-05T11:52:34+02:00",
+          "alt": "22609-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22609-1200x1200pxjpg.jpg?v=1722851554",
+          "variant_ids": [
+            44421030150333
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 10,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7856004202685,
+        "created_at": "2024-08-05T10:32:53+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184990781629,
+        "created_at": "2024-08-05T11:52:31+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:52:34+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22399-2-1200x1200pxjpg.jpg?v=1722851554",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184990748861,
+        "created_at": "2024-08-05T11:52:31+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:52:34+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [
+          44421029953725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22344-brown-w-bronze-frontjpg.jpg?v=1722851554",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184990814397,
+        "created_at": "2024-08-05T11:52:31+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:52:34+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [
+          44421029986493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22345-black-w-bronze-frontjpg.jpg?v=1722851554",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184990453949,
+        "created_at": "2024-08-05T11:52:31+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:52:34+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [
+          44421030019261
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22363-black-w-silver-front-1200x1200pxjpg.jpg?v=1722851554",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184990421181,
+        "created_at": "2024-08-05T11:52:31+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:52:34+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [
+          44421030052029
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22375-apricot-w-silver-front-1200x1200pxjpg.jpg?v=1722851554",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184990486717,
+        "created_at": "2024-08-05T11:52:31+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:52:34+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [
+          44421030084797
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22376-beige-w-silver-front-1200x1200pxjpg.jpg?v=1722851554",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184990585021,
+        "created_at": "2024-08-05T11:52:31+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:52:34+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [
+          44421030117565
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22399-1-1200x1200pxjpg.jpg?v=1722851554",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184990617789,
+        "created_at": "2024-08-05T11:52:31+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T11:52:34+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [
+          44421030150333
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22609-1200x1200pxjpg.jpg?v=1722851554",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71402349265274,
+        "created_at": "2024-10-21T13:48:10+02:00",
+        "position": 9,
+        "updated_at": "2024-10-21T13:48:12+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/957705798cc7e3f6d830177b71f07b06.jpg?v=1729511292",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402349363578,
+        "created_at": "2024-10-21T13:48:10+02:00",
+        "position": 10,
+        "updated_at": "2024-10-21T13:48:12+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8d0d465870d956abe1d96b3faa62f196.jpg?v=1729511292",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402349298042,
+        "created_at": "2024-10-21T13:48:10+02:00",
+        "position": 11,
+        "updated_at": "2024-10-21T13:48:12+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/72081ee3b954d285472fe32bc30cf32b.jpg?v=1729511292",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402349396346,
+        "created_at": "2024-10-21T13:48:10+02:00",
+        "position": 12,
+        "updated_at": "2024-10-21T13:48:12+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dfb4bdc099e0f294345e441980dcf7f2.jpg?v=1729511292",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402349330810,
+        "created_at": "2024-10-21T13:48:10+02:00",
+        "position": 13,
+        "updated_at": "2024-10-21T13:48:12+02:00",
+        "product_id": 7856004202685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5a805d1b345ab3c32cf2e4bd17d1d7fc.jpg?v=1729511292",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Brown/Bronze",
+          "Black/Bronze",
+          "Black/Silver",
+          "Apricot/Silver",
+          "Beige/Silver",
+          "Green/Silver",
+          "Dark Brown/Silver"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855924478141,
+    "title": "Sznurek do toreb - czarny/srebrny",
+    "handle": "hp-1003425-bag-drawstring-black-silver",
+    "body_html": "<p>Oto pi\u0119kny sznurek do w\u0142asnor\u0119cznie wykonanych plecak\u00f3w oraz torebek na rami\u0119 i do r\u0119ki. Dzi\u0119ki niemu z \u0142atwo\u015bci\u0105 b\u0119dziesz m\u00f3g\u0142 zamkn\u0105\u0107 i otworzy\u0107 ka\u017cd\u0105 z nich, bez konieczno\u015bci wszywania zamka. Jednocze\u015bnie nadasz torbie bardziej zmy\u015blnego i nowoczesnego charakteru.</p><p>Sznurek wykonano w 100% ze sk\u00f3ry PU, w r\u00f3\u017cnych kolorach i d\u0142ugo\u015bciach. Odcienie pasuj\u0105 do ogromnej ilo\u015bci naszych innych <a href=\"https://hobbii.pl/akcesoria/akcesoria-do-toreb\"><strong>dodatk\u00f3w do toreb</strong></a>.</p><p>Aby poluzowa\u0107 metalowe cz\u0119\u015bci, u\u017cyj ma\u0142ego \u015brubokr\u0119tu w rozmiarze 2.0. Mo\u017cna go znale\u017a\u0107 pod linkiem powy\u017cej tego tekstu.\n</p><p><strong>Materia\u0142</strong>: 100% sk\u00f3ry PU - metalowe elementy w kolorze srebra\n<strong>Inne warianty kolorystyczne</strong>: czarny/br\u0105z - br\u0105zowy/br\u0105z - be\u017cowy/srebro\n<strong>D\u0142ugo\u015b\u0107</strong>: 45 albo 65 cm</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420649058493,
+        "title": "45 cm",
+        "option1": "45 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "22544-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183961440445,
+          "product_id": 7855924478141,
+          "position": 1,
+          "created_at": "2024-08-05T10:51:20+02:00",
+          "updated_at": "2024-08-05T10:51:22+02:00",
+          "alt": "22544-bag-strap-l45cm-black-silver-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22544-bag-strap-l45cm-black-silver-1200x1200pxjpg.jpg?v=1722847882",
+          "variant_ids": [
+            44420649058493
+          ]
+        },
+        "available": false,
+        "price": "45.00",
+        "grams": 19,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855924478141,
+        "created_at": "2024-08-05T10:23:13+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420649091261,
+        "title": "65 cm",
+        "option1": "65 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "22540-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183961768125,
+          "product_id": 7855924478141,
+          "position": 4,
+          "created_at": "2024-08-05T10:51:20+02:00",
+          "updated_at": "2024-08-05T10:51:22+02:00",
+          "alt": "22540-bag-strap-l65cm-black-silver-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22540-bag-strap-l65cm-black-silver-1200x1200pxjpg.jpg?v=1722847882",
+          "variant_ids": [
+            44420649091261
+          ]
+        },
+        "available": true,
+        "price": "57.00",
+        "grams": 21,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855924478141,
+        "created_at": "2024-08-05T10:23:13+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183961440445,
+        "created_at": "2024-08-05T10:51:20+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:51:22+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [
+          44420649058493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22544-bag-strap-l45cm-black-silver-1200x1200pxjpg.jpg?v=1722847882",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183961637053,
+        "created_at": "2024-08-05T10:51:20+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:51:22+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/metalstopper-sort-silver-1200x1200pxjpg.jpg?v=1722847882",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183961997501,
+        "created_at": "2024-08-05T10:51:20+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:51:23+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2019-10-15-14-46-02-1200x1200pxjpg.jpg?v=1722847883",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183961768125,
+        "created_at": "2024-08-05T10:51:20+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:51:22+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [
+          44420649091261
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22540-bag-strap-l65cm-black-silver-1200x1200pxjpg.jpg?v=1722847882",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415769301370,
+        "created_at": "2024-10-23T17:31:27+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:31:29+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/74df686794ca2992768b168b0636fba2.jpg?v=1729697489",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415769563514,
+        "created_at": "2024-10-23T17:31:27+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:31:29+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a38952851dc80cae76f1177060516a6c.jpg?v=1729697489",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415769530746,
+        "created_at": "2024-10-23T17:31:27+02:00",
+        "position": 7,
+        "updated_at": "2024-10-23T17:31:29+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/edc81af63a6874aa3cf7dcd167204f92.jpg?v=1729697489",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415769432442,
+        "created_at": "2024-10-23T17:31:27+02:00",
+        "position": 8,
+        "updated_at": "2024-10-23T17:31:29+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e1abdb5c4117a58e65c8c5f92c9cb987.jpg?v=1729697489",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415769497978,
+        "created_at": "2024-10-23T17:31:27+02:00",
+        "position": 9,
+        "updated_at": "2024-10-23T17:31:29+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d6f1690e9e31402fd9e1cf63248c15c7.jpg?v=1729697489",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415769399674,
+        "created_at": "2024-10-23T17:31:27+02:00",
+        "position": 10,
+        "updated_at": "2024-10-23T17:31:29+02:00",
+        "product_id": 7855924478141,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cabc5555529e73c1c1cd8e14de35cf99.jpg?v=1729697489",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "45 cm",
+          "65 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855908913341,
+    "title": "Sznurek do toreb - czarny/br\u0105z",
+    "handle": "hp-1003427-bag-drawstring-black-bronze",
+    "body_html": "<p>Oto pi\u0119kny sznurek do w\u0142asnor\u0119cznie wykonanych plecak\u00f3w oraz torebek na rami\u0119 i do r\u0119ki. Dzi\u0119ki niemu z \u0142atwo\u015bci\u0105 b\u0119dziesz m\u00f3g\u0142 zamkn\u0105\u0107 i otworzy\u0107 ka\u017cd\u0105 z nich, bez konieczno\u015bci wszywania zamka. Jednocze\u015bnie nadasz torbie bardziej zmy\u015blnego i nowoczesnego charakteru.</p><p>Sznurek wykonano w 100% ze sk\u00f3ry PU, w r\u00f3\u017cnych kolorach i d\u0142ugo\u015bciach. Odcienie pasuj\u0105 do ogromnej ilo\u015bci naszych innych <a href=\"https://hobbii.pl/akcesoria/akcesoria-do-toreb\"><strong>dodatk\u00f3w do toreb</strong></a>.</p><p>Aby poluzowa\u0107 metalowe cz\u0119\u015bci, u\u017cyj ma\u0142ego \u015brubokr\u0119tu w rozmiarze 2.0. Mo\u017cna go znale\u017a\u0107 pod linkiem powy\u017cej tego tekstu.\n</p><p><strong>Materia\u0142</strong>: 100% sk\u00f3ry PU - metalowe elementy w kolorze br\u0105zu\n</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420580638909,
+        "title": "45 cm",
+        "option1": "45 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "22545-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183807889597,
+          "product_id": 7855908913341,
+          "position": 2,
+          "created_at": "2024-08-05T10:44:04+02:00",
+          "updated_at": "2024-08-05T10:44:06+02:00",
+          "alt": "22545-bag-strap-l45cm-black-bronze-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22545-bag-strap-l45cm-black-bronze-1200x1200pxjpg.jpg?v=1722847446",
+          "variant_ids": [
+            44420580638909
+          ]
+        },
+        "available": false,
+        "price": "45.00",
+        "grams": 19,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855908913341,
+        "created_at": "2024-08-05T10:20:24+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420580671677,
+        "title": "65 cm",
+        "option1": "65 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "22541-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183807922365,
+          "product_id": 7855908913341,
+          "position": 3,
+          "created_at": "2024-08-05T10:44:04+02:00",
+          "updated_at": "2024-08-05T10:44:06+02:00",
+          "alt": "22541-bag-strap-l65cm-black-bronze-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22541-bag-strap-l65cm-black-bronze-1200x1200pxjpg.jpg?v=1722847446",
+          "variant_ids": [
+            44420580671677
+          ]
+        },
+        "available": true,
+        "price": "57.00",
+        "grams": 21,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855908913341,
+        "created_at": "2024-08-05T10:20:24+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183807725757,
+        "created_at": "2024-08-05T10:44:04+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:44:06+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/metalstopper-sort-bronze-1200x1200pxjpg.jpg?v=1722847446",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183807889597,
+        "created_at": "2024-08-05T10:44:04+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:44:06+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [
+          44420580638909
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22545-bag-strap-l45cm-black-bronze-1200x1200pxjpg.jpg?v=1722847446",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183807922365,
+        "created_at": "2024-08-05T10:44:04+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:44:06+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [
+          44420580671677
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22541-bag-strap-l65cm-black-bronze-1200x1200pxjpg.jpg?v=1722847446",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415757930874,
+        "created_at": "2024-10-23T17:30:36+02:00",
+        "position": 4,
+        "updated_at": "2024-10-23T17:30:38+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/246cac91fea719a3702910ed33387195.jpg?v=1729697438",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415758061946,
+        "created_at": "2024-10-23T17:30:36+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:30:38+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b57fe13cb979739f72ad44dbf14847d9.jpg?v=1729697438",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415758029178,
+        "created_at": "2024-10-23T17:30:36+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:30:38+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/806cd3633aaf2dcba279bb5981b03646.jpg?v=1729697438",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415757963642,
+        "created_at": "2024-10-23T17:30:36+02:00",
+        "position": 7,
+        "updated_at": "2024-10-23T17:30:38+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1879980e3e087384d756232f209006d0.jpg?v=1729697438",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415758127482,
+        "created_at": "2024-10-23T17:30:36+02:00",
+        "position": 8,
+        "updated_at": "2024-10-23T17:30:39+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1f94b6607e4d836a8758130de31edf1c.jpg?v=1729697439",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415757996410,
+        "created_at": "2024-10-23T17:30:36+02:00",
+        "position": 9,
+        "updated_at": "2024-10-23T17:30:38+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5c44ad9b6a73cc6dab25ebfc280d96df.jpg?v=1729697438",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415758094714,
+        "created_at": "2024-10-23T17:30:36+02:00",
+        "position": 10,
+        "updated_at": "2024-10-23T17:30:39+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/529efc89ef5f74ca4f70f91472eba0da.jpg?v=1729697439",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415757898106,
+        "created_at": "2024-10-23T17:30:36+02:00",
+        "position": 11,
+        "updated_at": "2024-10-23T17:30:38+02:00",
+        "product_id": 7855908913341,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/938ced117bf3f6ee20b454eaa1c9a264.jpg?v=1729697438",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "45 cm",
+          "65 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855897936061,
+    "title": "Sznurek do toreb - be\u017cowy/srebro",
+    "handle": "hp-1003429-bag-drawstring-beige-silver",
+    "body_html": "<p>Oto pi\u0119kny sznurek do w\u0142asnor\u0119cznie wykonanych plecak\u00f3w oraz torebek na rami\u0119 i do r\u0119ki. Dzi\u0119ki niemu z \u0142atwo\u015bci\u0105 b\u0119dziesz m\u00f3g\u0142 zamkn\u0105\u0107 i otworzy\u0107 ka\u017cd\u0105 z nich, bez konieczno\u015bci wszywania zamka. Jednocze\u015bnie nadasz torbie bardziej zmy\u015blnego i nowoczesnego charakteru.</p><p>Sznurek wykonano w 100% ze sk\u00f3ry PU, w r\u00f3\u017cnych kolorach i d\u0142ugo\u015bciach. Odcienie pasuj\u0105 do ogromnej ilo\u015bci naszych innych <a href=\"https://hobbii.pl/akcesoria/akcesoria-do-toreb\"><strong>dodatk\u00f3w do toreb</strong></a>.</p><p>Aby poluzowa\u0107 metalowe cz\u0119\u015bci, u\u017cyj ma\u0142ego \u015brubokr\u0119tu w rozmiarze 2.0. Mo\u017cna go znale\u017a\u0107 pod linkiem powy\u017cej tego tekstu.\n</p><p><strong>Materia\u0142</strong>: 100% sk\u00f3ry PU - metalowe elementy w kolorze srebra\n<strong>Inne warianty kolorystyczne</strong>: czarny/br\u0105z - br\u0105zowy/br\u0105z -\u00a0czarny/srebrny\n<strong>D\u0142ugo\u015b\u0107</strong>: 45 albo 65 cm</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420541907133,
+        "title": "45 cm",
+        "option1": "45 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "22547-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183708045501,
+          "product_id": 7855897936061,
+          "position": 1,
+          "created_at": "2024-08-05T10:39:47+02:00",
+          "updated_at": "2024-08-05T10:39:49+02:00",
+          "alt": "22547-bag-strap-l45cm-beige-silver-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22547-bag-strap-l45cm-beige-silver-1200x1200pxjpg.jpg?v=1722847189",
+          "variant_ids": [
+            44420541907133
+          ]
+        },
+        "available": false,
+        "price": "45.00",
+        "grams": 19,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855897936061,
+        "created_at": "2024-08-05T10:17:55+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      },
+      {
+        "id": 44420541939901,
+        "title": "65 cm",
+        "option1": "65 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "22543-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183708930237,
+          "product_id": 7855897936061,
+          "position": 8,
+          "created_at": "2024-08-05T10:39:48+02:00",
+          "updated_at": "2024-08-05T10:39:50+02:00",
+          "alt": "22543-bag-strap-l65cm-beige-silver-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22543-bag-strap-l65cm-beige-silver-1200x1200pxjpg.jpg?v=1722847190",
+          "variant_ids": [
+            44420541939901
+          ]
+        },
+        "available": false,
+        "price": "57.00",
+        "grams": 21,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855897936061,
+        "created_at": "2024-08-05T10:17:55+02:00",
+        "updated_at": "2024-11-22T22:36:17+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183708045501,
+        "created_at": "2024-08-05T10:39:47+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:39:49+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [
+          44420541907133
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22547-bag-strap-l45cm-beige-silver-1200x1200pxjpg.jpg?v=1722847189",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183708733629,
+        "created_at": "2024-08-05T10:39:47+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:39:50+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/metalstopper-beige-silver-1200x1200pxjpg.jpg?v=1722847190",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183708340413,
+        "created_at": "2024-08-05T10:39:47+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:39:50+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2019-10-15-14-41-56-1200x1200pxjpg.jpg?v=1722847190",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183709061309,
+        "created_at": "2024-08-05T10:39:47+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:39:50+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1576575307-2019-10-15-14-45-02-1200x1200pxjpg.jpg?v=1722847190",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183708242109,
+        "created_at": "2024-08-05T10:39:47+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:39:50+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1576575170-2019-10-15-14-47-22-1200x1200pxjpg.jpg?v=1722847190",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183708373181,
+        "created_at": "2024-08-05T10:39:48+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T10:39:50+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1576575228-2019-10-15-14-36-43-1200x1200pxjpg.jpg?v=1722847190",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183708176573,
+        "created_at": "2024-08-05T10:39:48+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T10:39:50+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2019-10-15-14-39-15-1200x1200pxjpg.jpg?v=1722847190",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183708930237,
+        "created_at": "2024-08-05T10:39:48+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T10:39:50+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [
+          44420541939901
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/22543-bag-strap-l65cm-beige-silver-1200x1200pxjpg.jpg?v=1722847190",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415748788602,
+        "created_at": "2024-10-23T17:29:06+02:00",
+        "position": 9,
+        "updated_at": "2024-10-23T17:29:08+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/819c04bfeba5d5f245eb37a19a2b4087.jpg?v=1729697348",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415748755834,
+        "created_at": "2024-10-23T17:29:06+02:00",
+        "position": 10,
+        "updated_at": "2024-10-23T17:29:08+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2d8f5ea16ba4f25926840983fc38ae53.jpg?v=1729697348",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415748854138,
+        "created_at": "2024-10-23T17:29:06+02:00",
+        "position": 11,
+        "updated_at": "2024-10-23T17:29:09+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e00de09eae3f37ceb3f57d2aca5a5741.jpg?v=1729697349",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415748821370,
+        "created_at": "2024-10-23T17:29:07+02:00",
+        "position": 12,
+        "updated_at": "2024-10-23T17:29:09+02:00",
+        "product_id": 7855897936061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/339cae97128708d179353c17b762d89c.jpg?v=1729697349",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "45 cm",
+          "65 cm"
+        ]
+      }
+    ]
+  }
+]

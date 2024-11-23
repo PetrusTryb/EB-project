@@ -1,0 +1,1736 @@
+[
+  {
+    "id": 7854166081725,
+    "title": "Blanket Yarn",
+    "handle": "hp-1006971-blanket-yarn-1006971",
+    "body_html": "<p><strong>Blanket Yarn</strong> jest przytulna, mi\u0119kka, bardzo gruba i idealna do otulenia si\u0119 w deszczowy dzie\u0144 lub ch\u0142odne noce.</p><p>Ta gruba w\u0142\u00f3czka jest dost\u0119pna w mega motkach i zawiera a\u017c 300 gr uroczego i mi\u0119kkiego poliestru. Zawarto\u015b\u0107 w\u0142\u00f3kien sprawia, \u017ce mo\u017cna j\u0105 pra\u0107 w pralce, co znacznie u\u0142atwia dbanie o gotowe projekty.</p><p>Wielkie motki to doskona\u0142y wyb\u00f3r do wi\u0119kszych projekt\u00f3w. Obowi\u0105zkowa pozycja dla ka\u017cdego r\u0119kodzielnika, kt\u00f3ry chce doda\u0107 komfortu i ciep\u0142a do swojego domu.</p><p><strong>Blanket Yarn</strong> idealnie sprawdzi si\u0119 do tworzenia grubych i przytulnych pled\u00f3w, narzut, poduszek, puf i dywanik\u00f3w, a tak\u017ce kreacji dla naszych czworono\u017cnych przyjaci\u00f3\u0142. Opr\u00f3cz projekt\u00f3w do wystroju wn\u0119trz, w\u0142\u00f3czka ta mo\u017ce by\u0107 r\u00f3wnie\u017c u\u017cywana do tworzenia akcesori\u00f3w, takich jak czapki i szaliki lub poncza, kt\u00f3re zapewni\u0105 ciep\u0142o w ch\u0142odniejsze dni. Je\u015bli masz ochot\u0119 na co\u015b innego, mo\u017cesz poeksperymentowa\u0107 przerabiaj\u0105c j\u0105 tylko r\u0119kami.</p><p>Paleta kolor\u00f3w oferuje zar\u00f3wno \u017cywe kolory, kt\u00f3re wyr\u00f3\u017cni\u0105 ka\u017cdy projekt, jak i neutralne odcienie, kt\u00f3re zapewni\u0105 bardziej elegancki wygl\u0105d.</p><p>Je\u015bli marzysz o projekcie, kt\u00f3ry zostanie uko\u0144czony w mgnieniu oka, wybierz nasz\u0105<strong> Blanket Yarn</strong>.</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a></p><p>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44414025171133,
+        "title": "White (01)",
+        "option1": "White (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28101",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026862269,
+          "product_id": 7854166081725,
+          "position": 2,
+          "created_at": "2024-08-01T11:38:28+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0000-blanket-yarn-01-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0000-blanket-yarn-01-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025171133
+          ]
+        },
+        "available": false,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 1,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025203901,
+        "title": "Oatmilk (03)",
+        "option1": "Oatmilk (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28103",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026763965,
+          "product_id": 7854166081725,
+          "position": 3,
+          "created_at": "2024-08-01T11:38:28+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0001-blanket-yarn-03-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0001-blanket-yarn-03-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025203901
+          ]
+        },
+        "available": false,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 2,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025236669,
+        "title": "Americano (20)",
+        "option1": "Americano (20)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28120",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026731197,
+          "product_id": 7854166081725,
+          "position": 4,
+          "created_at": "2024-08-01T11:38:28+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0008-blanket-yarn-20-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0008-blanket-yarn-20-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025236669
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 3,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025269437,
+        "title": "Mustard (28)",
+        "option1": "Mustard (28)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28127",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026829501,
+          "product_id": 7854166081725,
+          "position": 5,
+          "created_at": "2024-08-01T11:38:28+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0009-blanket-yarn-27-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0009-blanket-yarn-27-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025269437
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 4,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025302205,
+        "title": "Bordeaux (43)",
+        "option1": "Bordeaux (43)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28143",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027091645,
+          "product_id": 7854166081725,
+          "position": 6,
+          "created_at": "2024-08-01T11:38:28+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0010-blanket-yarn-43-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0010-blanket-yarn-43-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025302205
+          ]
+        },
+        "available": false,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 5,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025334973,
+        "title": "Baby Pink (51)",
+        "option1": "Baby Pink (51)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28151",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026960573,
+          "product_id": 7854166081725,
+          "position": 7,
+          "created_at": "2024-08-01T11:38:28+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0011-blanket-yarn-51-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0011-blanket-yarn-51-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025334973
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 6,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025367741,
+        "title": "Antique Rose (53)",
+        "option1": "Antique Rose (53)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28153",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026895037,
+          "product_id": 7854166081725,
+          "position": 8,
+          "created_at": "2024-08-01T11:38:28+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0012-blanket-yarn-53-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0012-blanket-yarn-53-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025367741
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 7,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025400509,
+        "title": "Boysenberry (57)",
+        "option1": "Boysenberry (57)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28157",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027026109,
+          "product_id": 7854166081725,
+          "position": 9,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0013-blanket-yarn-57-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0013-blanket-yarn-57-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025400509
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 8,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025433277,
+        "title": "Aster (69)",
+        "option1": "Aster (69)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28169",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027321021,
+          "product_id": 7854166081725,
+          "position": 10,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0014-blanket-yarn-69-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0014-blanket-yarn-69-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025433277
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 9,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025466045,
+        "title": "Cool Blue (78)",
+        "option1": "Cool Blue (78)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28178",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027288253,
+          "product_id": 7854166081725,
+          "position": 11,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0015-blanket-yarn-78-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0015-blanket-yarn-78-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025466045
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 10,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025498813,
+        "title": "Dark Denim (81)",
+        "option1": "Dark Denim (81)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28181",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027157181,
+          "product_id": 7854166081725,
+          "position": 12,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0016-blanket-yarn-81-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0016-blanket-yarn-81-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025498813
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 11,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025531581,
+        "title": "Midnight Blue (87)",
+        "option1": "Midnight Blue (87)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28187",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026796733,
+          "product_id": 7854166081725,
+          "position": 13,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0017-blanket-yarn-87-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0017-blanket-yarn-87-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025531581
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 12,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025564349,
+        "title": "Dark Teal (97)",
+        "option1": "Dark Teal (97)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28197",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027189949,
+          "product_id": 7854166081725,
+          "position": 14,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0018-blanket-yarn-97-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0018-blanket-yarn-97-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025564349
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 13,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025597117,
+        "title": "Eucalyptus (98)",
+        "option1": "Eucalyptus (98)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28198",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026927805,
+          "product_id": 7854166081725,
+          "position": 15,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0019-blanket-yarn-98-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0019-blanket-yarn-98-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025597117
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 14,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025629885,
+        "title": "Bottle Green (112)",
+        "option1": "Bottle Green (112)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28212",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027353789,
+          "product_id": 7854166081725,
+          "position": 16,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0002-blanket-yarn-112-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0002-blanket-yarn-112-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025629885
+          ]
+        },
+        "available": false,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 15,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025662653,
+        "title": "Misty Green (113)",
+        "option1": "Misty Green (113)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28213",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027222717,
+          "product_id": 7854166081725,
+          "position": 17,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0003-blanket-yarn-113-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0003-blanket-yarn-113-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025662653
+          ]
+        },
+        "available": false,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 16,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025695421,
+        "title": "Silver (118)",
+        "option1": "Silver (118)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28218",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027255485,
+          "product_id": 7854166081725,
+          "position": 18,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0004-blanket-yarn-118-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0004-blanket-yarn-118-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025695421
+          ]
+        },
+        "available": false,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 17,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025728189,
+        "title": "Anthracite (122)",
+        "option1": "Anthracite (122)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28222",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027058877,
+          "product_id": 7854166081725,
+          "position": 19,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0005-blanket-yarn-122-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0005-blanket-yarn-122-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025728189
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 18,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025760957,
+        "title": "Black (124)",
+        "option1": "Black (124)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28224",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171027124413,
+          "product_id": 7854166081725,
+          "position": 20,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0006-blanket-yarn-124-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0006-blanket-yarn-124-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025760957
+          ]
+        },
+        "available": true,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 19,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44414025793725,
+        "title": "Waterfall (129)",
+        "option1": "Waterfall (129)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-28229",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171026993341,
+          "product_id": 7854166081725,
+          "position": 21,
+          "created_at": "2024-08-01T11:38:29+02:00",
+          "updated_at": "2024-08-01T11:38:32+02:00",
+          "alt": "0007-blanket-yarn-129-nefjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0007-blanket-yarn-129-nefjpg.jpg?v=1722505112",
+          "variant_ids": [
+            44414025793725
+          ]
+        },
+        "available": false,
+        "price": "49.00",
+        "grams": 300,
+        "compare_at_price": "98.00",
+        "position": 20,
+        "product_id": 7854166081725,
+        "created_at": "2024-08-01T11:27:00+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35171026698429,
+        "created_at": "2024-08-01T11:38:28+02:00",
+        "position": 1,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/blanket-yarn-front-2jpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026862269,
+        "created_at": "2024-08-01T11:38:28+02:00",
+        "position": 2,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025171133
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0000-blanket-yarn-01-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026763965,
+        "created_at": "2024-08-01T11:38:28+02:00",
+        "position": 3,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025203901
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0001-blanket-yarn-03-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026731197,
+        "created_at": "2024-08-01T11:38:28+02:00",
+        "position": 4,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025236669
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0008-blanket-yarn-20-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026829501,
+        "created_at": "2024-08-01T11:38:28+02:00",
+        "position": 5,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025269437
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0009-blanket-yarn-27-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027091645,
+        "created_at": "2024-08-01T11:38:28+02:00",
+        "position": 6,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025302205
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0010-blanket-yarn-43-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026960573,
+        "created_at": "2024-08-01T11:38:28+02:00",
+        "position": 7,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025334973
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0011-blanket-yarn-51-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026895037,
+        "created_at": "2024-08-01T11:38:28+02:00",
+        "position": 8,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025367741
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0012-blanket-yarn-53-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027026109,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 9,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025400509
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0013-blanket-yarn-57-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027321021,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 10,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025433277
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0014-blanket-yarn-69-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027288253,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 11,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025466045
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0015-blanket-yarn-78-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027157181,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 12,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025498813
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0016-blanket-yarn-81-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026796733,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 13,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025531581
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0017-blanket-yarn-87-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027189949,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 14,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025564349
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0018-blanket-yarn-97-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026927805,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 15,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025597117
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0019-blanket-yarn-98-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027353789,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 16,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025629885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0002-blanket-yarn-112-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027222717,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 17,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025662653
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0003-blanket-yarn-113-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027255485,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 18,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025695421
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0004-blanket-yarn-118-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027058877,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 19,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025728189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0005-blanket-yarn-122-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171027124413,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 20,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025760957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0006-blanket-yarn-124-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171026993341,
+        "created_at": "2024-08-01T11:38:29+02:00",
+        "position": 21,
+        "updated_at": "2024-08-01T11:38:32+02:00",
+        "product_id": 7854166081725,
+        "variant_ids": [
+          44414025793725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0007-blanket-yarn-129-nefjpg.jpg?v=1722505112",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "White (01)",
+          "Oatmilk (03)",
+          "Americano (20)",
+          "Mustard (28)",
+          "Bordeaux (43)",
+          "Baby Pink (51)",
+          "Antique Rose (53)",
+          "Boysenberry (57)",
+          "Aster (69)",
+          "Cool Blue (78)",
+          "Dark Denim (81)",
+          "Midnight Blue (87)",
+          "Dark Teal (97)",
+          "Eucalyptus (98)",
+          "Bottle Green (112)",
+          "Misty Green (113)",
+          "Silver (118)",
+          "Anthracite (122)",
+          "Black (124)",
+          "Waterfall (129)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855972483261,
+    "title": "Honey Bunny Big",
+    "handle": "hp-1006101-honey-bunny-big",
+    "body_html": "<p>Tworzenie z <strong>Honey Bunny Big\u00a0</strong>b\u0119dzie wyj\u0105tkow\u0105 przyjemno\u015bci\u0105 i obiecujemy, \u017ce nie znajdziecie w\u0142\u00f3czki tak mi\u0119kkiej jak ta.</p><p><strong>Honey Bunny Big</strong>\u00a0to gruba welurowa w\u0142\u00f3czka wykonana w 100% z poliestru i grubsza wersja naszej uroczej w\u0142\u00f3czki Honey Bunny. Jest jedwabista, g\u0142adka i z lekkim po\u0142yskiem.</p><p>Idealnie nada si\u0119 na druty dziewiarskie o grubo\u015bci 10 mm oraz na szyde\u0142ko 12 mm. \u015awietnie sprawdzi si\u0119 przy \u0142atwych \u015bciegach dziewiarskich. Paleta kolor\u00f3w jest w wi\u0119kszo\u015bci stonowana i spokojna. Ta w\u0142\u00f3czka b\u0119dzie twoim najlepszym sprzymierze\u0144cem w projektach do wystroju domu, takich jak przytulne poszewki na poduszki, koce i wygodne pufy; a tak\u017ce akcesoria, takie jak czapki, szaliki i opaski na g\u0142ow\u0119.</p><p><strong>Honey Bunny Big\u00a0</strong>posiada certyfikat OEKO TEX, dzi\u0119ki czemu mo\u017cesz bez obaw u\u017cywa\u0107 w\u0142\u00f3czki na wyroby dla ma\u0142ych dzieci. Uwolnij swoj\u0105 kreatywno\u015b\u0107, tworz\u0105c dla nich ubrania, misie i inne przytulne zwierzaki.</p><p>Na co wi\u0119c czekasz? Przytul si\u0119 do naszej <strong>Honey Bunny Big</strong>.\n</p><p>\n</p><p><em>Wskaz\u00f3wka dla profesjonalist\u00f3w:</em> zawi\u0105\u017c w\u0119ze\u0142 podczas rozpoczynania i ko\u0144czenia motka lub bardzo ostro\u017cnie podpal ko\u0144ce, aby zabezpieczy\u0107 lu\u017ane w\u0142\u00f3kna w projekcie po wszyciu ko\u0144c\u00f3wek.</p><p><em>Sprawd\u017a wszystkie wersje <strong>Honey Bunny </strong>tutaj: <a href=\"https://hobbii.pl/honey-bunny\"><strong>Honey Bunny</strong></a>, <a href=\"https://hobbii.pl/honey-bunny-shine\"><strong>Honey Bunny Shine</strong></a>, <a href=\"https://hobbii.pl/honey-bunny-candy\"><strong>Honey Bunny Candy</strong></a></em>\u00a0<em>i </em><a href=\"https://hobbii.pl/pointshop/honey-bunny-candy-mini\"><strong>Honey Bunny Candy Mini</strong></a></p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a></p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420878827709,
+        "title": "White (01)",
+        "option1": "White (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171904189,
+          "product_id": 7855972483261,
+          "position": 16,
+          "created_at": "2024-08-05T21:36:59+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "04f4af8c7988779e01a0b54cb8d32667d32f4daa-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/04f4af8c7988779e01a0b54cb8d32667d32f4daa-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420878827709
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 1,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420878860477,
+        "title": "Beige (05)",
+        "option1": "Beige (05)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26005",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171805885,
+          "product_id": 7855972483261,
+          "position": 17,
+          "created_at": "2024-08-05T21:36:59+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "d9f25b0d748a4f90d7c428edacf6c16833711b87-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d9f25b0d748a4f90d7c428edacf6c16833711b87-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420878860477
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 2,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420878893245,
+        "title": "Caramel (14)",
+        "option1": "Caramel (14)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26014",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171379901,
+          "product_id": 7855972483261,
+          "position": 18,
+          "created_at": "2024-08-05T21:36:59+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "8f1e15d0777d9f51c82d2d53e78446479778ccc9-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8f1e15d0777d9f51c82d2d53e78446479778ccc9-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420878893245
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 3,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420878926013,
+        "title": "Hint of Pink (50)",
+        "option1": "Hint of Pink (50)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26050",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171347133,
+          "product_id": 7855972483261,
+          "position": 19,
+          "created_at": "2024-08-05T21:36:59+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "f411a12d64a15e73f803450a573b0dbcfe03e47a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f411a12d64a15e73f803450a573b0dbcfe03e47a-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420878926013
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 4,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420878958781,
+        "title": "Lilac (63)",
+        "option1": "Lilac (63)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26063",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171412669,
+          "product_id": 7855972483261,
+          "position": 20,
+          "created_at": "2024-08-05T21:36:59+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "a38b3528a38d4a1751e311d40bd0f214ef2f908c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a38b3528a38d4a1751e311d40bd0f214ef2f908c-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420878958781
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 5,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420878991549,
+        "title": "Baby Blue (75)",
+        "option1": "Baby Blue (75)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26075",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171117757,
+          "product_id": 7855972483261,
+          "position": 21,
+          "created_at": "2024-08-05T21:36:59+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "8140cbc73fe6b680eb0332a52b12617a79fc7ecd-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8140cbc73fe6b680eb0332a52b12617a79fc7ecd-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420878991549
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 6,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420879024317,
+        "title": "Cool Blue (78)",
+        "option1": "Cool Blue (78)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26078",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171936957,
+          "product_id": 7855972483261,
+          "position": 22,
+          "created_at": "2024-08-05T21:36:59+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "4f91819d995facb2a01aac66a2c34b6e5126cb6e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4f91819d995facb2a01aac66a2c34b6e5126cb6e-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420879024317
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 7,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420879057085,
+        "title": "Dark Teal (97)",
+        "option1": "Dark Teal (97)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26097",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171281597,
+          "product_id": 7855972483261,
+          "position": 23,
+          "created_at": "2024-08-05T21:36:59+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "013cebb04ea66e800a1fe780829faeefad9abe70-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/013cebb04ea66e800a1fe780829faeefad9abe70-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420879057085
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 8,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420879089853,
+        "title": "Anthracite (122)",
+        "option1": "Anthracite (122)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26122",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171248829,
+          "product_id": 7855972483261,
+          "position": 24,
+          "created_at": "2024-08-05T21:37:00+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "4c58f98ea698ac11db276fbd8d98ee5f8f7e575d-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4c58f98ea698ac11db276fbd8d98ee5f8f7e575d-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420879089853
+          ]
+        },
+        "available": false,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 9,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420879122621,
+        "title": "Black (124)",
+        "option1": "Black (124)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26124",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171445437,
+          "product_id": 7855972483261,
+          "position": 25,
+          "created_at": "2024-08-05T21:37:00+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "94a07fcbfb8192657ca64e606ff8795852bc91be-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/94a07fcbfb8192657ca64e606ff8795852bc91be-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420879122621
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 10,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420879155389,
+        "title": "Bordeaux (43)",
+        "option1": "Bordeaux (43)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26043",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171674813,
+          "product_id": 7855972483261,
+          "position": 26,
+          "created_at": "2024-08-05T21:37:00+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "4d562fff767f9ff5c00f2436a1b1362b46725619-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4d562fff767f9ff5c00f2436a1b1362b46725619-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420879155389
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 11,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420879188157,
+        "title": "Midnight Blue (87)",
+        "option1": "Midnight Blue (87)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26087",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171773117,
+          "product_id": 7855972483261,
+          "position": 27,
+          "created_at": "2024-08-05T21:37:00+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "ffab4321ff7b90f4fd17cbc614cbf4869319cf13-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffab4321ff7b90f4fd17cbc614cbf4869319cf13-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420879188157
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 12,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      },
+      {
+        "id": 44420879220925,
+        "title": "Jungle Green (111)",
+        "option1": "Jungle Green (111)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-26111",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35186171576509,
+          "product_id": 7855972483261,
+          "position": 28,
+          "created_at": "2024-08-05T21:37:00+02:00",
+          "updated_at": "2024-08-05T21:37:02+02:00",
+          "alt": "61d936353d0c289af017b5eb2c6c98e857300dc4-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/61d936353d0c289af017b5eb2c6c98e857300dc4-1200x1200jpg.jpg?v=1722886622",
+          "variant_ids": [
+            44420879220925
+          ]
+        },
+        "available": true,
+        "price": "49.50",
+        "grams": 303,
+        "compare_at_price": "99.00",
+        "position": 13,
+        "product_id": 7855972483261,
+        "created_at": "2024-08-05T10:29:06+02:00",
+        "updated_at": "2024-11-22T22:43:18+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35186171707581,
+        "created_at": "2024-08-05T21:36:58+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ab60ff861f86f9eef848943bd2ba566b743c8917-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171838653,
+        "created_at": "2024-08-05T21:36:58+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2e16796bc1243d3f0abf65da4f7e68c327a00b7c-1620x1620jpg.jpg?v=1722886622",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35186171183293,
+        "created_at": "2024-08-05T21:36:58+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/89c272a6fa7cdafbe4a9d4dc0d22c7c500f758c1-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171642045,
+        "created_at": "2024-08-05T21:36:58+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/688ced68e4aa38aadb91f9d96cba331cbbe8b6fb-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171150525,
+        "created_at": "2024-08-05T21:36:58+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3a05289aaa238293233cb076750a3f6323c32ec2-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171478205,
+        "created_at": "2024-08-05T21:36:58+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/73d3e25b8a76c5d8c7630e17bf203686465dabc0-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171314365,
+        "created_at": "2024-08-05T21:36:58+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c29b576bdbb04d23e43f2e02e735e2020d7c97e3-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171084989,
+        "created_at": "2024-08-05T21:36:58+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4318963ed7187b56588240871c314319b3b2fbf5-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171609277,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/214604fdd9a4e25d3d258d6da53874470d3094b9-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171969725,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T21:37:03+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/306438b869228e99475e2cf71e563e3ad8d78186-1200x1200jpg.jpg?v=1722886623",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171216061,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9ddc65ded4e89814232332fc1a347996813285c3-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171543741,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 12,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ff92c4ef068ac7c3660c9e5a04b79d5e107fc2ca-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171740349,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 13,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a49dabe5926bb55c88701e9a757f8811adcc7b59-1620x1620jpg.jpg?v=1722886622",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35186171871421,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 14,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/af3062ea2db25cfa0d37680ecf78335f63454565-2299x2299jpg.jpg?v=1722886622",
+        "width": 2299,
+        "height": 2299
+      },
+      {
+        "id": 35186172002493,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 15,
+        "updated_at": "2024-08-05T21:37:03+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/36b6fd562915cf4218970a6f7d89595a279f108f-3024x3024jpg.jpg?v=1722886623",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35186171904189,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 16,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420878827709
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/04f4af8c7988779e01a0b54cb8d32667d32f4daa-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171805885,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 17,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420878860477
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d9f25b0d748a4f90d7c428edacf6c16833711b87-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171379901,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 18,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420878893245
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8f1e15d0777d9f51c82d2d53e78446479778ccc9-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171347133,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 19,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420878926013
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f411a12d64a15e73f803450a573b0dbcfe03e47a-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171412669,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 20,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420878958781
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a38b3528a38d4a1751e311d40bd0f214ef2f908c-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171117757,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 21,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420878991549
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8140cbc73fe6b680eb0332a52b12617a79fc7ecd-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171936957,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 22,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420879024317
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4f91819d995facb2a01aac66a2c34b6e5126cb6e-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171281597,
+        "created_at": "2024-08-05T21:36:59+02:00",
+        "position": 23,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420879057085
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/013cebb04ea66e800a1fe780829faeefad9abe70-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171248829,
+        "created_at": "2024-08-05T21:37:00+02:00",
+        "position": 24,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420879089853
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4c58f98ea698ac11db276fbd8d98ee5f8f7e575d-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171445437,
+        "created_at": "2024-08-05T21:37:00+02:00",
+        "position": 25,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420879122621
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/94a07fcbfb8192657ca64e606ff8795852bc91be-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171674813,
+        "created_at": "2024-08-05T21:37:00+02:00",
+        "position": 26,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420879155389
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4d562fff767f9ff5c00f2436a1b1362b46725619-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171773117,
+        "created_at": "2024-08-05T21:37:00+02:00",
+        "position": 27,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420879188157
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffab4321ff7b90f4fd17cbc614cbf4869319cf13-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35186171576509,
+        "created_at": "2024-08-05T21:37:00+02:00",
+        "position": 28,
+        "updated_at": "2024-08-05T21:37:02+02:00",
+        "product_id": 7855972483261,
+        "variant_ids": [
+          44420879220925
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/61d936353d0c289af017b5eb2c6c98e857300dc4-1200x1200jpg.jpg?v=1722886622",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "White (01)",
+          "Beige (05)",
+          "Caramel (14)",
+          "Hint of Pink (50)",
+          "Lilac (63)",
+          "Baby Blue (75)",
+          "Cool Blue (78)",
+          "Dark Teal (97)",
+          "Anthracite (122)",
+          "Black (124)",
+          "Bordeaux (43)",
+          "Midnight Blue (87)",
+          "Jungle Green (111)"
+        ]
+      }
+    ]
+  }
+]

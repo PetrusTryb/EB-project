@@ -1,0 +1,4260 @@
+[
+  {
+    "id": 7855937913021,
+    "title": "Bamboo Druty Pojedyncze",
+    "handle": "hp-1005845-bamboo-single-pointed-needles",
+    "body_html": "<p>Bamboo Druty pojedyncze firmy Hobbii to idealne druty dla ka\u017cdej dziewiarki. Te druty o d\u0142ugo\u015bci 30 cm wykonane s\u0105 z bambusa moso, kt\u00f3ry jest niezwykle trwa\u0142ym materia\u0142em. S\u0105 lekkie i g\u0142adkie, dzi\u0119ki czemu przyjemnie si\u0119 nimi pracuje. S\u0105 r\u00f3wnie\u017c przyjazne dla \u015brodowiska i maj\u0105 naturalny kolor.\n</p><p>Oferujemy rozmiary od 3,0 - 10,0 mm. Wypr\u00f3buj je dzi\u015b i przekonaj si\u0119 jak przyjemnie b\u0119dzie si\u0119 nimi pracowa\u0142o.</p>",
+    "product_type": "knitting_needles",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420715020477,
+        "title": "3,0 mm",
+        "option1": "3,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0130",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935245501,
+          "product_id": 7855937913021,
+          "position": 6,
+          "created_at": "2024-09-20T12:38:52+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715020477,
+            44420715053245,
+            44420715086013,
+            44420715118781
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 15,
+        "compare_at_price": "23.00",
+        "position": 1,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715053245,
+        "title": "3,5 mm",
+        "option1": "3,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0131",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935245501,
+          "product_id": 7855937913021,
+          "position": 6,
+          "created_at": "2024-09-20T12:38:52+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715020477,
+            44420715053245,
+            44420715086013,
+            44420715118781
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 17,
+        "compare_at_price": "23.00",
+        "position": 2,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715086013,
+        "title": "4,0 mm",
+        "option1": "4,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0132",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935245501,
+          "product_id": 7855937913021,
+          "position": 6,
+          "created_at": "2024-09-20T12:38:52+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715020477,
+            44420715053245,
+            44420715086013,
+            44420715118781
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 18,
+        "compare_at_price": "23.00",
+        "position": 3,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715118781,
+        "title": "4,5 mm",
+        "option1": "4,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0133",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935245501,
+          "product_id": 7855937913021,
+          "position": 6,
+          "created_at": "2024-09-20T12:38:52+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715020477,
+            44420715053245,
+            44420715086013,
+            44420715118781
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 18,
+        "compare_at_price": "23.00",
+        "position": 4,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715151549,
+        "title": "5,0 mm",
+        "option1": "5,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0134",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935081661,
+          "product_id": 7855937913021,
+          "position": 7,
+          "created_at": "2024-09-20T12:38:52+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715151549,
+            44420715184317,
+            44420715217085,
+            44420715249853
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 21,
+        "compare_at_price": "23.00",
+        "position": 5,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715184317,
+        "title": "5,5 mm",
+        "option1": "5,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0135",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935081661,
+          "product_id": 7855937913021,
+          "position": 7,
+          "created_at": "2024-09-20T12:38:52+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715151549,
+            44420715184317,
+            44420715217085,
+            44420715249853
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 22,
+        "compare_at_price": "23.00",
+        "position": 6,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715217085,
+        "title": "6,0 mm",
+        "option1": "6,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0136",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935081661,
+          "product_id": 7855937913021,
+          "position": 7,
+          "created_at": "2024-09-20T12:38:52+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715151549,
+            44420715184317,
+            44420715217085,
+            44420715249853
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 25,
+        "compare_at_price": "23.00",
+        "position": 7,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715249853,
+        "title": "6,5 mm",
+        "option1": "6,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0137",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935081661,
+          "product_id": 7855937913021,
+          "position": 7,
+          "created_at": "2024-09-20T12:38:52+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715151549,
+            44420715184317,
+            44420715217085,
+            44420715249853
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 30,
+        "compare_at_price": "23.00",
+        "position": 8,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715282621,
+        "title": "7,0 mm",
+        "option1": "7,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0138",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935311037,
+          "product_id": 7855937913021,
+          "position": 8,
+          "created_at": "2024-09-20T12:38:53+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715282621,
+            44420715315389,
+            44420715348157,
+            44420715380925
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 30,
+        "compare_at_price": "23.00",
+        "position": 9,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715315389,
+        "title": "8,0 mm",
+        "option1": "8,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0139",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935311037,
+          "product_id": 7855937913021,
+          "position": 8,
+          "created_at": "2024-09-20T12:38:53+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715282621,
+            44420715315389,
+            44420715348157,
+            44420715380925
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 35,
+        "compare_at_price": "23.00",
+        "position": 10,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715348157,
+        "title": "9,0 mm",
+        "option1": "9,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0140",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935311037,
+          "product_id": 7855937913021,
+          "position": 8,
+          "created_at": "2024-09-20T12:38:53+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715282621,
+            44420715315389,
+            44420715348157,
+            44420715380925
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 45,
+        "compare_at_price": "23.00",
+        "position": 11,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420715380925,
+        "title": "10,0 mm",
+        "option1": "10,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0141",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393935311037,
+          "product_id": 7855937913021,
+          "position": 8,
+          "created_at": "2024-09-20T12:38:53+02:00",
+          "updated_at": "2024-09-20T12:38:55+02:00",
+          "alt": "234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg.jpg?v=1726828735",
+          "variant_ids": [
+            44420715282621,
+            44420715315389,
+            44420715348157,
+            44420715380925
+          ]
+        },
+        "available": true,
+        "price": "16.10",
+        "grams": 48,
+        "compare_at_price": "23.00",
+        "position": 12,
+        "product_id": 7855937913021,
+        "created_at": "2024-08-05T10:24:53+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35393935278269,
+        "created_at": "2024-09-20T12:38:51+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T12:38:55+02:00",
+        "product_id": 7855937913021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9e9722f20877d94babd929531d3f8d443f5f666d-1200x1200jpg.jpg?v=1726828735",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393935114429,
+        "created_at": "2024-09-20T12:38:51+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T12:38:55+02:00",
+        "product_id": 7855937913021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ec2371c5849cb4b08ebbfb2885e2b0f2ec6fd4a5-1200x1200jpg.jpg?v=1726828735",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393935212733,
+        "created_at": "2024-09-20T12:38:51+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T12:38:55+02:00",
+        "product_id": 7855937913021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/08e1d574193ad7c93a7655b4accb90622f6158d9-1200x1200jpg.jpg?v=1726828735",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393935474877,
+        "created_at": "2024-09-20T12:38:51+02:00",
+        "position": 4,
+        "updated_at": "2024-09-20T12:38:55+02:00",
+        "product_id": 7855937913021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e5fc0bf66443a1934c7b353827470fb75d740674-1200x1200jpg.jpg?v=1726828735",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393935507645,
+        "created_at": "2024-09-20T12:38:51+02:00",
+        "position": 5,
+        "updated_at": "2024-09-20T12:38:55+02:00",
+        "product_id": 7855937913021,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fc277671d1aa3d42d183aa524259d9261315a415-3024x3024jpg.jpg?v=1726828735",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35393935245501,
+        "created_at": "2024-09-20T12:38:52+02:00",
+        "position": 6,
+        "updated_at": "2024-09-20T12:38:55+02:00",
+        "product_id": 7855937913021,
+        "variant_ids": [
+          44420715020477,
+          44420715053245,
+          44420715086013,
+          44420715118781
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cfbe8bf4a038b4d2d45247d20331f76fd28f2053-1200x1200jpg.jpg?v=1726828735",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393935081661,
+        "created_at": "2024-09-20T12:38:52+02:00",
+        "position": 7,
+        "updated_at": "2024-09-20T12:38:55+02:00",
+        "product_id": 7855937913021,
+        "variant_ids": [
+          44420715151549,
+          44420715184317,
+          44420715217085,
+          44420715249853
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f22b0600bf529b14b40d30cab6cb76daf542e80b-1200x1200jpg.jpg?v=1726828735",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393935311037,
+        "created_at": "2024-09-20T12:38:53+02:00",
+        "position": 8,
+        "updated_at": "2024-09-20T12:38:55+02:00",
+        "product_id": 7855937913021,
+        "variant_ids": [
+          44420715282621,
+          44420715315389,
+          44420715348157,
+          44420715380925
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/234e7da4ca5756f6bc53a47ef9f051766f7cc022-1200x1200jpg.jpg?v=1726828735",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "3,0 mm",
+          "3,5 mm",
+          "4,0 mm",
+          "4,5 mm",
+          "5,0 mm",
+          "5,5 mm",
+          "6,0 mm",
+          "6,5 mm",
+          "7,0 mm",
+          "8,0 mm",
+          "9,0 mm",
+          "10,0 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855990636733,
+    "title": "Bamboo Druty na \u017cy\u0142ce - 80 cm",
+    "handle": "hp-1005989-bamboo-circular-needles-80-cm-31-in",
+    "body_html": "<p>Rozpocznij sw\u00f3j projekt dziewiarski z seri\u0105 bambusowych drut\u00f3w Hobbii. Druty wykonane s\u0105 z bambusa Moso, dzi\u0119ki czemu s\u0105 zar\u00f3wno mocne, jak i lekkie. Bambus Moso jest jednym z najpopularniejszych gatunk\u00f3w bambusa na \u015bwiecie, dzi\u0119ki swojej wytrzyma\u0142o\u015bci i szybko\u015bci wzrostu. Druty maj\u0105 g\u0142adk\u0105 powierzchni\u0119, a rozmiar jest nadrukowany laserowo na ko\u0144c\u00f3wkach. Zdecydowanie uwa\u017camy, \u017ce zalet\u0105 jest to, \u017ce rozmiar nie \u015bciera si\u0119 po kr\u00f3tkim okresie u\u017cytkowania, jak to cz\u0119sto bywa.\n</p><p>Stylowe, czarne \u017cy\u0142ki wykonane s\u0105 ze stali nierdzewnej i pokryte poliamidem. S\u0105 bardzo dobre w utrzymywaniu kszta\u0142tu i zawsze si\u0119 prostuj\u0105, gdy s\u0105 u\u017cywane, i nie skr\u0119caj\u0105 si\u0119. Poniewa\u017c \u017cy\u0142ki s\u0105 bardziej sztywne (w przeciwie\u0144stwie do np. \u017cy\u0142ek nylonowych) nadal mo\u017cna ich u\u017cywa\u0107 do techniki magic-loop, je\u015bli kupisz druty na \u017cy\u0142ce o d\u0142ugo\u015bci 80 cm.\n</p><p>\u017byczymy przyjemnego dziergania nowymi drutami :-)</p>",
+    "product_type": "knitting_needles",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420965695677,
+        "title": "2,5 mm",
+        "option1": "2,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0175",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853549245,
+          "product_id": 7855990636733,
+          "position": 4,
+          "created_at": "2024-08-05T11:40:03+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997824-circular-bamboo-needle-3-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997824-circular-bamboo-needle-3-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965695677,
+            44420965728445,
+            44420965761213,
+            44420965793981,
+            44420965826749
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 22,
+        "compare_at_price": "39.00",
+        "position": 1,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965728445,
+        "title": "3,0 mm",
+        "option1": "3,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0176",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853549245,
+          "product_id": 7855990636733,
+          "position": 4,
+          "created_at": "2024-08-05T11:40:03+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997824-circular-bamboo-needle-3-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997824-circular-bamboo-needle-3-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965695677,
+            44420965728445,
+            44420965761213,
+            44420965793981,
+            44420965826749
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 23,
+        "compare_at_price": "39.00",
+        "position": 2,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965761213,
+        "title": "3,5 mm",
+        "option1": "3,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0177",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853549245,
+          "product_id": 7855990636733,
+          "position": 4,
+          "created_at": "2024-08-05T11:40:03+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997824-circular-bamboo-needle-3-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997824-circular-bamboo-needle-3-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965695677,
+            44420965728445,
+            44420965761213,
+            44420965793981,
+            44420965826749
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 23,
+        "compare_at_price": "39.00",
+        "position": 3,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965793981,
+        "title": "4,0 mm",
+        "option1": "4,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0178",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853549245,
+          "product_id": 7855990636733,
+          "position": 4,
+          "created_at": "2024-08-05T11:40:03+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997824-circular-bamboo-needle-3-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997824-circular-bamboo-needle-3-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965695677,
+            44420965728445,
+            44420965761213,
+            44420965793981,
+            44420965826749
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 23,
+        "compare_at_price": "39.00",
+        "position": 4,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965826749,
+        "title": "4,5 mm",
+        "option1": "4,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0179",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853549245,
+          "product_id": 7855990636733,
+          "position": 4,
+          "created_at": "2024-08-05T11:40:03+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997824-circular-bamboo-needle-3-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997824-circular-bamboo-needle-3-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965695677,
+            44420965728445,
+            44420965761213,
+            44420965793981,
+            44420965826749
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 23,
+        "compare_at_price": "39.00",
+        "position": 5,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965859517,
+        "title": "5,0 mm",
+        "option1": "5,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0180",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853254333,
+          "product_id": 7855990636733,
+          "position": 5,
+          "created_at": "2024-08-05T11:40:04+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997848-circular-bamboo-needle-6-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997848-circular-bamboo-needle-6-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965859517,
+            44420965892285,
+            44420965925053,
+            44420965957821,
+            44420965990589,
+            44420966023357
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 24,
+        "compare_at_price": "39.00",
+        "position": 6,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965892285,
+        "title": "5,5 mm",
+        "option1": "5,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0181",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853254333,
+          "product_id": 7855990636733,
+          "position": 5,
+          "created_at": "2024-08-05T11:40:04+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997848-circular-bamboo-needle-6-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997848-circular-bamboo-needle-6-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965859517,
+            44420965892285,
+            44420965925053,
+            44420965957821,
+            44420965990589,
+            44420966023357
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 26,
+        "compare_at_price": "39.00",
+        "position": 7,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965925053,
+        "title": "6,0 mm",
+        "option1": "6,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0182",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853254333,
+          "product_id": 7855990636733,
+          "position": 5,
+          "created_at": "2024-08-05T11:40:04+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997848-circular-bamboo-needle-6-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997848-circular-bamboo-needle-6-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965859517,
+            44420965892285,
+            44420965925053,
+            44420965957821,
+            44420965990589,
+            44420966023357
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 27,
+        "compare_at_price": "39.00",
+        "position": 8,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965957821,
+        "title": "6,5 mm",
+        "option1": "6,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0183",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853254333,
+          "product_id": 7855990636733,
+          "position": 5,
+          "created_at": "2024-08-05T11:40:04+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997848-circular-bamboo-needle-6-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997848-circular-bamboo-needle-6-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965859517,
+            44420965892285,
+            44420965925053,
+            44420965957821,
+            44420965990589,
+            44420966023357
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 28,
+        "compare_at_price": "39.00",
+        "position": 9,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420965990589,
+        "title": "7,0 mm",
+        "option1": "7,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0184",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853254333,
+          "product_id": 7855990636733,
+          "position": 5,
+          "created_at": "2024-08-05T11:40:04+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997848-circular-bamboo-needle-6-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997848-circular-bamboo-needle-6-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965859517,
+            44420965892285,
+            44420965925053,
+            44420965957821,
+            44420965990589,
+            44420966023357
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 29,
+        "compare_at_price": "39.00",
+        "position": 10,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420966023357,
+        "title": "8,0 mm",
+        "option1": "8,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0185",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853254333,
+          "product_id": 7855990636733,
+          "position": 5,
+          "created_at": "2024-08-05T11:40:04+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997848-circular-bamboo-needle-6-0-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997848-circular-bamboo-needle-6-0-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420965859517,
+            44420965892285,
+            44420965925053,
+            44420965957821,
+            44420965990589,
+            44420966023357
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 30,
+        "compare_at_price": "39.00",
+        "position": 11,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420966056125,
+        "title": "9,0 mm",
+        "option1": "9,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0186",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853778621,
+          "product_id": 7855990636733,
+          "position": 6,
+          "created_at": "2024-08-05T11:40:05+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997858-circular-bamboo-needle-10-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997858-circular-bamboo-needle-10-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420966056125,
+            44420966088893
+          ]
+        },
+        "available": false,
+        "price": "26.91",
+        "grams": 33,
+        "compare_at_price": "39.00",
+        "position": 12,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420966088893,
+        "title": "10,0 mm",
+        "option1": "10,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0187",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184853778621,
+          "product_id": 7855990636733,
+          "position": 6,
+          "created_at": "2024-08-05T11:40:05+02:00",
+          "updated_at": "2024-08-05T11:40:07+02:00",
+          "alt": "1693997858-circular-bamboo-needle-10-mm-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997858-circular-bamboo-needle-10-mm-1jpg.jpg?v=1722850807",
+          "variant_ids": [
+            44420966056125,
+            44420966088893
+          ]
+        },
+        "available": false,
+        "price": "26.91",
+        "grams": 36,
+        "compare_at_price": "39.00",
+        "position": 13,
+        "product_id": 7855990636733,
+        "created_at": "2024-08-05T10:31:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184853450941,
+        "created_at": "2024-08-05T11:40:02+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:40:07+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/circular-bamboo-needle-6-0-mmjpg.jpg?v=1722850807",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184853418173,
+        "created_at": "2024-08-05T11:40:03+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:40:07+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1686221637-circular-bamboo-needle-3-0-mmjpg.jpg?v=1722850807",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184853713085,
+        "created_at": "2024-08-05T11:40:03+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:40:07+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1686221645-circular-bamboo-needle-10-mmjpg.jpg?v=1722850807",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184853549245,
+        "created_at": "2024-08-05T11:40:03+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:40:07+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [
+          44420965695677,
+          44420965728445,
+          44420965761213,
+          44420965793981,
+          44420965826749
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997824-circular-bamboo-needle-3-0-mm-1jpg.jpg?v=1722850807",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184853254333,
+        "created_at": "2024-08-05T11:40:04+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:40:07+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [
+          44420965859517,
+          44420965892285,
+          44420965925053,
+          44420965957821,
+          44420965990589,
+          44420966023357
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997848-circular-bamboo-needle-6-0-mm-1jpg.jpg?v=1722850807",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184853778621,
+        "created_at": "2024-08-05T11:40:05+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:40:07+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [
+          44420966056125,
+          44420966088893
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1693997858-circular-bamboo-needle-10-mm-1jpg.jpg?v=1722850807",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71402327605626,
+        "created_at": "2024-10-21T13:44:47+02:00",
+        "position": 7,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6a6cc3b614889ce66c3a64482ac198b1.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327507322,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 8,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/521267b264eb8aba66fe2b075aac1181.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327703930,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 9,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/33631160ac8e2738d487c9fd6cae4d9f.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327638394,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 10,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0e637da05054b0a160d88b5997e59591.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327540090,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 11,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/579ca9c91e142ff28798de3918620800.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327769466,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 12,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/31426ddbe46419568840a3c82141df6b.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327572858,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 13,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c32804e2493bf2897d700055a13cc5e5.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327835002,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 14,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ad9fa437c88cb53d13db6677ceead64e.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327736698,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 15,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/45eb4b12803b07c8f5c60e7bfad888b3.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327802234,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 16,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8764809b47d97ace5bad5259803169f9.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402327671162,
+        "created_at": "2024-10-21T13:44:48+02:00",
+        "position": 17,
+        "updated_at": "2024-10-21T13:44:50+02:00",
+        "product_id": 7855990636733,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/219aefc64bd4f7301dccb6304958ea9d.jpg?v=1729511090",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "2,5 mm",
+          "3,0 mm",
+          "3,5 mm",
+          "4,0 mm",
+          "4,5 mm",
+          "5,0 mm",
+          "5,5 mm",
+          "6,0 mm",
+          "6,5 mm",
+          "7,0 mm",
+          "8,0 mm",
+          "9,0 mm",
+          "10,0 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856007479485,
+    "title": "Miernik rozmiar\u00f3w drut\u00f3w",
+    "handle": "hp-1001507-needle-sizer-2-10-mm",
+    "body_html": "<p>Ten miernik to bardzo pomocny gad\u017cet, dzi\u0119ki kt\u00f3remu szybko sprawdzisz w jakim rozmiarze jest dany drut. Zmierzy on druty o grubo\u015bciach 2-10 mm. Miernik jest prostok\u0105tny a jego d\u0142u\u017cszy bok ma linijk\u0119 na 14 cm, kt\u00f3rej mo\u017cesz u\u017cy\u0107 do zmierzenia oczek czy rz\u0119d\u00f3w.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421048074429,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0316/YL-361",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "2.46",
+        "grams": 10,
+        "compare_at_price": "8.20",
+        "position": 1,
+        "product_id": 7856007479485,
+        "created_at": "2024-08-05T10:33:13+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185007263933,
+        "created_at": "2024-08-05T11:54:10+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:54:11+02:00",
+        "product_id": 7856007479485,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521641022-strikkepindemaaler-2jpg.jpg?v=1722851651",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185007132861,
+        "created_at": "2024-08-05T11:54:10+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:54:11+02:00",
+        "product_id": 7856007479485,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1515146406-strikkepindemaaler1jpg.jpg?v=1722851651",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855998533821,
+    "title": "Bamboo Druty na \u017cy\u0142ce - 60 cm",
+    "handle": "hp-1005988-bamboo-circular-needles-60-cm-24-in",
+    "body_html": "<p>Rozpocznij sw\u00f3j projekt dziewiarski z seri\u0105 bambusowych drut\u00f3w Hobbii. Druty wykonane s\u0105 z bambusa Moso, dzi\u0119ki czemu s\u0105 zar\u00f3wno mocne, jak i lekkie. Bambus Moso jest jednym z najpopularniejszych gatunk\u00f3w bambusa na \u015bwiecie, dzi\u0119ki swojej wytrzyma\u0142o\u015bci i szybko\u015bci wzrostu. Druty maj\u0105 g\u0142adk\u0105 powierzchni\u0119, a rozmiar jest nadrukowany laserowo na ko\u0144c\u00f3wkach. Zdecydowanie uwa\u017camy, \u017ce zalet\u0105 jest to, \u017ce rozmiar nie \u015bciera si\u0119 po kr\u00f3tkim okresie u\u017cytkowania, jak to cz\u0119sto bywa.\n</p><p>Stylowe czarne \u017cy\u0142ki wykonane s\u0105 ze stali nierdzewnej i pokryte poliamidem. S\u0105 bardzo dobre w utrzymywaniu kszta\u0142tu i zawsze si\u0119 prostuj\u0105, gdy s\u0105 u\u017cywane, i nie skr\u0119caj\u0105 si\u0119. Poniewa\u017c \u017cy\u0142ki s\u0105 bardziej sztywne (w przeciwie\u0144stwie do np. \u017cy\u0142ek nylonowych) nie zalecamy u\u017cywania ich do techniki magic-loop przy tej d\u0142ugo\u015bci. Je\u015bli chcesz u\u017cy\u0107 naszych Bamboo Drut\u00f3w na \u017cy\u0142ce do techniki magic-loop, zalecamy zakup ich w d\u0142ugo\u015bci 80 cm, do kt\u00f3rych link znajdziesz tutaj na stornie.\n</p><p>\u017byczymy przyjemnego dziergania nowymi drutami :-)</p>",
+    "product_type": "knitting_needles",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421006524605,
+        "title": "2,5 mm",
+        "option1": "2,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0162",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977902458,
+          "product_id": 7855998533821,
+          "position": 5,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "bc0b523a1e73ecc7a59c5263c550624a",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bc0b523a1e73ecc7a59c5263c550624a.jpg?v=1729698745",
+          "variant_ids": [
+            44421006524605
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 20,
+        "compare_at_price": "39.00",
+        "position": 1,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006557373,
+        "title": "3,0 mm",
+        "option1": "3,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0163",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977542010,
+          "product_id": 7855998533821,
+          "position": 6,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "a64e341096bb12163b95fdcfa5bf1a33",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a64e341096bb12163b95fdcfa5bf1a33.jpg?v=1729698745",
+          "variant_ids": [
+            44421006557373
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 21,
+        "compare_at_price": "39.00",
+        "position": 2,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006590141,
+        "title": "3,5 mm",
+        "option1": "3,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0164",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977640314,
+          "product_id": 7855998533821,
+          "position": 7,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "8ac0684535989b6527055404da61f560",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8ac0684535989b6527055404da61f560.jpg?v=1729698745",
+          "variant_ids": [
+            44421006590141
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 21,
+        "compare_at_price": "39.00",
+        "position": 3,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006622909,
+        "title": "4,0 mm",
+        "option1": "4,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0165",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977410938,
+          "product_id": 7855998533821,
+          "position": 8,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "320662d87da8acee5ff630324a18e4dc",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/320662d87da8acee5ff630324a18e4dc.jpg?v=1729698745",
+          "variant_ids": [
+            44421006622909
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 23,
+        "compare_at_price": "39.00",
+        "position": 4,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006655677,
+        "title": "4,5 mm",
+        "option1": "4,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0166",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977378170,
+          "product_id": 7855998533821,
+          "position": 9,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "15e1e46527e0587efeff7e18aa601d8d",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15e1e46527e0587efeff7e18aa601d8d.jpg?v=1729698745",
+          "variant_ids": [
+            44421006655677
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 23,
+        "compare_at_price": "39.00",
+        "position": 5,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006688445,
+        "title": "5,0 mm",
+        "option1": "5,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0167",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977574778,
+          "product_id": 7855998533821,
+          "position": 10,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "d83630952f9436dc1049080c87e19158",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d83630952f9436dc1049080c87e19158.jpg?v=1729698745",
+          "variant_ids": [
+            44421006688445
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 23,
+        "compare_at_price": "39.00",
+        "position": 6,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006721213,
+        "title": "5,5 mm",
+        "option1": "5,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0168",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977673082,
+          "product_id": 7855998533821,
+          "position": 11,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "dbf0a3a4904c155b90ee751ec71a20d6",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dbf0a3a4904c155b90ee751ec71a20d6.jpg?v=1729698745",
+          "variant_ids": [
+            44421006721213
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 24,
+        "compare_at_price": "39.00",
+        "position": 7,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006753981,
+        "title": "6,0 mm",
+        "option1": "6,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0169",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977869690,
+          "product_id": 7855998533821,
+          "position": 12,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "6dc21f827b4a96328951238c40abc2d9",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6dc21f827b4a96328951238c40abc2d9.jpg?v=1729698745",
+          "variant_ids": [
+            44421006753981
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 25,
+        "compare_at_price": "39.00",
+        "position": 8,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006786749,
+        "title": "6,5 mm",
+        "option1": "6,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0170",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977738618,
+          "product_id": 7855998533821,
+          "position": 13,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "3ef5a950c325ac27c70e70d6171ad1e7",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3ef5a950c325ac27c70e70d6171ad1e7.jpg?v=1729698745",
+          "variant_ids": [
+            44421006786749
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 27,
+        "compare_at_price": "39.00",
+        "position": 9,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006819517,
+        "title": "7,0 mm",
+        "option1": "7,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0171",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977607546,
+          "product_id": 7855998533821,
+          "position": 14,
+          "created_at": "2024-10-23T17:52:22+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "18412c0534b0d28cf691a5aa4aa3b4e8",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/18412c0534b0d28cf691a5aa4aa3b4e8.jpg?v=1729698745",
+          "variant_ids": [
+            44421006819517
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 29,
+        "compare_at_price": "39.00",
+        "position": 10,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006852285,
+        "title": "8,0 mm",
+        "option1": "8,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0172",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977804154,
+          "product_id": 7855998533821,
+          "position": 15,
+          "created_at": "2024-10-23T17:52:23+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "e2f7b91caab5fca82a6f02db18985481",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e2f7b91caab5fca82a6f02db18985481.jpg?v=1729698745",
+          "variant_ids": [
+            44421006852285
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 29,
+        "compare_at_price": "39.00",
+        "position": 11,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006885053,
+        "title": "9,0 mm",
+        "option1": "9,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0173",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977443706,
+          "product_id": 7855998533821,
+          "position": 16,
+          "created_at": "2024-10-23T17:52:23+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "ccf7c2840c3392b5bc8f65e1a248b9c4",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ccf7c2840c3392b5bc8f65e1a248b9c4.jpg?v=1729698745",
+          "variant_ids": [
+            44421006885053
+          ]
+        },
+        "available": false,
+        "price": "26.91",
+        "grams": 32,
+        "compare_at_price": "39.00",
+        "position": 12,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44421006917821,
+        "title": "10,0 mm",
+        "option1": "10,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0174",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71415977836922,
+          "product_id": 7855998533821,
+          "position": 17,
+          "created_at": "2024-10-23T17:52:23+02:00",
+          "updated_at": "2024-10-23T17:52:25+02:00",
+          "alt": "e9a49e626388bfc7911473d6cf5397e5",
+          "width": 3840,
+          "height": 3840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e9a49e626388bfc7911473d6cf5397e5.jpg?v=1729698745",
+          "variant_ids": [
+            44421006917821
+          ]
+        },
+        "available": false,
+        "price": "26.91",
+        "grams": 34,
+        "compare_at_price": "39.00",
+        "position": 13,
+        "product_id": 7855998533821,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 71415977476474,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 1,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3bb36418ad179797cdef614ebd749afc.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977705850,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 2,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4b827e9481be57efbcd54b76a898f6c2.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977509242,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 3,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/da00259efc3aa53a3b5a77e9da9b36cf.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977771386,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 4,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/89db2c9c49a75360db8e71a50d42cca5.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977902458,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006524605
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bc0b523a1e73ecc7a59c5263c550624a.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977542010,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006557373
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a64e341096bb12163b95fdcfa5bf1a33.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977640314,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 7,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006590141
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8ac0684535989b6527055404da61f560.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977410938,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 8,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006622909
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/320662d87da8acee5ff630324a18e4dc.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977378170,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 9,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006655677
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/15e1e46527e0587efeff7e18aa601d8d.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977574778,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 10,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006688445
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d83630952f9436dc1049080c87e19158.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977673082,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 11,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006721213
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dbf0a3a4904c155b90ee751ec71a20d6.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977869690,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 12,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006753981
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6dc21f827b4a96328951238c40abc2d9.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977738618,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 13,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006786749
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3ef5a950c325ac27c70e70d6171ad1e7.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977607546,
+        "created_at": "2024-10-23T17:52:22+02:00",
+        "position": 14,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006819517
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/18412c0534b0d28cf691a5aa4aa3b4e8.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977804154,
+        "created_at": "2024-10-23T17:52:23+02:00",
+        "position": 15,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006852285
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e2f7b91caab5fca82a6f02db18985481.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977443706,
+        "created_at": "2024-10-23T17:52:23+02:00",
+        "position": 16,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006885053
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ccf7c2840c3392b5bc8f65e1a248b9c4.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415977836922,
+        "created_at": "2024-10-23T17:52:23+02:00",
+        "position": 17,
+        "updated_at": "2024-10-23T17:52:25+02:00",
+        "product_id": 7855998533821,
+        "variant_ids": [
+          44421006917821
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e9a49e626388bfc7911473d6cf5397e5.jpg?v=1729698745",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "2,5 mm",
+          "3,0 mm",
+          "3,5 mm",
+          "4,0 mm",
+          "4,5 mm",
+          "5,0 mm",
+          "5,5 mm",
+          "6,0 mm",
+          "6,5 mm",
+          "7,0 mm",
+          "8,0 mm",
+          "9,0 mm",
+          "10,0 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855930736829,
+    "title": "Druty ergonomiczne od Prym",
+    "handle": "hp-1000561-ergonomic-stocking-needles",
+    "body_html": "<p>Druty ergonomiczne od Prym to jako\u015b\u0107, kt\u00f3r\u0105 doceni\u0105 d\u0142onie ka\u017cdego kto spr\u00f3bowa\u0142 pracowa\u0107 z rob\u00f3tk\u0105 przez wiele godzin.</p><p>Druty s\u0105 lekkie, elastyczne i bardzo wygodnie le\u017c\u0105 w d\u0142oni. W 2016 roku produkt ten zosta\u0142 nagrodzony nagrod\u0105 Red Dot Design, kt\u00f3ra przyznawana jest corocznie produktom najwy\u017cszej jako\u015bci i o najlepszym designie. Druty maj\u0105 20 cm d\u0142ugo\u015bci i dost\u0119pne s\u0105 w rozmiarach 2,5 - 8 mm.</p><p>Druty sprzedawane s\u0105 w zestawach po 5 sztuk.</p><p>\n</p>",
+    "product_type": "knitting_needles",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420683235517,
+        "title": "3,0 mm",
+        "option1": "3,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194202",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057680061,
+          "product_id": 7855930736829,
+          "position": 5,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "3-0jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3-0jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683235517
+          ]
+        },
+        "available": true,
+        "price": "44.00",
+        "grams": 35,
+        "compare_at_price": "55.00",
+        "position": 1,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420683268285,
+        "title": "3,5 mm",
+        "option1": "3,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194203",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057581757,
+          "product_id": 7855930736829,
+          "position": 6,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "3-5jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3-5jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683268285
+          ]
+        },
+        "available": true,
+        "price": "44.00",
+        "grams": 35,
+        "compare_at_price": "55.00",
+        "position": 2,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420683301053,
+        "title": "4,0 mm",
+        "option1": "4,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194204",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057483453,
+          "product_id": 7855930736829,
+          "position": 7,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "4-0jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4-0jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683301053
+          ]
+        },
+        "available": false,
+        "price": "44.00",
+        "grams": 35,
+        "compare_at_price": "55.00",
+        "position": 3,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420683333821,
+        "title": "4,5 mm",
+        "option1": "4,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194205",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057876669,
+          "product_id": 7855930736829,
+          "position": 8,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "1603961546-4-5jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1603961546-4-5jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683333821
+          ]
+        },
+        "available": false,
+        "price": "44.00",
+        "grams": 35,
+        "compare_at_price": "55.00",
+        "position": 4,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420683366589,
+        "title": "5,0 mm",
+        "option1": "5,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194206",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057909437,
+          "product_id": 7855930736829,
+          "position": 9,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "5-0jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5-0jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683366589
+          ]
+        },
+        "available": false,
+        "price": "44.00",
+        "grams": 40,
+        "compare_at_price": "55.00",
+        "position": 5,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420683399357,
+        "title": "6,0 mm",
+        "option1": "6,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194208",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057712829,
+          "product_id": 7855930736829,
+          "position": 10,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "6-0jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6-0jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683399357
+          ]
+        },
+        "available": true,
+        "price": "44.00",
+        "grams": 50,
+        "compare_at_price": "55.00",
+        "position": 6,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420683432125,
+        "title": "7,0 mm",
+        "option1": "7,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194209",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057843901,
+          "product_id": 7855930736829,
+          "position": 11,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "7-0jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7-0jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683432125
+          ]
+        },
+        "available": true,
+        "price": "44.00",
+        "grams": 60,
+        "compare_at_price": "55.00",
+        "position": 7,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420683464893,
+        "title": "8,0 mm",
+        "option1": "8,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194210",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057778365,
+          "product_id": 7855930736829,
+          "position": 12,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "8-0jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-0jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683464893
+          ]
+        },
+        "available": true,
+        "price": "44.00",
+        "grams": 65,
+        "compare_at_price": "55.00",
+        "position": 8,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420683497661,
+        "title": "2,5 mm",
+        "option1": "2,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "194201",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184057614525,
+          "product_id": 7855930736829,
+          "position": 13,
+          "created_at": "2024-08-05T10:55:16+02:00",
+          "updated_at": "2024-08-05T10:55:18+02:00",
+          "alt": "2-5jpg",
+          "width": 2560,
+          "height": 2560,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2-5jpg.jpg?v=1722848118",
+          "variant_ids": [
+            44420683497661
+          ]
+        },
+        "available": true,
+        "price": "44.00",
+        "grams": 35,
+        "compare_at_price": "55.00",
+        "position": 9,
+        "product_id": 7855930736829,
+        "created_at": "2024-08-05T10:23:59+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184057745597,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35389366666jpg.jpg?v=1722848118",
+        "width": 848,
+        "height": 847
+      },
+      {
+        "id": 35184057647293,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/prym-ergonomicjpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057516221,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/prym-3jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057811133,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/prym2jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057680061,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683235517
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3-0jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057581757,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683268285
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3-5jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057483453,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683301053
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4-0jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057876669,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683333821
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1603961546-4-5jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057909437,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683366589
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5-0jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057712829,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683399357
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6-0jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057843901,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683432125
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7-0jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057778365,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 12,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683464893
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8-0jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      },
+      {
+        "id": 35184057614525,
+        "created_at": "2024-08-05T10:55:16+02:00",
+        "position": 13,
+        "updated_at": "2024-08-05T10:55:18+02:00",
+        "product_id": 7855930736829,
+        "variant_ids": [
+          44420683497661
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2-5jpg.jpg?v=1722848118",
+        "width": 2560,
+        "height": 2560
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "3,0 mm",
+          "3,5 mm",
+          "4,0 mm",
+          "4,5 mm",
+          "5,0 mm",
+          "6,0 mm",
+          "7,0 mm",
+          "8,0 mm",
+          "2,5 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855967568061,
+    "title": "Bamboo Druty na \u017cy\u0142ce - 50 cm",
+    "handle": "hp-1005987-bamboo-circular-needles-50-cm-20-in",
+    "body_html": "<p>Rozpocznij sw\u00f3j projekt dziewiarski z seri\u0105 bambusowych drut\u00f3w Hobbii. Druty wykonane s\u0105 z bambusa Moso, dzi\u0119ki czemu s\u0105 zar\u00f3wno mocne, jak i lekkie. Bambus Moso jest jednym z najpopularniejszych gatunk\u00f3w bambusa na \u015bwiecie, dzi\u0119ki swojej wytrzyma\u0142o\u015bci i szybko\u015bci wzrostu. Druty maj\u0105 g\u0142adk\u0105 powierzchni\u0119, a rozmiar jest nadrukowany laserowo na ko\u0144c\u00f3wkach. Zdecydowanie uwa\u017camy, \u017ce zalet\u0105 jest to, \u017ce rozmiar nie \u015bciera si\u0119 po kr\u00f3tkim okresie u\u017cytkowania, jak to cz\u0119sto bywa.\n</p><p>Druty na \u017cy\u0142ce 50 cm s\u0105 idealne do ma\u0142ych obwod\u00f3w takich jak dekolt swetra, nieco szersze r\u0119kawy, czapki, kominy, swetry niemowl\u0119ce/dzieci\u0119ce.</p><p>Stylowe czarne \u017cy\u0142ki wykonane s\u0105 ze stali nierdzewnej i pokryte poliamidem. S\u0105 bardzo dobre w utrzymywaniu kszta\u0142tu i zawsze si\u0119 prostuj\u0105, gdy s\u0105 u\u017cywane, i nie skr\u0119caj\u0105 si\u0119. Poniewa\u017c \u017cy\u0142ki s\u0105 bardziej sztywne (w przeciwie\u0144stwie do np. \u017cy\u0142ek nylonowych) nie zalecamy u\u017cywania ich do techniki magic-loop przy tej d\u0142ugo\u015bci. Je\u015bli chcesz u\u017cy\u0107 naszych Bamboo Drut\u00f3w na \u017cy\u0142ce do techniki magic-loop, zalecamy zakup ich w d\u0142ugo\u015bci 80 cm, do kt\u00f3rych link znajdziesz tutaj na stornie.</p><p>\u017byczymy przyjemnego dziergania nowymi drutami :-)</p>",
+    "product_type": "knitting_needles",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420850155709,
+        "title": "2,5 mm",
+        "option1": "2,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0149",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899626685,
+          "product_id": 7855967568061,
+          "position": 7,
+          "created_at": "2024-09-20T12:32:35+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850155709,
+            44420850188477,
+            44420850221245,
+            44420850254013
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 15,
+        "compare_at_price": "39.00",
+        "position": 1,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850188477,
+        "title": "3,0 mm",
+        "option1": "3,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0150",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899626685,
+          "product_id": 7855967568061,
+          "position": 7,
+          "created_at": "2024-09-20T12:32:35+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850155709,
+            44420850188477,
+            44420850221245,
+            44420850254013
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 16,
+        "compare_at_price": "39.00",
+        "position": 2,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850221245,
+        "title": "3,5 mm",
+        "option1": "3,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0151",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899626685,
+          "product_id": 7855967568061,
+          "position": 7,
+          "created_at": "2024-09-20T12:32:35+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850155709,
+            44420850188477,
+            44420850221245,
+            44420850254013
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 16,
+        "compare_at_price": "39.00",
+        "position": 3,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850254013,
+        "title": "4,0 mm",
+        "option1": "4,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0152",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899626685,
+          "product_id": 7855967568061,
+          "position": 7,
+          "created_at": "2024-09-20T12:32:35+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850155709,
+            44420850188477,
+            44420850221245,
+            44420850254013
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 17,
+        "compare_at_price": "39.00",
+        "position": 4,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850286781,
+        "title": "4,5 mm",
+        "option1": "4,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0153",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899757757,
+          "product_id": 7855967568061,
+          "position": 8,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850286781,
+            44420850319549,
+            44420850352317,
+            44420850385085,
+            44420850417853,
+            44420850450621,
+            44420850483389
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 18,
+        "compare_at_price": "39.00",
+        "position": 5,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850319549,
+        "title": "5,0 mm",
+        "option1": "5,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0154",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899757757,
+          "product_id": 7855967568061,
+          "position": 8,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850286781,
+            44420850319549,
+            44420850352317,
+            44420850385085,
+            44420850417853,
+            44420850450621,
+            44420850483389
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 19,
+        "compare_at_price": "39.00",
+        "position": 6,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850352317,
+        "title": "5,5 mm",
+        "option1": "5,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0155",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899757757,
+          "product_id": 7855967568061,
+          "position": 8,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850286781,
+            44420850319549,
+            44420850352317,
+            44420850385085,
+            44420850417853,
+            44420850450621,
+            44420850483389
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 19,
+        "compare_at_price": "39.00",
+        "position": 7,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850385085,
+        "title": "6,0 mm",
+        "option1": "6,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0156",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899757757,
+          "product_id": 7855967568061,
+          "position": 8,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850286781,
+            44420850319549,
+            44420850352317,
+            44420850385085,
+            44420850417853,
+            44420850450621,
+            44420850483389
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 20,
+        "compare_at_price": "39.00",
+        "position": 8,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850417853,
+        "title": "6,5 mm",
+        "option1": "6,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0157",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899757757,
+          "product_id": 7855967568061,
+          "position": 8,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850286781,
+            44420850319549,
+            44420850352317,
+            44420850385085,
+            44420850417853,
+            44420850450621,
+            44420850483389
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 21,
+        "compare_at_price": "39.00",
+        "position": 9,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850450621,
+        "title": "7,0 mm",
+        "option1": "7,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0158",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899757757,
+          "product_id": 7855967568061,
+          "position": 8,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850286781,
+            44420850319549,
+            44420850352317,
+            44420850385085,
+            44420850417853,
+            44420850450621,
+            44420850483389
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 21,
+        "compare_at_price": "39.00",
+        "position": 10,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850483389,
+        "title": "8,0 mm",
+        "option1": "8,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0159",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899757757,
+          "product_id": 7855967568061,
+          "position": 8,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850286781,
+            44420850319549,
+            44420850352317,
+            44420850385085,
+            44420850417853,
+            44420850450621,
+            44420850483389
+          ]
+        },
+        "available": true,
+        "price": "26.91",
+        "grams": 21,
+        "compare_at_price": "39.00",
+        "position": 11,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850516157,
+        "title": "9,0 mm",
+        "option1": "9,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0160",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899954365,
+          "product_id": 7855967568061,
+          "position": 9,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "7384ffbc787e3a54d23a795fc620808f1ffa7b32-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7384ffbc787e3a54d23a795fc620808f1ffa7b32-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850516157,
+            44420850548925
+          ]
+        },
+        "available": false,
+        "price": "26.91",
+        "grams": 24,
+        "compare_at_price": "39.00",
+        "position": 12,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44420850548925,
+        "title": "10,0 mm",
+        "option1": "10,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0161",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393899954365,
+          "product_id": 7855967568061,
+          "position": 9,
+          "created_at": "2024-09-20T12:32:36+02:00",
+          "updated_at": "2024-09-20T12:32:38+02:00",
+          "alt": "7384ffbc787e3a54d23a795fc620808f1ffa7b32-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7384ffbc787e3a54d23a795fc620808f1ffa7b32-1200x1200jpg.jpg?v=1726828358",
+          "variant_ids": [
+            44420850516157,
+            44420850548925
+          ]
+        },
+        "available": false,
+        "price": "26.91",
+        "grams": 25,
+        "compare_at_price": "39.00",
+        "position": 13,
+        "product_id": 7855967568061,
+        "created_at": "2024-08-05T10:28:22+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35393900052669,
+        "created_at": "2024-09-20T12:32:35+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e5a2e63ff943c836a6a151891c86905722d2f912-1200x1200jpg.jpg?v=1726828358",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393899659453,
+        "created_at": "2024-09-20T12:32:35+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/849887f5c6d4038fcd2cb8bd931de019ee0c424a-1200x1200jpg.jpg?v=1726828358",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393899823293,
+        "created_at": "2024-09-20T12:32:35+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/87fb63bc7470f2f6112ce78091c8fe1d1466b313-1200x1200jpg.jpg?v=1726828358",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393900249277,
+        "created_at": "2024-09-20T12:32:35+02:00",
+        "position": 4,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/23e3c6e82f06e9a183a9a1bdf7a230fdf2569648-1200x1200jpg.jpg?v=1726828358",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393900282045,
+        "created_at": "2024-09-20T12:32:35+02:00",
+        "position": 5,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bc878fccd0889a344461397f05c8fab4210b6652-3024x3024png.png?v=1726828358",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35393900216509,
+        "created_at": "2024-09-20T12:32:35+02:00",
+        "position": 6,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5d951f7c9728fd4306bdee74e959e7194e77c163-3024x3024png.png?v=1726828358",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35393899626685,
+        "created_at": "2024-09-20T12:32:35+02:00",
+        "position": 7,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [
+          44420850155709,
+          44420850188477,
+          44420850221245,
+          44420850254013
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d43d0efd8c696eff572faf8653c885c8706dd213-1200x1200jpg.jpg?v=1726828358",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393899757757,
+        "created_at": "2024-09-20T12:32:36+02:00",
+        "position": 8,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [
+          44420850286781,
+          44420850319549,
+          44420850352317,
+          44420850385085,
+          44420850417853,
+          44420850450621,
+          44420850483389
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d822279fa6fe4d7c7e7ef747d5239e08f8fccf28-1200x1200jpg.jpg?v=1726828358",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393899954365,
+        "created_at": "2024-09-20T12:32:36+02:00",
+        "position": 9,
+        "updated_at": "2024-09-20T12:32:38+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [
+          44420850516157,
+          44420850548925
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7384ffbc787e3a54d23a795fc620808f1ffa7b32-1200x1200jpg.jpg?v=1726828358",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415897457018,
+        "created_at": "2024-10-23T17:44:34+02:00",
+        "position": 10,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b1712f76769399708621a69100337333.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897588090,
+        "created_at": "2024-10-23T17:44:34+02:00",
+        "position": 11,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/106d6f41d9b6d89c361c7532ba98c969.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897751930,
+        "created_at": "2024-10-23T17:44:35+02:00",
+        "position": 12,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/edf232b6c333f4367b4863ba0142e77c.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897620858,
+        "created_at": "2024-10-23T17:44:35+02:00",
+        "position": 13,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7ac7ea6c2df009a2550ab5107da5e46a.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897424250,
+        "created_at": "2024-10-23T17:44:35+02:00",
+        "position": 14,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fb911d39e474479466d912fdf1fad9ac.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897653626,
+        "created_at": "2024-10-23T17:44:35+02:00",
+        "position": 15,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5e1146f78674d464ec45593761411dce.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897522554,
+        "created_at": "2024-10-23T17:44:35+02:00",
+        "position": 16,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8cdb76717ca06ebc28b04f6f54b70e71.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897719162,
+        "created_at": "2024-10-23T17:44:35+02:00",
+        "position": 17,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cc59eda011f9f1a82ef935997e000efc.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897555322,
+        "created_at": "2024-10-23T17:44:35+02:00",
+        "position": 18,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e4593c2978af492459a35d34d8a96b60.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415897489786,
+        "created_at": "2024-10-23T17:44:35+02:00",
+        "position": 19,
+        "updated_at": "2024-10-23T17:44:37+02:00",
+        "product_id": 7855967568061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d0f264323760708f79178f56909593bd.jpg?v=1729698277",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "2,5 mm",
+          "3,0 mm",
+          "3,5 mm",
+          "4,0 mm",
+          "4,5 mm",
+          "5,0 mm",
+          "5,5 mm",
+          "6,0 mm",
+          "6,5 mm",
+          "7,0 mm",
+          "8,0 mm",
+          "9,0 mm",
+          "10,0 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7882232266941,
+    "title": "Betula Wymienne druty na \u017cy\u0142ce - Cerulean",
+    "handle": "hp-1007736-betula-interchangeable-circular-needle-cerulean",
+    "body_html": "<p>Wymienne druty na \u017cy\u0142ce <strong>Betula </strong>s\u0105 teraz dost\u0119pne r\u00f3wnie\u017c w pojedynczych rozmiarach. S\u0105 dla tych, kt\u00f3rzy chc\u0105 jako\u015bci, estetyki i nowo odkrytej rado\u015bci z robienia na drutach. Druty s\u0105 praktyczne, mocne, wygodne i eleganckie, a g\u0142\u0119boki kolor b\u0142\u0119kitu nadal pozwala przejrze\u0107 delikatne, naturalne drewno brzozowe.\n</p><p>Druty s\u0105 wyj\u0105tkowo dobrze laminowane i barwione, dzi\u0119ki czemu uzyskuj\u0105 pi\u0119kn\u0105, g\u0142adk\u0105 powierzchni\u0119, co sprawia, \u017ce niezwykle wygodnie trzyma si\u0119 je w d\u0142oniach. W ten spos\u00f3b masz gwarancj\u0119 wielu godzin przyjemno\u015bci robienia na drutach bez zm\u0119czenia d\u0142oni i palc\u00f3w. Precyzyjne ko\u0144c\u00f3wki sprawiaj\u0105, \u017ce s\u0105 idealne do wszystkich rodzaj\u00f3w prz\u0119dzy, maj\u0105 przej\u015bcia w kolorze srebrnym. Rozmiary s\u0105 drukowane laserowo na drutach, dzi\u0119ki czemu pozostaj\u0105 widoczne i \u0142atwe do zidentyfikowania przez ca\u0142y okres u\u017cytkowania.</p><p>Przenie\u015b swoje projekty dziewiarskie na nowy poziom dzi\u0119ki tym wysokiej jako\u015bci drutom i po\u0142\u0105cz je z \u017cy\u0142kami i akcesoriami KnitPro.</p>",
+    "product_type": "knitting_needles",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44506754285757,
+        "title": "3,0 mm",
+        "option1": "3,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1361",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35372988399805,
+          "product_id": 7882232266941,
+          "position": 2,
+          "created_at": "2024-09-16T10:16:31+02:00",
+          "updated_at": "2024-09-16T10:16:34+02:00",
+          "alt": "1752396027402d94e3c6c88b957801dd4c05fd27-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1752396027402d94e3c6c88b957801dd4c05fd27-1200x1200jpg.jpg?v=1726474594",
+          "variant_ids": [
+            44506754285757
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 14,
+        "compare_at_price": "46.00",
+        "position": 1,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754318525,
+        "title": "3,5 mm",
+        "option1": "3,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1362",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71379739115898,
+          "product_id": 7882232266941,
+          "position": 9,
+          "created_at": "2024-10-16T15:55:15+02:00",
+          "updated_at": "2024-10-16T15:55:18+02:00",
+          "alt": "e8959e12fc9a60fc9e940f19af633448a0d3010f-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e8959e12fc9a60fc9e940f19af633448a0d3010f-1200x1200jpg_59bbb060-30d4-41b5-8a6e-4832e48e1d41.jpg?v=1729086918",
+          "variant_ids": [
+            44506754318525
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 14,
+        "compare_at_price": "46.00",
+        "position": 2,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754351293,
+        "title": "4,0 mm",
+        "option1": "4,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1363",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35372988629181,
+          "product_id": 7882232266941,
+          "position": 3,
+          "created_at": "2024-09-16T10:16:32+02:00",
+          "updated_at": "2024-09-16T10:16:34+02:00",
+          "alt": "60147f2f3dc5cd52f4d7c31dc5ddd691446f382a-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/60147f2f3dc5cd52f4d7c31dc5ddd691446f382a-1200x1200jpg.jpg?v=1726474594",
+          "variant_ids": [
+            44506754351293
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 14,
+        "compare_at_price": "46.00",
+        "position": 3,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754384061,
+        "title": "4,5 mm",
+        "option1": "4,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1364",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35372988530877,
+          "product_id": 7882232266941,
+          "position": 4,
+          "created_at": "2024-09-16T10:16:32+02:00",
+          "updated_at": "2024-09-16T10:16:34+02:00",
+          "alt": "ffd7a84befef871de2bc61d2dc407c4fe0a4916b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffd7a84befef871de2bc61d2dc407c4fe0a4916b-1200x1200jpg.jpg?v=1726474594",
+          "variant_ids": [
+            44506754384061
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 14,
+        "compare_at_price": "46.00",
+        "position": 4,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754416829,
+        "title": "5,0 mm",
+        "option1": "5,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1365",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35372988596413,
+          "product_id": 7882232266941,
+          "position": 5,
+          "created_at": "2024-09-16T10:16:32+02:00",
+          "updated_at": "2024-09-16T10:16:34+02:00",
+          "alt": "7c23fc94ff10d83362b7893a318c6812f95fd679-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7c23fc94ff10d83362b7893a318c6812f95fd679-1200x1200jpg.jpg?v=1726474594",
+          "variant_ids": [
+            44506754416829
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 14,
+        "compare_at_price": "46.00",
+        "position": 5,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754449597,
+        "title": "5,5 mm",
+        "option1": "5,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1366",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35372988661949,
+          "product_id": 7882232266941,
+          "position": 6,
+          "created_at": "2024-09-16T10:16:32+02:00",
+          "updated_at": "2024-09-16T10:16:34+02:00",
+          "alt": "319380bd16584508b567876857f689e1916bc7c1-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/319380bd16584508b567876857f689e1916bc7c1-1200x1200jpg.jpg?v=1726474594",
+          "variant_ids": [
+            44506754449597
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 14,
+        "compare_at_price": "46.00",
+        "position": 6,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754482365,
+        "title": "6,0 mm",
+        "option1": "6,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1367",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35372988301501,
+          "product_id": 7882232266941,
+          "position": 7,
+          "created_at": "2024-09-16T10:16:32+02:00",
+          "updated_at": "2024-09-16T10:16:34+02:00",
+          "alt": "9551f7873fbec7276216f528e1d35b8a3eb41dfe-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9551f7873fbec7276216f528e1d35b8a3eb41dfe-1200x1200jpg.jpg?v=1726474594",
+          "variant_ids": [
+            44506754482365
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 14,
+        "compare_at_price": "46.00",
+        "position": 7,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754515133,
+        "title": "7,0 mm",
+        "option1": "7,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1368",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71379739181434,
+          "product_id": 7882232266941,
+          "position": 10,
+          "created_at": "2024-10-16T15:55:15+02:00",
+          "updated_at": "2024-10-16T15:55:18+02:00",
+          "alt": "e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg",
+          "width": 832,
+          "height": 840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_4d0b1e81-ab09-479b-a1b0-76ea852b7d6f.jpg?v=1729086918",
+          "variant_ids": [
+            44506754515133,
+            44506754547901,
+            44506754580669,
+            44506754613437,
+            44506754646205
+          ]
+        },
+        "available": false,
+        "price": "32.20",
+        "grams": 0,
+        "compare_at_price": "46.00",
+        "position": 8,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754547901,
+        "title": "8,0 mm",
+        "option1": "8,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1369",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71379739181434,
+          "product_id": 7882232266941,
+          "position": 10,
+          "created_at": "2024-10-16T15:55:15+02:00",
+          "updated_at": "2024-10-16T15:55:18+02:00",
+          "alt": "e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg",
+          "width": 832,
+          "height": 840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_4d0b1e81-ab09-479b-a1b0-76ea852b7d6f.jpg?v=1729086918",
+          "variant_ids": [
+            44506754515133,
+            44506754547901,
+            44506754580669,
+            44506754613437,
+            44506754646205
+          ]
+        },
+        "available": false,
+        "price": "32.20",
+        "grams": 0,
+        "compare_at_price": "46.00",
+        "position": 9,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754580669,
+        "title": "9,0 mm",
+        "option1": "9,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1370",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71379739181434,
+          "product_id": 7882232266941,
+          "position": 10,
+          "created_at": "2024-10-16T15:55:15+02:00",
+          "updated_at": "2024-10-16T15:55:18+02:00",
+          "alt": "e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg",
+          "width": 832,
+          "height": 840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_4d0b1e81-ab09-479b-a1b0-76ea852b7d6f.jpg?v=1729086918",
+          "variant_ids": [
+            44506754515133,
+            44506754547901,
+            44506754580669,
+            44506754613437,
+            44506754646205
+          ]
+        },
+        "available": false,
+        "price": "32.20",
+        "grams": 0,
+        "compare_at_price": "46.00",
+        "position": 10,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754613437,
+        "title": "10,0 mm",
+        "option1": "10,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1371",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71379739181434,
+          "product_id": 7882232266941,
+          "position": 10,
+          "created_at": "2024-10-16T15:55:15+02:00",
+          "updated_at": "2024-10-16T15:55:18+02:00",
+          "alt": "e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg",
+          "width": 832,
+          "height": 840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_4d0b1e81-ab09-479b-a1b0-76ea852b7d6f.jpg?v=1729086918",
+          "variant_ids": [
+            44506754515133,
+            44506754547901,
+            44506754580669,
+            44506754613437,
+            44506754646205
+          ]
+        },
+        "available": false,
+        "price": "32.20",
+        "grams": 0,
+        "compare_at_price": "46.00",
+        "position": 11,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44506754646205,
+        "title": "12,0 mm",
+        "option1": "12,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1372",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71379739181434,
+          "product_id": 7882232266941,
+          "position": 10,
+          "created_at": "2024-10-16T15:55:15+02:00",
+          "updated_at": "2024-10-16T15:55:18+02:00",
+          "alt": "e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg",
+          "width": 832,
+          "height": 840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_4d0b1e81-ab09-479b-a1b0-76ea852b7d6f.jpg?v=1729086918",
+          "variant_ids": [
+            44506754515133,
+            44506754547901,
+            44506754580669,
+            44506754613437,
+            44506754646205
+          ]
+        },
+        "available": false,
+        "price": "32.20",
+        "grams": 0,
+        "compare_at_price": "46.00",
+        "position": 12,
+        "product_id": 7882232266941,
+        "created_at": "2024-09-16T10:15:43+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35372988694717,
+        "created_at": "2024-09-16T10:16:31+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T10:16:34+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/46cdb30fe70da5d8eb94ffc273373973649fef00-1200x1200jpg.jpg?v=1726474594",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35372988399805,
+        "created_at": "2024-09-16T10:16:31+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T10:16:34+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [
+          44506754285757
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1752396027402d94e3c6c88b957801dd4c05fd27-1200x1200jpg.jpg?v=1726474594",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35372988629181,
+        "created_at": "2024-09-16T10:16:32+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T10:16:34+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [
+          44506754351293
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/60147f2f3dc5cd52f4d7c31dc5ddd691446f382a-1200x1200jpg.jpg?v=1726474594",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35372988530877,
+        "created_at": "2024-09-16T10:16:32+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T10:16:34+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [
+          44506754384061
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffd7a84befef871de2bc61d2dc407c4fe0a4916b-1200x1200jpg.jpg?v=1726474594",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35372988596413,
+        "created_at": "2024-09-16T10:16:32+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T10:16:34+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [
+          44506754416829
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7c23fc94ff10d83362b7893a318c6812f95fd679-1200x1200jpg.jpg?v=1726474594",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35372988661949,
+        "created_at": "2024-09-16T10:16:32+02:00",
+        "position": 6,
+        "updated_at": "2024-09-16T10:16:34+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [
+          44506754449597
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/319380bd16584508b567876857f689e1916bc7c1-1200x1200jpg.jpg?v=1726474594",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35372988301501,
+        "created_at": "2024-09-16T10:16:32+02:00",
+        "position": 7,
+        "updated_at": "2024-09-16T10:16:34+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [
+          44506754482365
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9551f7873fbec7276216f528e1d35b8a3eb41dfe-1200x1200jpg.jpg?v=1726474594",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71379739050362,
+        "created_at": "2024-10-16T15:55:15+02:00",
+        "position": 8,
+        "updated_at": "2024-10-16T15:55:17+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e67a56dc7f4d40fe15b2e811e4cfc07ba0eee48c-1200x1200jpg_dc336a21-201e-44f7-97ec-9be5f40ff6ea.jpg?v=1729086917",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71379739115898,
+        "created_at": "2024-10-16T15:55:15+02:00",
+        "position": 9,
+        "updated_at": "2024-10-16T15:55:18+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [
+          44506754318525
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e8959e12fc9a60fc9e940f19af633448a0d3010f-1200x1200jpg_59bbb060-30d4-41b5-8a6e-4832e48e1d41.jpg?v=1729086918",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71379739181434,
+        "created_at": "2024-10-16T15:55:15+02:00",
+        "position": 10,
+        "updated_at": "2024-10-16T15:55:18+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [
+          44506754515133,
+          44506754547901,
+          44506754580669,
+          44506754613437,
+          44506754646205
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_4d0b1e81-ab09-479b-a1b0-76ea852b7d6f.jpg?v=1729086918",
+        "width": 832,
+        "height": 840
+      },
+      {
+        "id": 71379739214202,
+        "created_at": "2024-10-16T15:55:15+02:00",
+        "position": 11,
+        "updated_at": "2024-10-16T15:55:18+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_bcbc1a0e-b3ce-466b-be79-c06995726e7c.jpg?v=1729086918",
+        "width": 832,
+        "height": 840
+      },
+      {
+        "id": 71379739017594,
+        "created_at": "2024-10-16T15:55:16+02:00",
+        "position": 12,
+        "updated_at": "2024-10-16T15:55:17+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_5d5999ba-90bf-47f5-b4a5-a80f370f639e.jpg?v=1729086917",
+        "width": 832,
+        "height": 840
+      },
+      {
+        "id": 71379739083130,
+        "created_at": "2024-10-16T15:55:16+02:00",
+        "position": 13,
+        "updated_at": "2024-10-16T15:55:17+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_d5af9e7c-b378-45e7-a395-9dfe74531222.jpg?v=1729086917",
+        "width": 832,
+        "height": 840
+      },
+      {
+        "id": 71379739148666,
+        "created_at": "2024-10-16T15:55:16+02:00",
+        "position": 14,
+        "updated_at": "2024-10-16T15:55:18+02:00",
+        "product_id": 7882232266941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_5be92d77-2451-437e-add5-1b052d13e9ea.jpg?v=1729086918",
+        "width": 832,
+        "height": 840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "3,0 mm",
+          "3,5 mm",
+          "4,0 mm",
+          "4,5 mm",
+          "5,0 mm",
+          "5,5 mm",
+          "6,0 mm",
+          "7,0 mm",
+          "8,0 mm",
+          "9,0 mm",
+          "10,0 mm",
+          "12,0 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7854194163901,
+    "title": "Betula Kr\u00f3tkie Wymienne Druty na \u017cy\u0142ce - Mulberry",
+    "handle": "hp-1007740-betula-short-interchangeable-circular-needle-mulberry",
+    "body_html": "<p><strong>Betula </strong>kr\u00f3tkie wymienne druty s\u0105 teraz dost\u0119pne tak\u017ce w pojedynczych rozmiarach. S\u0105 dla tych, kt\u00f3rzy chc\u0105 jako\u015bci, estetyki i nowo odkrytej rado\u015bci z robienia na drutach. Druty s\u0105 praktyczne, mocne, wygodne i eleganckie, a g\u0142\u0119boki, fioletowy kolor morwy nadal pozwala dostrzec delikatne, naturalne drewno brzozowe.\n</p><p>S\u0105 to <strong>kr\u00f3tkie</strong> druty i pasuj\u0105 do \u017cy\u0142ek o d\u0142ugo\u015bci 40 lub 50 cm (40 i 50 cm b\u0119dzie stanowi\u0107 ca\u0142kowit\u0105 d\u0142ugo\u015b\u0107 drut\u00f3w). Druty te \u015bwietnie sprawdz\u0105 si\u0119 do przerabiania ma\u0142ych obwod\u00f3w takich jak swetry dzieci\u0119ce, r\u0119kawy czy dekolty.</p><p>Druty s\u0105 wyj\u0105tkowo dobrze laminowane i barwione, dzi\u0119ki czemu uzyskuj\u0105 pi\u0119kn\u0105, g\u0142adk\u0105 powierzchni\u0119, co sprawia, \u017ce niezwykle wygodnie trzyma si\u0119 je w d\u0142oniach. W ten spos\u00f3b masz gwarancj\u0119 wielu godzin przyjemno\u015bci robienia na drutach bez zm\u0119czenia d\u0142oni i palc\u00f3w. Precyzyjne ko\u0144c\u00f3wki sprawiaj\u0105, \u017ce s\u0105 idealne do wszystkich rodzaj\u00f3w prz\u0119dzy, maj\u0105 przej\u015bcia w kolorze srebrnym. Rozmiary s\u0105 drukowane laserowo na drutach, dzi\u0119ki czemu pozostaj\u0105 widoczne i \u0142atwe do zidentyfikowania przez ca\u0142y okres u\u017cytkowania.</p><p>Przenie\u015b swoje projekty dziewiarskie na nowy poziom dzi\u0119ki tym wysokiej jako\u015bci drutom i po\u0142\u0105cz je z \u017cy\u0142kami i akcesoriami KnitPro.</p>",
+    "product_type": "knitting_needles",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44414085267645,
+        "title": "3,0 mm",
+        "option1": "3,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1373",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35220426490045,
+          "product_id": 7854194163901,
+          "position": 1,
+          "created_at": "2024-08-14T09:32:17+02:00",
+          "updated_at": "2024-08-14T09:32:19+02:00",
+          "alt": "5069d2d306fb06c4296888f58ae4042d9a8e6bfd-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5069d2d306fb06c4296888f58ae4042d9a8e6bfd-1200x1200jpg.jpg?v=1723620739",
+          "variant_ids": [
+            44414085267645
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 13,
+        "compare_at_price": "46.00",
+        "position": 1,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44414085300413,
+        "title": "3,5 mm",
+        "option1": "3,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1374",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35220426457277,
+          "product_id": 7854194163901,
+          "position": 2,
+          "created_at": "2024-08-14T09:32:17+02:00",
+          "updated_at": "2024-08-14T09:32:19+02:00",
+          "alt": "c152bc3e7a41c3c7ee0f47e3b0526d6248fa061b-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c152bc3e7a41c3c7ee0f47e3b0526d6248fa061b-1200x1200jpg.jpg?v=1723620739",
+          "variant_ids": [
+            44414085300413
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 13,
+        "compare_at_price": "46.00",
+        "position": 2,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44414085333181,
+        "title": "4,0 mm",
+        "option1": "4,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1375",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35220426358973,
+          "product_id": 7854194163901,
+          "position": 3,
+          "created_at": "2024-08-14T09:32:17+02:00",
+          "updated_at": "2024-08-14T09:32:19+02:00",
+          "alt": "bfd077623b0a07a17704fd9437dbb0791a32cc74-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bfd077623b0a07a17704fd9437dbb0791a32cc74-1200x1200jpg.jpg?v=1723620739",
+          "variant_ids": [
+            44414085333181
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 13,
+        "compare_at_price": "46.00",
+        "position": 3,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44414085365949,
+        "title": "4,5 mm",
+        "option1": "4,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1376",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35220426326205,
+          "product_id": 7854194163901,
+          "position": 4,
+          "created_at": "2024-08-14T09:32:17+02:00",
+          "updated_at": "2024-08-14T09:32:19+02:00",
+          "alt": "c8a70c31a32c2a1fadca3e36649bfa47cf19390c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c8a70c31a32c2a1fadca3e36649bfa47cf19390c-1200x1200jpg.jpg?v=1723620739",
+          "variant_ids": [
+            44414085365949
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 13,
+        "compare_at_price": "46.00",
+        "position": 4,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44414085398717,
+        "title": "5,0 mm",
+        "option1": "5,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1377",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35220426424509,
+          "product_id": 7854194163901,
+          "position": 5,
+          "created_at": "2024-08-14T09:32:17+02:00",
+          "updated_at": "2024-08-14T09:32:19+02:00",
+          "alt": "86dfca2b232a8e8de691ca0817fc47f7c78137df-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/86dfca2b232a8e8de691ca0817fc47f7c78137df-1200x1200jpg.jpg?v=1723620739",
+          "variant_ids": [
+            44414085398717
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 13,
+        "compare_at_price": "46.00",
+        "position": 5,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44414085431485,
+        "title": "5,5 mm",
+        "option1": "5,5 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1378",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35220426522813,
+          "product_id": 7854194163901,
+          "position": 6,
+          "created_at": "2024-08-14T09:32:17+02:00",
+          "updated_at": "2024-08-14T09:32:19+02:00",
+          "alt": "9c9283c934d01f7f46902bfdaf0daec0b4fb0276-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9c9283c934d01f7f46902bfdaf0daec0b4fb0276-1200x1200jpg.jpg?v=1723620739",
+          "variant_ids": [
+            44414085431485
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 13,
+        "compare_at_price": "46.00",
+        "position": 6,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44414085464253,
+        "title": "6,0 mm",
+        "option1": "6,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1379",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35220426588349,
+          "product_id": 7854194163901,
+          "position": 7,
+          "created_at": "2024-08-14T09:32:17+02:00",
+          "updated_at": "2024-08-14T09:32:19+02:00",
+          "alt": "6f9441ee83a07d2aa38641cffb5749280aba43c7-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6f9441ee83a07d2aa38641cffb5749280aba43c7-1200x1200jpg.jpg?v=1723620739",
+          "variant_ids": [
+            44414085464253
+          ]
+        },
+        "available": true,
+        "price": "32.20",
+        "grams": 13,
+        "compare_at_price": "46.00",
+        "position": 7,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44414085497021,
+        "title": "7,0 mm",
+        "option1": "7,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1380",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71383045833082,
+          "product_id": 7854194163901,
+          "position": 10,
+          "created_at": "2024-10-17T10:40:14+02:00",
+          "updated_at": "2024-10-17T10:40:15+02:00",
+          "alt": "e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg",
+          "width": 832,
+          "height": 840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_f0b53454-db28-4d0a-a420-1f6f6fcf60f9.jpg?v=1729154415",
+          "variant_ids": [
+            44414085497021,
+            44414085529789
+          ]
+        },
+        "available": false,
+        "price": "32.20",
+        "grams": 0,
+        "compare_at_price": "46.00",
+        "position": 8,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      },
+      {
+        "id": 44414085529789,
+        "title": "8,0 mm",
+        "option1": "8,0 mm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1381",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 71383045833082,
+          "product_id": 7854194163901,
+          "position": 10,
+          "created_at": "2024-10-17T10:40:14+02:00",
+          "updated_at": "2024-10-17T10:40:15+02:00",
+          "alt": "e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg",
+          "width": 832,
+          "height": 840,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_f0b53454-db28-4d0a-a420-1f6f6fcf60f9.jpg?v=1729154415",
+          "variant_ids": [
+            44414085497021,
+            44414085529789
+          ]
+        },
+        "available": false,
+        "price": "32.20",
+        "grams": 0,
+        "compare_at_price": "46.00",
+        "position": 9,
+        "product_id": 7854194163901,
+        "created_at": "2024-08-01T11:38:46+02:00",
+        "updated_at": "2024-11-22T23:16:26+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35220426490045,
+        "created_at": "2024-08-14T09:32:17+02:00",
+        "position": 1,
+        "updated_at": "2024-08-14T09:32:19+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [
+          44414085267645
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5069d2d306fb06c4296888f58ae4042d9a8e6bfd-1200x1200jpg.jpg?v=1723620739",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35220426457277,
+        "created_at": "2024-08-14T09:32:17+02:00",
+        "position": 2,
+        "updated_at": "2024-08-14T09:32:19+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [
+          44414085300413
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c152bc3e7a41c3c7ee0f47e3b0526d6248fa061b-1200x1200jpg.jpg?v=1723620739",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35220426358973,
+        "created_at": "2024-08-14T09:32:17+02:00",
+        "position": 3,
+        "updated_at": "2024-08-14T09:32:19+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [
+          44414085333181
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/bfd077623b0a07a17704fd9437dbb0791a32cc74-1200x1200jpg.jpg?v=1723620739",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35220426326205,
+        "created_at": "2024-08-14T09:32:17+02:00",
+        "position": 4,
+        "updated_at": "2024-08-14T09:32:19+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [
+          44414085365949
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c8a70c31a32c2a1fadca3e36649bfa47cf19390c-1200x1200jpg.jpg?v=1723620739",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35220426424509,
+        "created_at": "2024-08-14T09:32:17+02:00",
+        "position": 5,
+        "updated_at": "2024-08-14T09:32:19+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [
+          44414085398717
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/86dfca2b232a8e8de691ca0817fc47f7c78137df-1200x1200jpg.jpg?v=1723620739",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35220426522813,
+        "created_at": "2024-08-14T09:32:17+02:00",
+        "position": 6,
+        "updated_at": "2024-08-14T09:32:19+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [
+          44414085431485
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9c9283c934d01f7f46902bfdaf0daec0b4fb0276-1200x1200jpg.jpg?v=1723620739",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35220426588349,
+        "created_at": "2024-08-14T09:32:17+02:00",
+        "position": 7,
+        "updated_at": "2024-08-14T09:32:19+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [
+          44414085464253
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6f9441ee83a07d2aa38641cffb5749280aba43c7-1200x1200jpg.jpg?v=1723620739",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71383045996922,
+        "created_at": "2024-10-17T10:40:14+02:00",
+        "position": 8,
+        "updated_at": "2024-10-17T10:40:16+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/00dfe830f934f9cfd595b91f6e63e563b90cd3da-1200x1200jpg.jpg?v=1729154416",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71383045898618,
+        "created_at": "2024-10-17T10:40:14+02:00",
+        "position": 9,
+        "updated_at": "2024-10-17T10:40:15+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9568e5406ad0a75d7bc7ac04327373307b217084-1200x1200jpg.jpg?v=1729154415",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71383045833082,
+        "created_at": "2024-10-17T10:40:14+02:00",
+        "position": 10,
+        "updated_at": "2024-10-17T10:40:15+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [
+          44414085497021,
+          44414085529789
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_f0b53454-db28-4d0a-a420-1f6f6fcf60f9.jpg?v=1729154415",
+        "width": 832,
+        "height": 840
+      },
+      {
+        "id": 71383045964154,
+        "created_at": "2024-10-17T10:40:14+02:00",
+        "position": 11,
+        "updated_at": "2024-10-17T10:40:15+02:00",
+        "product_id": 7854194163901,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e0fd31161a8cc635b7e68c583548a0a1ad78d16e-832x840jpg_48a89633-8265-40a2-80f2-c5f662aa30bc.jpg?v=1729154415",
+        "width": 832,
+        "height": 840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "3,0 mm",
+          "3,5 mm",
+          "4,0 mm",
+          "4,5 mm",
+          "5,0 mm",
+          "5,5 mm",
+          "6,0 mm",
+          "7,0 mm",
+          "8,0 mm"
+        ]
+      }
+    ]
+  }
+]

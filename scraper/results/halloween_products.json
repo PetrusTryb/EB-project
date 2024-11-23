@@ -1,0 +1,215 @@
+[
+  {
+    "id": 7854150418621,
+    "title": "Silly Socks Halloween (Edycja Limitowana)",
+    "handle": "hp-1007361-silly-socks-halloween",
+    "body_html": "<p>Nasza prz\u0119dza <strong>Silly Socks</strong> <strong>Halloween </strong>sk\u0142ada si\u0119 w 75% z we\u0142ny, kt\u00f3ra zapewni stopom przyjemne ciep\u0142o, a w 25% z poliamidu (nylonu) kt\u00f3ry sprawi, \u017ce skarpetki b\u0119d\u0105 trwa\u0142e.</p><p><strong>Silly Socks\u00a0Halloween\u00a0</strong>zosta\u0142a poddana procesowi superwash, kt\u00f3ry umo\u017cliwia pranie wyrob\u00f3w w pralce w temperaturze 30\u00b0C (lub zimne pranie). Z pewno\u015bci\u0105 u\u0142atwi Ci to \u017cycie, gdy b\u0119dziesz musia\u0142(a) wypra\u0107 swoje pi\u0119kne skarpetki. Chocia\u017c jest to klasyczna w\u0142\u00f3czka skarpetkowa, nie musisz ogranicza\u0107 si\u0119 do robienia z niej tylko skarpet. Kardigany dzieci\u0119ce, r\u0119kawiczki, czapki itp. mo\u017cna z \u0142atwo\u015bci\u0105 wykona\u0107 z tej w\u0142\u00f3czki.</p><p>Dost\u0119pne odcienie zosta\u0142y opracowane poprzez po\u0142\u0105czenie \u017cywych z kontrastuj\u0105cymi kolorami, tworz\u0105c bardzo kr\u00f3tkie zmiany kolor\u00f3w. Nie kr\u0119puj si\u0119 bawi\u0107 swoj\u0105 kreatywno\u015bci\u0105 i po\u0142\u0105cz j\u0105 z nasz\u0105 Silly Socks Disco, aby nada\u0107 swoim projektom wygl\u0105d nie z tego \u015bwiata.\n</p><p>Je\u015bli jednak zdecydujesz si\u0119 tylko na wykonanie skarpet, jeden 100 gramowy motek wystarczy, aby zrobi\u0107 part\u0119 skarpet do rozmiaru 40. Dlatego je\u015bli planujesz wi\u0119kszy rozmiar zam\u00f3w 2 motki.</p><p>Czy jeste\u015b gotow_, aby rozpocz\u0105\u0107 szalone akrobacje z <strong>Silly Socks Halloween</strong>? My jeste\u015bmy!</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44413976871101,
+        "title": "Murky Pumpkin (01)",
+        "option1": "Murky Pumpkin (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31251",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35216850190525,
+          "product_id": 7854150418621,
+          "position": 2,
+          "created_at": "2024-08-13T13:40:21+02:00",
+          "updated_at": "2024-08-13T13:40:23+02:00",
+          "alt": "65f5545f83460c6b613c76c4504e097333a6fef5-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65f5545f83460c6b613c76c4504e097333a6fef5-1200x1200jpg.jpg?v=1723549223",
+          "variant_ids": [
+            44413976871101
+          ]
+        },
+        "available": true,
+        "price": "24.08",
+        "grams": 103,
+        "compare_at_price": "56.00",
+        "position": 1,
+        "product_id": 7854150418621,
+        "created_at": "2024-08-01T11:20:36+02:00",
+        "updated_at": "2024-11-22T22:33:01+01:00"
+      },
+      {
+        "id": 44413976903869,
+        "title": "Poisonous (02)",
+        "option1": "Poisonous (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31252",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35216850124989,
+          "product_id": 7854150418621,
+          "position": 3,
+          "created_at": "2024-08-13T13:40:21+02:00",
+          "updated_at": "2024-08-13T13:40:23+02:00",
+          "alt": "3154cc12c380ca0970848a8e618bf706fc9faab8-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3154cc12c380ca0970848a8e618bf706fc9faab8-1200x1200jpg.jpg?v=1723549223",
+          "variant_ids": [
+            44413976903869
+          ]
+        },
+        "available": false,
+        "price": "24.08",
+        "grams": 103,
+        "compare_at_price": "56.00",
+        "position": 2,
+        "product_id": 7854150418621,
+        "created_at": "2024-08-01T11:20:36+02:00",
+        "updated_at": "2024-11-22T22:33:01+01:00"
+      },
+      {
+        "id": 44413976936637,
+        "title": "Wicked Witch (03)",
+        "option1": "Wicked Witch (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31253",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35216850256061,
+          "product_id": 7854150418621,
+          "position": 4,
+          "created_at": "2024-08-13T13:40:21+02:00",
+          "updated_at": "2024-08-13T13:40:23+02:00",
+          "alt": "194fc7dfb0549f8d92ebab193ea2d22471cd65d7-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/194fc7dfb0549f8d92ebab193ea2d22471cd65d7-1200x1200jpg.jpg?v=1723549223",
+          "variant_ids": [
+            44413976936637
+          ]
+        },
+        "available": true,
+        "price": "24.08",
+        "grams": 103,
+        "compare_at_price": "56.00",
+        "position": 3,
+        "product_id": 7854150418621,
+        "created_at": "2024-08-01T11:20:36+02:00",
+        "updated_at": "2024-11-22T22:33:01+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35418185302205,
+        "created_at": "2024-09-24T14:57:20+02:00",
+        "position": 1,
+        "updated_at": "2024-09-24T14:57:22+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4c31ed14de9b119d5d56538ffba4cd6e1a6fb527-1200x1200jpg.jpg?v=1727182642",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35216850190525,
+        "created_at": "2024-08-13T13:40:21+02:00",
+        "position": 2,
+        "updated_at": "2024-08-13T13:40:23+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [
+          44413976871101
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65f5545f83460c6b613c76c4504e097333a6fef5-1200x1200jpg.jpg?v=1723549223",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35216850124989,
+        "created_at": "2024-08-13T13:40:21+02:00",
+        "position": 3,
+        "updated_at": "2024-08-13T13:40:23+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [
+          44413976903869
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3154cc12c380ca0970848a8e618bf706fc9faab8-1200x1200jpg.jpg?v=1723549223",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35216850256061,
+        "created_at": "2024-08-13T13:40:21+02:00",
+        "position": 4,
+        "updated_at": "2024-08-13T13:40:23+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [
+          44413976936637
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/194fc7dfb0549f8d92ebab193ea2d22471cd65d7-1200x1200jpg.jpg?v=1723549223",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35353197314237,
+        "created_at": "2024-09-10T12:31:17+02:00",
+        "position": 5,
+        "updated_at": "2024-09-10T12:31:18+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d06da64912604500ab74f44ebc315f0c871896f9-2700x2700jpg.jpg?v=1725964278",
+        "width": 2700,
+        "height": 2700
+      },
+      {
+        "id": 35418185334973,
+        "created_at": "2024-09-24T14:57:20+02:00",
+        "position": 6,
+        "updated_at": "2024-09-24T14:57:22+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e998cf38629e30c72a52625099fecc7a4a84df32-1200x1200jpg.jpg?v=1727182642",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35418185400509,
+        "created_at": "2024-09-24T14:57:20+02:00",
+        "position": 7,
+        "updated_at": "2024-09-24T14:57:22+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2924bb80428a78771bfbb7bcbe0407e9b85e2373-1200x1200jpg.jpg?v=1727182642",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35418185433277,
+        "created_at": "2024-09-24T14:57:20+02:00",
+        "position": 8,
+        "updated_at": "2024-09-24T14:57:22+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2e80c9e2467836c293eeff48ca8fe6732cade8ad-1200x1200jpg.jpg?v=1727182642",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Murky Pumpkin (01)",
+          "Poisonous (02)",
+          "Wicked Witch (03)"
+        ]
+      }
+    ]
+  }
+]

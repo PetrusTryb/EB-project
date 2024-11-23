@@ -1,0 +1,3693 @@
+[
+  {
+    "id": 7855986802877,
+    "title": "Jupiter w\u0142\u00f3czka na skarpety",
+    "handle": "hp-1003593-sock-yarn-jupiter",
+    "body_html": "<p>Marzy Ci si\u0119 nowy kolor w\u0142\u00f3czki na skarpety dla rodziny? Mayflower mo\u017ce na to co\u015b poradzi\u0107 \u015bwietnymi po\u0142\u0105czeniami kolorystycznymi w serii Universe Jupiter. Prz\u0119dza jest klasyczna, 75% we\u0142ny i 25% nylonu to troch\u0119 dobrego z ka\u017cdego z materia\u0142\u00f3w. Ciekawa w\u0142\u00f3czka dla ca\u0142ej familii, dzierganie z niej nigdy si\u0119 nie nudzi.</p><p>Je\u015bli chcesz zobaczy\u0107 wi\u0119cej kombinacji kolorystycznych, to Mayflower stworzy\u0142o trzy inne kolekcje w serii Universe. Link do nich u g\u00f3ry, nad tekstem.</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2076-311). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420948263101,
+        "title": "Black (01)",
+        "option1": "Black (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "364001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184783655101,
+          "product_id": 7855986802877,
+          "position": 2,
+          "created_at": "2024-08-05T11:35:36+02:00",
+          "updated_at": "2024-08-05T11:35:39+02:00",
+          "alt": "jupiter-01jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-01jpg.jpg?v=1722850539",
+          "variant_ids": [
+            44420948263101
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855986802877,
+        "created_at": "2024-08-05T10:30:45+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420948295869,
+        "title": "Blue (02)",
+        "option1": "Blue (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "364002",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184783458493,
+          "product_id": 7855986802877,
+          "position": 3,
+          "created_at": "2024-08-05T11:35:37+02:00",
+          "updated_at": "2024-08-05T11:35:38+02:00",
+          "alt": "jupiter-02jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-02jpg.jpg?v=1722850538",
+          "variant_ids": [
+            44420948295869
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855986802877,
+        "created_at": "2024-08-05T10:30:45+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420948328637,
+        "title": "Turquoise (03)",
+        "option1": "Turquoise (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "364003",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184783589565,
+          "product_id": 7855986802877,
+          "position": 4,
+          "created_at": "2024-08-05T11:35:37+02:00",
+          "updated_at": "2024-08-05T11:35:38+02:00",
+          "alt": "jupiter-03jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-03jpg.jpg?v=1722850538",
+          "variant_ids": [
+            44420948328637
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855986802877,
+        "created_at": "2024-08-05T10:30:45+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420948361405,
+        "title": "Pink (04)",
+        "option1": "Pink (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "364004",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184783524029,
+          "product_id": 7855986802877,
+          "position": 5,
+          "created_at": "2024-08-05T11:35:37+02:00",
+          "updated_at": "2024-08-05T11:35:38+02:00",
+          "alt": "jupiter-04jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-04jpg.jpg?v=1722850538",
+          "variant_ids": [
+            44420948361405
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855986802877,
+        "created_at": "2024-08-05T10:30:45+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184783720637,
+        "created_at": "2024-08-05T11:35:36+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:35:39+02:00",
+        "product_id": 7855986802877,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-03-frontjpg.jpg?v=1722850539",
+        "width": 1206,
+        "height": 1206
+      },
+      {
+        "id": 35184783655101,
+        "created_at": "2024-08-05T11:35:36+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:35:39+02:00",
+        "product_id": 7855986802877,
+        "variant_ids": [
+          44420948263101
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-01jpg.jpg?v=1722850539",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184783458493,
+        "created_at": "2024-08-05T11:35:37+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:35:38+02:00",
+        "product_id": 7855986802877,
+        "variant_ids": [
+          44420948295869
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-02jpg.jpg?v=1722850538",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184783589565,
+        "created_at": "2024-08-05T11:35:37+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:35:38+02:00",
+        "product_id": 7855986802877,
+        "variant_ids": [
+          44420948328637
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-03jpg.jpg?v=1722850538",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184783524029,
+        "created_at": "2024-08-05T11:35:37+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:35:38+02:00",
+        "product_id": 7855986802877,
+        "variant_ids": [
+          44420948361405
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/jupiter-04jpg.jpg?v=1722850538",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black (01)",
+          "Blue (02)",
+          "Turquoise (03)",
+          "Pink (04)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855947972797,
+    "title": "Alpaca Bris",
+    "handle": "hp-1003276-alpaca-bris",
+    "body_html": "<p>Gdy tylko nasz szef wzi\u0105\u0142 do r\u0119ki ten niezwykle mi\u0119kki i niewiele wa\u017c\u0105cy motek, jego twarz rozja\u015bni\u0142 u\u015bmiech.</p><p>Oj tak, mia\u0142 racj\u0119 gdy p\u00f3\u017aniej stwierdzi\u0142, \u017ce w\u0142\u00f3czka jest lekka i mi\u0119kka niczym ob\u0142oczek. Czy Twoje dziecko albo wnuczek potrzebuj\u0105 nowej bluzy, druga po\u0142\u00f3wka domaga si\u0119 swetra, a Tobie marzy si\u0119 szal? Albo po prostu brakuje Ci du\u017cego koca do okrycia si\u0119 pod wiecz\u00f3r? Zrobienie tych wszystkich rzeczy z w\u0142\u00f3czki <strong>Alpaca Bris</strong> b\u0119dzie przyjemno\u015bci\u0105.</p><p>W\u0142\u00f3czka, dzi\u0119ki temu \u017ce nie uprz\u0119dziono jej zbyt \u015bci\u015ble, jest gruba, ale jednocze\u015bnie ma\u0142o wa\u017cy. Wykonany z niej sweter m\u0119ski b\u0119dzie lekki. Alpak\u0119 Bris przerabiamy na drutach o grubo\u015bci 6 - 7 mm, przez co nawet du\u017ce projekty powstaj\u0105 w mgnieniu oka. Na 10 cm rob\u00f3tki potrzeba jedynie 15 oczek.</p><p>Gdy tylko rozpoczniesz prac\u0119 z Alpak\u0105 Bris to od razu odczujesz zadowolenie - to czysta (i mi\u0119kka) przyjemno\u015b\u0107.</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420762894525,
+        "title": "White (300)",
+        "option1": "White (300)",
+        "option2": null,
+        "option3": null,
+        "sku": "25300-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592085181,
+          "product_id": 7855947972797,
+          "position": 2,
+          "created_at": "2024-09-04T12:52:54+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "989df058d90acb018aa7630bdf0bd3fe5e845779-800x800jpg",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/989df058d90acb018aa7630bdf0bd3fe5e845779-800x800jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420762894525
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 1,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420762927293,
+        "title": "Natural White (302)",
+        "option1": "Natural White (302)",
+        "option2": null,
+        "option3": null,
+        "sku": "25302-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328591921341,
+          "product_id": 7855947972797,
+          "position": 3,
+          "created_at": "2024-09-04T12:52:54+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "24fcf86a5deef723094f976211f210005d23a6bb-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/24fcf86a5deef723094f976211f210005d23a6bb-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420762927293
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 2,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420762960061,
+        "title": "Sand (306)",
+        "option1": "Sand (306)",
+        "option2": null,
+        "option3": null,
+        "sku": "25306-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592019645,
+          "product_id": 7855947972797,
+          "position": 4,
+          "created_at": "2024-09-04T12:52:54+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "1325cb2d5f4fc235b815b912c357f37ec7e40999-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1325cb2d5f4fc235b815b912c357f37ec7e40999-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420762960061
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 3,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420762992829,
+        "title": "Beige (307)",
+        "option1": "Beige (307)",
+        "option2": null,
+        "option3": null,
+        "sku": "25307-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592052413,
+          "product_id": 7855947972797,
+          "position": 5,
+          "created_at": "2024-09-04T12:52:54+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "9b5c3c3319711c301d53c2fc0cda99daa9459fdb-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9b5c3c3319711c301d53c2fc0cda99daa9459fdb-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420762992829
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 4,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763025597,
+        "title": "Brown (308)",
+        "option1": "Brown (308)",
+        "option2": null,
+        "option3": null,
+        "sku": "25308-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592314557,
+          "product_id": 7855947972797,
+          "position": 6,
+          "created_at": "2024-09-04T12:52:54+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "d99dcf81f9487c3216d287f0f5b1a9e40c96d117-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d99dcf81f9487c3216d287f0f5b1a9e40c96d117-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763025597
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 5,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763058365,
+        "title": "Pearl Grey (312)",
+        "option1": "Pearl Grey (312)",
+        "option2": null,
+        "option3": null,
+        "sku": "25312-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592216253,
+          "product_id": 7855947972797,
+          "position": 7,
+          "created_at": "2024-09-04T12:52:54+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "307a889f328c8645b0e3041a6137bd21204eabbf-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/307a889f328c8645b0e3041a6137bd21204eabbf-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763058365
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 6,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763091133,
+        "title": "Bright Grey (313)",
+        "option1": "Bright Grey (313)",
+        "option2": null,
+        "option3": null,
+        "sku": "25313-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592150717,
+          "product_id": 7855947972797,
+          "position": 8,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "b4d7812a783febf9a879afde64ce9c9ef5fc3a3d-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b4d7812a783febf9a879afde64ce9c9ef5fc3a3d-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763091133
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 7,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763123901,
+        "title": "Grey (315)",
+        "option1": "Grey (315)",
+        "option2": null,
+        "option3": null,
+        "sku": "25315-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328591954109,
+          "product_id": 7855947972797,
+          "position": 9,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "2ca404c2a53a5fe222efe49092fff2f3e034a77f-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2ca404c2a53a5fe222efe49092fff2f3e034a77f-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763123901
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 8,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763156669,
+        "title": "Anthracite (317)",
+        "option1": "Anthracite (317)",
+        "option2": null,
+        "option3": null,
+        "sku": "25317-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592249021,
+          "product_id": 7855947972797,
+          "position": 10,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "ebda68a048861bf439d29e822beba3c125b4b5f8-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ebda68a048861bf439d29e822beba3c125b4b5f8-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763156669
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 9,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763189437,
+        "title": "Bright Blue (320)",
+        "option1": "Bright Blue (320)",
+        "option2": null,
+        "option3": null,
+        "sku": "25320-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592478397,
+          "product_id": 7855947972797,
+          "position": 11,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "6358617822c106d361b67bab39fb0f96f25a7927-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6358617822c106d361b67bab39fb0f96f25a7927-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763189437
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 10,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763222205,
+        "title": "Blue (323)",
+        "option1": "Blue (323)",
+        "option2": null,
+        "option3": null,
+        "sku": "25323-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592183485,
+          "product_id": 7855947972797,
+          "position": 12,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "f3841d7a4e8010011a5349cf7926403df16a10e9-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f3841d7a4e8010011a5349cf7926403df16a10e9-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763222205
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 11,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763254973,
+        "title": "Jeans Blue (327)",
+        "option1": "Jeans Blue (327)",
+        "option2": null,
+        "option3": null,
+        "sku": "25327-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592445629,
+          "product_id": 7855947972797,
+          "position": 13,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "85f658276e7f46a0a68da153b730ebd9d961b21c-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/85f658276e7f46a0a68da153b730ebd9d961b21c-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763254973
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 12,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763287741,
+        "title": "Turquoise (329)",
+        "option1": "Turquoise (329)",
+        "option2": null,
+        "option3": null,
+        "sku": "25329-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592380093,
+          "product_id": 7855947972797,
+          "position": 14,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "5ceda855728d56b083a32ed3d0f2f093827c4f5d-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5ceda855728d56b083a32ed3d0f2f093827c4f5d-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763287741
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 13,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763320509,
+        "title": "Lime Green (333)",
+        "option1": "Lime Green (333)",
+        "option2": null,
+        "option3": null,
+        "sku": "25333-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592642237,
+          "product_id": 7855947972797,
+          "position": 15,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "f4ddc6743f32b84b06da25c35a0c654a2736f88b-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f4ddc6743f32b84b06da25c35a0c654a2736f88b-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763320509
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 14,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763353277,
+        "title": "Green (335)",
+        "option1": "Green (335)",
+        "option2": null,
+        "option3": null,
+        "sku": "25335-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592281789,
+          "product_id": 7855947972797,
+          "position": 16,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "4b5c0e027be3fa93a8d0ffa66dd2b1ba4e5f94dd-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4b5c0e027be3fa93a8d0ffa66dd2b1ba4e5f94dd-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763353277
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 15,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763386045,
+        "title": "Bright Yellow (340)",
+        "option1": "Bright Yellow (340)",
+        "option2": null,
+        "option3": null,
+        "sku": "25340-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592609469,
+          "product_id": 7855947972797,
+          "position": 17,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "3ed6ce86993a38814974f752e2e8bfc32d2bc4bf-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3ed6ce86993a38814974f752e2e8bfc32d2bc4bf-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763386045
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 16,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763418813,
+        "title": "Ochre (345)",
+        "option1": "Ochre (345)",
+        "option2": null,
+        "option3": null,
+        "sku": "25345-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592543933,
+          "product_id": 7855947972797,
+          "position": 18,
+          "created_at": "2024-09-04T12:52:55+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "40aa3ce094b7d4fda10e3b0321e6400ef3178416-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/40aa3ce094b7d4fda10e3b0321e6400ef3178416-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763418813
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 17,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763451581,
+        "title": "Orange (351)",
+        "option1": "Orange (351)",
+        "option2": null,
+        "option3": null,
+        "sku": "25351-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592117949,
+          "product_id": 7855947972797,
+          "position": 19,
+          "created_at": "2024-09-04T12:52:56+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "10323497e3e8de7233f2136da8ce85819d484b68-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/10323497e3e8de7233f2136da8ce85819d484b68-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763451581
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 18,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763484349,
+        "title": "Burgundy (354)",
+        "option1": "Burgundy (354)",
+        "option2": null,
+        "option3": null,
+        "sku": "25354-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592511165,
+          "product_id": 7855947972797,
+          "position": 20,
+          "created_at": "2024-09-04T12:52:56+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "e1774624d9c654e79a8a1bec1d478eda054e4528-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e1774624d9c654e79a8a1bec1d478eda054e4528-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763484349
+          ]
+        },
+        "available": false,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 19,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763517117,
+        "title": "Apricot (359)",
+        "option1": "Apricot (359)",
+        "option2": null,
+        "option3": null,
+        "sku": "25359-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592576701,
+          "product_id": 7855947972797,
+          "position": 21,
+          "created_at": "2024-09-04T12:52:56+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "1d2d4bb55b5a2c45030b00ee3f8dc5e17aaef577-800x800jpg",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1d2d4bb55b5a2c45030b00ee3f8dc5e17aaef577-800x800jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763517117
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 20,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763549885,
+        "title": "Red (360)",
+        "option1": "Red (360)",
+        "option2": null,
+        "option3": null,
+        "sku": "25360-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592412861,
+          "product_id": 7855947972797,
+          "position": 22,
+          "created_at": "2024-09-04T12:52:56+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "517eff96c8285a7d7c27222ba87770cae0054df1-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/517eff96c8285a7d7c27222ba87770cae0054df1-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763549885
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 21,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763582653,
+        "title": "Rose (361)",
+        "option1": "Rose (361)",
+        "option2": null,
+        "option3": null,
+        "sku": "25361-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328592347325,
+          "product_id": 7855947972797,
+          "position": 23,
+          "created_at": "2024-09-04T12:52:56+02:00",
+          "updated_at": "2024-09-04T12:52:58+02:00",
+          "alt": "372676e6b423f1dc24358ad5520fb95506a3fa22-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/372676e6b423f1dc24358ad5520fb95506a3fa22-690x690jpg.jpg?v=1725447178",
+          "variant_ids": [
+            44420763582653
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 22,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763615421,
+        "title": "Powder Pink (363)",
+        "option1": "Powder Pink (363)",
+        "option2": null,
+        "option3": null,
+        "sku": "25363-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594247869,
+          "product_id": 7855947972797,
+          "position": 24,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "99578c3c4aab9c33c3fb5660736b5da78a4ce525-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/99578c3c4aab9c33c3fb5660736b5da78a4ce525-690x690jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763615421
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 23,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763648189,
+        "title": "Light Rose (364)",
+        "option1": "Light Rose (364)",
+        "option2": null,
+        "option3": null,
+        "sku": "25364-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594182333,
+          "product_id": 7855947972797,
+          "position": 25,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "331358c50568753f2183f28ec87c253e480bcc9c-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/331358c50568753f2183f28ec87c253e480bcc9c-690x690jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763648189
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 24,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763680957,
+        "title": "Bright Purple (367)",
+        "option1": "Bright Purple (367)",
+        "option2": null,
+        "option3": null,
+        "sku": "25367-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594116797,
+          "product_id": 7855947972797,
+          "position": 26,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "9583d26e4e6573e4cb8fe187f3f55c36355ac71f-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9583d26e4e6573e4cb8fe187f3f55c36355ac71f-690x690jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763680957
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 25,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763713725,
+        "title": "Purple (369)",
+        "option1": "Purple (369)",
+        "option2": null,
+        "option3": null,
+        "sku": "25369-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594051261,
+          "product_id": 7855947972797,
+          "position": 27,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "482acc09728c4256df06237c7965c791afb5d163-690x690jpg",
+          "width": 690,
+          "height": 690,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/482acc09728c4256df06237c7965c791afb5d163-690x690jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763713725
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 26,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763746493,
+        "title": "Bright Jeans Blue (326)",
+        "option1": "Bright Jeans Blue (326)",
+        "option2": null,
+        "option3": null,
+        "sku": "25326-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594280637,
+          "product_id": 7855947972797,
+          "position": 28,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "ac56307ebaeef41ab634160eb01649a5553816b0-3000x3000jpg",
+          "width": 3000,
+          "height": 3000,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac56307ebaeef41ab634160eb01649a5553816b0-3000x3000jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763746493
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 27,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763779261,
+        "title": "Camel (311)",
+        "option1": "Camel (311)",
+        "option2": null,
+        "option3": null,
+        "sku": "25311-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594313405,
+          "product_id": 7855947972797,
+          "position": 29,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "66a60b81860787560c74591e7c00ce950ba1c2ef-800x800jpg",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/66a60b81860787560c74591e7c00ce950ba1c2ef-800x800jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763779261
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 28,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763812029,
+        "title": "Light Turquoise (328)",
+        "option1": "Light Turquoise (328)",
+        "option2": null,
+        "option3": null,
+        "sku": "25328-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594149565,
+          "product_id": 7855947972797,
+          "position": 30,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "74cc1100369918f37086b24c1672cc4829437b36-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/74cc1100369918f37086b24c1672cc4829437b36-1200x1200jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763812029
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 29,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763844797,
+        "title": "Grass Green (337)",
+        "option1": "Grass Green (337)",
+        "option2": null,
+        "option3": null,
+        "sku": "25337-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594018493,
+          "product_id": 7855947972797,
+          "position": 31,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "f0c4ed50314f5a3f92f4aa2a676e06f0b411cf17-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f0c4ed50314f5a3f92f4aa2a676e06f0b411cf17-1200x1200jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763844797
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 30,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763877565,
+        "title": "Yellow (344)",
+        "option1": "Yellow (344)",
+        "option2": null,
+        "option3": null,
+        "sku": "25344-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594215101,
+          "product_id": 7855947972797,
+          "position": 32,
+          "created_at": "2024-09-04T12:53:32+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "7166cf91f964040ed8ca234917446791d23a52b3-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7166cf91f964040ed8ca234917446791d23a52b3-1200x1200jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763877565
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 31,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763910333,
+        "title": "Cerise (362)",
+        "option1": "Cerise (362)",
+        "option2": null,
+        "option3": null,
+        "sku": "25362-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328594084029,
+          "product_id": 7855947972797,
+          "position": 33,
+          "created_at": "2024-09-04T12:53:33+02:00",
+          "updated_at": "2024-09-04T12:53:34+02:00",
+          "alt": "96ccbcac3ecab18c22e7b0bb5e71cf0275a02a7e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/96ccbcac3ecab18c22e7b0bb5e71cf0275a02a7e-1200x1200jpg.jpg?v=1725447214",
+          "variant_ids": [
+            44420763910333
+          ]
+        },
+        "available": false,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 32,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420763943101,
+        "title": "Pumpkin (371)",
+        "option1": "Pumpkin (371)",
+        "option2": null,
+        "option3": null,
+        "sku": "25371-viking",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35328603455677,
+          "product_id": 7855947972797,
+          "position": 34,
+          "created_at": "2024-09-04T12:59:29+02:00",
+          "updated_at": "2024-09-04T12:59:30+02:00",
+          "alt": "0c3a6d7f9ad08279bf208dc51e5109a97d4339c3-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0c3a6d7f9ad08279bf208dc51e5109a97d4339c3-1200x1200jpg.jpg?v=1725447570",
+          "variant_ids": [
+            44420763943101
+          ]
+        },
+        "available": true,
+        "price": "39.20",
+        "grams": 52,
+        "compare_at_price": "49.00",
+        "position": 33,
+        "product_id": 7855947972797,
+        "created_at": "2024-08-05T10:26:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35328591986877,
+        "created_at": "2024-09-04T12:52:54+02:00",
+        "position": 1,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4278042f234b8844a16354dcc320e5abecae84b8-790x790jpg.jpg?v=1725447178",
+        "width": 790,
+        "height": 790
+      },
+      {
+        "id": 35328592085181,
+        "created_at": "2024-09-04T12:52:54+02:00",
+        "position": 2,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420762894525
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/989df058d90acb018aa7630bdf0bd3fe5e845779-800x800jpg.jpg?v=1725447178",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35328591921341,
+        "created_at": "2024-09-04T12:52:54+02:00",
+        "position": 3,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420762927293
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/24fcf86a5deef723094f976211f210005d23a6bb-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592019645,
+        "created_at": "2024-09-04T12:52:54+02:00",
+        "position": 4,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420762960061
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1325cb2d5f4fc235b815b912c357f37ec7e40999-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592052413,
+        "created_at": "2024-09-04T12:52:54+02:00",
+        "position": 5,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420762992829
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9b5c3c3319711c301d53c2fc0cda99daa9459fdb-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592314557,
+        "created_at": "2024-09-04T12:52:54+02:00",
+        "position": 6,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763025597
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d99dcf81f9487c3216d287f0f5b1a9e40c96d117-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592216253,
+        "created_at": "2024-09-04T12:52:54+02:00",
+        "position": 7,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763058365
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/307a889f328c8645b0e3041a6137bd21204eabbf-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592150717,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 8,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763091133
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b4d7812a783febf9a879afde64ce9c9ef5fc3a3d-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328591954109,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 9,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763123901
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2ca404c2a53a5fe222efe49092fff2f3e034a77f-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592249021,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 10,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763156669
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ebda68a048861bf439d29e822beba3c125b4b5f8-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592478397,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 11,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763189437
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6358617822c106d361b67bab39fb0f96f25a7927-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592183485,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 12,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763222205
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f3841d7a4e8010011a5349cf7926403df16a10e9-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592445629,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 13,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763254973
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/85f658276e7f46a0a68da153b730ebd9d961b21c-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592380093,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 14,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763287741
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5ceda855728d56b083a32ed3d0f2f093827c4f5d-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592642237,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 15,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763320509
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f4ddc6743f32b84b06da25c35a0c654a2736f88b-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592281789,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 16,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763353277
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4b5c0e027be3fa93a8d0ffa66dd2b1ba4e5f94dd-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592609469,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 17,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763386045
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3ed6ce86993a38814974f752e2e8bfc32d2bc4bf-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592543933,
+        "created_at": "2024-09-04T12:52:55+02:00",
+        "position": 18,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763418813
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/40aa3ce094b7d4fda10e3b0321e6400ef3178416-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592117949,
+        "created_at": "2024-09-04T12:52:56+02:00",
+        "position": 19,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763451581
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/10323497e3e8de7233f2136da8ce85819d484b68-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592511165,
+        "created_at": "2024-09-04T12:52:56+02:00",
+        "position": 20,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763484349
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e1774624d9c654e79a8a1bec1d478eda054e4528-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592576701,
+        "created_at": "2024-09-04T12:52:56+02:00",
+        "position": 21,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763517117
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1d2d4bb55b5a2c45030b00ee3f8dc5e17aaef577-800x800jpg.jpg?v=1725447178",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35328592412861,
+        "created_at": "2024-09-04T12:52:56+02:00",
+        "position": 22,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763549885
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/517eff96c8285a7d7c27222ba87770cae0054df1-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328592347325,
+        "created_at": "2024-09-04T12:52:56+02:00",
+        "position": 23,
+        "updated_at": "2024-09-04T12:52:58+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763582653
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/372676e6b423f1dc24358ad5520fb95506a3fa22-690x690jpg.jpg?v=1725447178",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328594247869,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 24,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763615421
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/99578c3c4aab9c33c3fb5660736b5da78a4ce525-690x690jpg.jpg?v=1725447214",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328594182333,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 25,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763648189
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/331358c50568753f2183f28ec87c253e480bcc9c-690x690jpg.jpg?v=1725447214",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328594116797,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 26,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763680957
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9583d26e4e6573e4cb8fe187f3f55c36355ac71f-690x690jpg.jpg?v=1725447214",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328594051261,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 27,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763713725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/482acc09728c4256df06237c7965c791afb5d163-690x690jpg.jpg?v=1725447214",
+        "width": 690,
+        "height": 690
+      },
+      {
+        "id": 35328594280637,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 28,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763746493
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac56307ebaeef41ab634160eb01649a5553816b0-3000x3000jpg.jpg?v=1725447214",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "id": 35328594313405,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 29,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763779261
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/66a60b81860787560c74591e7c00ce950ba1c2ef-800x800jpg.jpg?v=1725447214",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35328594149565,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 30,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763812029
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/74cc1100369918f37086b24c1672cc4829437b36-1200x1200jpg.jpg?v=1725447214",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35328594018493,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 31,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763844797
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f0c4ed50314f5a3f92f4aa2a676e06f0b411cf17-1200x1200jpg.jpg?v=1725447214",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35328594215101,
+        "created_at": "2024-09-04T12:53:32+02:00",
+        "position": 32,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763877565
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7166cf91f964040ed8ca234917446791d23a52b3-1200x1200jpg.jpg?v=1725447214",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35328594084029,
+        "created_at": "2024-09-04T12:53:33+02:00",
+        "position": 33,
+        "updated_at": "2024-09-04T12:53:34+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763910333
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/96ccbcac3ecab18c22e7b0bb5e71cf0275a02a7e-1200x1200jpg.jpg?v=1725447214",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35328603455677,
+        "created_at": "2024-09-04T12:59:29+02:00",
+        "position": 34,
+        "updated_at": "2024-09-04T12:59:30+02:00",
+        "product_id": 7855947972797,
+        "variant_ids": [
+          44420763943101
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0c3a6d7f9ad08279bf208dc51e5109a97d4339c3-1200x1200jpg.jpg?v=1725447570",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "White (300)",
+          "Natural White (302)",
+          "Sand (306)",
+          "Beige (307)",
+          "Brown (308)",
+          "Pearl Grey (312)",
+          "Bright Grey (313)",
+          "Grey (315)",
+          "Anthracite (317)",
+          "Bright Blue (320)",
+          "Blue (323)",
+          "Jeans Blue (327)",
+          "Turquoise (329)",
+          "Lime Green (333)",
+          "Green (335)",
+          "Bright Yellow (340)",
+          "Ochre (345)",
+          "Orange (351)",
+          "Burgundy (354)",
+          "Apricot (359)",
+          "Red (360)",
+          "Rose (361)",
+          "Powder Pink (363)",
+          "Light Rose (364)",
+          "Bright Purple (367)",
+          "Purple (369)",
+          "Bright Jeans Blue (326)",
+          "Camel (311)",
+          "Light Turquoise (328)",
+          "Grass Green (337)",
+          "Yellow (344)",
+          "Cerise (362)",
+          "Pumpkin (371)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855986147517,
+    "title": "Multi Popkorn",
+    "handle": "hp-1007688-multi-popkorn",
+    "body_html": "<p><strong>Multi Popkorn</strong> to puszysta w\u0142\u00f3czka firmy Dale, kt\u00f3ra sk\u0142ada si\u0119 z jednokolorowej nitki wzbogaconej wielobarwnym &quot;popcornem&quot; tworz\u0105cym zabawny i figlarny efekt. Mo\u017cna jej u\u017cywa\u0107 samodzielnie, jak r\u00f3wnie\u017c podwoi\u0107 lub po\u0142\u0105czy\u0107 z inn\u0105 w\u0142\u00f3czk\u0105, aby wzmocni\u0107 jej tekstur\u0119.</p><p>Paleta kolor\u00f3w sk\u0142ada si\u0119 z pasteli i delikatnych odcieni, kt\u00f3re wraz z kolorowymi plamkami nadaj\u0105 tej w\u0142\u00f3czce lekko vintage&#039;owego wygl\u0105du.\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420945346749,
+        "title": "White (501)",
+        "option1": "White (501)",
+        "option2": null,
+        "option3": null,
+        "sku": "219-501",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217382932669,
+          "product_id": 7855986147517,
+          "position": 2,
+          "created_at": "2024-08-13T15:28:38+02:00",
+          "updated_at": "2024-08-13T15:28:40+02:00",
+          "alt": "282afca088b24e872990442ca684d2da5fa55f60-3307x3307jpg",
+          "width": 3307,
+          "height": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/282afca088b24e872990442ca684d2da5fa55f60-3307x3307jpg.jpg?v=1723555720",
+          "variant_ids": [
+            44420945346749
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855986147517,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420945379517,
+        "title": "Nature (502)",
+        "option1": "Nature (502)",
+        "option2": null,
+        "option3": null,
+        "sku": "219-502",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217383030973,
+          "product_id": 7855986147517,
+          "position": 3,
+          "created_at": "2024-08-13T15:28:38+02:00",
+          "updated_at": "2024-08-13T15:28:40+02:00",
+          "alt": "ffa9ff5bd98c1ac2ea77c89018b2d68edcd4d5f9-3307x3307jpg",
+          "width": 3307,
+          "height": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffa9ff5bd98c1ac2ea77c89018b2d68edcd4d5f9-3307x3307jpg.jpg?v=1723555720",
+          "variant_ids": [
+            44420945379517
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855986147517,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420945412285,
+        "title": "Powder Rose (503)",
+        "option1": "Powder Rose (503)",
+        "option2": null,
+        "option3": null,
+        "sku": "219-503",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217383063741,
+          "product_id": 7855986147517,
+          "position": 4,
+          "created_at": "2024-08-13T15:28:38+02:00",
+          "updated_at": "2024-08-13T15:28:40+02:00",
+          "alt": "b3fe5c1fb3cc7f00eddebdf7e4e0c04110258cd8-3307x3307jpg",
+          "width": 3307,
+          "height": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b3fe5c1fb3cc7f00eddebdf7e4e0c04110258cd8-3307x3307jpg.jpg?v=1723555720",
+          "variant_ids": [
+            44420945412285
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855986147517,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420945445053,
+        "title": "Light Rose (504)",
+        "option1": "Light Rose (504)",
+        "option2": null,
+        "option3": null,
+        "sku": "219-504",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217382998205,
+          "product_id": 7855986147517,
+          "position": 5,
+          "created_at": "2024-08-13T15:28:38+02:00",
+          "updated_at": "2024-08-13T15:28:40+02:00",
+          "alt": "e6bdd0c3db970a5f50da6110c85ba35983c5b829-3307x3307jpg",
+          "width": 3307,
+          "height": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e6bdd0c3db970a5f50da6110c85ba35983c5b829-3307x3307jpg.jpg?v=1723555720",
+          "variant_ids": [
+            44420945445053
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855986147517,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420945477821,
+        "title": "Rose (505)",
+        "option1": "Rose (505)",
+        "option2": null,
+        "option3": null,
+        "sku": "219-505",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217383096509,
+          "product_id": 7855986147517,
+          "position": 6,
+          "created_at": "2024-08-13T15:28:38+02:00",
+          "updated_at": "2024-08-13T15:28:40+02:00",
+          "alt": "7155ca5e22f29960afabd13d7c75a6576b09d66b-3307x3307jpg",
+          "width": 3307,
+          "height": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7155ca5e22f29960afabd13d7c75a6576b09d66b-3307x3307jpg.jpg?v=1723555720",
+          "variant_ids": [
+            44420945477821
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855986147517,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420945510589,
+        "title": "Light Blue (506)",
+        "option1": "Light Blue (506)",
+        "option2": null,
+        "option3": null,
+        "sku": "219-506",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217382965437,
+          "product_id": 7855986147517,
+          "position": 7,
+          "created_at": "2024-08-13T15:28:38+02:00",
+          "updated_at": "2024-08-13T15:28:40+02:00",
+          "alt": "9958cbe7f09c6272c603b33d6782ccc9fd5f70df-3307x3307jpg",
+          "width": 3307,
+          "height": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9958cbe7f09c6272c603b33d6782ccc9fd5f70df-3307x3307jpg.jpg?v=1723555720",
+          "variant_ids": [
+            44420945510589
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7855986147517,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420945543357,
+        "title": "Light Turquoise (507)",
+        "option1": "Light Turquoise (507)",
+        "option2": null,
+        "option3": null,
+        "sku": "219-507",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35217383129277,
+          "product_id": 7855986147517,
+          "position": 8,
+          "created_at": "2024-08-13T15:28:38+02:00",
+          "updated_at": "2024-08-13T15:28:40+02:00",
+          "alt": "d4fe36fba9f69c27d78a3543bff59328fc7fe8db-3307x3307jpg",
+          "width": 3307,
+          "height": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d4fe36fba9f69c27d78a3543bff59328fc7fe8db-3307x3307jpg.jpg?v=1723555720",
+          "variant_ids": [
+            44420945543357
+          ]
+        },
+        "available": true,
+        "price": "26.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7855986147517,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35217382899901,
+        "created_at": "2024-08-13T15:28:37+02:00",
+        "position": 1,
+        "updated_at": "2024-08-13T15:28:40+02:00",
+        "product_id": 7855986147517,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0e9acb8bd4069c9a8d4e4672aae96f72657b1156-1200x1200jpg.jpg?v=1723555720",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35217382932669,
+        "created_at": "2024-08-13T15:28:38+02:00",
+        "position": 2,
+        "updated_at": "2024-08-13T15:28:40+02:00",
+        "product_id": 7855986147517,
+        "variant_ids": [
+          44420945346749
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/282afca088b24e872990442ca684d2da5fa55f60-3307x3307jpg.jpg?v=1723555720",
+        "width": 3307,
+        "height": 3307
+      },
+      {
+        "id": 35217383030973,
+        "created_at": "2024-08-13T15:28:38+02:00",
+        "position": 3,
+        "updated_at": "2024-08-13T15:28:40+02:00",
+        "product_id": 7855986147517,
+        "variant_ids": [
+          44420945379517
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ffa9ff5bd98c1ac2ea77c89018b2d68edcd4d5f9-3307x3307jpg.jpg?v=1723555720",
+        "width": 3307,
+        "height": 3307
+      },
+      {
+        "id": 35217383063741,
+        "created_at": "2024-08-13T15:28:38+02:00",
+        "position": 4,
+        "updated_at": "2024-08-13T15:28:40+02:00",
+        "product_id": 7855986147517,
+        "variant_ids": [
+          44420945412285
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b3fe5c1fb3cc7f00eddebdf7e4e0c04110258cd8-3307x3307jpg.jpg?v=1723555720",
+        "width": 3307,
+        "height": 3307
+      },
+      {
+        "id": 35217382998205,
+        "created_at": "2024-08-13T15:28:38+02:00",
+        "position": 5,
+        "updated_at": "2024-08-13T15:28:40+02:00",
+        "product_id": 7855986147517,
+        "variant_ids": [
+          44420945445053
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e6bdd0c3db970a5f50da6110c85ba35983c5b829-3307x3307jpg.jpg?v=1723555720",
+        "width": 3307,
+        "height": 3307
+      },
+      {
+        "id": 35217383096509,
+        "created_at": "2024-08-13T15:28:38+02:00",
+        "position": 6,
+        "updated_at": "2024-08-13T15:28:40+02:00",
+        "product_id": 7855986147517,
+        "variant_ids": [
+          44420945477821
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7155ca5e22f29960afabd13d7c75a6576b09d66b-3307x3307jpg.jpg?v=1723555720",
+        "width": 3307,
+        "height": 3307
+      },
+      {
+        "id": 35217382965437,
+        "created_at": "2024-08-13T15:28:38+02:00",
+        "position": 7,
+        "updated_at": "2024-08-13T15:28:40+02:00",
+        "product_id": 7855986147517,
+        "variant_ids": [
+          44420945510589
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9958cbe7f09c6272c603b33d6782ccc9fd5f70df-3307x3307jpg.jpg?v=1723555720",
+        "width": 3307,
+        "height": 3307
+      },
+      {
+        "id": 35217383129277,
+        "created_at": "2024-08-13T15:28:38+02:00",
+        "position": 8,
+        "updated_at": "2024-08-13T15:28:40+02:00",
+        "product_id": 7855986147517,
+        "variant_ids": [
+          44420945543357
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d4fe36fba9f69c27d78a3543bff59328fc7fe8db-3307x3307jpg.jpg?v=1723555720",
+        "width": 3307,
+        "height": 3307
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "White (501)",
+          "Nature (502)",
+          "Powder Rose (503)",
+          "Light Rose (504)",
+          "Rose (505)",
+          "Light Blue (506)",
+          "Light Turquoise (507)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855995584701,
+    "title": "Curly",
+    "handle": "hp-1002697-curly",
+    "body_html": "<p><strong>Curly </strong>to lekka i mi\u0119kka w\u0142\u00f3czka z efektem owczych lok\u00f3w.</p><p>Stworzona zosta\u0142a zar\u00f3wno do projekt\u00f3w z drutami jak i z szyde\u0142kiem. Mo\u017cesz z tej prz\u0119dzy wykona\u0107 odzie\u017c, poduszki, kocyki, misie itp. Mo\u017cliwo\u015bci jest niesko\u0144czono\u015b\u0107!</p><p>Uwielbiamy wykonywa\u0107 owieczki i lalki z tej w\u0142\u00f3czki - efekt jest naprawd\u0119 uroczy!</p><p>O wysokiej jako\u015bci materia\u0142u \u015bwiadczy m.in. certyfikat AZO, kt\u00f3ry przyznawany jest wy\u0142\u0105cznie materia\u0142om, kt\u00f3re nie zawieraj\u0105 barwnik\u00f3w azowych - dzi\u0119ki temu mo\u017cesz by\u0107 pewna, \u017ce materia\u0142 b\u0119dzie bezpieczny dla ka\u017cdego.</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420993188029,
+        "title": "Beige (17640)",
+        "option1": "Beige (17640)",
+        "option2": null,
+        "option3": null,
+        "sku": "17640",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184914858173,
+          "product_id": 7855995584701,
+          "position": 4,
+          "created_at": "2024-08-05T11:46:03+02:00",
+          "updated_at": "2024-08-05T11:46:05+02:00",
+          "alt": "17640-curly-beige-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17640-curly-beige-1200x1200pxjpg.jpg?v=1722851165",
+          "variant_ids": [
+            44420993188029
+          ]
+        },
+        "available": true,
+        "price": "18.96",
+        "grams": 52,
+        "compare_at_price": "24.00",
+        "position": 1,
+        "product_id": 7855995584701,
+        "created_at": "2024-08-05T10:31:47+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420993220797,
+        "title": "Grey Brown (17641)",
+        "option1": "Grey Brown (17641)",
+        "option2": null,
+        "option3": null,
+        "sku": "17641",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184915087549,
+          "product_id": 7855995584701,
+          "position": 5,
+          "created_at": "2024-08-05T11:46:03+02:00",
+          "updated_at": "2024-08-05T11:46:05+02:00",
+          "alt": "17641-curly-grey-brown-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17641-curly-grey-brown-1200x1200pxjpg.jpg?v=1722851165",
+          "variant_ids": [
+            44420993220797
+          ]
+        },
+        "available": true,
+        "price": "18.96",
+        "grams": 52,
+        "compare_at_price": "24.00",
+        "position": 2,
+        "product_id": 7855995584701,
+        "created_at": "2024-08-05T10:31:47+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420993253565,
+        "title": "Light Grey (17642)",
+        "option1": "Light Grey (17642)",
+        "option2": null,
+        "option3": null,
+        "sku": "17642",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184914792637,
+          "product_id": 7855995584701,
+          "position": 6,
+          "created_at": "2024-08-05T11:46:03+02:00",
+          "updated_at": "2024-08-05T11:46:05+02:00",
+          "alt": "17642-curly-light-grey-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17642-curly-light-grey-1200x1200pxjpg.jpg?v=1722851165",
+          "variant_ids": [
+            44420993253565
+          ]
+        },
+        "available": true,
+        "price": "18.96",
+        "grams": 52,
+        "compare_at_price": "24.00",
+        "position": 3,
+        "product_id": 7855995584701,
+        "created_at": "2024-08-05T10:31:47+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420993286333,
+        "title": "Grey (17643)",
+        "option1": "Grey (17643)",
+        "option2": null,
+        "option3": null,
+        "sku": "17643",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184915054781,
+          "product_id": 7855995584701,
+          "position": 7,
+          "created_at": "2024-08-05T11:46:03+02:00",
+          "updated_at": "2024-08-05T11:46:05+02:00",
+          "alt": "17643-curly-grey-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17643-curly-grey-1200x1200pxjpg.jpg?v=1722851165",
+          "variant_ids": [
+            44420993286333
+          ]
+        },
+        "available": true,
+        "price": "18.96",
+        "grams": 52,
+        "compare_at_price": "24.00",
+        "position": 4,
+        "product_id": 7855995584701,
+        "created_at": "2024-08-05T10:31:47+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420993319101,
+        "title": "Dark Grey (17644)",
+        "option1": "Dark Grey (17644)",
+        "option2": null,
+        "option3": null,
+        "sku": "17644",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184914956477,
+          "product_id": 7855995584701,
+          "position": 8,
+          "created_at": "2024-08-05T11:46:03+02:00",
+          "updated_at": "2024-08-05T11:46:05+02:00",
+          "alt": "17644-curly-dark-grey-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17644-curly-dark-grey-1200x1200pxjpg.jpg?v=1722851165",
+          "variant_ids": [
+            44420993319101
+          ]
+        },
+        "available": true,
+        "price": "18.96",
+        "grams": 52,
+        "compare_at_price": "24.00",
+        "position": 5,
+        "product_id": 7855995584701,
+        "created_at": "2024-08-05T10:31:47+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420993351869,
+        "title": "Black (17645)",
+        "option1": "Black (17645)",
+        "option2": null,
+        "option3": null,
+        "sku": "17645",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184914989245,
+          "product_id": 7855995584701,
+          "position": 9,
+          "created_at": "2024-08-05T11:46:03+02:00",
+          "updated_at": "2024-08-05T11:46:05+02:00",
+          "alt": "17645-curly-black-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17645-curly-black-1200x1200pxjpg.jpg?v=1722851165",
+          "variant_ids": [
+            44420993351869
+          ]
+        },
+        "available": true,
+        "price": "18.96",
+        "grams": 52,
+        "compare_at_price": "24.00",
+        "position": 6,
+        "product_id": 7855995584701,
+        "created_at": "2024-08-05T10:31:47+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420993384637,
+        "title": "Lavender (17646)",
+        "option1": "Lavender (17646)",
+        "option2": null,
+        "option3": null,
+        "sku": "17646",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184914923709,
+          "product_id": 7855995584701,
+          "position": 10,
+          "created_at": "2024-08-05T11:46:03+02:00",
+          "updated_at": "2024-08-05T11:46:05+02:00",
+          "alt": "1553513194-17646-curly-lavender-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1553513194-17646-curly-lavender-1200x1200pxjpg.jpg?v=1722851165",
+          "variant_ids": [
+            44420993384637
+          ]
+        },
+        "available": true,
+        "price": "18.96",
+        "grams": 52,
+        "compare_at_price": "24.00",
+        "position": 7,
+        "product_id": 7855995584701,
+        "created_at": "2024-08-05T10:31:47+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420993417405,
+        "title": "Nude (17647)",
+        "option1": "Nude (17647)",
+        "option2": null,
+        "option3": null,
+        "sku": "17647",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184914759869,
+          "product_id": 7855995584701,
+          "position": 11,
+          "created_at": "2024-08-05T11:46:03+02:00",
+          "updated_at": "2024-08-05T11:46:05+02:00",
+          "alt": "17647-curly-nude-1200x1200pxjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17647-curly-nude-1200x1200pxjpg.jpg?v=1722851165",
+          "variant_ids": [
+            44420993417405
+          ]
+        },
+        "available": true,
+        "price": "18.96",
+        "grams": 52,
+        "compare_at_price": "24.00",
+        "position": 8,
+        "product_id": 7855995584701,
+        "created_at": "2024-08-05T10:31:47+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184914694333,
+        "created_at": "2024-08-05T11:46:02+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-0515-1200x1200jpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184915022013,
+        "created_at": "2024-08-05T11:46:02+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-0512-1200x1200jpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184914890941,
+        "created_at": "2024-08-05T11:46:02+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-0511-1200x1200jpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184914858173,
+        "created_at": "2024-08-05T11:46:03+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [
+          44420993188029
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17640-curly-beige-1200x1200pxjpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184915087549,
+        "created_at": "2024-08-05T11:46:03+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [
+          44420993220797
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17641-curly-grey-brown-1200x1200pxjpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184914792637,
+        "created_at": "2024-08-05T11:46:03+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [
+          44420993253565
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17642-curly-light-grey-1200x1200pxjpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184915054781,
+        "created_at": "2024-08-05T11:46:03+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [
+          44420993286333
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17643-curly-grey-1200x1200pxjpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184914956477,
+        "created_at": "2024-08-05T11:46:03+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [
+          44420993319101
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17644-curly-dark-grey-1200x1200pxjpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184914989245,
+        "created_at": "2024-08-05T11:46:03+02:00",
+        "position": 9,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [
+          44420993351869
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17645-curly-black-1200x1200pxjpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184914923709,
+        "created_at": "2024-08-05T11:46:03+02:00",
+        "position": 10,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [
+          44420993384637
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1553513194-17646-curly-lavender-1200x1200pxjpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184914759869,
+        "created_at": "2024-08-05T11:46:03+02:00",
+        "position": 11,
+        "updated_at": "2024-08-05T11:46:05+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [
+          44420993417405
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/17647-curly-nude-1200x1200pxjpg.jpg?v=1722851165",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35253250457789,
+        "created_at": "2024-08-20T10:35:16+02:00",
+        "position": 12,
+        "updated_at": "2024-08-20T10:35:17+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/curly-frontjpg.jpg?v=1724142917",
+        "width": 787,
+        "height": 787
+      },
+      {
+        "id": 71415983604090,
+        "created_at": "2024-10-23T17:52:48+02:00",
+        "position": 13,
+        "updated_at": "2024-10-23T17:52:50+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/455fd7385b96fe469cad632a3600ed7c.jpg?v=1729698770",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415983571322,
+        "created_at": "2024-10-23T17:52:49+02:00",
+        "position": 14,
+        "updated_at": "2024-10-23T17:52:50+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/954d96fab376959697b5dfc351590806.jpg?v=1729698770",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415983538554,
+        "created_at": "2024-10-23T17:52:49+02:00",
+        "position": 15,
+        "updated_at": "2024-10-23T17:52:50+02:00",
+        "product_id": 7855995584701,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e6c1a8d3699f692fcc6c81ce5decf259.jpg?v=1729698770",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Beige (17640)",
+          "Grey Brown (17641)",
+          "Light Grey (17642)",
+          "Grey (17643)",
+          "Dark Grey (17644)",
+          "Black (17645)",
+          "Lavender (17646)",
+          "Nude (17647)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855991980221,
+    "title": "Baby Alpaca",
+    "handle": "hp-1004380-baby-alpaca",
+    "body_html": "<p>Mayflower <strong>Baby Alpaca</strong> to wyj\u0105tkowo wspania\u0142ej jako\u015bci prz\u0119dza, w sk\u0142ad kt\u00f3rej wchodzi 60 % alpaki i 40 % nylonu. Alpaka z nylonem zapewniaj\u0105 wszechstronn\u0105 jako\u015b\u0107 prz\u0119dzy, kt\u00f3ra mo\u017ce by\u0107 u\u017cywana do wielu r\u00f3\u017cnych rodzaj\u00f3w projekt\u00f3w dziewiarskich i szyde\u0142kowych. Alpaka jest jednym z najbardziej poszukiwanych w\u0142\u00f3kien, i nie jest to przypadek.</p><p>Wiadomo, \u017ce w\u0142\u00f3kna alpaki s\u0105 wyj\u0105tkowo ciep\u0142e i mi\u0119kkie. Ponadto d\u0142ugie w\u0142\u00f3kna alpaki zapewniaj\u0105 wyj\u0105tkow\u0105 wytrzyma\u0142o\u015b\u0107 prz\u0119dzy. W Mayflower<strong> Baby Alpaca </strong>trwa\u0142o\u015b\u0107 jest dodatkowo wzmocniona przez zawarto\u015b\u0107 nylonu. Mayflower <strong>Baby Alpaca</strong> mo\u017ce by\u0107 u\u017cywana do wszelkiego rodzaju odzie\u017cy - w tym na szale, czapki i inne akcesoria. Wykonane wyroby pi\u0119knie si\u0119 uk\u0142adaj\u0105, a tym samym s\u0105 niepowtarzalnie mi\u0119kkie i wygodne. Mayflower<strong> Baby Alpaca </strong>posiada szerok\u0105 gam\u0119 kolor\u00f3w, dzi\u0119ki czemu z \u0142atwo\u015bci\u0105 znajdziesz ulubiony kolor do nast\u0119pnego projektu dziewiarskiego.</p><p>Kolory maj\u0105 \u0142adn\u0105 g\u0142\u0119bi\u0119 co daje wyj\u0105tkowo pi\u0119kny efekt ko\u0144cowy. Mayflower <strong>Baby Alpak\u0119 </strong>nale\u017cy pra\u0107 r\u0119cznie i nie wolno jej wirowa\u0107. Ubrania z Alpaki najlepiej po prostu \u201cwietrzy\u0107\u201d, a nie pra\u0107. Mayflower <strong>Baby Alpaca</strong> sk\u0142ada si\u0119 w 60 % z alpaki i w 40 % z nylonu i ma d\u0142ugo\u015b\u0107 100 metr\u00f3w na ka\u017cde 50 gram\u00f3w. Aby uzyska\u0107 najlepszy efekt zaleca si\u0119 korzystanie z drut\u00f3w o grubo\u015bci 3\u00bd. Pr\u00f3bka/Napr\u0119\u017cenie nici to 23 oczka x 31 rz\u0119dy = 10 x 10 centymetr\u00f3w.</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420975165629,
+        "title": "Pale Mauve (01)",
+        "option1": "Pale Mauve (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "46001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975198397,
+        "title": "Branded Apricot (02)",
+        "option1": "Branded Apricot (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "46002",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975231165,
+        "title": "Nostalgia Rose (03)",
+        "option1": "Nostalgia Rose (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "46003",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975263933,
+        "title": "Raspberry (04)",
+        "option1": "Raspberry (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "46004",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975296701,
+        "title": "Boysenberry (05)",
+        "option1": "Boysenberry (05)",
+        "option2": null,
+        "option3": null,
+        "sku": "46005",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975329469,
+        "title": "Coral Quartz (06)",
+        "option1": "Coral Quartz (06)",
+        "option2": null,
+        "option3": null,
+        "sku": "46006",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975362237,
+        "title": "Goji Berry Red (07)",
+        "option1": "Goji Berry Red (07)",
+        "option2": null,
+        "option3": null,
+        "sku": "46007",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975395005,
+        "title": "Sun-Dried Tomato (08)",
+        "option1": "Sun-Dried Tomato (08)",
+        "option2": null,
+        "option3": null,
+        "sku": "46008",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 8,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975427773,
+        "title": "Teal (09)",
+        "option1": "Teal (09)",
+        "option2": null,
+        "option3": null,
+        "sku": "46009",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 9,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975460541,
+        "title": "Blue Coral (10)",
+        "option1": "Blue Coral (10)",
+        "option2": null,
+        "option3": null,
+        "sku": "46010",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 10,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975493309,
+        "title": "Gold Fusion (11)",
+        "option1": "Gold Fusion (11)",
+        "option2": null,
+        "option3": null,
+        "sku": "46011",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 11,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975526077,
+        "title": "Orangeade (12)",
+        "option1": "Orangeade (12)",
+        "option2": null,
+        "option3": null,
+        "sku": "46012",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 12,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975558845,
+        "title": "Golden Yellow (13)",
+        "option1": "Golden Yellow (13)",
+        "option2": null,
+        "option3": null,
+        "sku": "46013",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 13,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975591613,
+        "title": "Yellow Jasmine (14)",
+        "option1": "Yellow Jasmine (14)",
+        "option2": null,
+        "option3": null,
+        "sku": "46014",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 14,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975624381,
+        "title": "Gold Flake (15)",
+        "option1": "Gold Flake (15)",
+        "option2": null,
+        "option3": null,
+        "sku": "46015",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 15,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975657149,
+        "title": "Pesto (16)",
+        "option1": "Pesto (16)",
+        "option2": null,
+        "option3": null,
+        "sku": "46016",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 16,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975689917,
+        "title": "Scarab Black (17)",
+        "option1": "Scarab Black (17)",
+        "option2": null,
+        "option3": null,
+        "sku": "46017",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 17,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975722685,
+        "title": "Mistletoe (18)",
+        "option1": "Mistletoe (18)",
+        "option2": null,
+        "option3": null,
+        "sku": "46018",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 18,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975755453,
+        "title": "Forest Biome (19)",
+        "option1": "Forest Biome (19)",
+        "option2": null,
+        "option3": null,
+        "sku": "46019",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 19,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975788221,
+        "title": "Subdued Blue (20)",
+        "option1": "Subdued Blue (20)",
+        "option2": null,
+        "option3": null,
+        "sku": "46020",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 20,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975820989,
+        "title": "Quiet Harbor (21)",
+        "option1": "Quiet Harbor (21)",
+        "option2": null,
+        "option3": null,
+        "sku": "46021",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 21,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975853757,
+        "title": "Big Dipper (22)",
+        "option1": "Big Dipper (22)",
+        "option2": null,
+        "option3": null,
+        "sku": "46022",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 22,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975886525,
+        "title": "Bright White (23)",
+        "option1": "Bright White (23)",
+        "option2": null,
+        "option3": null,
+        "sku": "46023",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 23,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975919293,
+        "title": "Vanilla (24)",
+        "option1": "Vanilla (24)",
+        "option2": null,
+        "option3": null,
+        "sku": "46024",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 24,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975952061,
+        "title": "Oxford Tan (25)",
+        "option1": "Oxford Tan (25)",
+        "option2": null,
+        "option3": null,
+        "sku": "46025",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 25,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420975984829,
+        "title": "Beaver Fur (26)",
+        "option1": "Beaver Fur (26)",
+        "option2": null,
+        "option3": null,
+        "sku": "46026",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 26,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420976017597,
+        "title": "Chocolate Lab (27)",
+        "option1": "Chocolate Lab (27)",
+        "option2": null,
+        "option3": null,
+        "sku": "46027",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 27,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420976050365,
+        "title": "Wind Chime (28)",
+        "option1": "Wind Chime (28)",
+        "option2": null,
+        "option3": null,
+        "sku": "46028",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 28,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420976083133,
+        "title": "Flint Gray (29)",
+        "option1": "Flint Gray (29)",
+        "option2": null,
+        "option3": null,
+        "sku": "46029",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 29,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420976115901,
+        "title": "Dark Gull Gray (30)",
+        "option1": "Dark Gull Gray (30)",
+        "option2": null,
+        "option3": null,
+        "sku": "46030",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 30,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420976148669,
+        "title": "Nine Iron (31)",
+        "option1": "Nine Iron (31)",
+        "option2": null,
+        "option3": null,
+        "sku": "46031",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 31,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420976181437,
+        "title": "Blue Print (32)",
+        "option1": "Blue Print (32)",
+        "option2": null,
+        "option3": null,
+        "sku": "46032",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 32,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44420976214205,
+        "title": "Black Onyx (33)",
+        "option1": "Black Onyx (33)",
+        "option2": null,
+        "option3": null,
+        "sku": "46033",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "35.00",
+        "grams": 53,
+        "compare_at_price": "0.00",
+        "position": 33,
+        "product_id": 7855991980221,
+        "created_at": "2024-08-05T10:31:24+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      }
+    ],
+    "images": [],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Pale Mauve (01)",
+          "Branded Apricot (02)",
+          "Nostalgia Rose (03)",
+          "Raspberry (04)",
+          "Boysenberry (05)",
+          "Coral Quartz (06)",
+          "Goji Berry Red (07)",
+          "Sun-Dried Tomato (08)",
+          "Teal (09)",
+          "Blue Coral (10)",
+          "Gold Fusion (11)",
+          "Orangeade (12)",
+          "Golden Yellow (13)",
+          "Yellow Jasmine (14)",
+          "Gold Flake (15)",
+          "Pesto (16)",
+          "Scarab Black (17)",
+          "Mistletoe (18)",
+          "Forest Biome (19)",
+          "Subdued Blue (20)",
+          "Quiet Harbor (21)",
+          "Big Dipper (22)",
+          "Bright White (23)",
+          "Vanilla (24)",
+          "Oxford Tan (25)",
+          "Beaver Fur (26)",
+          "Chocolate Lab (27)",
+          "Wind Chime (28)",
+          "Flint Gray (29)",
+          "Dark Gull Gray (30)",
+          "Nine Iron (31)",
+          "Blue Print (32)",
+          "Black Onyx (33)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855998501053,
+    "title": "Venus w\u0142\u00f3czka na skarpety",
+    "handle": "hp-1003596-sock-yarn-venus",
+    "body_html": "<p>Marzy Ci si\u0119 nowy kolor w\u0142\u00f3czki na skarpety dla rodziny? Mayflower mo\u017ce na to co\u015b poradzi\u0107 \u015bwietnymi po\u0142\u0105czeniami kolorystycznymi w serii Universe Venus. Prz\u0119dza jest klasyczna, 75% we\u0142ny i 25% nylonu to troch\u0119 dobrego z ka\u017cdego z materia\u0142\u00f3w. Ciekawa w\u0142\u00f3czka dla ca\u0142ej familii, dzierganie z niej nigdy si\u0119 nie nudzi.</p><p>Je\u015bli chcesz zobaczy\u0107 wi\u0119cej kombinacji kolorystycznych, to Mayflower stworzy\u0142o trzy inne kolekcje w serii Universe. Link do nich u g\u00f3ry, nad tekstem.</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2076-311). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421006360765,
+        "title": "Red Mix (01)",
+        "option1": "Red Mix (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "366001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184917512381,
+          "product_id": 7855998501053,
+          "position": 2,
+          "created_at": "2024-08-05T11:46:24+02:00",
+          "updated_at": "2024-08-05T11:46:26+02:00",
+          "alt": "venus-01jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-01jpg.jpg?v=1722851186",
+          "variant_ids": [
+            44421006360765
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855998501053,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44421006393533,
+        "title": "Multi Mix (03)",
+        "option1": "Multi Mix (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "366003",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184917381309,
+          "product_id": 7855998501053,
+          "position": 3,
+          "created_at": "2024-08-05T11:46:24+02:00",
+          "updated_at": "2024-08-05T11:46:25+02:00",
+          "alt": "venus-03jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-03jpg.jpg?v=1722851185",
+          "variant_ids": [
+            44421006393533
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855998501053,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44421006426301,
+        "title": "Blue Mix (04)",
+        "option1": "Blue Mix (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "366004",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184917577917,
+          "product_id": 7855998501053,
+          "position": 4,
+          "created_at": "2024-08-05T11:46:24+02:00",
+          "updated_at": "2024-08-05T11:46:26+02:00",
+          "alt": "venus-04jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-04jpg.jpg?v=1722851186",
+          "variant_ids": [
+            44421006426301
+          ]
+        },
+        "available": false,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855998501053,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44421006459069,
+        "title": "Pink Mix (02)",
+        "option1": "Pink Mix (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "366002",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184917315773,
+          "product_id": 7855998501053,
+          "position": 5,
+          "created_at": "2024-08-05T11:46:24+02:00",
+          "updated_at": "2024-08-05T11:46:25+02:00",
+          "alt": "venus-02jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-02jpg.jpg?v=1722851185",
+          "variant_ids": [
+            44421006459069
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855998501053,
+        "created_at": "2024-08-05T10:32:08+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184917479613,
+        "created_at": "2024-08-05T11:46:24+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:46:25+02:00",
+        "product_id": 7855998501053,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-2jpg.jpg?v=1722851185",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35184917512381,
+        "created_at": "2024-08-05T11:46:24+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:46:26+02:00",
+        "product_id": 7855998501053,
+        "variant_ids": [
+          44421006360765
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-01jpg.jpg?v=1722851186",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184917381309,
+        "created_at": "2024-08-05T11:46:24+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:46:25+02:00",
+        "product_id": 7855998501053,
+        "variant_ids": [
+          44421006393533
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-03jpg.jpg?v=1722851185",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184917577917,
+        "created_at": "2024-08-05T11:46:24+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:46:26+02:00",
+        "product_id": 7855998501053,
+        "variant_ids": [
+          44421006426301
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-04jpg.jpg?v=1722851186",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184917315773,
+        "created_at": "2024-08-05T11:46:24+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:46:25+02:00",
+        "product_id": 7855998501053,
+        "variant_ids": [
+          44421006459069
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/venus-02jpg.jpg?v=1722851185",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Red Mix (01)",
+          "Multi Mix (03)",
+          "Blue Mix (04)",
+          "Pink Mix (02)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856008069309,
+    "title": "Mars w\u0142\u00f3czka na skarpety",
+    "handle": "hp-1003594-sock-yarn-mars",
+    "body_html": "<p>Marzy Ci si\u0119 nowy kolor w\u0142\u00f3czki na skarpety dla rodziny? Mayflower mo\u017ce na to co\u015b poradzi\u0107 \u015bwietnymi po\u0142\u0105czeniami kolorystycznymi w serii Universe Mars. Prz\u0119dza jest klasyczna, 75% we\u0142ny i 25% nylonu to troch\u0119 dobrego z ka\u017cdego z materia\u0142\u00f3w. Ciekawa w\u0142\u00f3czka dla ca\u0142ej familii, dzierganie z niej nigdy si\u0119 nie nudzi.</p><p>Je\u015bli chcesz zobaczy\u0107 wi\u0119cej kombinacji kolorystycznych, to Mayflower stworzy\u0142o trzy inne kolekcje w serii Universe. Link do nich u g\u00f3ry, nad tekstem.</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2076-311). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421048664253,
+        "title": "Green (01)",
+        "option1": "Green (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "363001",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185001234621,
+          "product_id": 7856008069309,
+          "position": 2,
+          "created_at": "2024-08-05T11:53:37+02:00",
+          "updated_at": "2024-08-05T11:53:39+02:00",
+          "alt": "mars-01jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-01jpg.jpg?v=1722851619",
+          "variant_ids": [
+            44421048664253
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856008069309,
+        "created_at": "2024-08-05T10:33:18+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44421048697021,
+        "title": "Orange (02)",
+        "option1": "Orange (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "363002",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185001201853,
+          "product_id": 7856008069309,
+          "position": 3,
+          "created_at": "2024-08-05T11:53:37+02:00",
+          "updated_at": "2024-08-05T11:53:39+02:00",
+          "alt": "mars-02jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-02jpg.jpg?v=1722851619",
+          "variant_ids": [
+            44421048697021
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856008069309,
+        "created_at": "2024-08-05T10:33:18+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44421048729789,
+        "title": "Beige (03)",
+        "option1": "Beige (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "363003",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185001267389,
+          "product_id": 7856008069309,
+          "position": 4,
+          "created_at": "2024-08-05T11:53:37+02:00",
+          "updated_at": "2024-08-05T11:53:39+02:00",
+          "alt": "mars-03jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-03jpg.jpg?v=1722851619",
+          "variant_ids": [
+            44421048729789
+          ]
+        },
+        "available": false,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7856008069309,
+        "created_at": "2024-08-05T10:33:18+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      },
+      {
+        "id": 44421048762557,
+        "title": "Pink (04)",
+        "option1": "Pink (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "363004",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185001136317,
+          "product_id": 7856008069309,
+          "position": 5,
+          "created_at": "2024-08-05T11:53:38+02:00",
+          "updated_at": "2024-08-05T11:53:39+02:00",
+          "alt": "mars-04jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-04jpg.jpg?v=1722851619",
+          "variant_ids": [
+            44421048762557
+          ]
+        },
+        "available": true,
+        "price": "20.00",
+        "grams": 55,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7856008069309,
+        "created_at": "2024-08-05T10:33:18+02:00",
+        "updated_at": "2024-11-22T22:52:09+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185001169085,
+        "created_at": "2024-08-05T11:53:37+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:53:39+02:00",
+        "product_id": 7856008069309,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-03-frontjpg.jpg?v=1722851619",
+        "width": 1252,
+        "height": 1252
+      },
+      {
+        "id": 35185001234621,
+        "created_at": "2024-08-05T11:53:37+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:53:39+02:00",
+        "product_id": 7856008069309,
+        "variant_ids": [
+          44421048664253
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-01jpg.jpg?v=1722851619",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185001201853,
+        "created_at": "2024-08-05T11:53:37+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:53:39+02:00",
+        "product_id": 7856008069309,
+        "variant_ids": [
+          44421048697021
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-02jpg.jpg?v=1722851619",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185001267389,
+        "created_at": "2024-08-05T11:53:37+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:53:39+02:00",
+        "product_id": 7856008069309,
+        "variant_ids": [
+          44421048729789
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-03jpg.jpg?v=1722851619",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185001136317,
+        "created_at": "2024-08-05T11:53:38+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:53:39+02:00",
+        "product_id": 7856008069309,
+        "variant_ids": [
+          44421048762557
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/mars-04jpg.jpg?v=1722851619",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Green (01)",
+          "Orange (02)",
+          "Beige (03)",
+          "Pink (04)"
+        ]
+      }
+    ]
+  }
+]

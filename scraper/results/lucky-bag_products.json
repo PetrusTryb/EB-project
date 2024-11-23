@@ -1,0 +1,104 @@
+[
+  {
+    "id": 7855948234941,
+    "title": "Zestaw Niespodzianka - We\u0142na - 500 g",
+    "handle": "hp-1002924-lucky-bag-with-wool-500-g",
+    "body_html": "<p>Czy lubisz emocje zwi\u0105zane z otrzymaniem zestawu niespodzianki, kt\u00f3ry zawiera 500 gram\u00f3w mieszanej prz\u0119dzy we\u0142nianej? Sk\u0142ad w\u0142\u00f3czek mo\u017ce r\u00f3wnie\u017c by\u0107 mieszany. Kolory, marki i wielko\u015bci motk\u00f3w s\u0105 ca\u0142kowicie losowo wybierane. W torbie mo\u017ce znajdowa\u0107 si\u0119 wiele r\u00f3\u017cnych motk\u00f3w, ale mo\u017ce si\u0119 zdarzy\u0107, \u017ce dostaniesz 500 g dok\u0142adnie tej samej w\u0142\u00f3czki. Jedyne co b\u0119dziesz wiedzie\u0107 o zestawie, to fakt, \u017ce b\u0119dzie mia\u0142 500 g wspania\u0142ej w\u0142\u00f3czki, zawieraj\u0105cej we\u0142n\u0119. Ilo\u015b\u0107 we\u0142ny mo\u017ce waha\u0107 si\u0119 od 50% do 100%. Odwa\u017cysz si\u0119 spontanicznie zam\u00f3wi\u0107 taki zestaw niespodziank\u0119 i da\u0107 si\u0119 zaskoczy\u0107 przy jego odpakowaniu?</p><p>Powodzenia z Twoim zestawem niespodziank\u0105!</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420764631229,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "lykkepose-uld-500g",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "139.00",
+        "grams": 510,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855948234941,
+        "created_at": "2024-08-05T10:26:09+02:00",
+        "updated_at": "2024-11-22T23:45:52+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 71415829725562,
+        "created_at": "2024-10-23T17:37:26+02:00",
+        "position": 1,
+        "updated_at": "2024-10-23T17:37:28+02:00",
+        "product_id": 7855948234941,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/131488b5d5964de41822c632645cefe2.jpg?v=1729697848",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14750162059642,
+    "title": "Lucky Bag Mega - 1,2 kg",
+    "handle": "hp-1008374-lucky-bag-mega-1-2-kg-42-3-oz",
+    "body_html": "<p>Mamy dla Was mega niespodziank\u0119! Nasze \u015bwietne zestawy s\u0105 idealne dla ka\u017cdego, kto lubi niespodzianki, a ta jest du\u017ca! Lucky Bag Mega zawiera 1,2 kg akrylowych mega motk\u00f3w, kt\u00f3re pozwol\u0105 Ci od razu zanurzy\u0107 si\u0119 w robieniu na drutach lub szyde\u0142kowaniu. Ogromne motki zapewniaj\u0105 sp\u00f3jno\u015b\u0107 kolor\u00f3w i ominie Ci\u0119 wrabianie wielu ko\u0144c\u00f3wek. Ponadto w\u0142\u00f3czk\u0119 mo\u017cna pra\u0107 w pralce, co u\u0142atwia piel\u0119gnacj\u0119, dzi\u0119ki czemu jest niezb\u0119dnym elementem r\u0119kodzie\u0142a. Nie chcemy zdradza\u0107 zbyt wiele, ale wa\u017cne jest r\u00f3wnie\u017c, aby wspomnie\u0107, \u017ce Twoja torba niespodzianka mo\u017ce zawiera\u0107 wiele motk\u00f3w jednego koloru lub r\u00f3\u017cnych kolor\u00f3w.\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 51817338667386,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "luckybag_mega",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "118.00",
+        "grams": 1203,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 14750162059642,
+        "created_at": "2024-10-29T10:42:31+01:00",
+        "updated_at": "2024-11-22T23:45:52+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 71795504906618,
+        "created_at": "2024-10-29T12:21:32+01:00",
+        "position": 1,
+        "updated_at": "2024-10-29T12:21:34+01:00",
+        "product_id": 14750162059642,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6f827cd89d94d638320764e751480575.jpg?v=1730200894",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  }
+]

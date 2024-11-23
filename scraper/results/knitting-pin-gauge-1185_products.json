@@ -1,0 +1,804 @@
+[
+  {
+    "id": 7856007479485,
+    "title": "Miernik rozmiar\u00f3w drut\u00f3w",
+    "handle": "hp-1001507-needle-sizer-2-10-mm",
+    "body_html": "<p>Ten miernik to bardzo pomocny gad\u017cet, dzi\u0119ki kt\u00f3remu szybko sprawdzisz w jakim rozmiarze jest dany drut. Zmierzy on druty o grubo\u015bciach 2-10 mm. Miernik jest prostok\u0105tny a jego d\u0142u\u017cszy bok ma linijk\u0119 na 14 cm, kt\u00f3rej mo\u017cesz u\u017cy\u0107 do zmierzenia oczek czy rz\u0119d\u00f3w.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421048074429,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0316/YL-361",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "2.46",
+        "grams": 10,
+        "compare_at_price": "8.20",
+        "position": 1,
+        "product_id": 7856007479485,
+        "created_at": "2024-08-05T10:33:13+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185007263933,
+        "created_at": "2024-08-05T11:54:10+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:54:11+02:00",
+        "product_id": 7856007479485,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1521641022-strikkepindemaaler-2jpg.jpg?v=1722851651",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185007132861,
+        "created_at": "2024-08-05T11:54:10+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:54:11+02:00",
+        "product_id": 7856007479485,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1515146406-strikkepindemaaler1jpg.jpg?v=1722851651",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855991455933,
+    "title": "Miernik rozmiaru szyde\u0142ek i drut\u00f3w - Okr\u0105g\u0142y",
+    "handle": "hp-1000305-strikkepindemaler-rund-rahvid",
+    "body_html": "<p>Przedstawiamy praktyczny gad\u017cet od KnitPro: teraz z \u0142atwo\u015bci\u0105 sprawdzisz rozmiar drut\u00f3w/szyde\u0142ek oraz wielko\u015bci oczek Twojej rob\u00f3tki.\n</p><p>Okr\u0105g\u0142y kszta\u0142t miernika jest bardzo kompaktowy, \u0142atwy do przechowywania i do zabrania ze sob\u0105 w drog\u0119.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420970873021,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "10991",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "19.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855991455933,
+        "created_at": "2024-08-05T10:31:19+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35393950286013,
+        "created_at": "2024-09-20T12:41:39+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T12:41:41+02:00",
+        "product_id": 7855991455933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dff57a1862125585fc6acdf4710db46235387002-700x700png.png?v=1726828901",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35393950318781,
+        "created_at": "2024-09-20T12:41:39+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T12:41:41+02:00",
+        "product_id": 7855991455933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c306645b7109825be67fd246010e505d7fc93f21-800x800jpg.jpg?v=1726828901",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35393950253245,
+        "created_at": "2024-09-20T12:41:39+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T12:41:41+02:00",
+        "product_id": 7855991455933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e4e8940e091315ba146dd7a3d368f84e28b086d0-800x800jpg.jpg?v=1726828901",
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856002695357,
+    "title": "Miernik rozmiaru szyde\u0142ek",
+    "handle": "hp-1003955-crochet-gauge-ruler-1003955",
+    "body_html": "<p>Miernik rozmiaru szyde\u0142ek od Hobbii jest idealny do sprawdzenia rozmiaru Twojego szyde\u0142ka. Wszyscy to znamy, \u017ce rozmiary szyde\u0142ek bardzo szybko si\u0119 zacieraj\u0105 i aby znale\u017a\u0107 w\u0142a\u015bciwy rozmiar szyde\u0142ka mo\u017ce nam by\u0107 potrzebny miernik. Z jednej strony mo\u017cesz zmierzy\u0107 szyde\u0142ka od 2,0 - 8,0 mm. Z drugiej strony znajdziesz jednostki US, kt\u00f3re mierz\u0105 szyde\u0142ka od B - L/11.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421023858877,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0376",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "15.08",
+        "grams": 15,
+        "compare_at_price": "29.00",
+        "position": 1,
+        "product_id": 7856002695357,
+        "created_at": "2024-08-05T10:32:40+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184961945789,
+        "created_at": "2024-08-05T11:49:40+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:49:41+02:00",
+        "product_id": 7856002695357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-6263-1200x1200pxjpg.jpg?v=1722851381",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184962240701,
+        "created_at": "2024-08-05T11:49:40+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:49:41+02:00",
+        "product_id": 7856002695357,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-6260-1200x1200pxjpg.jpg?v=1722851381",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855987491005,
+    "title": "Ramka do liczenia \u015bcieg\u00f3w z miernikiem grubo\u015bci drut\u00f3w",
+    "handle": "hp-1004042-counting-frame-for-gauge-with-needle-measure",
+    "body_html": "<p>Czy ju\u017c znasz t\u0119 ramk\u0119 od Addis? Jest to niezwykle pomocny gad\u017cet, kt\u00f3ry przyda si\u0119 gdy b\u0119dzie trzeba policzy\u0107 ilo\u015b\u0107 \u015bcieg\u00f3w lub sprawdzi\u0107 grubo\u015b\u0107 drut\u00f3w. Otrzymujesz wi\u0119c 2 w 1 :)</p><p>Miernik zmierzy druty o grubo\u015bciach od 2-10 mm.</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420950458557,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "8004-0000",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "36.00",
+        "grams": 13,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855987491005,
+        "created_at": "2024-08-05T10:30:49+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35393486913725,
+        "created_at": "2024-09-20T11:42:25+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T11:42:27+02:00",
+        "product_id": 7855987491005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e422d51b4bead67c8197556cb8016c720d396337-700x700jpg.jpg?v=1726825347",
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 35393486880957,
+        "created_at": "2024-09-20T11:42:25+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T11:42:27+02:00",
+        "product_id": 7855987491005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/96908de5886c48819d090235e7211ec5d73e96b0-1079x1000jpg.jpg?v=1726825347",
+        "width": 1079,
+        "height": 1000
+      },
+      {
+        "id": 35393486848189,
+        "created_at": "2024-09-20T11:42:25+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T11:42:27+02:00",
+        "product_id": 7855987491005,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9b1582ec6abddcf85c9e83def2f7ff1192fe5ddb-2000x2000jpg.jpg?v=1726825347",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855947481277,
+    "title": "Miernik rozmiaru szyde\u0142ek i drut\u00f3w",
+    "handle": "hp-1002423-crochet-hooks-knitting-needles-gauge",
+    "body_html": "<p>Przedstawiamy praktyczny gad\u017cet od KnitPro: teraz z \u0142atwo\u015bci\u0105 sprawdzisz rozmiar drut\u00f3w/szyde\u0142ek oraz wielko\u015bci oczek Twojej rob\u00f3tki.\n</p><p>Dodatkowo, ten s\u0142odki s\u0142onik wyposa\u017cony jest w ostrze, kt\u00f3rym mo\u017cesz przeci\u0105\u0107 w\u0142\u00f3czk\u0119 - praktyczne, ale lepiej schowaj gad\u017cet tak aby dzieci nie mia\u0142y do niego dost\u0119pu.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420761616573,
+        "title": "Rosa",
+        "option1": "Rosa",
+        "option2": null,
+        "option3": null,
+        "sku": "10994",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393965981885,
+          "product_id": 7855947481277,
+          "position": 6,
+          "created_at": "2024-09-20T12:44:52+02:00",
+          "updated_at": "2024-09-20T12:44:54+02:00",
+          "alt": "19e8af0855673e0a0c1d8851cd209681c348346c-1020x1020jpg",
+          "width": 1020,
+          "height": 1020,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/19e8af0855673e0a0c1d8851cd209681c348346c-1020x1020jpg.jpg?v=1726829094",
+          "variant_ids": [
+            44420761616573
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 21,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855947481277,
+        "created_at": "2024-08-05T10:26:04+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      },
+      {
+        "id": 44420761649341,
+        "title": "Purple",
+        "option1": "Purple",
+        "option2": null,
+        "option3": null,
+        "sku": "10995",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393966014653,
+          "product_id": 7855947481277,
+          "position": 7,
+          "created_at": "2024-09-20T12:44:52+02:00",
+          "updated_at": "2024-09-20T12:44:54+02:00",
+          "alt": "12c5f97a73230665f424463a7d0a14d3bcdd554b-728x728jpg",
+          "width": 728,
+          "height": 728,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/12c5f97a73230665f424463a7d0a14d3bcdd554b-728x728jpg.jpg?v=1726829094",
+          "variant_ids": [
+            44420761649341
+          ]
+        },
+        "available": true,
+        "price": "19.00",
+        "grams": 21,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855947481277,
+        "created_at": "2024-08-05T10:26:04+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35393966112957,
+        "created_at": "2024-09-20T12:44:52+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T12:44:54+02:00",
+        "product_id": 7855947481277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/a0a03c6b9b6f0a6dd1a2f390d1840d68b1b4ab1c-1200x1200jpg.jpg?v=1726829094",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35393966080189,
+        "created_at": "2024-09-20T12:44:52+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T12:44:54+02:00",
+        "product_id": 7855947481277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3de1c56d47bc956c13e020060de7919730647cba-800x800jpg.jpg?v=1726829094",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35393966047421,
+        "created_at": "2024-09-20T12:44:52+02:00",
+        "position": 3,
+        "updated_at": "2024-09-20T12:44:54+02:00",
+        "product_id": 7855947481277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/10959afe8818ccaad980e772665ebddbf9e47aab-800x800jpg.jpg?v=1726829094",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35393965916349,
+        "created_at": "2024-09-20T12:44:52+02:00",
+        "position": 4,
+        "updated_at": "2024-09-20T12:44:53+02:00",
+        "product_id": 7855947481277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34e72901f7dc56c41fc4a42c5e569e94ca6cec45-800x800jpg.jpg?v=1726829093",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35393965949117,
+        "created_at": "2024-09-20T12:44:52+02:00",
+        "position": 5,
+        "updated_at": "2024-09-20T12:44:54+02:00",
+        "product_id": 7855947481277,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e616634a4f175289f9b5a76c31b187e7cc747ee9-800x800jpg.jpg?v=1726829094",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": 35393965981885,
+        "created_at": "2024-09-20T12:44:52+02:00",
+        "position": 6,
+        "updated_at": "2024-09-20T12:44:54+02:00",
+        "product_id": 7855947481277,
+        "variant_ids": [
+          44420761616573
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/19e8af0855673e0a0c1d8851cd209681c348346c-1020x1020jpg.jpg?v=1726829094",
+        "width": 1020,
+        "height": 1020
+      },
+      {
+        "id": 35393966014653,
+        "created_at": "2024-09-20T12:44:52+02:00",
+        "position": 7,
+        "updated_at": "2024-09-20T12:44:54+02:00",
+        "product_id": 7855947481277,
+        "variant_ids": [
+          44420761649341
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/12c5f97a73230665f424463a7d0a14d3bcdd554b-728x728jpg.jpg?v=1726829094",
+        "width": 728,
+        "height": 728
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Rosa",
+          "Purple"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855943975101,
+    "title": "Miernik rozmiaru szyde\u0142ek i drut\u00f3w",
+    "handle": "hp-1003957-crochet-hook-and-knitting-needle-gauge",
+    "body_html": "<p>Przedstawiamy praktyczny gad\u017cet dla tych, kt\u00f3rzy robi\u0105 na szyde\u0142ku lub drutach. A je\u015bli robisz jedno i drugie to jest to idealne narz\u0119dzie dla Ciebie! Hobbii miernik rozmiaru szyde\u0142ek i drut\u00f3w to r\u00f3wnocze\u015bnie licznik oczek i rz\u0119d\u00f3w, kt\u00f3ry u\u0142atwi mierzenie twojej pr\u00f3bki szyde\u0142kowej czy dziewiarskiej. Po prostu umie\u015b\u0107 ramk\u0119 na swoim projekcie lub na szyde\u0142kowej-/dziewiarskiej pr\u00f3bce i policz ilo\u015b\u0107 oczek i rz\u0119d\u00f3w. Okienko w ramce licz\u0105cej ma 10 x 10 cm lub 4 x 4 inches. Wi\u0119c dodatkowy plus - zawsze masz pod r\u0119k\u0105 linijk\u0119.\n</p><p>Poza licznikiem oczek i rz\u0119d\u00f3w zawsze mo\u017cesz sprawdzi\u0107 rozmiar swoich drut\u00f3w jak i szyde\u0142ek. Mo\u017cesz zmierzy\u0107 nast\u0119puj\u0105ce rozmiary:</p><p><strong>Miernik rozmiaru szyde\u0142ka:</strong>\nUS: B - L/11\nmm: 2,0 - 8,0 mm</p><p><strong>Miernik drut\u00f3w:</strong>\nUS: 0-10\nmm: 2,0 - 8,0 mm</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420742316221,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0378",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "22.95",
+        "grams": 45,
+        "compare_at_price": "45.00",
+        "position": 1,
+        "product_id": 7855943975101,
+        "created_at": "2024-08-05T10:25:44+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184247374013,
+        "created_at": "2024-08-05T11:04:03+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:04:05+02:00",
+        "product_id": 7855943975101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-6283-1200x1200pxjpg.jpg?v=1722848645",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184247734461,
+        "created_at": "2024-08-05T11:04:03+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:04:06+02:00",
+        "product_id": 7855943975101,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-6280-1200x1200pxjpg.jpg?v=1722848646",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855997812925,
+    "title": "Miernik drut\u00f3w dziewiarskich",
+    "handle": "hp-1003956-knitting-gauge-ruler-1003956",
+    "body_html": "<p>Miernik drut\u00f3w od Hobbii jest idealny do sprawdzenia rozmiaru twoich drut\u00f3w dziewiarskich. Wszyscy niestety orientujemy si\u0105 \u017ce rozmiary na drutach bardzo szybko si\u0119 zacieraj\u0105 i aby znale\u017a\u0107 w\u0142a\u015bciwy rozmiar drut\u00f3w mo\u017ce nam by\u0107 potrzebny miernik.\n</p><p>Z jednej strony miernika mo\u017cesz zmierzy\u0107 druty od 2,0 - 8,0 mm, a tak\u017ce zmierzy\u0107 linijk\u0105 do 15 cm. Z drugiej strony znajdziesz jednostki US, kt\u00f3re mierz\u0105 druty od 0-10, a tak\u017ce linijk\u0119 kt\u00f3ra mierzy do 6 inches.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421001838781,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0377",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "17.15",
+        "grams": 27,
+        "compare_at_price": "35.00",
+        "position": 1,
+        "product_id": 7855997812925,
+        "created_at": "2024-08-05T10:32:03+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184900931773,
+        "created_at": "2024-08-05T11:44:40+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:44:41+02:00",
+        "product_id": 7855997812925,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-6272-1200x1200pxjpg.jpg?v=1722851081",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184900964541,
+        "created_at": "2024-08-05T11:44:40+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:44:42+02:00",
+        "product_id": 7855997812925,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/img-6270-1200x1200pxjpg.jpg?v=1722851082",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855976644797,
+    "title": "Miara do drut\u00f3w - 2-10 mm",
+    "handle": "hp-1003481-knitting-needle-gauge-2-10-mm-1003481",
+    "body_html": "<p>Ta miara od Pony to bardzo efektywne narz\u0119dzie, kt\u00f3re pomo\u017ce Ci zmierzy\u0107 grubo\u015b\u0107 drut\u00f3w. Od teraz nie b\u0119dziesz musia\u0142 si\u0119 ba\u0107, \u017ce zepsujesz rob\u00f3tk\u0119 u\u017cywaj\u0105c przybor\u00f3w w niew\u0142a\u015bciwym rozmiarze. Miara przystosowana jest do drut\u00f3w od 2 do 10 mm, a na jej boku znajduje si\u0119 12-centymetrowa linijka. Narz\u0119dzie wykonano z wysoce trwa\u0142ego plastiku, wi\u0119c pos\u0142u\u017cy Ci przez wiele lat.</p><p>Summa summarum jest to rewelacyjny przyrz\u0105d dla wielbicieli dziergania.</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420897112253,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "60644",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "16.00",
+        "grams": 16,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855976644797,
+        "created_at": "2024-08-05T10:29:37+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184685187261,
+        "created_at": "2024-08-05T11:28:47+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:28:49+02:00",
+        "product_id": 7855976644797,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/pony-strikkepindsmaaler-2mm-10mmjpg.jpg?v=1722850129",
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855970746557,
+    "title": "Kalkulator do robienia na drutach",
+    "handle": "hp-6932-strikkekalkulator",
+    "body_html": "<p>Ten kalkulator stworzony zosta\u0142 aby u\u0142atwi\u0107 Ci kalkulacje, kt\u00f3re musisz zrobi\u0107 np po wykonaniu ma\u0142ej pr\u00f3bki, gdy trzeba przeliczy\u0107 ile oczek i rz\u0119d\u00f3w b\u0119dzie trzeba zrobi\u0107 w danym projekcie.</p><p>Kalkulatorem mo\u017cesz obliczy\u0107 grubo\u015b\u0107 drut\u00f3w, \u015bcis\u0142o\u015b\u0107 \u015bciegu, czy ilo\u015b\u0107 oczek.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420869292221,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "611+735",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "price": "49.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855970746557,
+        "created_at": "2024-08-05T10:28:50+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184603726013,
+        "created_at": "2024-08-05T11:24:07+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:24:09+02:00",
+        "product_id": 7855970746557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34441jpg.jpg?v=1722849849",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184603267261,
+        "created_at": "2024-08-05T11:24:07+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:24:09+02:00",
+        "product_id": 7855970746557,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-19-04-2019-34407jpg.jpg?v=1722849849",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855931523261,
+    "title": "Linijka do skarpet z miernikiem rozmiaru drut\u00f3w",
+    "handle": "hp-1005081-sock-ruler-with-needle-gauge",
+    "body_html": "<p>Je\u015bli robisz na drutach wiele skarpet, ten fajny gad\u017cet jest w\u0142a\u015bnie dla Ciebie! Dobrze jest zna\u0107 rozmiar stropy osoby, dla kt\u00f3rej robisz na drutach skarpetki, a je\u015bli s\u0105 to skarpetki dla dzieci \u2013 c\u00f3\u017c, rozmiar mo\u017ce si\u0119 szybko zmieni\u0107.\n</p><p>Linijka mierzy d\u0142ugo\u015b\u0107 stopy w centymetrach, a jednocze\u015bnie pokazuje, jakiemu rozmiarowi buta odpowiada. Mo\u017ce mierzy\u0107 rozmiary but\u00f3w od 32-46 (rozmiary UE).</p><p>Linijka do skarpet jest wykonana z drewna i dlatego nie musisz chowa\u0107 jej zbyt g\u0142\u0119boko, gdy nie jest u\u017cywana. Chcieliby\u015bmy przypomnie\u0107, \u017ce mo\u017ce z \u0142atwo\u015bci\u0105 ozdobi\u0107 stolik lub tablic\u0119 w Twoim kreatywnym k\u0105ciku :-) Jako \u015bwietny szczeg\u00f3\u0142, linijka ma na dole r\u00f3wnie\u017c miernik rozmiar\u00f3w drut\u00f3w, kt\u00f3ry zmierzy rozmiar drut\u00f3w od 2 - 10 mm, a tak\u017ce linijk\u0119 po prawej stronie, kt\u00f3ra mo\u017ce mierzy\u0107 do 10 cm.</p><p>Materia\u0142: Surowe drewno\nWymiar: 7 cm x 30 cm x 2,5 mm</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420689625277,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "HO9282",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "32.00",
+        "grams": 39,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855931523261,
+        "created_at": "2024-08-05T10:24:03+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184088809661,
+        "created_at": "2024-08-05T10:57:16+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:57:17+02:00",
+        "product_id": 7855931523261,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9282png.png?v=1722848237",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855904751805,
+    "title": "Drewniana Ramka do liczenie \u015bcieg\u00f3w z miernikiem grubo\u015bci drut\u00f3w",
+    "handle": "hp-1004887-wooden-knitting-gauge-ruler",
+    "body_html": "<p>Praktyczna ma\u0142a ramka, kt\u00f3ra nie zajmuje du\u017co miejscy w torbie projektowej, ale zawsze dobrze jest mie\u0107 j\u0105 pod r\u0119k\u0105.\n</p><p>Umieszczasz ramk\u0119 na g\u00f3rze swojego projektu lub pr\u00f3bki wykonanej na drutach, a nast\u0119pnie liczysz ilo\u015b\u0107 \u015bcieg\u00f3w i rz\u0119d\u00f3w. Okienko w ramce ma wymiary 5 x 5 cm.</p><p>R\u00f3wnocze\u015bnie mo\u017cesz sprawdzi\u0107 rozmiar swoich drut\u00f3w od 2-9 mm.</p><p>Ramka ma ma\u0142y wygrawerowany napis &quot;Knitting is my therapy&quot;, oraz ma\u0142y uchwyt, je\u015bli np. chcesz powiesi\u0107 miark\u0119 na tablicy w swojej kreatywnej pracowni ;-)</p><p><strong>Wymiar</strong>: 9 x 10 cm\n<strong>Materia\u0142</strong>: Drewno MDF</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420567105725,
+        "title": "Knitting is my therapy",
+        "option1": "Knitting is my therapy",
+        "option2": null,
+        "option3": null,
+        "sku": "19224",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35393954644157,
+          "product_id": 7855904751805,
+          "position": 1,
+          "created_at": "2024-09-20T12:42:18+02:00",
+          "updated_at": "2024-09-20T12:42:20+02:00",
+          "alt": "727b3bb89478b57c0a5132c61822b06a31cd7b3e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/727b3bb89478b57c0a5132c61822b06a31cd7b3e-1200x1200jpg.jpg?v=1726828940",
+          "variant_ids": [
+            44420567105725
+          ]
+        },
+        "available": true,
+        "price": "39.00",
+        "grams": 17,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855904751805,
+        "created_at": "2024-08-05T10:19:22+02:00",
+        "updated_at": "2024-11-22T22:50:48+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35393954644157,
+        "created_at": "2024-09-20T12:42:18+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T12:42:20+02:00",
+        "product_id": 7855904751805,
+        "variant_ids": [
+          44420567105725
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/727b3bb89478b57c0a5132c61822b06a31cd7b3e-1200x1200jpg.jpg?v=1726828940",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415750787450,
+        "created_at": "2024-10-23T17:29:22+02:00",
+        "position": 2,
+        "updated_at": "2024-10-23T17:29:24+02:00",
+        "product_id": 7855904751805,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e44a937808ebdee5b1fb3528bc9bddef.jpg?v=1729697364",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "Knitting is my therapy"
+        ]
+      }
+    ]
+  }
+]

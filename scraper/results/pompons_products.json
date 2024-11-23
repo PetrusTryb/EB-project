@@ -1,0 +1,1920 @@
+[
+  {
+    "id": 7855996010685,
+    "title": "Pompon - Naturalny",
+    "handle": "hp-1001230-pompon-naturlig",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm), \u015bredni (11 cm) oraz du\u017cy (13 cm).\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420995612861,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "gohandmade-17268",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184909254845,
+          "product_id": 7855996010685,
+          "position": 3,
+          "created_at": "2024-08-05T11:45:35+02:00",
+          "updated_at": "2024-08-05T11:45:37+02:00",
+          "alt": "natural-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/natural-10cmjpg.jpg?v=1722851137",
+          "variant_ids": [
+            44420995612861
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855996010685,
+        "created_at": "2024-08-05T10:31:51+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420995645629,
+        "title": "13 cm",
+        "option1": "13 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "gohandmade-17269",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184909320381,
+          "product_id": 7855996010685,
+          "position": 4,
+          "created_at": "2024-08-05T11:45:35+02:00",
+          "updated_at": "2024-08-05T11:45:37+02:00",
+          "alt": "natural-13cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/natural-13cmjpg.jpg?v=1722851137",
+          "variant_ids": [
+            44420995645629
+          ]
+        },
+        "available": true,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855996010685,
+        "created_at": "2024-08-05T10:31:51+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420995678397,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17253",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184909287613,
+          "product_id": 7855996010685,
+          "position": 5,
+          "created_at": "2024-08-05T11:45:35+02:00",
+          "updated_at": "2024-08-05T11:45:37+02:00",
+          "alt": "natural-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/natural-11cmjpg.jpg?v=1722851137",
+          "variant_ids": [
+            44420995678397
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855996010685,
+        "created_at": "2024-08-05T10:31:51+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184909222077,
+        "created_at": "2024-08-05T11:45:35+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:45:37+02:00",
+        "product_id": 7855996010685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/natural-13cm-1200x1200jpg.jpg?v=1722851137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184909353149,
+        "created_at": "2024-08-05T11:45:35+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:45:37+02:00",
+        "product_id": 7855996010685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/natural-1200x1200jpg.jpg?v=1722851137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184909254845,
+        "created_at": "2024-08-05T11:45:35+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:45:37+02:00",
+        "product_id": 7855996010685,
+        "variant_ids": [
+          44420995612861
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/natural-10cmjpg.jpg?v=1722851137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184909320381,
+        "created_at": "2024-08-05T11:45:35+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:45:37+02:00",
+        "product_id": 7855996010685,
+        "variant_ids": [
+          44420995645629
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/natural-13cmjpg.jpg?v=1722851137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184909287613,
+        "created_at": "2024-08-05T11:45:35+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:45:37+02:00",
+        "product_id": 7855996010685,
+        "variant_ids": [
+          44420995678397
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/natural-11cmjpg.jpg?v=1722851137",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415997202810,
+        "created_at": "2024-10-23T17:54:04+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:54:06+02:00",
+        "product_id": 7855996010685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4fe47fe3426cfe3e10acf8c33e568ab1.jpg?v=1729698846",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415997268346,
+        "created_at": "2024-10-23T17:54:04+02:00",
+        "position": 7,
+        "updated_at": "2024-10-23T17:54:06+02:00",
+        "product_id": 7855996010685,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6a8b8ba71826e1b2207d0083735293e4.jpg?v=1729698846",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "10 cm",
+          "13 cm",
+          "11 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855946563773,
+    "title": "Pompon - Bia\u0142y",
+    "handle": "hp-1001229-pompon-hvid",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm), \u015bredni (11 cm) oraz du\u017cy (13 cm).\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420756177085,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "gohandmade-17266",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184300261565,
+          "product_id": 7855946563773,
+          "position": 5,
+          "created_at": "2024-08-05T11:06:11+02:00",
+          "updated_at": "2024-08-05T11:06:13+02:00",
+          "alt": "white-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-10cmjpg.jpg?v=1722848773",
+          "variant_ids": [
+            44420756177085
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855946563773,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420756209853,
+        "title": "13 cm",
+        "option1": "13 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "gohandmade-17267",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184300392637,
+          "product_id": 7855946563773,
+          "position": 6,
+          "created_at": "2024-08-05T11:06:11+02:00",
+          "updated_at": "2024-08-05T11:06:13+02:00",
+          "alt": "white-13cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-13cmjpg.jpg?v=1722848773",
+          "variant_ids": [
+            44420756209853
+          ]
+        },
+        "available": true,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855946563773,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420756242621,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17252",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184300327101,
+          "product_id": 7855946563773,
+          "position": 7,
+          "created_at": "2024-08-05T11:06:11+02:00",
+          "updated_at": "2024-08-05T11:06:13+02:00",
+          "alt": "white-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-11cmjpg.jpg?v=1722848773",
+          "variant_ids": [
+            44420756242621
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855946563773,
+        "created_at": "2024-08-05T10:25:59+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184300228797,
+        "created_at": "2024-08-05T11:06:10+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:06:12+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1572859337-hobbii-30-09-201945162-1jpg.jpg?v=1722848772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300130493,
+        "created_at": "2024-08-05T11:06:10+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:06:12+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2019-11-17-15-25-32-1200x1200pxjpg.jpg?v=1722848772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300196029,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:06:12+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-1200x1200-1jpg.jpg?v=1722848772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300163261,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:06:12+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-1200x1200jpg.jpg?v=1722848772",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300261565,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:06:13+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [
+          44420756177085
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-10cmjpg.jpg?v=1722848773",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300392637,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:06:13+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [
+          44420756209853
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-13cmjpg.jpg?v=1722848773",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184300327101,
+        "created_at": "2024-08-05T11:06:11+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T11:06:13+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [
+          44420756242621
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/white-11cmjpg.jpg?v=1722848773",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71379523469690,
+        "created_at": "2024-10-16T15:35:13+02:00",
+        "position": 8,
+        "updated_at": "2024-10-16T15:35:14+02:00",
+        "product_id": 7855946563773,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471153-multi-1200x1200jpg_f764b5c8-499a-44f5-8243-30d46ea41369.jpg?v=1729085714",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "10 cm",
+          "13 cm",
+          "11 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855986180285,
+    "title": "Pompon - Czarny",
+    "handle": "hp-1001228-pompon-sort",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm), \u015bredni (11 cm) oraz du\u017cy (13 cm).\n</p><p></p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420945019069,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "gohandmade-17264",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184791912637,
+          "product_id": 7855986180285,
+          "position": 4,
+          "created_at": "2024-08-05T11:35:55+02:00",
+          "updated_at": "2024-08-05T11:35:57+02:00",
+          "alt": "black-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/black-10cmjpg.jpg?v=1722850557",
+          "variant_ids": [
+            44420945019069
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855986180285,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420945051837,
+        "title": "13 cm",
+        "option1": "13 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "gohandmade-17265",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184791814333,
+          "product_id": 7855986180285,
+          "position": 1,
+          "created_at": "2024-08-05T11:35:54+02:00",
+          "updated_at": "2024-08-05T11:35:56+02:00",
+          "alt": "1674471461-black-13cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471461-black-13cmjpg.jpg?v=1722850556",
+          "variant_ids": [
+            44420945051837
+          ]
+        },
+        "available": true,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855986180285,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420945084605,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17251",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184791945405,
+          "product_id": 7855986180285,
+          "position": 5,
+          "created_at": "2024-08-05T11:35:55+02:00",
+          "updated_at": "2024-08-05T11:35:57+02:00",
+          "alt": "black-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/black-11cmjpg.jpg?v=1722850557",
+          "variant_ids": [
+            44420945084605
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855986180285,
+        "created_at": "2024-08-05T10:30:40+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184791814333,
+        "created_at": "2024-08-05T11:35:54+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:35:56+02:00",
+        "product_id": 7855986180285,
+        "variant_ids": [
+          44420945051837
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471461-black-13cmjpg.jpg?v=1722850556",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184791781565,
+        "created_at": "2024-08-05T11:35:55+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:35:56+02:00",
+        "product_id": 7855986180285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/black-1200x1200-1jpg.jpg?v=1722850556",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184791847101,
+        "created_at": "2024-08-05T11:35:55+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:35:56+02:00",
+        "product_id": 7855986180285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/black-1200x1200jpg.jpg?v=1722850556",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184791912637,
+        "created_at": "2024-08-05T11:35:55+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:35:57+02:00",
+        "product_id": 7855986180285,
+        "variant_ids": [
+          44420945019069
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/black-10cmjpg.jpg?v=1722850557",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184791945405,
+        "created_at": "2024-08-05T11:35:55+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:35:57+02:00",
+        "product_id": 7855986180285,
+        "variant_ids": [
+          44420945084605
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/black-11cmjpg.jpg?v=1722850557",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71402322461050,
+        "created_at": "2024-10-21T13:43:53+02:00",
+        "position": 6,
+        "updated_at": "2024-10-21T13:43:55+02:00",
+        "product_id": 7855986180285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/166669cc3f25bf610127bd0aa7b1c48d.jpg?v=1729511035",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71402322493818,
+        "created_at": "2024-10-21T13:43:53+02:00",
+        "position": 7,
+        "updated_at": "2024-10-21T13:43:55+02:00",
+        "product_id": 7855986180285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dd3d4001f0ada3e6177b61091df61b85.jpg?v=1729511035",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "10 cm",
+          "13 cm",
+          "11 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855958229181,
+    "title": "Pompon - Ciemnoszary",
+    "handle": "hp-1003107-pom-pom-dark-gray",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm) oraz \u015bredni (11 cm).</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420803788989,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17272",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184458432701,
+          "product_id": 7855958229181,
+          "position": 3,
+          "created_at": "2024-08-05T11:14:27+02:00",
+          "updated_at": "2024-08-05T11:14:29+02:00",
+          "alt": "dark-grey-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-grey-10cmjpg.jpg?v=1722849269",
+          "variant_ids": [
+            44420803788989
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855958229181,
+        "created_at": "2024-08-05T10:27:12+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420803821757,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17256",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184458465469,
+          "product_id": 7855958229181,
+          "position": 4,
+          "created_at": "2024-08-05T11:14:27+02:00",
+          "updated_at": "2024-08-05T11:14:29+02:00",
+          "alt": "dark-grey-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-grey-11cmjpg.jpg?v=1722849269",
+          "variant_ids": [
+            44420803821757
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855958229181,
+        "created_at": "2024-08-05T10:27:12+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184458531005,
+        "created_at": "2024-08-05T11:14:27+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:14:29+02:00",
+        "product_id": 7855958229181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-grey-1200x1200-1jpg.jpg?v=1722849269",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184458498237,
+        "created_at": "2024-08-05T11:14:27+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:14:29+02:00",
+        "product_id": 7855958229181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-grey-1200x1200jpg.jpg?v=1722849269",
+        "width": 1200,
+        "height": 1199
+      },
+      {
+        "id": 35184458432701,
+        "created_at": "2024-08-05T11:14:27+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:14:29+02:00",
+        "product_id": 7855958229181,
+        "variant_ids": [
+          44420803788989
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-grey-10cmjpg.jpg?v=1722849269",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184458465469,
+        "created_at": "2024-08-05T11:14:27+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:14:29+02:00",
+        "product_id": 7855958229181,
+        "variant_ids": [
+          44420803821757
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-grey-11cmjpg.jpg?v=1722849269",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415874650490,
+        "created_at": "2024-10-23T17:42:09+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:42:11+02:00",
+        "product_id": 7855958229181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d2e8139d17a7f39e995ce75ead37e04b.jpg?v=1729698131",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415874617722,
+        "created_at": "2024-10-23T17:42:09+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:42:11+02:00",
+        "product_id": 7855958229181,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6ef26c67073f1c92cc08711afcfe454d.jpg?v=1729698131",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "10 cm",
+          "11 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855948169405,
+    "title": "Pompon - Ciemnoniebieski",
+    "handle": "hp-1003108-pom-pom-dark-blue",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm) oraz \u015bredni (11 cm).\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420764565693,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17270",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184333127869,
+          "product_id": 7855948169405,
+          "position": 3,
+          "created_at": "2024-08-05T11:08:00+02:00",
+          "updated_at": "2024-08-05T11:08:02+02:00",
+          "alt": "dark-blue-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-blue-10cmjpg.jpg?v=1722848882",
+          "variant_ids": [
+            44420764565693
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855948169405,
+        "created_at": "2024-08-05T10:26:09+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420764598461,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17254",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184333652157,
+          "product_id": 7855948169405,
+          "position": 4,
+          "created_at": "2024-08-05T11:08:00+02:00",
+          "updated_at": "2024-08-05T11:08:02+02:00",
+          "alt": "1674471300-dark-blue-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471300-dark-blue-11cmjpg.jpg?v=1722848882",
+          "variant_ids": [
+            44420764598461
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855948169405,
+        "created_at": "2024-08-05T10:26:09+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184333684925,
+        "created_at": "2024-08-05T11:08:00+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:08:02+02:00",
+        "product_id": 7855948169405,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-blue-1200x1200-1jpg.jpg?v=1722848882",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184333586621,
+        "created_at": "2024-08-05T11:08:00+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:08:02+02:00",
+        "product_id": 7855948169405,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-blue-1200x1200jpg.jpg?v=1722848882",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184333127869,
+        "created_at": "2024-08-05T11:08:00+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:08:02+02:00",
+        "product_id": 7855948169405,
+        "variant_ids": [
+          44420764565693
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/dark-blue-10cmjpg.jpg?v=1722848882",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184333652157,
+        "created_at": "2024-08-05T11:08:00+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:08:02+02:00",
+        "product_id": 7855948169405,
+        "variant_ids": [
+          44420764598461
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471300-dark-blue-11cmjpg.jpg?v=1722848882",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415854825850,
+        "created_at": "2024-10-23T17:40:23+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:40:25+02:00",
+        "product_id": 7855948169405,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1940cba25fb1c4742a8fd7deccf09792.jpg?v=1729698025",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "10 cm",
+          "11 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855890989245,
+    "title": "Pompon - Br\u0105zowy",
+    "handle": "hp-1003100-pom-pom-brown",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420516708541,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17255",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183666495677,
+          "product_id": 7855890989245,
+          "position": 3,
+          "created_at": "2024-08-05T10:37:53+02:00",
+          "updated_at": "2024-08-05T10:37:55+02:00",
+          "alt": "brown-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/brown-11cmjpg.jpg?v=1722847075",
+          "variant_ids": [
+            44420516708541
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855890989245,
+        "created_at": "2024-08-05T10:16:26+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420516741309,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17271",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183666462909,
+          "product_id": 7855890989245,
+          "position": 4,
+          "created_at": "2024-08-05T10:37:53+02:00",
+          "updated_at": "2024-08-05T10:37:55+02:00",
+          "alt": "brown-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/brown-10cmjpg.jpg?v=1722847075",
+          "variant_ids": [
+            44420516741309
+          ]
+        },
+        "available": true,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855890989245,
+        "created_at": "2024-08-05T10:16:26+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420516774077,
+        "title": "13 cm",
+        "option1": "13 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17275",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183666888893,
+          "product_id": 7855890989245,
+          "position": 5,
+          "created_at": "2024-08-05T10:37:53+02:00",
+          "updated_at": "2024-08-05T10:37:55+02:00",
+          "alt": "brown-13cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/brown-13cmjpg.jpg?v=1722847075",
+          "variant_ids": [
+            44420516774077
+          ]
+        },
+        "available": true,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855890989245,
+        "created_at": "2024-08-05T10:16:26+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183666528445,
+        "created_at": "2024-08-05T10:37:53+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:37:55+02:00",
+        "product_id": 7855890989245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1200x1200jpg.jpg?v=1722847075",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183667019965,
+        "created_at": "2024-08-05T10:37:53+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:37:55+02:00",
+        "product_id": 7855890989245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/brown-1200x1200jpg.jpg?v=1722847075",
+        "width": 1200,
+        "height": 1201
+      },
+      {
+        "id": 35183666495677,
+        "created_at": "2024-08-05T10:37:53+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:37:55+02:00",
+        "product_id": 7855890989245,
+        "variant_ids": [
+          44420516708541
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/brown-11cmjpg.jpg?v=1722847075",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183666462909,
+        "created_at": "2024-08-05T10:37:53+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:37:55+02:00",
+        "product_id": 7855890989245,
+        "variant_ids": [
+          44420516741309
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/brown-10cmjpg.jpg?v=1722847075",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183666888893,
+        "created_at": "2024-08-05T10:37:53+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:37:55+02:00",
+        "product_id": 7855890989245,
+        "variant_ids": [
+          44420516774077
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/brown-13cmjpg.jpg?v=1722847075",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71416044061050,
+        "created_at": "2024-10-23T17:59:07+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:59:09+02:00",
+        "product_id": 7855890989245,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b5611b5ae7aa2f445c7e55363c5ed549.jpg?v=1729699149",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "11 cm",
+          "10 cm",
+          "13 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856012198077,
+    "title": "Pompon z zatrzaskiem - Szary, large/13 cm",
+    "handle": "hp-1002373-pompon-m-knap-gra-13-cm",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futra - \u015bwietny wyb\u00f3r dla tych, kt\u00f3rzy nie chc\u0105 u\u017cywa\u0107 futra zwierz\u0119cego.</p><p>Pompon ten mo\u017cesz przymocowa\u0107 na czapk\u0119, torb\u0119 i wiele innych rzeczy - pu\u015b\u0107 wodze fantazji i u\u017cyj ten \u0142adnej ozdoby do wykonania swojego kolejnego arcydzie\u0142a!</p><p>Pompon ma \u015brednic\u0119 13 cm i wyposa\u017cony jest w zatrzask, kt\u00f3ry gotowy jest do zamontowania - praktycznie i \u0142atwo. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm), \u015bredni (11 cm) oraz du\u017cy (13 cm).</p><p>Linki do innych rozmiar\u00f3w znajdziesz na g\u00f3rze strony.</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421066064061,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17260",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "32.00",
+        "grams": 15,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856012198077,
+        "created_at": "2024-08-05T10:33:47+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185037803709,
+        "created_at": "2024-08-05T11:57:29+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:57:31+02:00",
+        "product_id": 7856012198077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/grey-13cmjpg.jpg?v=1722851851",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71416033083770,
+        "created_at": "2024-10-23T17:57:35+02:00",
+        "position": 2,
+        "updated_at": "2024-10-23T17:57:37+02:00",
+        "product_id": 7856012198077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4ba7ad8ddb58269befa9da8b78209f28.jpg?v=1729699057",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71416033149306,
+        "created_at": "2024-10-23T17:57:35+02:00",
+        "position": 3,
+        "updated_at": "2024-10-23T17:57:37+02:00",
+        "product_id": 7856012198077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b13c9f21f82642cf187120a74cac94a7.jpg?v=1729699057",
+        "width": 3837,
+        "height": 3840
+      },
+      {
+        "id": 71416033116538,
+        "created_at": "2024-10-23T17:57:35+02:00",
+        "position": 4,
+        "updated_at": "2024-10-23T17:57:37+02:00",
+        "product_id": 7856012198077,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9fb5fed3f33cf1c8d55cf3e197cedb39.jpg?v=1729699057",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855978479805,
+    "title": "Pompon z zatrzaskiem - szary, small/10 cm",
+    "handle": "hp-1002372-pompon-m-knap-gra-10cm",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futra - \u015bwietny wyb\u00f3r dla tych, kt\u00f3rzy nie chc\u0105 u\u017cywa\u0107 futra zwierz\u0119cego.</p><p>Pompon ten mo\u017cesz przymocowa\u0107 na czapk\u0119, torb\u0119 i wiele innych rzeczy - pu\u015b\u0107 wodze fantazji i u\u017cyj ten \u0142adnej ozdoby do wykonania swojego kolejnego arcydzie\u0142a!</p><p>Pompon wyposa\u017cony jest w zatrzask, kt\u00f3ry gotowy jest do zamontowania - praktycznie i \u0142atwo. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm), \u015bredni (11 cm) oraz du\u017cy (13 cm).</p><p>Linki do innych rozmiar\u00f3w znajdziesz na g\u00f3rze strony.</p><p>\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420905009341,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "17263",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "29.00",
+        "grams": 30,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855978479805,
+        "created_at": "2024-08-05T10:29:48+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184703537341,
+        "created_at": "2024-08-05T11:30:03+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:30:05+02:00",
+        "product_id": 7855978479805,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/grey-10cmjpg.jpg?v=1722850205",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415922524538,
+        "created_at": "2024-10-23T17:46:49+02:00",
+        "position": 2,
+        "updated_at": "2024-10-23T17:46:50+02:00",
+        "product_id": 7855978479805,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9fb0203e83b306e757feb4b62865dbee.jpg?v=1729698410",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415922557306,
+        "created_at": "2024-10-23T17:46:49+02:00",
+        "position": 3,
+        "updated_at": "2024-10-23T17:46:51+02:00",
+        "product_id": 7855978479805,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1cd528a0328b0c0933588db4eb7d4264.jpg?v=1729698411",
+        "width": 3837,
+        "height": 3840
+      },
+      {
+        "id": 71415922590074,
+        "created_at": "2024-10-23T17:46:49+02:00",
+        "position": 4,
+        "updated_at": "2024-10-23T17:46:51+02:00",
+        "product_id": 7855978479805,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9369280a6891cdf52eb47e6e94f11d0b.jpg?v=1729698411",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855929032893,
+    "title": "Pompon - Jasnor\u00f3\u017cowy",
+    "handle": "hp-1003105-pom-pom-light-rose",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm) oraz \u015bredni (11 cm).\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420676878525,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17274",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184060694717,
+          "product_id": 7855929032893,
+          "position": 4,
+          "created_at": "2024-08-05T10:55:26+02:00",
+          "updated_at": "2024-08-05T10:55:28+02:00",
+          "alt": "light-rose-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/light-rose-10cmjpg.jpg?v=1722848128",
+          "variant_ids": [
+            44420676878525
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855929032893,
+        "created_at": "2024-08-05T10:23:46+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420676911293,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17258",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35184060596413,
+          "product_id": 7855929032893,
+          "position": 5,
+          "created_at": "2024-08-05T10:55:27+02:00",
+          "updated_at": "2024-08-05T10:55:28+02:00",
+          "alt": "1674471232-light-rose-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471232-light-rose-11cmjpg.jpg?v=1722848128",
+          "variant_ids": [
+            44420676911293
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855929032893,
+        "created_at": "2024-08-05T10:23:46+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184060629181,
+        "created_at": "2024-08-05T10:55:26+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:55:28+02:00",
+        "product_id": 7855929032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/light-rose-1200x1200-1jpg.jpg?v=1722848128",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184060793021,
+        "created_at": "2024-08-05T10:55:26+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:55:29+02:00",
+        "product_id": 7855929032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/light-rose-1200x1200jpg.jpg?v=1722848129",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184060727485,
+        "created_at": "2024-08-05T10:55:26+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:55:28+02:00",
+        "product_id": 7855929032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471153-multi-1200x1200jpg.jpg?v=1722848128",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184060694717,
+        "created_at": "2024-08-05T10:55:26+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:55:28+02:00",
+        "product_id": 7855929032893,
+        "variant_ids": [
+          44420676878525
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/light-rose-10cmjpg.jpg?v=1722848128",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184060596413,
+        "created_at": "2024-08-05T10:55:27+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:55:28+02:00",
+        "product_id": 7855929032893,
+        "variant_ids": [
+          44420676911293
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1674471232-light-rose-11cmjpg.jpg?v=1722848128",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415822319994,
+        "created_at": "2024-10-23T17:35:58+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:35:59+02:00",
+        "product_id": 7855929032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/720b0f9ccd9fa2ae17e552540d596b46.jpg?v=1729697759",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "10 cm",
+          "11 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856014655677,
+    "title": "Pompon - Bordeaux",
+    "handle": "hp-1003101-pom-pom-burgundy",
+    "body_html": "<p>Mi\u0119kki i elegancki pompon wykonany ze sztucznego futerka - genialna alternatywa dla tych, kt\u00f3rzy chc\u0105 unikn\u0105\u0107 prawdziwych futer. Mo\u017cesz go u\u017cy\u0107 jako pompon na czapce, ozdob\u0119 torebki itp.</p><p>Pompon wyposa\u017cony jest w zatrzask, wi\u0119c wystarczy go tylko zamocowa\u0107. Zwr\u00f3\u0107 uwag\u0119, \u017ce obie cz\u0119\u015bci zatrzasku s\u0105 z\u0142\u0105czone razem, gdy otrzymasz pompon i dlatego nale\u017cy je rozdzieli\u0107 przed przyszyciem.</p><p>Ty wybierasz jaki rozmiar najlepiej pasuje do Twojego projektu - oferujemy rozmiar ma\u0142y (10 cm) oraz \u015bredni (11 cm).\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421078384829,
+        "title": "10 cm",
+        "option1": "10 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17273",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185064739005,
+          "product_id": 7856014655677,
+          "position": 3,
+          "created_at": "2024-08-05T11:59:58+02:00",
+          "updated_at": "2024-08-05T12:00:00+02:00",
+          "alt": "burgundy-10cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/burgundy-10cmjpg.jpg?v=1722852000",
+          "variant_ids": [
+            44421078384829
+          ]
+        },
+        "available": false,
+        "price": "29.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856014655677,
+        "created_at": "2024-08-05T10:34:09+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44421078417597,
+        "title": "11 cm",
+        "option1": "11 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "17257",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35185064870077,
+          "product_id": 7856014655677,
+          "position": 4,
+          "created_at": "2024-08-05T11:59:58+02:00",
+          "updated_at": "2024-08-05T12:00:00+02:00",
+          "alt": "burgundy-11cmjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/burgundy-11cmjpg.jpg?v=1722852000",
+          "variant_ids": [
+            44421078417597
+          ]
+        },
+        "available": false,
+        "price": "32.00",
+        "grams": 35,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7856014655677,
+        "created_at": "2024-08-05T10:34:09+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35185064935613,
+        "created_at": "2024-08-05T11:59:58+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T12:00:00+02:00",
+        "product_id": 7856014655677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/burgundy-1200x1200-1jpg.jpg?v=1722852000",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185065001149,
+        "created_at": "2024-08-05T11:59:58+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T12:00:00+02:00",
+        "product_id": 7856014655677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/burgundy-1200x1200jpg.jpg?v=1722852000",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185064739005,
+        "created_at": "2024-08-05T11:59:58+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T12:00:00+02:00",
+        "product_id": 7856014655677,
+        "variant_ids": [
+          44421078384829
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/burgundy-10cmjpg.jpg?v=1722852000",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35185064870077,
+        "created_at": "2024-08-05T11:59:58+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T12:00:00+02:00",
+        "product_id": 7856014655677,
+        "variant_ids": [
+          44421078417597
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/burgundy-11cmjpg.jpg?v=1722852000",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71416028397946,
+        "created_at": "2024-10-23T17:57:04+02:00",
+        "position": 5,
+        "updated_at": "2024-10-23T17:57:06+02:00",
+        "product_id": 7856014655677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3b3d7950037631dca61bb0a5f146813e.jpg?v=1729699026",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71416028365178,
+        "created_at": "2024-10-23T17:57:04+02:00",
+        "position": 6,
+        "updated_at": "2024-10-23T17:57:06+02:00",
+        "product_id": 7856014655677,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1a0bcecdf26a7a6322df65f3f808b338.jpg?v=1729699026",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "10 cm",
+          "11 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855913861309,
+    "title": "Zawieszka z pomponem - 11 cm",
+    "handle": "hp-1002678-pom-pom-charm-and-metal-chain-4-33-inches-11-cm",
+    "body_html": "<p>Zawieszka z \u0142adnym i mi\u0119kkim pomponem, kt\u00f3r\u0105 mo\u017cesz przyozdobi\u0107 swoj\u0105 r\u0119cznie wykonan\u0105 torb\u0119. Pompon wykonany jest z akrylu, co jest \u015bwietn\u0105 alternatyw\u0105 dla os\u00f3b, kt\u00f3re nie chc\u0105 mie\u0107 rzeczy wykonanych z futra. Ma 11 cm \u015brednicy i 5-centymetrowy metalowy \u0142a\u0144cuszek zako\u0144czony karabi\u0144czykiem.\n</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420600791229,
+        "title": "Natural/Silver",
+        "option1": "Natural/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22264-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183886205117,
+          "product_id": 7855913861309,
+          "position": 3,
+          "created_at": "2024-08-05T10:47:06+02:00",
+          "updated_at": "2024-08-05T10:47:08+02:00",
+          "alt": "hobbii-30-09-201945141-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945141-1jpg.jpg?v=1722847628",
+          "variant_ids": [
+            44420600791229
+          ]
+        },
+        "available": true,
+        "price": "41.00",
+        "grams": 27,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855913861309,
+        "created_at": "2024-08-05T10:21:38+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420600823997,
+        "title": "Natural/Bronze",
+        "option1": "Natural/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22265-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183886631101,
+          "product_id": 7855913861309,
+          "position": 4,
+          "created_at": "2024-08-05T10:47:06+02:00",
+          "updated_at": "2024-08-05T10:47:08+02:00",
+          "alt": "hobbii-30-09-201945158-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945158-1jpg.jpg?v=1722847628",
+          "variant_ids": [
+            44420600823997
+          ]
+        },
+        "available": false,
+        "price": "41.00",
+        "grams": 27,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855913861309,
+        "created_at": "2024-08-05T10:21:38+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420600856765,
+        "title": "Natural/Dark Grey",
+        "option1": "Natural/Dark Grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22266-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183886663869,
+          "product_id": 7855913861309,
+          "position": 5,
+          "created_at": "2024-08-05T10:47:06+02:00",
+          "updated_at": "2024-08-05T10:47:08+02:00",
+          "alt": "hobbii-30-09-201945466-webjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945466-webjpg.jpg?v=1722847628",
+          "variant_ids": [
+            44420600856765
+          ]
+        },
+        "available": true,
+        "price": "41.00",
+        "grams": 27,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7855913861309,
+        "created_at": "2024-08-05T10:21:38+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420600889533,
+        "title": "Black/Silver",
+        "option1": "Black/Silver",
+        "option2": null,
+        "option3": null,
+        "sku": "22267-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183886532797,
+          "product_id": 7855913861309,
+          "position": 6,
+          "created_at": "2024-08-05T10:47:06+02:00",
+          "updated_at": "2024-08-05T10:47:08+02:00",
+          "alt": "hobbii-30-09-201945161-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945161-1jpg.jpg?v=1722847628",
+          "variant_ids": [
+            44420600889533
+          ]
+        },
+        "available": false,
+        "price": "41.00",
+        "grams": 27,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7855913861309,
+        "created_at": "2024-08-05T10:21:38+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420600922301,
+        "title": "Black/Bronze",
+        "option1": "Black/Bronze",
+        "option2": null,
+        "option3": null,
+        "sku": "22268-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183886696637,
+          "product_id": 7855913861309,
+          "position": 7,
+          "created_at": "2024-08-05T10:47:06+02:00",
+          "updated_at": "2024-08-05T10:47:08+02:00",
+          "alt": "hobbii-30-09-201945153-1jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945153-1jpg.jpg?v=1722847628",
+          "variant_ids": [
+            44420600922301
+          ]
+        },
+        "available": true,
+        "price": "41.00",
+        "grams": 27,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7855913861309,
+        "created_at": "2024-08-05T10:21:38+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      },
+      {
+        "id": 44420600955069,
+        "title": "Black/Dark grey",
+        "option1": "Black/Dark grey",
+        "option2": null,
+        "option3": null,
+        "sku": "22269-gh",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35183887024317,
+          "product_id": 7855913861309,
+          "position": 8,
+          "created_at": "2024-08-05T10:47:06+02:00",
+          "updated_at": "2024-08-05T10:47:08+02:00",
+          "alt": "hobbii-30-09-201945467-webjpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945467-webjpg.jpg?v=1722847628",
+          "variant_ids": [
+            44420600955069
+          ]
+        },
+        "available": false,
+        "price": "41.00",
+        "grams": 27,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7855913861309,
+        "created_at": "2024-08-05T10:21:38+02:00",
+        "updated_at": "2024-11-22T22:58:13+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35183886565565,
+        "created_at": "2024-08-05T10:47:05+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T10:47:08+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945161-gruppe-1jpg.jpg?v=1722847628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183886434493,
+        "created_at": "2024-08-05T10:47:06+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T10:47:08+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2018-02-11-12-35-32-1200x1200jpg.jpg?v=1722847628",
+        "width": 1201,
+        "height": 1201
+      },
+      {
+        "id": 35183886205117,
+        "created_at": "2024-08-05T10:47:06+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T10:47:08+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [
+          44420600791229
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945141-1jpg.jpg?v=1722847628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183886631101,
+        "created_at": "2024-08-05T10:47:06+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T10:47:08+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [
+          44420600823997
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945158-1jpg.jpg?v=1722847628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183886663869,
+        "created_at": "2024-08-05T10:47:06+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T10:47:08+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [
+          44420600856765
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945466-webjpg.jpg?v=1722847628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183886532797,
+        "created_at": "2024-08-05T10:47:06+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T10:47:08+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [
+          44420600889533
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945161-1jpg.jpg?v=1722847628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183886696637,
+        "created_at": "2024-08-05T10:47:06+02:00",
+        "position": 7,
+        "updated_at": "2024-08-05T10:47:08+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [
+          44420600922301
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945153-1jpg.jpg?v=1722847628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35183887024317,
+        "created_at": "2024-08-05T10:47:06+02:00",
+        "position": 8,
+        "updated_at": "2024-08-05T10:47:08+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [
+          44420600955069
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/hobbii-30-09-201945467-webjpg.jpg?v=1722847628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415794663802,
+        "created_at": "2024-10-23T17:33:33+02:00",
+        "position": 9,
+        "updated_at": "2024-10-23T17:33:35+02:00",
+        "product_id": 7855913861309,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5a9499261547f01829abc59498566017.jpg?v=1729697615",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Natural/Silver",
+          "Natural/Bronze",
+          "Natural/Dark Grey",
+          "Black/Silver",
+          "Black/Bronze",
+          "Black/Dark grey"
+        ]
+      }
+    ]
+  }
+]

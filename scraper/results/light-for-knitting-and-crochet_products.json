@@ -1,0 +1,708 @@
+[
+  {
+    "id": 7855965896893,
+    "title": "Lampa na szyj\u0119 Deluxe - Czarny",
+    "handle": "hp-1001084-neck-light-deluxe2",
+    "body_html": "<p><strong>Nowa wersja naszej lampki na szyj\u0119 z przed\u0142u\u017con\u0105 \u017cywotno\u015bci\u0105 baterii.</strong></p><p>Lampa Deluxe jest idealnym wyborem dla Ciebie, je\u015bli szukasz wygodnego rozwi\u0105zania, kt\u00f3re zapewni Ci odpowiednie o\u015bwietlenie podczas szyde\u0142kowania czy robienia na drutach.</p><p>Kabel od lampy mo\u017cesz owin\u0105\u0107 sobie wygodnie naoko\u0142o szyi tak \u017ce obie r\u0119ce masz wolne. Co wi\u0119cej mo\u017cesz regulowa\u0107 \u015bwiat\u0142o wybieraj\u0105c jedn\u0105 z dw\u00f3ch mocy o\u015bwietlenia.</p><p>To nie wszystko! Obie ko\u0144c\u00f3wki lampy wyposa\u017cone s\u0105 w \u017car\u00f3wki LED, kt\u00f3rych mo\u017cna u\u017cywa\u0107 razem lub osobno. Dzi\u0119ki temu mo\u017cesz o\u015bwietli\u0107 2 r\u00f3\u017cne rzeczy jednocze\u015bnie np. rob\u00f3tk\u0119 i wz\u00f3r.</p><p>Lamp\u0119 Deluxe mo\u017cesz zakupi\u0107 w dw\u00f3ch rozmiarach: 60 cm i 73 cm. Je\u015bli zwykle trzymasz rob\u00f3tk\u0119 wy\u017cej, blisko brody, polecamy rozmiar 60 cm. Je\u015bli natomiast wolisz trzyma\u0107 rob\u00f3tk\u0119 na kolanach, rozmiar 73 cm b\u0119dzie dla Ciebie lepszym rozwi\u0105zaniem.</p><p><strong>Post\u0119puj zgodnie z naszymi instrukcjami jak poprawnie wk\u0142ada\u0107 baterie (patrz zdj\u0119cie).</strong>\n</p><p><em>Dane techniczne</em>\nLumen: 20-25 lm\nKelvin: mi\u0119dzy 6500-7500 kelvin</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420837933245,
+        "title": "73 cm",
+        "option1": "73 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0339-73cm",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35352799674557,
+          "product_id": 7855965896893,
+          "position": 9,
+          "created_at": "2024-09-10T10:40:26+02:00",
+          "updated_at": "2024-09-10T10:40:28+02:00",
+          "alt": "eae6cb64939ae223c43c2822afcab8c4bfeb8472-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/eae6cb64939ae223c43c2822afcab8c4bfeb8472-1200x1200jpg.jpg?v=1725957628",
+          "variant_ids": [
+            44420837933245
+          ]
+        },
+        "available": true,
+        "price": "144.00",
+        "grams": 450,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855965896893,
+        "created_at": "2024-08-05T10:28:08+02:00",
+        "updated_at": "2024-11-22T22:53:45+01:00"
+      },
+      {
+        "id": 44420837966013,
+        "title": "60 cm",
+        "option1": "60 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-0338-60cm",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35352799543485,
+          "product_id": 7855965896893,
+          "position": 1,
+          "created_at": "2024-09-10T10:40:26+02:00",
+          "updated_at": "2024-09-10T10:40:28+02:00",
+          "alt": "e69920cc9a606661d9154a21dd177b0925367c82-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e69920cc9a606661d9154a21dd177b0925367c82-1200x1200jpg.jpg?v=1725957628",
+          "variant_ids": [
+            44420837966013
+          ]
+        },
+        "available": true,
+        "price": "144.00",
+        "grams": 450,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7855965896893,
+        "created_at": "2024-08-05T10:28:08+02:00",
+        "updated_at": "2024-11-22T22:53:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35352799543485,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 1,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [
+          44420837966013
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e69920cc9a606661d9154a21dd177b0925367c82-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352799641789,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 2,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ba814727b2f45647907b1b0cc464261a073e1c4a-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352799805629,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 3,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6b4ea5a5f4dbb7864637b7866991d83ee88ad443-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352799510717,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 4,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3eb9765bb710489ad92f6369107b776856dccf50-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352799772861,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 5,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ca9c9e7370806a62fda0caccf167cacda8c77721-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352799609021,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 6,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6f9bd5b82576624f411c6f38d4a7c17263516f1b-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352799707325,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 7,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6a154afa1f14dfa51008523b03c95793d254a923-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352799477949,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 8,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c7e9fa95fb5c5eb0e9b4895ba699ed575f4e0a30-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352799674557,
+        "created_at": "2024-09-10T10:40:26+02:00",
+        "position": 9,
+        "updated_at": "2024-09-10T10:40:28+02:00",
+        "product_id": 7855965896893,
+        "variant_ids": [
+          44420837933245
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/eae6cb64939ae223c43c2822afcab8c4bfeb8472-1200x1200jpg.jpg?v=1725957628",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "73 cm",
+          "60 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856010363069,
+    "title": "Lampa na szyj\u0119 Deluxe - Czerwony",
+    "handle": "hp-1007685-neck-light-deluxe-red",
+    "body_html": "<p><strong>Edycja limitowana!</strong></p><p>Nie mogli\u015bmy si\u0119 opanowa\u0107 i nagle wpadli\u015bmy w \u015bwi\u0105teczny nastr\u00f3j, kiedy musieli\u015bmy zdecydowa\u0107 o jaki kolor wzbogaci\u0107 nasz\u0105 rodzin\u0119 lamp na szyj\u0119. Dlatego ju\u017c teraz mo\u017cemy zaprezentowa\u0107 t\u0119 now\u0105, pi\u0119kn\u0105 lamp\u0119 na szyj\u0119 w najpi\u0119kniejszym, \u015bwi\u0105tecznym czerwonym kolorze. Dost\u0119pna w limitowanej partii, wi\u0119c zdob\u0105d\u017a j\u0105 ju\u017c teraz.</p><p>Jest to idealne rozwi\u0105zanie dla tych, kt\u00f3rzy chc\u0105 pracowa\u0107 przy odpowiednim o\u015bwietleniu. Mo\u017cna j\u0105 zawiesi\u0107 na szyi, dzi\u0119ki czemu masz wolne r\u0119ce.</p><p>Lampa na szyj\u0119 Deluxe umo\u017cliwia wyb\u00f3r pomi\u0119dzy 2 poziomami jasno\u015bci. Aby dopasowa\u0107 skal\u0119 \u015bwiecenia, wystarczy, \u017ce naci\u015bniesz i przytrzymasz przycisk w\u0142\u0105czania/wy\u0142\u0105czania:</p><p>1. naci\u015bni\u0119cie: Lampa w\u0142\u0105cza si\u0119 (50% jasno\u015bci)\n2. naci\u015bni\u0119cie: Lampa wy\u0142\u0105cza si\u0119\n3. naci\u015bni\u0119cie: Lampa w\u0142\u0105cza si\u0119 (100% jasno\u015bci)\n4. naci\u015bni\u0119cie: Lampa wy\u0142\u0105cza si\u0119\n</p><p>To nie wszystko! Obie ko\u0144c\u00f3wki lampy wyposa\u017cone s\u0105 w \u017car\u00f3wki LED, kt\u00f3rych mo\u017cna u\u017cywa\u0107 razem lub osobno. Dzi\u0119ki temu mo\u017cesz o\u015bwietli\u0107 2 r\u00f3\u017cne rzeczy jednocze\u015bnie np. rob\u00f3tk\u0119 i wz\u00f3r.</p><p>Lamp\u0119 Deluxe mo\u017cesz zakupi\u0107 w dw\u00f3ch rozmiarach: 60 cm i 73 cm. Je\u015bli zwykle trzymasz rob\u00f3tk\u0119 wy\u017cej, blisko brody, polecamy rozmiar 60 cm. Je\u015bli natomiast wolisz trzyma\u0107 rob\u00f3tk\u0119 na kolanach, rozmiar 73 cm b\u0119dzie dla Ciebie lepszym rozwi\u0105zaniem.</p><p><strong>Post\u0119puj zgodnie z naszymi instrukcjami jak poprawnie wk\u0142ada\u0107 baterie (patrz zdj\u0119cie).</strong>\n</p><p><em>Dane techniczne</em>\nLumen: 20-25 lm\nKelvin: mi\u0119dzy 6500-7500 kelvin</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44421060722877,
+        "title": "60 cm",
+        "option1": "60 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1352",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35395073147069,
+          "product_id": 7856010363069,
+          "position": 2,
+          "created_at": "2024-09-20T15:13:44+02:00",
+          "updated_at": "2024-09-20T15:13:46+02:00",
+          "alt": "6340792cc2d1be700e28bb336feaace7c04d2949-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6340792cc2d1be700e28bb336feaace7c04d2949-1200x1200jpg.jpg?v=1726838026",
+          "variant_ids": [
+            44421060722877
+          ]
+        },
+        "available": true,
+        "price": "72.00",
+        "grams": 355,
+        "compare_at_price": "144.00",
+        "position": 1,
+        "product_id": 7856010363069,
+        "created_at": "2024-08-05T10:33:32+02:00",
+        "updated_at": "2024-11-22T22:53:45+01:00"
+      },
+      {
+        "id": 44421060755645,
+        "title": "73 cm",
+        "option1": "73 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1353",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35395073114301,
+          "product_id": 7856010363069,
+          "position": 1,
+          "created_at": "2024-09-20T15:13:44+02:00",
+          "updated_at": "2024-09-20T15:13:46+02:00",
+          "alt": "6996782748202e37db3065be04130e8b45dd3e4e-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6996782748202e37db3065be04130e8b45dd3e4e-1200x1200jpg.jpg?v=1726838026",
+          "variant_ids": [
+            44421060755645
+          ]
+        },
+        "available": true,
+        "price": "72.00",
+        "grams": 370,
+        "compare_at_price": "144.00",
+        "position": 2,
+        "product_id": 7856010363069,
+        "created_at": "2024-08-05T10:33:32+02:00",
+        "updated_at": "2024-11-22T22:53:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35395073114301,
+        "created_at": "2024-09-20T15:13:44+02:00",
+        "position": 1,
+        "updated_at": "2024-09-20T15:13:46+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [
+          44421060755645
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6996782748202e37db3065be04130e8b45dd3e4e-1200x1200jpg.jpg?v=1726838026",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35395073147069,
+        "created_at": "2024-09-20T15:13:44+02:00",
+        "position": 2,
+        "updated_at": "2024-09-20T15:13:46+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [
+          44421060722877
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6340792cc2d1be700e28bb336feaace7c04d2949-1200x1200jpg.jpg?v=1726838026",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35495730184381,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 3,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/ac93c5e30cce2eef94ee0b4f3953cdf6f86a885f-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730151613,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 4,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e84db40a1f7620c1c759b9a0a4b037d4116324cc-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730118845,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 5,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8ad7bb2d7aa9b7fe772286bcea21107e2c59b24c-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730053309,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 6,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e99bd18f0233adf04672679b770bed77da936186-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730249917,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 7,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/01093143d26584f549cd9ce6a049612f967d51fa-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35495730217149,
+        "created_at": "2024-10-08T15:37:16+02:00",
+        "position": 8,
+        "updated_at": "2024-10-08T15:37:18+02:00",
+        "product_id": 7856010363069,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/8c7e5cc05402674b23680ea34b1e9770239971ae-1620x1620jpg.jpg?v=1728394638",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "60 cm",
+          "73 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855918481597,
+    "title": "Lampa na szyj\u0119 Deluxe - Niebieski",
+    "handle": "hp-1006703-neck-light-deluxe-blue",
+    "body_html": "<p>Teraz mo\u017cesz zdoby\u0107 nasz\u0105 now\u0105 lamp\u0119 na szyj\u0119 w pi\u0119knym, charakterystycznym niebieskim kolorze Hobbii.</p><p>Jest to idealne rozwi\u0105zanie dla tych, kt\u00f3rzy chc\u0105 pracowa\u0107 przy odpowiednim o\u015bwietleniu. Mo\u017cna j\u0105 zawiesi\u0107 na szyi, dzi\u0119ki czemu masz wolne r\u0119ce.</p><p>Lampa na szyj\u0119 Deluxe umo\u017cliwia wyb\u00f3r pomi\u0119dzy 2 poziomami jasno\u015bci. Aby dopasowa\u0107 skal\u0119 \u015bwiecenia, wystarczy, \u017ce naci\u015bniesz i przytrzymasz przycisk w\u0142\u0105czania/wy\u0142\u0105czania:</p><p>1. naci\u015bni\u0119cie: Lampa w\u0142\u0105cza si\u0119 (50% jasno\u015bci)\n2. naci\u015bni\u0119cie: Lampa wy\u0142\u0105cza si\u0119\n3. naci\u015bni\u0119cie: Lampa w\u0142\u0105cza si\u0119 (100% jasno\u015bci)\n4. naci\u015bni\u0119cie: Lampa wy\u0142\u0105cza si\u0119\n</p><p>To nie wszystko! Obie ko\u0144c\u00f3wki lampy wyposa\u017cone s\u0105 w \u017car\u00f3wki LED, kt\u00f3rych mo\u017cna u\u017cywa\u0107 razem lub osobno. Dzi\u0119ki temu mo\u017cesz o\u015bwietli\u0107 2 r\u00f3\u017cne rzeczy jednocze\u015bnie np. rob\u00f3tk\u0119 i wz\u00f3r.</p><p>Lamp\u0119 Deluxe mo\u017cesz zakupi\u0107 w dw\u00f3ch rozmiarach: 60 cm i 73 cm. Je\u015bli zwykle trzymasz rob\u00f3tk\u0119 wy\u017cej, blisko brody, polecamy rozmiar 60 cm. Je\u015bli natomiast wolisz trzyma\u0107 rob\u00f3tk\u0119 na kolanach, rozmiar 73 cm b\u0119dzie dla Ciebie lepszym rozwi\u0105zaniem.</p><p><strong>Post\u0119puj zgodnie z naszymi instrukcjami jak poprawnie wk\u0142ada\u0107 baterie (patrz zdj\u0119cie).</strong>\n</p><p><em>Dane techniczne</em>\nLumen: 20-25 lm\nKelvin: mi\u0119dzy 6500-7500 kelvin</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420617076925,
+        "title": "60 cm",
+        "option1": "60 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1140",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35352805048509,
+          "product_id": 7855918481597,
+          "position": 10,
+          "created_at": "2024-09-10T10:42:29+02:00",
+          "updated_at": "2024-09-10T10:42:31+02:00",
+          "alt": "18ef2f5e6d6b2c24ea9033163a437ef092ed8485-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/18ef2f5e6d6b2c24ea9033163a437ef092ed8485-1200x1200jpg.jpg?v=1725957751",
+          "variant_ids": [
+            44420617076925
+          ]
+        },
+        "available": true,
+        "price": "72.00",
+        "grams": 355,
+        "compare_at_price": "144.00",
+        "position": 1,
+        "product_id": 7855918481597,
+        "created_at": "2024-08-05T10:22:23+02:00",
+        "updated_at": "2024-11-22T22:53:45+01:00"
+      },
+      {
+        "id": 44420617109693,
+        "title": "73 cm",
+        "option1": "73 cm",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-1141",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35352805114045,
+          "product_id": 7855918481597,
+          "position": 11,
+          "created_at": "2024-09-10T10:42:29+02:00",
+          "updated_at": "2024-09-10T10:42:31+02:00",
+          "alt": "9b07cfa9170a7ad5f92c7a4891f853bd72f98b42-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9b07cfa9170a7ad5f92c7a4891f853bd72f98b42-1200x1200jpg.jpg?v=1725957751",
+          "variant_ids": [
+            44420617109693
+          ]
+        },
+        "available": true,
+        "price": "72.00",
+        "grams": 370,
+        "compare_at_price": "144.00",
+        "position": 2,
+        "product_id": 7855918481597,
+        "created_at": "2024-08-05T10:22:23+02:00",
+        "updated_at": "2024-11-22T22:53:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35352804851901,
+        "created_at": "2024-09-10T10:42:28+02:00",
+        "position": 1,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/251407412e03985b514887d161fc6575d6cf46e3-1620x1620jpg.jpg?v=1725957751",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35352805081277,
+        "created_at": "2024-09-10T10:42:28+02:00",
+        "position": 2,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/280d3a1a323a38734353f35d269e2fe0fa1f9750-1620x1620jpg.jpg?v=1725957751",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35352805245117,
+        "created_at": "2024-09-10T10:42:28+02:00",
+        "position": 3,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f33c38ae29a03501e6715809d59682ca2c896c71-3024x3024jpg.jpg?v=1725957751",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35352804950205,
+        "created_at": "2024-09-10T10:42:28+02:00",
+        "position": 4,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c4a67b9ac17246aedff51f3d55b5f7846ea29c2f-1200x1200jpg.jpg?v=1725957751",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352805277885,
+        "created_at": "2024-09-10T10:42:29+02:00",
+        "position": 5,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/1bdc8bb0dc535a4d1bb8b75622affbbab7914bc6-1200x1200jpg.jpg?v=1725957751",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352804982973,
+        "created_at": "2024-09-10T10:42:29+02:00",
+        "position": 6,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fc986414b582de445f7ee624c29d5b6147d2549e-1200x1200jpg.jpg?v=1725957751",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352804819133,
+        "created_at": "2024-09-10T10:42:29+02:00",
+        "position": 7,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/0d425cd3bf8d9a92e2854e0db1c6e88773d25392-1200x1200jpg.jpg?v=1725957751",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352805212349,
+        "created_at": "2024-09-10T10:42:29+02:00",
+        "position": 8,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2979e8556387836db4c263fbe83e7821d99eed46-1200x1200jpg.jpg?v=1725957751",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352804884669,
+        "created_at": "2024-09-10T10:42:29+02:00",
+        "position": 9,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f699663b7dba04a5d146c24a15d898011e372077-1200x1200jpg.jpg?v=1725957751",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352805048509,
+        "created_at": "2024-09-10T10:42:29+02:00",
+        "position": 10,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [
+          44420617076925
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/18ef2f5e6d6b2c24ea9033163a437ef092ed8485-1200x1200jpg.jpg?v=1725957751",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35352805114045,
+        "created_at": "2024-09-10T10:42:29+02:00",
+        "position": 11,
+        "updated_at": "2024-09-10T10:42:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [
+          44420617109693
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9b07cfa9170a7ad5f92c7a4891f853bd72f98b42-1200x1200jpg.jpg?v=1725957751",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 71415794008442,
+        "created_at": "2024-10-23T17:33:29+02:00",
+        "position": 12,
+        "updated_at": "2024-10-23T17:33:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b0c49e1e04b6ad563e1bd2b3b536aef0.jpg?v=1729697611",
+        "width": 3840,
+        "height": 3840
+      },
+      {
+        "id": 71415793877370,
+        "created_at": "2024-10-23T17:33:30+02:00",
+        "position": 13,
+        "updated_at": "2024-10-23T17:33:31+02:00",
+        "product_id": 7855918481597,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/766d6e809e57d5f478767263dcea7d08.jpg?v=1729697611",
+        "width": 3840,
+        "height": 3840
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "60 cm",
+          "73 cm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7855970975933,
+    "title": "Sk\u0142adana lampa LED",
+    "handle": "hp-6849-led-foldelampe",
+    "body_html": "<p>Ta praktyczna lampa LED od Prym zapewni Ci odpowiednie o\u015bwietlenie podczas pracy z rob\u00f3tk\u0105. Lamp\u0119 mo\u017cna z\u0142o\u017cy\u0107 i zabra\u0107 ze sob\u0105 do torebki, jak r\u00f3wnie\u017c u\u017cywa\u0107 jej bez pod\u0142\u0105czenia do pr\u0105du.</p><p>Lampa ma 18 diod LED, kt\u00f3re mog\u0105 by\u0107 ustawione na r\u00f3\u017cne moce \u015bwiat\u0142a. Gdy bateria si\u0119 wyczerpie, wystarczy, \u017ce pod\u0142\u0105czysz lamp\u0119 do \u0142adowania za pomoc\u0105 kabla USB.</p><p>Wymiary:</p><p>D\u0142ugo\u015b\u0107: 18,5 cm</p><p>Szeroko\u015b\u0107: 4,5 cm</p><p>Wysoko\u015b\u0107 przy z\u0142o\u017ceniu: 3 cm</p><p>Wysoko\u015b\u0107 przy roz\u0142o\u017ceniu: 36,5 cm</p><p>Kolor: bia\u0142y/posrebrzany</p>",
+    "product_type": "accessory",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44420869882045,
+        "title": "One Size",
+        "option1": "One Size",
+        "option2": null,
+        "option3": null,
+        "sku": "610+719",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "325.00",
+        "grams": 355,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7855970975933,
+        "created_at": "2024-08-05T10:28:52+02:00",
+        "updated_at": "2024-11-22T22:53:45+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35184579772605,
+        "created_at": "2024-08-05T11:22:37+02:00",
+        "position": 1,
+        "updated_at": "2024-08-05T11:22:39+02:00",
+        "product_id": 7855970975933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/32jpg.jpg?v=1722849759",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184579903677,
+        "created_at": "2024-08-05T11:22:37+02:00",
+        "position": 2,
+        "updated_at": "2024-08-05T11:22:39+02:00",
+        "product_id": 7855970975933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/villy-jensen-led-foldelampe-1jpg.jpg?v=1722849759",
+        "width": 480,
+        "height": 355
+      },
+      {
+        "id": 35184579805373,
+        "created_at": "2024-08-05T11:22:37+02:00",
+        "position": 3,
+        "updated_at": "2024-08-05T11:22:39+02:00",
+        "product_id": 7855970975933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/33jpg.jpg?v=1722849759",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184579739837,
+        "created_at": "2024-08-05T11:22:37+02:00",
+        "position": 4,
+        "updated_at": "2024-08-05T11:22:39+02:00",
+        "product_id": 7855970975933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/34jpg.jpg?v=1722849759",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184579870909,
+        "created_at": "2024-08-05T11:22:37+02:00",
+        "position": 5,
+        "updated_at": "2024-08-05T11:22:39+02:00",
+        "product_id": 7855970975933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/35jpg.jpg?v=1722849759",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35184579838141,
+        "created_at": "2024-08-05T11:22:37+02:00",
+        "position": 6,
+        "updated_at": "2024-08-05T11:22:39+02:00",
+        "product_id": 7855970975933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/36jpg.jpg?v=1722849759",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One Size"
+        ]
+      }
+    ]
+  }
+]

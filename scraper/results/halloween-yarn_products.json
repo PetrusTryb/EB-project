@@ -1,0 +1,974 @@
+[
+  {
+    "id": 7854150418621,
+    "title": "Silly Socks Halloween (Edycja Limitowana)",
+    "handle": "hp-1007361-silly-socks-halloween",
+    "body_html": "<p>Nasza prz\u0119dza <strong>Silly Socks</strong> <strong>Halloween </strong>sk\u0142ada si\u0119 w 75% z we\u0142ny, kt\u00f3ra zapewni stopom przyjemne ciep\u0142o, a w 25% z poliamidu (nylonu) kt\u00f3ry sprawi, \u017ce skarpetki b\u0119d\u0105 trwa\u0142e.</p><p><strong>Silly Socks\u00a0Halloween\u00a0</strong>zosta\u0142a poddana procesowi superwash, kt\u00f3ry umo\u017cliwia pranie wyrob\u00f3w w pralce w temperaturze 30\u00b0C (lub zimne pranie). Z pewno\u015bci\u0105 u\u0142atwi Ci to \u017cycie, gdy b\u0119dziesz musia\u0142(a) wypra\u0107 swoje pi\u0119kne skarpetki. Chocia\u017c jest to klasyczna w\u0142\u00f3czka skarpetkowa, nie musisz ogranicza\u0107 si\u0119 do robienia z niej tylko skarpet. Kardigany dzieci\u0119ce, r\u0119kawiczki, czapki itp. mo\u017cna z \u0142atwo\u015bci\u0105 wykona\u0107 z tej w\u0142\u00f3czki.</p><p>Dost\u0119pne odcienie zosta\u0142y opracowane poprzez po\u0142\u0105czenie \u017cywych z kontrastuj\u0105cymi kolorami, tworz\u0105c bardzo kr\u00f3tkie zmiany kolor\u00f3w. Nie kr\u0119puj si\u0119 bawi\u0107 swoj\u0105 kreatywno\u015bci\u0105 i po\u0142\u0105cz j\u0105 z nasz\u0105 Silly Socks Disco, aby nada\u0107 swoim projektom wygl\u0105d nie z tego \u015bwiata.\n</p><p>Je\u015bli jednak zdecydujesz si\u0119 tylko na wykonanie skarpet, jeden 100 gramowy motek wystarczy, aby zrobi\u0107 part\u0119 skarpet do rozmiaru 40. Dlatego je\u015bli planujesz wi\u0119kszy rozmiar zam\u00f3w 2 motki.</p><p>Czy jeste\u015b gotow_, aby rozpocz\u0105\u0107 szalone akrobacje z <strong>Silly Socks Halloween</strong>? My jeste\u015bmy!</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44413976871101,
+        "title": "Murky Pumpkin (01)",
+        "option1": "Murky Pumpkin (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31251",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35216850190525,
+          "product_id": 7854150418621,
+          "position": 2,
+          "created_at": "2024-08-13T13:40:21+02:00",
+          "updated_at": "2024-08-13T13:40:23+02:00",
+          "alt": "65f5545f83460c6b613c76c4504e097333a6fef5-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65f5545f83460c6b613c76c4504e097333a6fef5-1200x1200jpg.jpg?v=1723549223",
+          "variant_ids": [
+            44413976871101
+          ]
+        },
+        "available": true,
+        "price": "24.08",
+        "grams": 103,
+        "compare_at_price": "56.00",
+        "position": 1,
+        "product_id": 7854150418621,
+        "created_at": "2024-08-01T11:20:36+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44413976903869,
+        "title": "Poisonous (02)",
+        "option1": "Poisonous (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31252",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35216850124989,
+          "product_id": 7854150418621,
+          "position": 3,
+          "created_at": "2024-08-13T13:40:21+02:00",
+          "updated_at": "2024-08-13T13:40:23+02:00",
+          "alt": "3154cc12c380ca0970848a8e618bf706fc9faab8-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3154cc12c380ca0970848a8e618bf706fc9faab8-1200x1200jpg.jpg?v=1723549223",
+          "variant_ids": [
+            44413976903869
+          ]
+        },
+        "available": false,
+        "price": "24.08",
+        "grams": 103,
+        "compare_at_price": "56.00",
+        "position": 2,
+        "product_id": 7854150418621,
+        "created_at": "2024-08-01T11:20:36+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44413976936637,
+        "title": "Wicked Witch (03)",
+        "option1": "Wicked Witch (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31253",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35216850256061,
+          "product_id": 7854150418621,
+          "position": 4,
+          "created_at": "2024-08-13T13:40:21+02:00",
+          "updated_at": "2024-08-13T13:40:23+02:00",
+          "alt": "194fc7dfb0549f8d92ebab193ea2d22471cd65d7-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/194fc7dfb0549f8d92ebab193ea2d22471cd65d7-1200x1200jpg.jpg?v=1723549223",
+          "variant_ids": [
+            44413976936637
+          ]
+        },
+        "available": true,
+        "price": "24.08",
+        "grams": 103,
+        "compare_at_price": "56.00",
+        "position": 3,
+        "product_id": 7854150418621,
+        "created_at": "2024-08-01T11:20:36+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35418185302205,
+        "created_at": "2024-09-24T14:57:20+02:00",
+        "position": 1,
+        "updated_at": "2024-09-24T14:57:22+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4c31ed14de9b119d5d56538ffba4cd6e1a6fb527-1200x1200jpg.jpg?v=1727182642",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35216850190525,
+        "created_at": "2024-08-13T13:40:21+02:00",
+        "position": 2,
+        "updated_at": "2024-08-13T13:40:23+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [
+          44413976871101
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/65f5545f83460c6b613c76c4504e097333a6fef5-1200x1200jpg.jpg?v=1723549223",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35216850124989,
+        "created_at": "2024-08-13T13:40:21+02:00",
+        "position": 3,
+        "updated_at": "2024-08-13T13:40:23+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [
+          44413976903869
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3154cc12c380ca0970848a8e618bf706fc9faab8-1200x1200jpg.jpg?v=1723549223",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35216850256061,
+        "created_at": "2024-08-13T13:40:21+02:00",
+        "position": 4,
+        "updated_at": "2024-08-13T13:40:23+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [
+          44413976936637
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/194fc7dfb0549f8d92ebab193ea2d22471cd65d7-1200x1200jpg.jpg?v=1723549223",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35353197314237,
+        "created_at": "2024-09-10T12:31:17+02:00",
+        "position": 5,
+        "updated_at": "2024-09-10T12:31:18+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d06da64912604500ab74f44ebc315f0c871896f9-2700x2700jpg.jpg?v=1725964278",
+        "width": 2700,
+        "height": 2700
+      },
+      {
+        "id": 35418185334973,
+        "created_at": "2024-09-24T14:57:20+02:00",
+        "position": 6,
+        "updated_at": "2024-09-24T14:57:22+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e998cf38629e30c72a52625099fecc7a4a84df32-1200x1200jpg.jpg?v=1727182642",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35418185400509,
+        "created_at": "2024-09-24T14:57:20+02:00",
+        "position": 7,
+        "updated_at": "2024-09-24T14:57:22+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2924bb80428a78771bfbb7bcbe0407e9b85e2373-1200x1200jpg.jpg?v=1727182642",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35418185433277,
+        "created_at": "2024-09-24T14:57:20+02:00",
+        "position": 8,
+        "updated_at": "2024-09-24T14:57:22+02:00",
+        "product_id": 7854150418621,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2e80c9e2467836c293eeff48ca8fe6732cade8ad-1200x1200jpg.jpg?v=1727182642",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Murky Pumpkin (01)",
+          "Poisonous (02)",
+          "Wicked Witch (03)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7854147928253,
+    "title": "Honey Bunny Candy Halloween (Edycja Limitowana)",
+    "handle": "hp-1007194-honey-bunny-candy-halloween",
+    "body_html": "<p>Tworzenie z naszej <strong>Honey Bunny Candy</strong>\u00a0<strong>Halloween </strong>b\u0119dzie wyj\u0105tkow\u0105 przyjemno\u015bci\u0105 i obiecujemy, \u017ce nie znajdziecie w\u0142\u00f3czki tak mi\u0119kkiej i tak zabawnej jak ta.\n</p><p><strong>Honey Bunny Candy</strong>\u00a0<strong>Halloween\u00a0</strong>to bardzo gruba w\u0142\u00f3czka welurowa wykonana w 85% z poliestru i w 15% z poliamidu. Jedwabista i g\u0142adka tekstura w\u0142\u00f3czki zosta\u0142a posypana t\u0119czowymi neonowymi drobinkami wok\u00f3\u0142 g\u0142\u00f3wnej poliestrowej nici.</p><p>Idealnie nada si\u0119 na druty dziewiarskie o grubo\u015bci 6 mm oraz na szyde\u0142ko 7 mm. \u015awietnie sprawdzi si\u0119 przy \u0142atwych \u015bciegach dziewiarskich. Paleta kolor\u00f3w zawiera wszystko, czego potrzebujesz do swoich zabawnych i przera\u017caj\u0105cych projekt\u00f3w. Wszystkie dost\u0119pne odcienie mo\u017cna dopasowa\u0107 do wszystkich naszych produkt\u00f3w Honey Bunny, wi\u0119c ten wariant \u015bwietnie sprawdzi si\u0119 r\u00f3wnie\u017c jako \u017cywy detal w ka\u017cdym projekcie.</p><p><strong>Halloween Honey Bunny Candy</strong> mo\u017cna przekszta\u0142ci\u0107 w dowolny tajemniczy projekt: amigurumi, projekty do wystroju domu oraz ubrania zar\u00f3wno dla doros\u0142ych, jak i dla dzieci.\n</p><p>Na co wi\u0119c czekasz? Tw\u00f3rz upiorne projekty z nasz\u0105 <strong>Honey Bunny Candy Halloween</strong>.\n</p><p>\n</p><p><em>Wskaz\u00f3wka dla profesjonalist\u00f3w:</em> zawi\u0105\u017c w\u0119ze\u0142 podczas rozpoczynania i ko\u0144czenia motka lub bardzo ostro\u017cnie podpal ko\u0144ce, aby zabezpieczy\u0107 lu\u017ane w\u0142\u00f3kna w projekcie po wszyciu ko\u0144c\u00f3wek.\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44413971038397,
+        "title": "Pumpkin (01)",
+        "option1": "Pumpkin (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31201",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212915507389,
+          "product_id": 7854147928253,
+          "position": 3,
+          "created_at": "2024-08-12T14:11:57+02:00",
+          "updated_at": "2024-08-12T14:11:59+02:00",
+          "alt": "47aa0598c3e9fab377b8000c83544cbb91859e6c-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/47aa0598c3e9fab377b8000c83544cbb91859e6c-1200x1200jpg.jpg?v=1723464719",
+          "variant_ids": [
+            44413971038397
+          ]
+        },
+        "available": false,
+        "price": "23.18",
+        "grams": 102,
+        "compare_at_price": "38.00",
+        "position": 1,
+        "product_id": 7854147928253,
+        "created_at": "2024-08-01T11:19:38+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44413971071165,
+        "title": "Hex (02)",
+        "option1": "Hex (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31202",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35304053506237,
+          "product_id": 7854147928253,
+          "position": 6,
+          "created_at": "2024-08-30T14:50:23+02:00",
+          "updated_at": "2024-08-30T14:50:24+02:00",
+          "alt": "cce0882d8e2ad47d2742faca9bb1606c33e22221-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cce0882d8e2ad47d2742faca9bb1606c33e22221-1200x1200jpg.jpg?v=1725022224",
+          "variant_ids": [
+            44413971071165
+          ]
+        },
+        "available": false,
+        "price": "23.18",
+        "grams": 102,
+        "compare_at_price": "38.00",
+        "position": 2,
+        "product_id": 7854147928253,
+        "created_at": "2024-08-01T11:19:38+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44413971103933,
+        "title": "Poisoned Potion (03)",
+        "option1": "Poisoned Potion (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31203",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212915409085,
+          "product_id": 7854147928253,
+          "position": 4,
+          "created_at": "2024-08-12T14:11:57+02:00",
+          "updated_at": "2024-08-12T14:11:58+02:00",
+          "alt": "e7e45655a40a69d13d26dad4e083a35cd4b290fb-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e7e45655a40a69d13d26dad4e083a35cd4b290fb-1200x1200jpg.jpg?v=1723464718",
+          "variant_ids": [
+            44413971103933
+          ]
+        },
+        "available": false,
+        "price": "23.18",
+        "grams": 102,
+        "compare_at_price": "38.00",
+        "position": 3,
+        "product_id": 7854147928253,
+        "created_at": "2024-08-01T11:19:38+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44413971136701,
+        "title": "Zombie (04)",
+        "option1": "Zombie (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31204",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35212915540157,
+          "product_id": 7854147928253,
+          "position": 5,
+          "created_at": "2024-08-12T14:11:57+02:00",
+          "updated_at": "2024-08-12T14:11:59+02:00",
+          "alt": "3d11dacb3797f266473a279ff0ce49d260b024e2-1200x1200jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3d11dacb3797f266473a279ff0ce49d260b024e2-1200x1200jpg.jpg?v=1723464719",
+          "variant_ids": [
+            44413971136701
+          ]
+        },
+        "available": false,
+        "price": "23.18",
+        "grams": 102,
+        "compare_at_price": "38.00",
+        "position": 4,
+        "product_id": 7854147928253,
+        "created_at": "2024-08-01T11:19:38+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35388239478973,
+        "created_at": "2024-09-19T11:11:04+02:00",
+        "position": 1,
+        "updated_at": "2024-09-19T11:11:07+02:00",
+        "product_id": 7854147928253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/00af3da59fc1f535e161ed8c6a5030cd71113135-1200x1200jpg.jpg?v=1726737067",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35227793227965,
+        "created_at": "2024-08-15T13:18:16+02:00",
+        "position": 2,
+        "updated_at": "2024-08-15T13:18:17+02:00",
+        "product_id": 7854147928253,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e9b4be105d54619e915ef92c2ee11cbb2cfbc5cf-2862x2862jpg.jpg?v=1723720697",
+        "width": 2862,
+        "height": 2862
+      },
+      {
+        "id": 35212915507389,
+        "created_at": "2024-08-12T14:11:57+02:00",
+        "position": 3,
+        "updated_at": "2024-08-12T14:11:59+02:00",
+        "product_id": 7854147928253,
+        "variant_ids": [
+          44413971038397
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/47aa0598c3e9fab377b8000c83544cbb91859e6c-1200x1200jpg.jpg?v=1723464719",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212915409085,
+        "created_at": "2024-08-12T14:11:57+02:00",
+        "position": 4,
+        "updated_at": "2024-08-12T14:11:58+02:00",
+        "product_id": 7854147928253,
+        "variant_ids": [
+          44413971103933
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e7e45655a40a69d13d26dad4e083a35cd4b290fb-1200x1200jpg.jpg?v=1723464718",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35212915540157,
+        "created_at": "2024-08-12T14:11:57+02:00",
+        "position": 5,
+        "updated_at": "2024-08-12T14:11:59+02:00",
+        "product_id": 7854147928253,
+        "variant_ids": [
+          44413971136701
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/3d11dacb3797f266473a279ff0ce49d260b024e2-1200x1200jpg.jpg?v=1723464719",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35304053506237,
+        "created_at": "2024-08-30T14:50:23+02:00",
+        "position": 6,
+        "updated_at": "2024-08-30T14:50:24+02:00",
+        "product_id": 7854147928253,
+        "variant_ids": [
+          44413971071165
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/cce0882d8e2ad47d2742faca9bb1606c33e22221-1200x1200jpg.jpg?v=1725022224",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Pumpkin (01)",
+          "Hex (02)",
+          "Poisoned Potion (03)",
+          "Zombie (04)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7854168735933,
+    "title": "Halloween Sock Wool Glitter (Edycja Limitowana)",
+    "handle": "hp-1005365-halloween-sock-wool-glitter",
+    "body_html": "<p>Znajd\u017a druty do dziergania i poczuj, jak (nie)przytulno\u015b\u0107 rozprzestrzenia si\u0119, gdy robisz na drutach z <strong>Halloween Sock Wool Glitter</strong>.</p><p>W\u0142\u00f3czka jest wyj\u0105tkowo mi\u0119kka i dost\u0119pna w charakterystycznych Halloweenowych-kolorach. Jednak elementem, kt\u00f3ry sprawia, \u017ce w\u0142\u00f3czka jest wyj\u0105tkowo pi\u0119kna, jest efekt brokatu uzyskany przez dodanie cienkiej poliestrowej nici do tradycyjnej mieszanki we\u0142ny i poliamidu.</p><p>Dzi\u0119ki <strong>Halloween Sock Wool Glitter</strong> uzyskasz odpowiedni\u0105 r\u00f3wnowag\u0119 mi\u0119dzy komfortem a trwa\u0142o\u015bci\u0105, dzi\u0119ki czemu wszystkie ma\u0142e \u201epotworki\u201d b\u0119d\u0105 dobrze przygotowane, gdy wybior\u0105 si\u0119 na zabaw\u0119 \u201ecukierek albo psikus\u201d.</p><p>Je\u015bli rodzice ma\u0142ych potwork\u00f3w r\u00f3wnie\u017c chcieliby skarpety na Halloween, oczywi\u015bcie wi\u0119ksze skarpetki mo\u017cna r\u00f3wnie\u017c zrobi\u0107 na drutach z w\u0142\u00f3czki, poniewa\u017c Halloween nie jest tylko dla dzieci. W rzeczywisto\u015bci wystarczy jeden motek <strong>Halloween Sock Wool Glitter</strong>, aby zrobi\u0107 par\u0119 niesamowicie \u015bwietnych skarpet, kt\u00f3re r\u00f3wnie\u017c mo\u017cesz wykorzysta\u0107 jako ma\u0142y Halloweenowy upominek.</p><p>Czujesz si\u0119 ca\u0142kowicie oczarowany dzikimi kombinacjami kolor\u00f3w? Pami\u0119taj, \u017ce w\u0142\u00f3czk\u0119 mo\u017cesz wykorzysta\u0107 na inne projekty \u2013 i mo\u017cna jej u\u017cy\u0107 nie tylko w Halloween, ale przez ca\u0142y rok.</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 1976-294). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a></p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44414036902077,
+        "title": "Mean Glitter Socks (01)",
+        "option1": "Mean Glitter Socks (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948401",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171022307517,
+          "product_id": 7854168735933,
+          "position": 3,
+          "created_at": "2024-08-01T11:38:17+02:00",
+          "updated_at": "2024-08-01T11:38:20+02:00",
+          "alt": "halloween-sockwool-glitter-01jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-01jpg.jpg?v=1722505100",
+          "variant_ids": [
+            44414036902077
+          ]
+        },
+        "available": false,
+        "price": "57.00",
+        "grams": 103,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7854168735933,
+        "created_at": "2024-08-01T11:27:57+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44414036934845,
+        "title": "Creepy Glitter Socks (02)",
+        "option1": "Creepy Glitter Socks (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948402",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171022176445,
+          "product_id": 7854168735933,
+          "position": 4,
+          "created_at": "2024-08-01T11:38:18+02:00",
+          "updated_at": "2024-08-01T11:38:19+02:00",
+          "alt": "halloween-sockwool-glitter-02jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-02jpg.jpg?v=1722505099",
+          "variant_ids": [
+            44414036934845
+          ]
+        },
+        "available": false,
+        "price": "57.00",
+        "grams": 103,
+        "compare_at_price": "0.00",
+        "position": 2,
+        "product_id": 7854168735933,
+        "created_at": "2024-08-01T11:27:57+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44414036967613,
+        "title": "Scary Glitter Socks (03)",
+        "option1": "Scary Glitter Socks (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948403",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171022667965,
+          "product_id": 7854168735933,
+          "position": 5,
+          "created_at": "2024-08-01T11:38:18+02:00",
+          "updated_at": "2024-08-01T11:38:20+02:00",
+          "alt": "halloween-sockwool-glitter-03jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-03jpg.jpg?v=1722505100",
+          "variant_ids": [
+            44414036967613
+          ]
+        },
+        "available": false,
+        "price": "57.00",
+        "grams": 103,
+        "compare_at_price": "0.00",
+        "position": 3,
+        "product_id": 7854168735933,
+        "created_at": "2024-08-01T11:27:57+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44414037000381,
+        "title": "Zombie Glitter Socks (04)",
+        "option1": "Zombie Glitter Socks (04)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948404",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171022405821,
+          "product_id": 7854168735933,
+          "position": 6,
+          "created_at": "2024-08-01T11:38:18+02:00",
+          "updated_at": "2024-08-01T11:38:20+02:00",
+          "alt": "halloween-sockwool-glitter-04jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-04jpg.jpg?v=1722505100",
+          "variant_ids": [
+            44414037000381
+          ]
+        },
+        "available": false,
+        "price": "57.00",
+        "grams": 103,
+        "compare_at_price": "0.00",
+        "position": 4,
+        "product_id": 7854168735933,
+        "created_at": "2024-08-01T11:27:57+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44414037033149,
+        "title": "Wicked Glitter Socks (05)",
+        "option1": "Wicked Glitter Socks (05)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948405",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171022241981,
+          "product_id": 7854168735933,
+          "position": 7,
+          "created_at": "2024-08-01T11:38:18+02:00",
+          "updated_at": "2024-08-01T11:38:19+02:00",
+          "alt": "halloween-sockwool-glitter-05jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-05jpg.jpg?v=1722505099",
+          "variant_ids": [
+            44414037033149
+          ]
+        },
+        "available": false,
+        "price": "57.00",
+        "grams": 103,
+        "compare_at_price": "0.00",
+        "position": 5,
+        "product_id": 7854168735933,
+        "created_at": "2024-08-01T11:27:57+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44414037065917,
+        "title": "Vampire Glitter Socks (06)",
+        "option1": "Vampire Glitter Socks (06)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948406",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171022504125,
+          "product_id": 7854168735933,
+          "position": 8,
+          "created_at": "2024-08-01T11:38:18+02:00",
+          "updated_at": "2024-08-01T11:38:20+02:00",
+          "alt": "halloween-sockwool-glitter-06jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-06jpg.jpg?v=1722505100",
+          "variant_ids": [
+            44414037065917
+          ]
+        },
+        "available": false,
+        "price": "57.00",
+        "grams": 103,
+        "compare_at_price": "0.00",
+        "position": 6,
+        "product_id": 7854168735933,
+        "created_at": "2024-08-01T11:27:57+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44414037098685,
+        "title": "Shocking Glitter Socks (07)",
+        "option1": "Shocking Glitter Socks (07)",
+        "option2": null,
+        "option3": null,
+        "sku": "9001948407",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171022340285,
+          "product_id": 7854168735933,
+          "position": 9,
+          "created_at": "2024-08-01T11:38:18+02:00",
+          "updated_at": "2024-08-01T11:38:20+02:00",
+          "alt": "halloween-sockwool-glitter-07jpg",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-07jpg.jpg?v=1722505100",
+          "variant_ids": [
+            44414037098685
+          ]
+        },
+        "available": false,
+        "price": "57.00",
+        "grams": 103,
+        "compare_at_price": "0.00",
+        "position": 7,
+        "product_id": 7854168735933,
+        "created_at": "2024-08-01T11:27:57+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35171022438589,
+        "created_at": "2024-08-01T11:38:17+02:00",
+        "position": 1,
+        "updated_at": "2024-08-01T11:38:20+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-frontjpg.jpg?v=1722505100",
+        "width": 1128,
+        "height": 1129
+      },
+      {
+        "id": 35171022209213,
+        "created_at": "2024-08-01T11:38:17+02:00",
+        "position": 2,
+        "updated_at": "2024-08-01T11:38:19+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloweensockwoolglitter-1-1-picture-katrina-halloweenjpg.jpg?v=1722505099",
+        "width": 2698,
+        "height": 2698
+      },
+      {
+        "id": 35171022307517,
+        "created_at": "2024-08-01T11:38:17+02:00",
+        "position": 3,
+        "updated_at": "2024-08-01T11:38:20+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [
+          44414036902077
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-01jpg.jpg?v=1722505100",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171022176445,
+        "created_at": "2024-08-01T11:38:18+02:00",
+        "position": 4,
+        "updated_at": "2024-08-01T11:38:19+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [
+          44414036934845
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-02jpg.jpg?v=1722505099",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171022667965,
+        "created_at": "2024-08-01T11:38:18+02:00",
+        "position": 5,
+        "updated_at": "2024-08-01T11:38:20+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [
+          44414036967613
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-03jpg.jpg?v=1722505100",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171022405821,
+        "created_at": "2024-08-01T11:38:18+02:00",
+        "position": 6,
+        "updated_at": "2024-08-01T11:38:20+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [
+          44414037000381
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-04jpg.jpg?v=1722505100",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171022241981,
+        "created_at": "2024-08-01T11:38:18+02:00",
+        "position": 7,
+        "updated_at": "2024-08-01T11:38:19+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [
+          44414037033149
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-05jpg.jpg?v=1722505099",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171022504125,
+        "created_at": "2024-08-01T11:38:18+02:00",
+        "position": 8,
+        "updated_at": "2024-08-01T11:38:20+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [
+          44414037065917
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-06jpg.jpg?v=1722505100",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171022340285,
+        "created_at": "2024-08-01T11:38:18+02:00",
+        "position": 9,
+        "updated_at": "2024-08-01T11:38:20+02:00",
+        "product_id": 7854168735933,
+        "variant_ids": [
+          44414037098685
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/halloween-sockwool-glitter-07jpg.jpg?v=1722505100",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Mean Glitter Socks (01)",
+          "Creepy Glitter Socks (02)",
+          "Scary Glitter Socks (03)",
+          "Zombie Glitter Socks (04)",
+          "Wicked Glitter Socks (05)",
+          "Vampire Glitter Socks (06)",
+          "Shocking Glitter Socks (07)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7854151172285,
+    "title": "Horizon Halloween (Edycja Limitowana)",
+    "handle": "hp-1007192-horizon-halloween",
+    "body_html": "<p><strong>Horizon Halloween</strong>\u00a0to w 100% najwy\u017cszej jako\u015bci prz\u0119dza akrylowa. Jest przetwarzana w kilku etapach, kt\u00f3re s\u0105 podobne do przetwarzania we\u0142ny. Akryl jest czesany, co czyni go bogatszym i wyj\u0105tkowo mi\u0119kkim. Ponadto\u00a0<strong>Horizon Halloween</strong>\u00a0przeszed\u0142 proces Hi-Bulk, podczas kt\u00f3rego w\u0142\u00f3czka jest poddawana dzia\u0142aniu pary w trakcie produkcji, co zapewnia wi\u0119kszy komfort i mi\u0119kko\u015b\u0107 w dotyku. Jest prz\u0119dziona z w\u0142\u00f3kien akrylowych odpornych na mechacenie, co sprawia, \u017ce jest mniej podatna na mechacenie si\u0119 w por\u00f3wnaniu ze standardowym akrylem.\n</p><p>D\u0142ugie zmiany kolor\u00f3w maj\u0105 wszystkie upiorne elementy Halloween, co skutkuje \u017cywymi paskami. Motki o d\u0142ugo\u015bci 550 metr\u00f3w pozwol\u0105 Ci doj\u015b\u0107 bardzo daleko w realizacji projekt\u00f3w, zapewniaj\u0105c mniej ko\u0144c\u00f3wek do wszywania.</p><p><strong>Horizon Halloween\u00a0</strong>nie dra\u017cni sk\u00f3ry i mo\u017cna go pra\u0107 w pralce. Zdzia\u0142a cuda w przypadku odzie\u017cy, akcesori\u00f3w i projekt\u00f3w wn\u0119trzarskich, takich jak poszewki na poduszki i koce. Mo\u017ce by\u0107 \u015bwietn\u0105 alternatyw\u0105 dla os\u00f3b uczulonych na we\u0142n\u0119.</p><p>Utoruj sobie drog\u0119 do wielu kolorowych i nawiedzonych krajobraz\u00f3w dzi\u0119ki naszej prz\u0119dzy <strong>Horizon Halloween</strong>.\n</p><p>\n</p><p>W\u0142\u00f3czka posiada certyfikat OEKO-TEX\u00ae STANDARD 100 (nr. 2276-367). Wi\u0119cej informacji o certyfikacie znajdziesz na <a href=\"https://www.oeko-tex.com/en/\"><strong>https://www.oeko-tex.com/en/</strong></a>\n</p><p><strong>Uwaga:</strong> Horizon jest barwiony w preclach, a podczas procesu barwienia, zanim kolor zostanie utrwalony, nici w miejscach ich stykania si\u0119 mog\u0105 lekko zabarwi\u0107. Mo\u017ce to spowodowa\u0107 pojawienie si\u0119 kilku dodatkowych kolorowych plam w sekcjach kolor\u00f3w.</p><p>\n\n</p>",
+    "product_type": "yarn",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44413979066557,
+        "title": "Classic Halloween (01)",
+        "option1": "Classic Halloween (01)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31301",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171270820029,
+          "product_id": 7854151172285,
+          "position": 1,
+          "created_at": "2024-08-01T12:21:14+02:00",
+          "updated_at": "2024-08-01T12:21:16+02:00",
+          "alt": "9d4035fd995955c555fac9c533fbd88962eedcba-1200x1200png",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9d4035fd995955c555fac9c533fbd88962eedcba-1200x1200png.png?v=1722507676",
+          "variant_ids": [
+            44413979066557
+          ]
+        },
+        "available": true,
+        "price": "57.60",
+        "grams": 202,
+        "compare_at_price": "96.00",
+        "position": 1,
+        "product_id": 7854151172285,
+        "created_at": "2024-08-01T11:20:49+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44413979099325,
+        "title": "Witch Love (02)",
+        "option1": "Witch Love (02)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31302",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171276849341,
+          "product_id": 7854151172285,
+          "position": 2,
+          "created_at": "2024-08-01T12:22:55+02:00",
+          "updated_at": "2024-08-01T12:22:57+02:00",
+          "alt": "2800d73e5322c1334ad3ea60ea3775131f666f43-1200x1200png",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2800d73e5322c1334ad3ea60ea3775131f666f43-1200x1200png.png?v=1722507777",
+          "variant_ids": [
+            44413979099325
+          ]
+        },
+        "available": false,
+        "price": "57.60",
+        "grams": 202,
+        "compare_at_price": "96.00",
+        "position": 2,
+        "product_id": 7854151172285,
+        "created_at": "2024-08-01T11:20:49+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      },
+      {
+        "id": 44413979132093,
+        "title": "Spooky Spell (03)",
+        "option1": "Spooky Spell (03)",
+        "option2": null,
+        "option3": null,
+        "sku": "HB-31303",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 35171276882109,
+          "product_id": 7854151172285,
+          "position": 3,
+          "created_at": "2024-08-01T12:22:55+02:00",
+          "updated_at": "2024-08-01T12:22:57+02:00",
+          "alt": "f5b85f7997c2a251f40f0ff4eff4ce1ad32268b2-1200x1200png",
+          "width": 1200,
+          "height": 1200,
+          "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f5b85f7997c2a251f40f0ff4eff4ce1ad32268b2-1200x1200png.png?v=1722507777",
+          "variant_ids": [
+            44413979132093
+          ]
+        },
+        "available": true,
+        "price": "57.60",
+        "grams": 202,
+        "compare_at_price": "96.00",
+        "position": 3,
+        "product_id": 7854151172285,
+        "created_at": "2024-08-01T11:20:49+02:00",
+        "updated_at": "2024-11-22T23:43:55+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35171270820029,
+        "created_at": "2024-08-01T12:21:14+02:00",
+        "position": 1,
+        "updated_at": "2024-08-01T12:21:16+02:00",
+        "product_id": 7854151172285,
+        "variant_ids": [
+          44413979066557
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9d4035fd995955c555fac9c533fbd88962eedcba-1200x1200png.png?v=1722507676",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171276849341,
+        "created_at": "2024-08-01T12:22:55+02:00",
+        "position": 2,
+        "updated_at": "2024-08-01T12:22:57+02:00",
+        "product_id": 7854151172285,
+        "variant_ids": [
+          44413979099325
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/2800d73e5322c1334ad3ea60ea3775131f666f43-1200x1200png.png?v=1722507777",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35171276882109,
+        "created_at": "2024-08-01T12:22:55+02:00",
+        "position": 3,
+        "updated_at": "2024-08-01T12:22:57+02:00",
+        "product_id": 7854151172285,
+        "variant_ids": [
+          44413979132093
+        ],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/f5b85f7997c2a251f40f0ff4eff4ce1ad32268b2-1200x1200png.png?v=1722507777",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35227809054909,
+        "created_at": "2024-08-15T13:20:17+02:00",
+        "position": 4,
+        "updated_at": "2024-08-15T13:20:19+02:00",
+        "product_id": 7854151172285,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/d2c90918c79b4e64d3287d45aaa683a148e0a53c-3024x3024jpg.jpg?v=1723720819",
+        "width": 3024,
+        "height": 3024
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Classic Halloween (01)",
+          "Witch Love (02)",
+          "Spooky Spell (03)"
+        ]
+      }
+    ]
+  }
+]

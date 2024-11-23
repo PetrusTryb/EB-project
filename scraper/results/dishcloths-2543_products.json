@@ -1,0 +1,517 @@
+[
+  {
+    "id": 7857070932157,
+    "title": "Sweet Mess - Myjka",
+    "handle": "hp-1003511-sweet-mess-dish-cloth",
+    "body_html": "<p>Prawdziwie fenomenalna \u015bciereczka ze wzorem, dzi\u0119ki kt\u00f3remu jest tak bardzo mi\u0119kka i elastyczna, st\u0105d te\u017c taka \u0142atwa w wykr\u0119caniu.</p><p>Wykonano j\u0105 szyde\u0142kiem z Rainbow Bamboo, pe\u0142nej blasku, \u015bwietnej i mi\u0119kkiej w\u0142\u00f3czki w 100% z naturalnych materia\u0142\u00f3w.</p><p>W\u0142\u00f3czka sk\u0142ada si\u0119 z dobrej jako\u015bci bawe\u0142ny i w\u0142\u00f3kien bambusa, kt\u00f3re j\u0105 wzmacniaj\u0105. Poza tym prz\u0119dza przepuszcza powietrze i reguluj\u0119 temperatur\u0119 cia\u0142a.</p><p>Szyde\u0142kowanie z Rainbow Bamboo to przyjemno\u015b\u0107, ko\u0144cz\u0105ca si\u0119 prawdziwie mi\u0119kkimi i \u015bwietnymi rezultatami.</p><p>Powodzenia!</p><p>\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423584612541,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-201-2740",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857070932157,
+        "created_at": "2024-08-06T10:27:18+02:00",
+        "updated_at": "2024-11-22T23:46:05+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373590937789,
+        "created_at": "2024-09-16T14:34:20+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:34:22+02:00",
+        "product_id": 7857070932157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/fdf3e1872865d53f866503cca81a1552c562d30d-1200x1200jpg.jpg?v=1726490062",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373590839485,
+        "created_at": "2024-09-16T14:34:20+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:34:21+02:00",
+        "product_id": 7857070932157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/7ead11b88525fd5faa461d59993dfe4969c1da20-1200x1200jpg.jpg?v=1726490061",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373591003325,
+        "created_at": "2024-09-16T14:34:20+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:34:22+02:00",
+        "product_id": 7857070932157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/67e322bb83cc795a716803fc9f339a2f65a67d70-1200x1200jpg.jpg?v=1726490062",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373590905021,
+        "created_at": "2024-09-16T14:34:20+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:34:22+02:00",
+        "product_id": 7857070932157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/232400248d5cad62744ba32d227ae24ea6a5fb5a-1200x1200jpg.jpg?v=1726490062",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373590872253,
+        "created_at": "2024-09-16T14:34:20+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:34:22+02:00",
+        "product_id": 7857070932157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/77f6e7fac5dc247449010bc70a4e9bb36d7d6248-1200x1200jpg.jpg?v=1726490062",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373590970557,
+        "created_at": "2024-09-16T14:34:20+02:00",
+        "position": 6,
+        "updated_at": "2024-09-16T14:34:22+02:00",
+        "product_id": 7857070932157,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9ffce2cbc355b7011633459a024cb8ee11167749-1200x1200jpg.jpg?v=1726490062",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857033806013,
+    "title": "Side by Side \u2013 Szyde\u0142kowa \u015bciereczka",
+    "handle": "hp-1003512-side-by-side-dishcloth",
+    "body_html": "",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423480901821,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-201-8609",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857033806013,
+        "created_at": "2024-08-06T10:23:21+02:00",
+        "updated_at": "2024-11-22T23:46:05+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373592084669,
+        "created_at": "2024-09-16T14:34:36+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:34:38+02:00",
+        "product_id": 7857033806013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/623cacca6afcd722425ad09afa6c086f4e527572-1200x1200jpg.jpg?v=1726490078",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373592215741,
+        "created_at": "2024-09-16T14:34:36+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:34:38+02:00",
+        "product_id": 7857033806013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e87e457bfdc4a7d37c022c812ef7e72727a85efb-1200x1200jpg.jpg?v=1726490078",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373591953597,
+        "created_at": "2024-09-16T14:34:36+02:00",
+        "position": 3,
+        "updated_at": "2024-09-16T14:34:38+02:00",
+        "product_id": 7857033806013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6ad3079509e891dca6b3c0df6ea7787e9bc3a365-1200x1200jpg.jpg?v=1726490078",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373592281277,
+        "created_at": "2024-09-16T14:34:36+02:00",
+        "position": 4,
+        "updated_at": "2024-09-16T14:34:38+02:00",
+        "product_id": 7857033806013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/5d3938b483534e293dd9bf3204b9e613cd2b056c-1200x1200jpg.jpg?v=1726490078",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373592150205,
+        "created_at": "2024-09-16T14:34:36+02:00",
+        "position": 5,
+        "updated_at": "2024-09-16T14:34:38+02:00",
+        "product_id": 7857033806013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/923ee8ada665d3103dfcc9db6aed7f2fc5aa2840-1200x1200jpg.jpg?v=1726490078",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373592248509,
+        "created_at": "2024-09-16T14:34:36+02:00",
+        "position": 6,
+        "updated_at": "2024-09-16T14:34:38+02:00",
+        "product_id": 7857033806013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/37a28453a54528d96912e2dd5779e56b9a79fb68-1200x1200jpg.jpg?v=1726490078",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373592051901,
+        "created_at": "2024-09-16T14:34:36+02:00",
+        "position": 7,
+        "updated_at": "2024-09-16T14:34:38+02:00",
+        "product_id": 7857033806013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c3e6c2e35adaa3582dec842544ab11cada3a29f4-1200x1200jpg.jpg?v=1726490078",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373592019133,
+        "created_at": "2024-09-16T14:34:37+02:00",
+        "position": 8,
+        "updated_at": "2024-09-16T14:34:38+02:00",
+        "product_id": 7857033806013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/67f77ca40a7b50e258e5cb4e0cc53083a3f1a511-1200x1200jpg.jpg?v=1726490078",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7857015062717,
+    "title": "Dziergana myjka w kostk\u0119",
+    "handle": "hp-1001106-knit-dishcloth-basket-stitch",
+    "body_html": "<p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423430799549,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-171-4965",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857015062717,
+        "created_at": "2024-08-06T10:21:35+02:00",
+        "updated_at": "2024-11-22T23:46:05+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373369524413,
+        "created_at": "2024-09-16T13:59:04+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T13:59:05+02:00",
+        "product_id": 7857015062717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/c9033e7e2daacb7b0ed3bc0145c1d335f8edadd8-1200x1200jpg.jpg?v=1726487945",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35376914497725,
+        "created_at": "2024-09-17T08:47:46+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T08:47:47+02:00",
+        "product_id": 7857015062717,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/810e1b7033ed335f1f6b78a22f5ebe917bebe643-1200x1200jpg_286a2cc2-6f62-49a9-a5f4-3290dbb8bf0d.jpg?v=1726555667",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856966992061,
+    "title": "\u201cC2C\u201d - Myjka",
+    "handle": "hp-1002184-c2c-dishcloth",
+    "body_html": "<p>Na zdj\u0119ciach pokazane s\u0105 nast\u0119puj\u0105ce kolory/jako\u015bci: Rainbow Cotton 8/4 - Anthracite Grey (010)\n</p>",
+    "product_type": "crochet",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423293567165,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-1001-183-2207",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856966992061,
+        "created_at": "2024-08-06T10:15:35+02:00",
+        "updated_at": "2024-11-22T23:46:05+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373450166461,
+        "created_at": "2024-09-16T14:06:45+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:06:47+02:00",
+        "product_id": 7856966992061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/6f9c36837489f1069eea3356eeea34b3839c7270-1200x1200jpg.jpg?v=1726488407",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": 35373450133693,
+        "created_at": "2024-09-16T14:06:46+02:00",
+        "position": 2,
+        "updated_at": "2024-09-16T14:06:47+02:00",
+        "product_id": 7856966992061,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/03d6a4873137a8250e45e9734211589390e58935-1200x1200jpg.jpg?v=1726488407",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856959488189,
+    "title": "T\u0119czowy Zestaw Kuchenny",
+    "handle": "hp-1002949-rainbow-kitchen-set",
+    "body_html": "<p>Brakuje Ci kolor\u00f3w w kuchni? W takim razie mamy rozwi\u0105zanie. Ju\u017c teraz mo\u017cesz wykona\u0107 na drutach zestaw wspania\u0142ych domowych \u015bciereczek i r\u0119cznik\u00f3w w t\u0119czowych kolorach. \u015aciereczki nadaj\u0105 si\u0119 do wielokrotnego u\u017cytku, poniewa\u017c po u\u017cyciu mo\u017cna je po prostu wrzuci\u0107 do pralki.</p><p>Zestaw jest wykonany na drutach z Rainbow 8/4, kt\u00f3ra jest dost\u0119pna w wielu pi\u0119knych kolorach - wi\u0119c zastanawiam si\u0119 czy mo\u017cesz zrobi\u0107 t\u0119cz\u0119, kt\u00f3ra b\u0119dzie pasowa\u0107 do Twojego domu?</p><p>Powodzenia :)</p><p>\n</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423275249853,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2003-192-8202",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856959488189,
+        "created_at": "2024-08-06T10:14:24+02:00",
+        "updated_at": "2024-11-22T23:46:05+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35373541392573,
+        "created_at": "2024-09-16T14:25:01+02:00",
+        "position": 1,
+        "updated_at": "2024-09-16T14:25:03+02:00",
+        "product_id": 7856959488189,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/479493f1df5ca0650ef8424a71bc996dcd98bd5b-1374x1373jpg.jpg?v=1726489503",
+        "width": 1374,
+        "height": 1373
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7856953032893,
+    "title": "Rille - Myjka do naczy\u0144",
+    "handle": "hp-1005908-rille-dishcloth",
+    "body_html": "<p><strong>WYMIARY</strong></p><p>Szeroko\u015b\u0107: 25 cm</p><p>D\u0142ugo\u015b\u0107: 25 cm</p><p>\n</p><p><strong>O WZORZE</strong></p><p>Dodaj odrobin\u0119 koloru do swojej kuchni dzi\u0119ki tej prostej i funkcjonalnej myjce do naczy\u0144 wykonanej z Friends Cotton 8/4.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii Design",
+    "variants": [
+      {
+        "id": 44423258177725,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2004-224-8182",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7856953032893,
+        "created_at": "2024-08-06T10:13:23+02:00",
+        "updated_at": "2024-11-22T23:46:05+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35377690935485,
+        "created_at": "2024-09-17T13:00:36+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T13:00:38+02:00",
+        "product_id": 7856953032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/048d4abec4231fc3e9aac04843c289ceee7edd1b-1620x1620jpg.jpg?v=1726570838",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377691132093,
+        "created_at": "2024-09-17T13:00:36+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T13:00:39+02:00",
+        "product_id": 7856953032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/b5eca77533117369b402a46e090569d68f6b2104-3024x3024png.png?v=1726570839",
+        "width": 3024,
+        "height": 3024
+      },
+      {
+        "id": 35377691001021,
+        "created_at": "2024-09-17T13:00:36+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T13:00:38+02:00",
+        "product_id": 7856953032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/31aaf68233d902562af750e4ff4e5612899c5898-1620x1620jpg.jpg?v=1726570838",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377690738877,
+        "created_at": "2024-09-17T13:00:36+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T13:00:38+02:00",
+        "product_id": 7856953032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/60c0130668cf6bc3b3a172a96bfb06bbfb34a3c5-1620x1620jpg.jpg?v=1726570838",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377690804413,
+        "created_at": "2024-09-17T13:00:36+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T13:00:38+02:00",
+        "product_id": 7856953032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/24ee6084a11c9f3d875ec2c3a242248aceee63a5-1620x1620jpg.jpg?v=1726570838",
+        "width": 1620,
+        "height": 1620
+      },
+      {
+        "id": 35377691033789,
+        "created_at": "2024-09-17T13:00:36+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T13:00:38+02:00",
+        "product_id": 7856953032893,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/4c197874b023863402f81841cf8f4187fbfa2e74-1620x1620jpg.jpg?v=1726570838",
+        "width": 1620,
+        "height": 1620
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]

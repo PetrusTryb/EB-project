@@ -1,0 +1,108 @@
+[
+  {
+    "id": 7857029710013,
+    "title": "Bloom - Brelok",
+    "handle": "hp-1007517-bloom-keyring",
+    "body_html": "<p><strong>WYMIAR</strong></p><p>\u015arednica: 11cm</p><p>\n<strong>OBJA\u015aNIENIE DO WZORU</strong></p><p>Pi\u0119kny ma\u0142y upominek, kt\u00f3ry doda odrobiny koloru do torby lub kompletu kluczy. Brelok do kluczy jest wykonany na p\u0142asko z wielu warstw, a nast\u0119pnie zszyty.</p>",
+    "product_type": "knitting",
+    "vendor": "Hobbii",
+    "variants": [
+      {
+        "id": 44423470612669,
+        "title": "One size",
+        "option1": "One size",
+        "option2": null,
+        "option3": null,
+        "sku": "pattern-2127-234-4346",
+        "requires_shipping": false,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "price": "0.00",
+        "grams": 0,
+        "compare_at_price": "0.00",
+        "position": 1,
+        "product_id": 7857029710013,
+        "created_at": "2024-08-06T10:22:57+02:00",
+        "updated_at": "2024-11-22T22:20:40+01:00"
+      }
+    ],
+    "images": [
+      {
+        "id": 35378350358717,
+        "created_at": "2024-09-17T14:20:46+02:00",
+        "position": 1,
+        "updated_at": "2024-09-17T14:20:48+02:00",
+        "product_id": 7857029710013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/e1aff48de91993912ae35b03e83ce08804b2edf4-1080x1080png.png?v=1726575648",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378350686397,
+        "created_at": "2024-09-17T14:20:46+02:00",
+        "position": 2,
+        "updated_at": "2024-09-17T14:20:48+02:00",
+        "product_id": 7857029710013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/78d64d00faedba5eb983eeb6b72e092676d2bd3c-1080x1080png.png?v=1726575648",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378350489789,
+        "created_at": "2024-09-17T14:20:46+02:00",
+        "position": 3,
+        "updated_at": "2024-09-17T14:20:48+02:00",
+        "product_id": 7857029710013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/612f04f91886558ec9cbcc71f9a1ab67d7511398-1080x1080png.png?v=1726575648",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378350948541,
+        "created_at": "2024-09-17T14:20:46+02:00",
+        "position": 4,
+        "updated_at": "2024-09-17T14:20:48+02:00",
+        "product_id": 7857029710013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/97278ae8a6874d6bef1317e29614052bd7a7a896-1080x1080png.png?v=1726575648",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378350588093,
+        "created_at": "2024-09-17T14:20:46+02:00",
+        "position": 5,
+        "updated_at": "2024-09-17T14:20:48+02:00",
+        "product_id": 7857029710013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/9cf9d936e5d631b837328ac8ad1aa29315105f63-1080x1080png.png?v=1726575648",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "id": 35378350325949,
+        "created_at": "2024-09-17T14:20:46+02:00",
+        "position": 6,
+        "updated_at": "2024-09-17T14:20:48+02:00",
+        "product_id": 7857029710013,
+        "variant_ids": [],
+        "src": "https://cdn.shopify.com/s/files/1/0652/5943/8269/files/31eb17062b023344022eeb6fcbd0523817ec8ea4-1080x1080png.png?v=1726575648",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "options": [
+      {
+        "name": "Style",
+        "position": 1,
+        "values": [
+          "One size"
+        ]
+      }
+    ]
+  }
+]
