@@ -79,7 +79,7 @@ class Scraper:
                     continue
                 sanitized_url = re.sub(r'\?.*$', '', image_url)
                 image_filename = os.path.join(self.images_dir, f'{product_id}_{os.path.basename(sanitized_url)}')
-                if counter > 3:
+                if counter == 2:
                     break
                 try:
                     response = requests.get(f'{image_url}', stream=True)
@@ -104,5 +104,6 @@ if __name__ == '__main__':
             with open(products_file, 'r') as file:
                 products = json.load(file)
             scraper.download_images(products)
+            print(f"Downloaded images for collection: {collection['title']}")
             bar.update(1)
         bar.close()
