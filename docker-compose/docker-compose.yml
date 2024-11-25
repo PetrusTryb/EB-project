@@ -38,6 +38,8 @@ services:
       DB_PASSWD: admin
       PS_FOLDER_ADMIN: admin4577
       PS_FOLDER_INSTALL: install4577
+      PS_INSTALL_AUTO: 1
+      PS_DOMAIN: localhost:8080
     networks:
       - prestashop_network
     volumes:
@@ -48,6 +50,9 @@ services:
         source: ./themes/myTheme # local path to the theme
         target:  /var/www/html/themes/myTheme # path to be mounted in the container
       - psdata:/var/www/html
+      - type: bind
+        source: ./translations
+        target: /var/www/html/translations
 networks:
   prestashop_network:
 volumes:
