@@ -1,0 +1,153 @@
+id,parent_handle,handle,human_readable_text
+1,None,,Strona główna
+2,None,black-friday,BF 2024 🔥
+3,None,yarn,Włóczki
+4,None,product-patterns,Wzory
+5,None,crochet-hooks,Szydełka
+6,None,knitting-needles,Druty 
+7,None,accessories,Akcesoria
+8,None,None,
+
+9,crochet-hooks,crochet-hooks-85,Pokaż wszystko
+10,crochet-hooks,crochet-hook-set,Zestawy szydełek
+11,crochet-hooks,ergonomic-crochet-hooks,Szydełka ergonomiczne
+12,crochet-hooks,tunisian-crochet,Szydełko tunezyjskie
+13,knitting-needles,knitting-needles,Pokaż wszystko
+14,knitting-needles,circular-needles,Druty na żyłce
+15,knitting-needles,dpns-double-pointed-needles,Druty podwójne/pończoszane
+16,knitting-needles,ergonomiske-strikkepinde,Druty ergonomiczne
+17,knitting-needles,needle-set,Zestawy drutów wymiennych
+18,knitting-needles,needle-set,Zestawy drutów wymiennych
+19,knitting-needles,knitpro-knitting-needles,Druty KnitPro
+20,knitting-needles,straight-or-single-pointed-needles,Druty pojedyńcze
+21,knitting-needles,straight-single-pointed-needle-sets,Zestawy drutów pojedyńczych
+22,accessories,accessories,Pokaż wszystko
+23,accessories,bag-accessories,Akcesoria do toreb
+24,accessories,accessories-for-baskets,Akcesoria do koszyków
+25,accessories,baby-diy,Baby DIY / Amigurumi
+26,accessories,beads,Koraliki
+27,accessories,sock-blockers,Blokowanie
+28,accessories,buttons,Guziki
+29,accessories,stitch-holders,Druty pomocnicze
+30,accessories,kabler-til-rundpinde,Żyłki do drutów wymiennych
+31,accessories,christmas,Boże Narodzenie
+32,accessories,closures,Zapięcia i klipsy
+33,accessories,elastik,Gumy i sznurki
+34,accessories,embroidery-yarns,Haft
+35,accessories,filling-for-teddy-bears-etc,Wypełnienie do zabawek i poduszek
+36,accessories,wrapping-and-gift-vouchers,Etykiety na prezent
+37,accessories,go-handmade,Go Handmade
+38,accessories,hobbii-2146,Hobbii
+39,accessories,knitting-chart-keeper,Teczki na wzory
+40,accessories,knitting-rings-etc,Obręcze dziewiarskie i lalki do dziergania
+41,accessories,made-by-labels,Metki
+42,accessories,leather-cords-straps,Skóra
+43,accessories,light-for-knitting-and-crochet,Lampy do dziergania
+44,accessories,measuring-tools,Miary i mierniki
+45,accessories,miscellaneous,Różne
+46,accessories,knitting-pin-gauge-1185,Miary do drutów i szydełek
+47,accessories,needles-darning-needles,Igły
+48,accessories,kontorartikler,Artykuły biurowe
+49,accessories,pillows,Poduszki
+50,accessories,mesh-stopper-point-protection-caps,Ochraniacze na druty
+51,accessories,pom-pom-makers,Zestawy do robienia pomponów
+52,accessories,pompons,Pompony
+53,accessories,rivets,Nity
+54,accessories,row-counters,Liczniki rzędów/ściegów
+55,accessories,rubber-milk-sock-stop,Lateks i stopery do skarpet
+56,accessories,safety-eyes,Oczka/noski do maskotek
+57,accessories,scissors-seam-ripper,Nożyczki i rozpruwacze
+58,accessories,sewing-accessories,Akcesoria do szycia
+59,accessories,shawl-needle,Zapięcia do szala
+60,accessories,snaps,Napy
+61,accessories,stitch-holders-1129,Agrafki i kable na oczka
+62,accessories,storage-plastic-boxes,Znaczniki ściegów
+63,accessories,etiu-til-strikkepinde-haeklenale,Przechowywanie
+64,accessories,suspender-clips,Przechowywanie drutów i szydełek
+65,accessories,fingerbol-1154,Klipsy do szelek
+66,accessories,vaerktoj,Naparstki
+67,accessories,wool-detergent,Narzędzia
+68,accessories,garngadgets,Płyn do prania wełny
+69,accessories,garnbags,Akcesoria do włóczki
+70,accessories,yarn-bowls,Torby na włóczkę
+71,accessories,xx,Miski i stojaki na włóczkę
+72,accessories,zippers-1025,Nawijarki do włóczki
+73,None,black-friday,Black Friday
+74,None,black-weeks,Black Weeks
+75,None,cyber-monday,Cyber Monday
+76,yarn,yarn,Pokaż wszystko
+77,yarn,acrylic-yarn,Akryl
+78,yarn,alpaca-yarn,Alpaka
+79,yarn,bamboo-yarn,Bambus
+80,yarn,cashmere,Kaszmir
+81,yarn,cotton-blend,Bawełna - mieszanka
+82,yarn,bomuldsgarn-merc,Bawełna merceryzowana
+83,yarn,cotton-yarn,Bawełna
+84,yarn,flax-yarn,Len
+85,yarn,merino,Wełna merino
+86,yarn,mohair,Moher
+87,yarn,nylon,Nylon
+88,yarn,andre-fibrer,Inne włókna
+89,yarn,polyamide,Poliamid
+90,yarn,polyester,Poliester
+91,yarn,silk-yarn,Jedwab
+92,yarn,viscose,Wiskoza
+93,yarn,100-wool,Wełna 100%
+94,yarn,wool-blend,Wełna - mieszanka
+95,yarn,baby-yarn,Włóczki przyjazne niemowlętom
+96,yarn,chenille-yarn,Włóczki Chenille
+97,yarn,christmas-yarn-1504,Włóczki na święta
+98,yarn,colour-changing-yarn,Włóczki z przejściami kolorów
+99,yarn,easy-start,Easy Start
+100,yarn,embroidery-yarn,Nici do haftu
+101,yarn,filtegarn,Włóczki do filcowania
+102,yarn,novelty-yarn,Specjalistyczne włóczki
+103,yarn,oeko-tex,OEKO-TEX®
+104,yarn,organic,Włóczki ekologiczne
+105,yarn,sock-yarn,Włóczki skarpeciane
+106,yarn,superwash-yarns,Włóczki Superwash
+107,yarn,tape-or-ribbon-yarn,Włóczki taśmowe i wstążkowe
+108,yarn,tweed-yarn,Włóczki Tweed
+109,yarn,cakeyarn,włóczka typu
+110,yarn,lucky-bag,Zestawy Niespodzianki
+111,yarn,yarn-packages,Zestawy włóczek
+112,yarn,hobbii-yarn,Hobbii
+113,yarn,friends,Friends
+114,yarn,mayflower-yarn,Mayflower
+115,yarn,bc-yarn,BC Garn
+116,yarn,cewec,Cewec
+117,yarn,cotton-kings-378,Cotton Kings
+118,yarn,go-handmade-219,Go Handmade
+119,yarn,grndl,Gründl
+120,yarn,happy-sheep,Happy Sheep
+121,yarn,hjertegarn,Hjertegarn
+122,yarn,jarbo-yarn,Järbo Yarn
+123,yarn,viking-171,Viking of Norway
+124,yarn,we-love-yarn-246,We Love Yarn
+125,yarn,world-of-yarn,World Of Yarn
+126,product-patterns,crochet-256,Szydełko
+127,product-patterns,knit-279,Druty
+128,product-patterns,product-patterns,Pokaż wszystko
+129,product-patterns,accessories-2506,Akcesoria
+130,product-patterns,amigurumi-dolls-and-stuffed-animals,Amigurumi, lalki i pluszaki
+131,product-patterns,baby-accessories-2532,Akcesoria dla dzieci
+132,product-patterns,clothing,Ubrania
+133,product-patterns,collections,Kolekcje
+134,product-patterns,highs-seasons,Sezony i okazje
+135,product-patterns,home,Strona główna
+136,product-patterns,pets,Zwierzęta
+137,knitting-needles,needle-set,Pokaż wszystko
+138,knitting-needles,tilbehor-2218,Akcesoria do drutów wymiennych
+139,knitting-needles,x-korte-udskiftelige-rundpinde,Druty wymienne
+140,knitting-needles,knitpro-knitting-needles,Pokaż wszystko
+141,knitting-needles,bamboo,Bambus
+142,knitting-needles,basix-birch-152,Basix
+143,knitting-needles,basix-aluminium-148,Basix Aluminium
+144,knitting-needles,cubics,Cubics
+145,knitting-needles,ginger,Ginger
+146,knitting-needles,karbonz,Karbonz
+147,knitting-needles,nova-cubics,Nova Cubics
+148,knitting-needles,nova-metal,Nova Metal
+149,knitting-needles,symfonie,Symfonie
+150,knitting-needles,trendz,Trendz
+151,knitting-needles,zing,Zing

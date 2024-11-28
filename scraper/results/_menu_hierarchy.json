@@ -1,0 +1,1059 @@
+[
+  {
+    "id": 1,
+    "parent_handle": null,
+    "parent_id": null,
+    "handle": "",
+    "readable_test": "Strona g\u0142\u00f3wna"
+  },
+  {
+    "id": 2,
+    "parent_handle": null,
+    "parent_id": null,
+    "handle": "black-friday",
+    "readable_test": "BF 2024 \ud83d\udd25"
+  },
+  {
+    "id": 3,
+    "parent_handle": null,
+    "parent_id": null,
+    "handle": "yarn",
+    "readable_test": "W\u0142\u00f3czki"
+  },
+  {
+    "id": 4,
+    "parent_handle": null,
+    "parent_id": null,
+    "handle": "product-patterns",
+    "readable_test": "Wzory"
+  },
+  {
+    "id": 5,
+    "parent_handle": null,
+    "parent_id": null,
+    "handle": "crochet-hooks",
+    "readable_test": "Szyde\u0142ka"
+  },
+  {
+    "id": 6,
+    "parent_handle": null,
+    "parent_id": null,
+    "handle": "knitting-needles",
+    "readable_test": "Druty "
+  },
+  {
+    "id": 7,
+    "parent_handle": null,
+    "parent_id": null,
+    "handle": "accessories",
+    "readable_test": "Akcesoria"
+  },
+  {
+    "id": 8,
+    "parent_handle": null,
+    "parent_id": null,
+    "handle": null,
+    "readable_test": "\n"
+  },
+  {
+    "id": 9,
+    "parent_handle": "crochet-hooks",
+    "parent_id": 5,
+    "handle": "crochet-hooks-85",
+    "readable_test": "Poka\u017c wszystko"
+  },
+  {
+    "id": 10,
+    "parent_handle": "crochet-hooks",
+    "parent_id": 5,
+    "handle": "crochet-hook-set",
+    "readable_test": "Zestawy szyde\u0142ek"
+  },
+  {
+    "id": 11,
+    "parent_handle": "crochet-hooks",
+    "parent_id": 5,
+    "handle": "ergonomic-crochet-hooks",
+    "readable_test": "Szyde\u0142ka ergonomiczne"
+  },
+  {
+    "id": 12,
+    "parent_handle": "crochet-hooks",
+    "parent_id": 5,
+    "handle": "tunisian-crochet",
+    "readable_test": "Szyde\u0142ko tunezyjskie"
+  },
+  {
+    "id": 13,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "knitting-needles",
+    "readable_test": "Poka\u017c wszystko"
+  },
+  {
+    "id": 14,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "circular-needles",
+    "readable_test": "Druty na \u017cy\u0142ce"
+  },
+  {
+    "id": 15,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "dpns-double-pointed-needles",
+    "readable_test": "Druty podw\u00f3jne/po\u0144czoszane"
+  },
+  {
+    "id": 16,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "ergonomiske-strikkepinde",
+    "readable_test": "Druty ergonomiczne"
+  },
+  {
+    "id": 17,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "needle-set",
+    "readable_test": "Zestawy drut\u00f3w wymiennych"
+  },
+  {
+    "id": 18,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "needle-set",
+    "readable_test": "Zestawy drut\u00f3w wymiennych"
+  },
+  {
+    "id": 19,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "knitpro-knitting-needles",
+    "readable_test": "Druty KnitPro"
+  },
+  {
+    "id": 20,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "straight-or-single-pointed-needles",
+    "readable_test": "Druty pojedy\u0144cze"
+  },
+  {
+    "id": 21,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "straight-single-pointed-needle-sets",
+    "readable_test": "Zestawy drut\u00f3w pojedy\u0144czych"
+  },
+  {
+    "id": 22,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "accessories",
+    "readable_test": "Poka\u017c wszystko"
+  },
+  {
+    "id": 23,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "bag-accessories",
+    "readable_test": "Akcesoria do toreb"
+  },
+  {
+    "id": 24,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "accessories-for-baskets",
+    "readable_test": "Akcesoria do koszyk\u00f3w"
+  },
+  {
+    "id": 25,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "baby-diy",
+    "readable_test": "Baby DIY / Amigurumi"
+  },
+  {
+    "id": 26,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "beads",
+    "readable_test": "Koraliki"
+  },
+  {
+    "id": 27,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "sock-blockers",
+    "readable_test": "Blokowanie"
+  },
+  {
+    "id": 28,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "buttons",
+    "readable_test": "Guziki"
+  },
+  {
+    "id": 29,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "stitch-holders",
+    "readable_test": "Druty pomocnicze"
+  },
+  {
+    "id": 30,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "kabler-til-rundpinde",
+    "readable_test": "\u017by\u0142ki do drut\u00f3w wymiennych"
+  },
+  {
+    "id": 31,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "christmas",
+    "readable_test": "Bo\u017ce Narodzenie"
+  },
+  {
+    "id": 32,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "closures",
+    "readable_test": "Zapi\u0119cia i klipsy"
+  },
+  {
+    "id": 33,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "elastik",
+    "readable_test": "Gumy i sznurki"
+  },
+  {
+    "id": 34,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "embroidery-yarns",
+    "readable_test": "Haft"
+  },
+  {
+    "id": 35,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "filling-for-teddy-bears-etc",
+    "readable_test": "Wype\u0142nienie do zabawek i poduszek"
+  },
+  {
+    "id": 36,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "wrapping-and-gift-vouchers",
+    "readable_test": "Etykiety na prezent"
+  },
+  {
+    "id": 37,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "go-handmade",
+    "readable_test": "Go Handmade"
+  },
+  {
+    "id": 38,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "hobbii-2146",
+    "readable_test": "Hobbii"
+  },
+  {
+    "id": 39,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "knitting-chart-keeper",
+    "readable_test": "Teczki na wzory"
+  },
+  {
+    "id": 40,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "knitting-rings-etc",
+    "readable_test": "Obr\u0119cze dziewiarskie i lalki do dziergania"
+  },
+  {
+    "id": 41,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "made-by-labels",
+    "readable_test": "Metki"
+  },
+  {
+    "id": 42,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "leather-cords-straps",
+    "readable_test": "Sk\u00f3ra"
+  },
+  {
+    "id": 43,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "light-for-knitting-and-crochet",
+    "readable_test": "Lampy do dziergania"
+  },
+  {
+    "id": 44,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "measuring-tools",
+    "readable_test": "Miary i mierniki"
+  },
+  {
+    "id": 45,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "miscellaneous",
+    "readable_test": "R\u00f3\u017cne"
+  },
+  {
+    "id": 46,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "knitting-pin-gauge-1185",
+    "readable_test": "Miary do drut\u00f3w i szyde\u0142ek"
+  },
+  {
+    "id": 47,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "needles-darning-needles",
+    "readable_test": "Ig\u0142y"
+  },
+  {
+    "id": 48,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "kontorartikler",
+    "readable_test": "Artyku\u0142y biurowe"
+  },
+  {
+    "id": 49,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "pillows",
+    "readable_test": "Poduszki"
+  },
+  {
+    "id": 50,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "mesh-stopper-point-protection-caps",
+    "readable_test": "Ochraniacze na druty"
+  },
+  {
+    "id": 51,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "pom-pom-makers",
+    "readable_test": "Zestawy do robienia pompon\u00f3w"
+  },
+  {
+    "id": 52,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "pompons",
+    "readable_test": "Pompony"
+  },
+  {
+    "id": 53,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "rivets",
+    "readable_test": "Nity"
+  },
+  {
+    "id": 54,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "row-counters",
+    "readable_test": "Liczniki rz\u0119d\u00f3w/\u015bcieg\u00f3w"
+  },
+  {
+    "id": 55,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "rubber-milk-sock-stop",
+    "readable_test": "Lateks i stopery do skarpet"
+  },
+  {
+    "id": 56,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "safety-eyes",
+    "readable_test": "Oczka/noski do maskotek"
+  },
+  {
+    "id": 57,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "scissors-seam-ripper",
+    "readable_test": "No\u017cyczki i rozpruwacze"
+  },
+  {
+    "id": 58,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "sewing-accessories",
+    "readable_test": "Akcesoria do szycia"
+  },
+  {
+    "id": 59,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "shawl-needle",
+    "readable_test": "Zapi\u0119cia do szala"
+  },
+  {
+    "id": 60,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "snaps",
+    "readable_test": "Napy"
+  },
+  {
+    "id": 61,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "stitch-holders-1129",
+    "readable_test": "Agrafki i kable na oczka"
+  },
+  {
+    "id": 62,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "storage-plastic-boxes",
+    "readable_test": "Znaczniki \u015bcieg\u00f3w"
+  },
+  {
+    "id": 63,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "etiu-til-strikkepinde-haeklenale",
+    "readable_test": "Przechowywanie"
+  },
+  {
+    "id": 64,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "suspender-clips",
+    "readable_test": "Przechowywanie drut\u00f3w i szyde\u0142ek"
+  },
+  {
+    "id": 65,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "fingerbol-1154",
+    "readable_test": "Klipsy do szelek"
+  },
+  {
+    "id": 66,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "vaerktoj",
+    "readable_test": "Naparstki"
+  },
+  {
+    "id": 67,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "wool-detergent",
+    "readable_test": "Narz\u0119dzia"
+  },
+  {
+    "id": 68,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "garngadgets",
+    "readable_test": "P\u0142yn do prania we\u0142ny"
+  },
+  {
+    "id": 69,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "garnbags",
+    "readable_test": "Akcesoria do w\u0142\u00f3czki"
+  },
+  {
+    "id": 70,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "yarn-bowls",
+    "readable_test": "Torby na w\u0142\u00f3czk\u0119"
+  },
+  {
+    "id": 71,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "xx",
+    "readable_test": "Miski i stojaki na w\u0142\u00f3czk\u0119"
+  },
+  {
+    "id": 72,
+    "parent_handle": "accessories",
+    "parent_id": 7,
+    "handle": "zippers-1025",
+    "readable_test": "Nawijarki do w\u0142\u00f3czki"
+  },
+  {
+    "id": 73,
+    "parent_handle": null,
+    "parent_id": 8,
+    "handle": "black-friday",
+    "readable_test": "Black Friday"
+  },
+  {
+    "id": 74,
+    "parent_handle": null,
+    "parent_id": 8,
+    "handle": "black-weeks",
+    "readable_test": "Black Weeks"
+  },
+  {
+    "id": 75,
+    "parent_handle": null,
+    "parent_id": 8,
+    "handle": "cyber-monday",
+    "readable_test": "Cyber Monday"
+  },
+  {
+    "id": 76,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "yarn",
+    "readable_test": "Poka\u017c wszystko"
+  },
+  {
+    "id": 77,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "acrylic-yarn",
+    "readable_test": "Akryl"
+  },
+  {
+    "id": 78,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "alpaca-yarn",
+    "readable_test": "Alpaka"
+  },
+  {
+    "id": 79,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "bamboo-yarn",
+    "readable_test": "Bambus"
+  },
+  {
+    "id": 80,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "cashmere",
+    "readable_test": "Kaszmir"
+  },
+  {
+    "id": 81,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "cotton-blend",
+    "readable_test": "Bawe\u0142na - mieszanka"
+  },
+  {
+    "id": 82,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "bomuldsgarn-merc",
+    "readable_test": "Bawe\u0142na merceryzowana"
+  },
+  {
+    "id": 83,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "cotton-yarn",
+    "readable_test": "Bawe\u0142na"
+  },
+  {
+    "id": 84,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "flax-yarn",
+    "readable_test": "Len"
+  },
+  {
+    "id": 85,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "merino",
+    "readable_test": "We\u0142na merino"
+  },
+  {
+    "id": 86,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "mohair",
+    "readable_test": "Moher"
+  },
+  {
+    "id": 87,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "nylon",
+    "readable_test": "Nylon"
+  },
+  {
+    "id": 88,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "andre-fibrer",
+    "readable_test": "Inne w\u0142\u00f3kna"
+  },
+  {
+    "id": 89,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "polyamide",
+    "readable_test": "Poliamid"
+  },
+  {
+    "id": 90,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "polyester",
+    "readable_test": "Poliester"
+  },
+  {
+    "id": 91,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "silk-yarn",
+    "readable_test": "Jedwab"
+  },
+  {
+    "id": 92,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "viscose",
+    "readable_test": "Wiskoza"
+  },
+  {
+    "id": 93,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "100-wool",
+    "readable_test": "We\u0142na 100%"
+  },
+  {
+    "id": 94,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "wool-blend",
+    "readable_test": "We\u0142na - mieszanka"
+  },
+  {
+    "id": 95,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "baby-yarn",
+    "readable_test": "W\u0142\u00f3czki przyjazne niemowl\u0119tom"
+  },
+  {
+    "id": 96,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "chenille-yarn",
+    "readable_test": "W\u0142\u00f3czki Chenille"
+  },
+  {
+    "id": 97,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "christmas-yarn-1504",
+    "readable_test": "W\u0142\u00f3czki na \u015bwi\u0119ta"
+  },
+  {
+    "id": 98,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "colour-changing-yarn",
+    "readable_test": "W\u0142\u00f3czki z przej\u015bciami kolor\u00f3w"
+  },
+  {
+    "id": 99,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "easy-start",
+    "readable_test": "Easy Start"
+  },
+  {
+    "id": 100,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "embroidery-yarn",
+    "readable_test": "Nici do haftu"
+  },
+  {
+    "id": 101,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "filtegarn",
+    "readable_test": "W\u0142\u00f3czki do filcowania"
+  },
+  {
+    "id": 102,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "novelty-yarn",
+    "readable_test": "Specjalistyczne w\u0142\u00f3czki"
+  },
+  {
+    "id": 103,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "oeko-tex",
+    "readable_test": "OEKO-TEX\u00ae"
+  },
+  {
+    "id": 104,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "organic",
+    "readable_test": "W\u0142\u00f3czki ekologiczne"
+  },
+  {
+    "id": 105,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "sock-yarn",
+    "readable_test": "W\u0142\u00f3czki skarpeciane"
+  },
+  {
+    "id": 106,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "superwash-yarns",
+    "readable_test": "W\u0142\u00f3czki Superwash"
+  },
+  {
+    "id": 107,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "tape-or-ribbon-yarn",
+    "readable_test": "W\u0142\u00f3czki ta\u015bmowe i wst\u0105\u017ckowe"
+  },
+  {
+    "id": 108,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "tweed-yarn",
+    "readable_test": "W\u0142\u00f3czki Tweed"
+  },
+  {
+    "id": 109,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "cakeyarn",
+    "readable_test": "w\u0142\u00f3czka typu"
+  },
+  {
+    "id": 110,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "lucky-bag",
+    "readable_test": "Zestawy Niespodzianki"
+  },
+  {
+    "id": 111,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "yarn-packages",
+    "readable_test": "Zestawy w\u0142\u00f3czek"
+  },
+  {
+    "id": 112,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "hobbii-yarn",
+    "readable_test": "Hobbii"
+  },
+  {
+    "id": 113,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "friends",
+    "readable_test": "Friends"
+  },
+  {
+    "id": 114,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "mayflower-yarn",
+    "readable_test": "Mayflower"
+  },
+  {
+    "id": 115,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "bc-yarn",
+    "readable_test": "BC Garn"
+  },
+  {
+    "id": 116,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "cewec",
+    "readable_test": "Cewec"
+  },
+  {
+    "id": 117,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "cotton-kings-378",
+    "readable_test": "Cotton Kings"
+  },
+  {
+    "id": 118,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "go-handmade-219",
+    "readable_test": "Go Handmade"
+  },
+  {
+    "id": 119,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "grndl",
+    "readable_test": "Gr\u00fcndl"
+  },
+  {
+    "id": 120,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "happy-sheep",
+    "readable_test": "Happy Sheep"
+  },
+  {
+    "id": 121,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "hjertegarn",
+    "readable_test": "Hjertegarn"
+  },
+  {
+    "id": 122,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "jarbo-yarn",
+    "readable_test": "J\u00e4rbo Yarn"
+  },
+  {
+    "id": 123,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "viking-171",
+    "readable_test": "Viking of Norway"
+  },
+  {
+    "id": 124,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "we-love-yarn-246",
+    "readable_test": "We Love Yarn"
+  },
+  {
+    "id": 125,
+    "parent_handle": "yarn",
+    "parent_id": 3,
+    "handle": "world-of-yarn",
+    "readable_test": "World Of Yarn"
+  },
+  {
+    "id": 126,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "crochet-256",
+    "readable_test": "Szyde\u0142ko"
+  },
+  {
+    "id": 127,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "knit-279",
+    "readable_test": "Druty"
+  },
+  {
+    "id": 128,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "product-patterns",
+    "readable_test": "Poka\u017c wszystko"
+  },
+  {
+    "id": 129,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "accessories-2506",
+    "readable_test": "Akcesoria"
+  },
+  {
+    "id": 130,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "amigurumi-dolls-and-stuffed-animals",
+    "readable_test": "Amigurumi, lalki i pluszaki"
+  },
+  {
+    "id": 131,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "baby-accessories-2532",
+    "readable_test": "Akcesoria dla dzieci"
+  },
+  {
+    "id": 132,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "clothing",
+    "readable_test": "Ubrania"
+  },
+  {
+    "id": 133,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "collections",
+    "readable_test": "Kolekcje"
+  },
+  {
+    "id": 134,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "highs-seasons",
+    "readable_test": "Sezony i okazje"
+  },
+  {
+    "id": 135,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "home",
+    "readable_test": "Strona g\u0142\u00f3wna"
+  },
+  {
+    "id": 136,
+    "parent_handle": "product-patterns",
+    "parent_id": 4,
+    "handle": "pets",
+    "readable_test": "Zwierz\u0119ta"
+  },
+  {
+    "id": 137,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "needle-set",
+    "readable_test": "Poka\u017c wszystko"
+  },
+  {
+    "id": 138,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "tilbehor-2218",
+    "readable_test": "Akcesoria do drut\u00f3w wymiennych"
+  },
+  {
+    "id": 139,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "x-korte-udskiftelige-rundpinde",
+    "readable_test": "Druty wymienne"
+  },
+  {
+    "id": 140,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "knitpro-knitting-needles",
+    "readable_test": "Poka\u017c wszystko"
+  },
+  {
+    "id": 141,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "bamboo",
+    "readable_test": "Bambus"
+  },
+  {
+    "id": 142,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "basix-birch-152",
+    "readable_test": "Basix"
+  },
+  {
+    "id": 143,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "basix-aluminium-148",
+    "readable_test": "Basix Aluminium"
+  },
+  {
+    "id": 144,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "cubics",
+    "readable_test": "Cubics"
+  },
+  {
+    "id": 145,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "ginger",
+    "readable_test": "Ginger"
+  },
+  {
+    "id": 146,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "karbonz",
+    "readable_test": "Karbonz"
+  },
+  {
+    "id": 147,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "nova-cubics",
+    "readable_test": "Nova Cubics"
+  },
+  {
+    "id": 148,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "nova-metal",
+    "readable_test": "Nova Metal"
+  },
+  {
+    "id": 149,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "symfonie",
+    "readable_test": "Symfonie"
+  },
+  {
+    "id": 150,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "trendz",
+    "readable_test": "Trendz"
+  },
+  {
+    "id": 151,
+    "parent_handle": "knitting-needles",
+    "parent_id": 6,
+    "handle": "zing",
+    "readable_test": "Zing"
+  }
+]

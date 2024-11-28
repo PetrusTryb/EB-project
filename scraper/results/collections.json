@@ -15,19 +15,19 @@
     "id": 306196742333,
     "title": "Akcesoria",
     "handle": "accessories-2506",
-    "products_count": 799
+    "products_count": 805
   },
   {
     "id": 306201657533,
     "title": "Akcesoria",
     "handle": "accessories",
-    "products_count": 1526
+    "products_count": 1527
   },
   {
     "id": 306201559229,
     "title": "Akcesoria dla dzieci",
     "handle": "baby-accessories-2532",
-    "products_count": 193
+    "products_count": 194
   },
   {
     "id": 306188026045,
@@ -60,6 +60,12 @@
     "products_count": 16
   },
   {
+    "id": 663427023226,
+    "title": "Akcesoria w konkurencyjnych cenach ",
+    "handle": "akcesoria-w-konkurencyjnych-cenach",
+    "products_count": 21
+  },
+  {
     "id": 306206736573,
     "title": "Akryl",
     "handle": "acrylic-yarn",
@@ -75,13 +81,13 @@
     "id": 306185928893,
     "title": "Amigurumi",
     "handle": "amigurumi-2512",
-    "products_count": 430
+    "products_count": 434
   },
   {
     "id": 306206867645,
     "title": "Amigurumi, lalki i pluszaki",
     "handle": "amigurumi-dolls-and-stuffed-animals",
-    "products_count": 648
+    "products_count": 652
   },
   {
     "id": 306202673341,
@@ -138,6 +144,12 @@
     "products_count": 13
   },
   {
+    "id": 663441211770,
+    "title": "Bawe\u0142na w niskiej cenie ",
+    "handle": "algodon-a-precio-de-costo",
+    "products_count": 5
+  },
+  {
     "id": 306188812477,
     "title": "BC Garn",
     "handle": "bc-yarn",
@@ -174,6 +186,12 @@
     "products_count": 8
   },
   {
+    "id": 663426990458,
+    "title": "Black Friday",
+    "handle": "black-friday-2",
+    "products_count": 8
+  },
+  {
     "id": 642920677754,
     "title": "Black Weeks",
     "handle": "black-weeks",
@@ -201,7 +219,7 @@
     "id": 306186125501,
     "title": "Bo\u017ce Narodzenie",
     "handle": "christmas-2553",
-    "products_count": 290
+    "products_count": 293
   },
   {
     "id": 306183995581,
@@ -258,10 +276,16 @@
     "products_count": 0
   },
   {
+    "id": 663426859386,
+    "title": "Cyber Monday",
+    "handle": "cyber-monday",
+    "products_count": 14
+  },
+  {
     "id": 306204573885,
     "title": "Czapki i opaski",
     "handle": "hats-headbands-etc",
-    "products_count": 298
+    "products_count": 302
   },
   {
     "id": 308362510525,
@@ -285,7 +309,7 @@
     "id": 306194055357,
     "title": "Dla zwierz\u0105t",
     "handle": "pets",
-    "products_count": 35
+    "products_count": 36
   },
   {
     "id": 306198610109,
@@ -501,7 +525,7 @@
     "id": 306202804413,
     "title": "Gwiazdka",
     "handle": "christmas",
-    "products_count": 38
+    "products_count": 39
   },
   {
     "id": 306201067709,
@@ -534,6 +558,12 @@
     "products_count": 1
   },
   {
+    "id": 663426957690,
+    "title": "Halloween",
+    "handle": "halloween-2",
+    "products_count": 1
+  },
+  {
     "id": 306199101629,
     "title": "Happy Sheep",
     "handle": "happy-sheep",
@@ -555,13 +585,13 @@
     "id": 306186092733,
     "title": "Hobbii",
     "handle": "hobbii-yarn",
-    "products_count": 273
+    "products_count": 272
   },
   {
     "id": 306205753533,
     "title": "Hobbii",
     "handle": "hobbii-2146",
-    "products_count": 305
+    "products_count": 306
   },
   {
     "id": 306206376125,
@@ -657,7 +687,7 @@
     "id": 306191859901,
     "title": "Jonah's Hands x Hobbii",
     "handle": "jonah-s-hands-x-hobbii",
-    "products_count": 6
+    "products_count": 7
   },
   {
     "id": 306209718461,
@@ -729,7 +759,7 @@
     "id": 651398709626,
     "title": "KnitPro",
     "handle": "knitpro",
-    "products_count": 14
+    "products_count": 13
   },
   {
     "id": 306203099325,
@@ -741,7 +771,7 @@
     "id": 306189959357,
     "title": "Koce",
     "handle": "blankets-2547",
-    "products_count": 313
+    "products_count": 314
   },
   {
     "id": 306204704957,
@@ -801,7 +831,7 @@
     "id": 306184945853,
     "title": "Kurtki i kardigany",
     "handle": "cardigans-and-jackets",
-    "products_count": 364
+    "products_count": 365
   },
   {
     "id": 306195333309,
@@ -816,22 +846,10 @@
     "products_count": 41
   },
   {
-    "id": 306193629373,
-    "title": "Latex do skarpet & Stopery do skarpet",
-    "handle": "rubber-milk-sock-stop",
-    "products_count": 6
-  },
-  {
     "id": 306190778557,
     "title": "Lib\u00e8re tes mailles",
     "handle": "libere-tes-mailles",
     "products_count": 2
-  },
-  {
-    "id": 306207686845,
-    "title": "Liczniki \u015bcieg\u00f3w",
-    "handle": "row-counters",
-    "products_count": 27
   },
   {
     "id": 306194088125,
@@ -849,7 +867,7 @@
     "id": 306189664445,
     "title": "MAL / CAL",
     "handle": "mal-cal",
-    "products_count": 1
+    "products_count": 2
   },
   {
     "id": 306189074621,
@@ -915,7 +933,13 @@
     "id": 651399364986,
     "title": "Najpopularniejsi ulubie\u0144cy",
     "handle": "favoritos-exitosos",
-    "products_count": 11
+    "products_count": 12
+  },
+  {
+    "id": 663441179002,
+    "title": "Najpopularniejsi ulubie\u0144cy",
+    "handle": "favoritos-exitosos-1",
+    "products_count": 5
   },
   {
     "id": 306187960509,
@@ -930,22 +954,10 @@
     "products_count": 12
   },
   {
-    "id": 306190647485,
-    "title": "Nity",
-    "handle": "rivets",
-    "products_count": 9
-  },
-  {
     "id": 306187468989,
     "title": "Noelle Rigtrup @peachpenguincrochet",
     "handle": "noelle-rigtrup-peachpenguincrochet",
     "products_count": 2
-  },
-  {
-    "id": 651398644090,
-    "title": "No\u017cyczki ",
-    "handle": "sakse",
-    "products_count": 6
   },
   {
     "id": 306206212285,
@@ -958,12 +970,6 @@
     "title": "Obr\u0119cze dziewiarskie & Lalki do dziergania",
     "handle": "knitting-rings-etc",
     "products_count": 20
-  },
-  {
-    "id": 306203263165,
-    "title": "Oczka/noski do maskotek",
-    "handle": "safety-eyes",
-    "products_count": 22
   },
   {
     "id": 306184192189,
@@ -1146,16 +1152,16 @@
     "products_count": 3
   },
   {
-    "id": 306198085821,
-    "title": "Rico Design",
-    "handle": "rico-design",
-    "products_count": 4
+    "id": 663426892154,
+    "title": "Resztki serii w atrakcyjnych cenach ",
+    "handle": "resztki-serii-w-atrakcyjnych-cenach",
+    "products_count": 3
   },
   {
     "id": 306188353725,
     "title": "Robienie na drutach",
     "handle": "knit-279",
-    "products_count": 1989
+    "products_count": 2000
   },
   {
     "id": 306194972861,
@@ -1167,13 +1173,13 @@
     "id": 306186256573,
     "title": "R\u0119kawiczki i mittenki",
     "handle": "gloves-and-mittens-2530",
-    "products_count": 72
+    "products_count": 74
   },
   {
     "id": 306200379581,
     "title": "Sezony i okazje",
     "handle": "highs-seasons",
-    "products_count": 1224
+    "products_count": 1227
   },
   {
     "id": 306047254717,
@@ -1275,19 +1281,19 @@
     "id": 306187534525,
     "title": "Szyde\u0142kowanie",
     "handle": "crochet-256",
-    "products_count": 2798
+    "products_count": 2816
   },
   {
     "id": 306193858749,
     "title": "Torby i torebki",
     "handle": "bags-and-purses",
-    "products_count": 261
+    "products_count": 264
   },
   {
     "id": 306200707261,
     "title": "Ubrania",
     "handle": "clothing",
-    "products_count": 2810
+    "products_count": 2832
   },
   {
     "id": 306201231549,
@@ -1326,22 +1332,16 @@
     "products_count": 12
   },
   {
-    "id": 306201493693,
-    "title": "Wyprzeda\u017c",
-    "handle": "exciting-things",
-    "products_count": 17
-  },
-  {
     "id": 306193694909,
     "title": "Wystr\u00f3j wn\u0119trz",
     "handle": "home",
-    "products_count": 886
+    "products_count": 887
   },
   {
     "id": 306203361469,
     "title": "Wzory",
     "handle": "product-patterns",
-    "products_count": 4787
+    "products_count": 4816
   },
   {
     "id": 306187370685,
@@ -1473,7 +1473,7 @@
     "id": 642866610554,
     "title": "\u015awietne okazje!",
     "handle": "great-deals",
-    "products_count": 40
+    "products_count": 68
   },
   {
     "id": 306198249661,
@@ -1485,13 +1485,13 @@
     "id": 642920743290,
     "title": "\u015awi\u0105teczna W\u0142\u00f3czka",
     "handle": "hilo-navideno",
-    "products_count": 22
+    "products_count": 20
   },
   {
     "id": 651398381946,
     "title": "\u015awi\u0105teczna W\u0142\u00f3czka",
     "handle": "julegarner",
-    "products_count": 22
+    "products_count": 20
   },
   {
     "id": 306184585405,
