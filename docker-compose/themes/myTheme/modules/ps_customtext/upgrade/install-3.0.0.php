@@ -1,4 +1,5 @@
-{**
+<?php
+/**
  * Copyright since 2007 PrestaShop SA and Contributors
  * PrestaShop is an International Registered Trademark & Property of PrestaShop SA
  *
@@ -21,15 +22,35 @@
  * @author    PrestaShop SA and Contributors <contact@prestashop.com>
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
- *}
-{foreach $stylesheets.external as $stylesheet}
-  <link rel="stylesheet" href="{$stylesheet.uri}" type="text/css" media="{$stylesheet.media}">
-{/foreach}
-<link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/main_menu.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/header.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/main_content.css" type="text/css" media="all">
-{foreach $stylesheets.inline as $stylesheet}
-  <style>
-    {$stylesheet.content}
-  </style>
-{/foreach}
+ */
+if (!defined('_PS_VERSION_')) {
+    exit;
+}
+
+/**
+ * Upgrade the Ps_Customtext module to V3.0.0
+ *
+ * @param Ps_Customtext $module
+ *
+ * @return bool
+ */
+function upgrade_module_3_0_0($module)
+{
+    require_once _PS_MODULE_DIR_ . $module->name . '/classes/MigrateData.php';
+    $migration = new MigrateData();
+
+    $return = true;
+
+    $migration->retrieveOldData();
+    $return &= $module->uninstallDB();
+
+    /* Register the hook responsible for adding custom text when adding a new store */
+    $return &= $module->registerHook('actionShopDataDuplication');
+
+    $return &= $module->installDB();
+
+    /* Reset DB data */
+    $return &= $migration->insertData();
+
+    return (bool) $return;
+}

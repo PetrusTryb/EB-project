@@ -37,14 +37,15 @@
     {/block}
 
     {block name='page_content_container'}
+		          <div>xd</div>
       <div id="content" class="page-content card card-block">
-        {block name='page_content_top'}{/block}
+			  {block name='page_content_top'}{/block}
         {block name='page_content'}
-          <!-- Page content -->
+          <div>xd</div>
         {/block}
       </div>
     {/block}
-
+		{hook h='displayMainContent'}
     {block name='page_footer_container'}
       <footer class="page-footer">
         {block name='page_footer'}

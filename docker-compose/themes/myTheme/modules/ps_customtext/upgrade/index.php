@@ -1,4 +1,5 @@
-{**
+<?php
+/**
  * Copyright since 2007 PrestaShop SA and Contributors
  * PrestaShop is an International Registered Trademark & Property of PrestaShop SA
  *
@@ -21,15 +22,13 @@
  * @author    PrestaShop SA and Contributors <contact@prestashop.com>
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
- *}
-{foreach $stylesheets.external as $stylesheet}
-  <link rel="stylesheet" href="{$stylesheet.uri}" type="text/css" media="{$stylesheet.media}">
-{/foreach}
-<link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/main_menu.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/header.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/main_content.css" type="text/css" media="all">
-{foreach $stylesheets.inline as $stylesheet}
-  <style>
-    {$stylesheet.content}
-  </style>
-{/foreach}
+ */
+header('Expires: Mon, 26 Jul 1997 05:00:00 GMT');
+header('Last-Modified: ' . gmdate('D, d M Y H:i:s') . ' GMT');
+
+header('Cache-Control: no-store, no-cache, must-revalidate');
+header('Cache-Control: post-check=0, pre-check=0', false);
+header('Pragma: no-cache');
+
+header('Location: ../');
+exit;
