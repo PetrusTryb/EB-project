@@ -132,6 +132,24 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     """
     def test_8_place_an_order(self):
         self.browser.find_element(By.CSS_SELECTOR, '#payment-confirmation button[type="submit"]').click()
+        order_confirmation = self.browser.find_element(By.CSS_SELECTOR, '#content-hook_order_confirmation').text.lower()
+        
+        #self.assertIn('twoje zamówienie zostało potwierdzone', order_confirmation)
+        self.assertIn('your order is confirmed', order_confirmation)        # currently no PL avaliable
+
+    """
+    Sprawdzenie statusu zamówienia
+    """
+    def test_9_get_order_status(self):
+        self.browser.get(PRESTASHOP_URL)
+        self.browser.find_element(By.CLASS_NAME, 'account').click()
+        # wait for page to load
+        WebDriverWait(self.browser, 10).until(lambda x: x.find_element(By.ID, 'history-link'))
+        self.browser.find_element(By.ID, 'history-link').click()
+
+        order_status = self.browser.find_element(By.CSS_SELECTOR, '.table .label.label-pill.bright').text.lower()
+        self.assertEqual('oczekiwanie na płatność przy odbiorze', order_status)
+    
         
 if __name__ == '__main__':
     unittest.main(verbosity=2)
