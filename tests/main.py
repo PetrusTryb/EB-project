@@ -37,16 +37,17 @@ class PrestashopFrontendTestCase(unittest.TestCase):
         self.browser.find_element(by=By.CLASS_NAME, value='add-to-cart').click()
         sleep(3)
         self.assertIn(f' 10 ', self.browser.find_elements(by=By.CLASS_NAME, value='cart-products-count')[1].text)
-        
+    
     """
     Wyszukanie produktu po nazwie i dodanie do koszyka losowego produktu spośród znalezionych
     """
     def test_2_search_product_by_name_and_add_random_product_to_basket(self):
         self.browser.get(PRESTASHOP_URL)
         # TODO: zmiana zapytanie po dodaniu produktów
-        self.browser.find_element(by=By.NAME, value='s').send_keys('the', Keys.ENTER)
+        self.browser.find_element(by=By.NAME, value='s').send_keys('mug', Keys.ENTER)
         available_products = self.browser.find_elements(by=By.CLASS_NAME, value='product-miniature')
         selected_random = available_products[randint(0, len(available_products)-1)]
+        #selected_random = available_products[1]
         selected_name = selected_random.find_element(by=By.CLASS_NAME, value='product-title').text.lower()
         print(f'Selected product: {selected_name}')
         selected_random.click()
@@ -89,6 +90,48 @@ class PrestashopFrontendTestCase(unittest.TestCase):
         submit.click()
         WebDriverWait(self.browser, 10).until(staleness_of(submit))
         self.assertEqual('Test Testowy', self.browser.find_element(by=By.CSS_SELECTOR, value='#_desktop_user_info > div > a.account > span').text)
+    
+    """
+    Wykonanie zamówienia zawartości koszyka
+    """
+    def test_5_order_shopping_cart_content(self):
+        # !!! Products with .svg graphics DISALLOW choosing ship
+        
+        self.browser.find_element(by=By.CSS_SELECTOR, value='#_desktop_cart > div > div > a').click()
+        self.browser.find_element(by=By.CLASS_NAME, value='text-sm-center').click()
+        
+        self.browser.find_element(by=By.NAME, value='address1').send_keys('Gabriela Narutowicza 11/12')
+        self.browser.find_element(by=By.NAME, value='postcode').send_keys('80-233')
+        self.browser.find_element(by=By.NAME, value='city').send_keys('Gdańsk')
+        
+        self.browser.find_element(by=By.NAME, value='confirm-addresses').click()
+        
+    """
+    Wybór jednego z dwóch* przewoźników
+    * tzn. trzech: firma A, firma B, odbiór osobisty
+    """
+    def test_6_choose_delivery_method(self):
+        # choose delivery method
+        delivery_options = self.browser.find_elements(By.CSS_SELECTOR, '.delivery-option input[type="radio"]')
+        random_option = randint(0, len(delivery_options)-1)
+        if random_option != 0:                          # first option is clicked by default
+            delivery_options[random_option].click()
+        
+        self.browser.find_element(by=By.NAME, value='confirmDeliveryOption').click()
 
+    """
+    Wybór metody płatności: przy odbiorze
+    """
+    def test_7_choose_payment_method_on_delivery(self):
+        self.browser.find_element(by=By.CSS_SELECTOR, value='#payment-option-2-container input').click()
+        #confirm TOS
+        self.browser.find_element(by=By.NAME, value='conditions_to_approve[terms-and-conditions]').click()
+
+    """
+    Zatwierdzenie zamówienia
+    """
+    def test_8_place_an_order(self):
+        self.browser.find_element(By.CSS_SELECTOR, '#payment-confirmation button[type="submit"]').click()
+        
 if __name__ == '__main__':
     unittest.main(verbosity=2)
