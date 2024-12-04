@@ -4,9 +4,11 @@
     <active>1</active>
     <name>
       <language id="1"><![CDATA[{{ name }}]]></language>
+      <language id="2"><![CDATA[{{ name }}]]></language>
     </name>
     <link_rewrite>
       <language id="1"><![CDATA[{{ link }}]]></language>
+      <language id="2"><![CDATA[{{ link }}]]></language>
     </link_rewrite>
   </category>
 </prestashop>
