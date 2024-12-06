@@ -25,12 +25,13 @@ services:
  
   prestashop:
     container_name: prestashop
-    image: prestashop/prestashop:1.7.8.10-apache
+    image: prestashop/prestashop:1.7.8.10-7.3-apache
     restart: unless-stopped
     depends_on:
       - mysql
     ports:
       - 8080:80
+      - 8443:443
     environment:
       DB_SERVER: some-mysql
       DB_NAME: prestashop
@@ -39,7 +40,7 @@ services:
       PS_FOLDER_ADMIN: admin4577
       PS_FOLDER_INSTALL: install4577
       PS_INSTALL_AUTO: 1
-      PS_DOMAIN: localhost:8080
+      #PS_DOMAIN: localhost:8080
     networks:
       - prestashop_network
     volumes:
@@ -56,6 +57,18 @@ services:
       - type: bind
         source: ./translations
         target: /var/www/html/translations
+      - type: bind
+        source: ./server.conf
+        target: /etc/apache2/sites-available/server.conf
+      - ./cert.pem:/etc/ssl/certs/cert.pem
+      - ./key.pem:/etc/ssl/private/key.pem
+    command: >
+      bash -c "
+      a2enmod ssl &&
+      a2ensite server &&
+      a2enmod headers &&
+      apache2-foreground
+      "
 networks:
   prestashop_network:
 volumes:
