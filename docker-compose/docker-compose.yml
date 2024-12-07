@@ -62,6 +62,7 @@ services:
         target: /etc/apache2/sites-available/server.conf
       - ./cert.pem:/etc/ssl/certs/cert.pem
       - ./key.pem:/etc/ssl/private/key.pem
+      - ./StreamBuffer.php:/var/www/html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
     command: >
       bash -c "
       a2enmod ssl &&
