@@ -150,6 +150,9 @@ class PrestashopFrontendTestCase(unittest.TestCase):
         order_status = self.browser.find_element(By.CSS_SELECTOR, '.table .label.label-pill.bright').text.lower()
         self.assertEqual('oczekiwanie na płatność przy odbiorze', order_status)
     
+    """
+    Pobranie faktury VAT
+    """
         
 if __name__ == '__main__':
     unittest.main(verbosity=2)
