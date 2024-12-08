@@ -22,7 +22,13 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
+ chuj
 <div id="js-product-list">
+kutas
+  {include file="catalog/_partials/productlist.tpl" products=$listing.products cssClass="row"}
+
+  {include file="catalog/_partials/productlist.tpl" products=$listing.products cssClass="row"}
+
   {include file="catalog/_partials/productlist.tpl" products=$listing.products cssClass="row"}
 
   {block name='pagination'}

@@ -22,14 +22,24 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
+<style>
+.block_newsletter {
+  display: flex;
+  flex-direction: row;
+  margin: unset;
+}
 
+</style>
 <div class="block_newsletter col-lg-8 col-md-12 col-sm-12" id="blockEmailSubscription_{$hookName}">
-  <div class="row">
-    <p id="block-newsletter-label" class="col-md-5 col-xs-12">{l s='Get our latest news and special sales' d='Shop.Theme.Global'}</p>
+<img src="http://localhost:8080\themes\myTheme\images\emma_1-2.webp">
     <div class="col-md-7 col-xs-12">
       <form action="{$urls.current_url}#blockEmailSubscription_{$hookName}" method="post">
         <div class="row">
           <div class="col-xs-12">
+          <h1 style="text-align: center">♥️ NEWSLETTER ♥️</h1>
+          <p style="text-align: center">
+            Zapisz się do naszego bezpłatnego newslettera i weź udział w konkursie, w którym możesz wygrać kartę podarunkową o wartości 250 zł. Możesz zrezygnować z subskrypcji w dowolnym momencie.
+          </p>
             <input
               class="btn btn-primary float-xs-right hidden-xs-down"
               name="submitNewsletter"
@@ -73,5 +83,4 @@
         </div>
       </form>
     </div>
-  </div>
 </div>

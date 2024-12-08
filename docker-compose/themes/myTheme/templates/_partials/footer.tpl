@@ -22,7 +22,17 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
-<div class="container">
+ <style>
+ .footer-container-before {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+    background-color: rgba(0,185,205,.1)
+ }
+ </style>
+<div class="container footer-container-before">
   <div class="row">
     {block name='hook_footer_before'}
       {hook h='displayFooterBefore'}

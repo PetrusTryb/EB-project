@@ -22,10 +22,29 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
-<a class="banner" href="{$banner_link}" title="{$banner_desc}">
-  {if isset($banner_img)}
-    <img src="{$banner_img}" alt="{$banner_desc}" title="{$banner_desc}" class="img-fluid" loading="lazy" width="1110" height="213">
-  {else}
-    <span>{$banner_desc}</span>
-  {/if}
-</a>
+ <style>
+ li {
+  font-weight: 700;
+      margin-top: .5em;
+    margin-bottom: .5em;
+ }
+ </style>
+<h1>O Hobbii </h1>
+<p style="color: black">
+<strong>Hobbii.pl</strong> to kompleksowy sklep dla miłośników włóczek z całego świata! Mamy wszystko, czego potrzebujesz do swojego kolejnego projektu na drutach lub szydełku. Znajdujemy się w pięknej Kopenhadze w Danii, gdzie wszystkie produkty są projektowane, a wszystkie zamówienia są pakowane i wysyłane. 
+</p>
+<p style="color: black">
+Pracujemy dzień i noc, aby stać się Twoim ulubionym sklepem włóczkarskim i oto, jak planujemy tego dokonać:
+<ul style="	margin-top: 1.25em;
+    margin-bottom: 1.25em;
+    padding-left: 1.625em;
+    list-style-type: disc;">
+<li>Zawsze uśmiechnięta obsługa klienta 😊</li>
+<li>Produkty opracowane we własnym zakresie w atrakcyjnych cenach </li>
+<li>Darmowe wzory zaprojektowane przez nasz skandynawski zespół projektowy </li>
+<li>Łatwa i bezpieczna dostawa 📦 </li>
+<li>Umożliwiamy zwroty w ciągu 3 miesięcy od zakupu. </li>
+<li>Co tygodniowe inspiracje naFacebooku orazInstagramie </li>
+</ul>
+</p>
+<p>Nie możemy się doczekać, aby powitać Cię jako klienta 💖</p>
