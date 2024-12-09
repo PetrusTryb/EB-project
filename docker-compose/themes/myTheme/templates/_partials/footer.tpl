@@ -36,12 +36,49 @@
 	display: flex;
 	justify-content: center;
  }
+ .four-col-container {
+  display: flex;
+}
+.four-col {
+  flex: 1;
+  height: 376px;
+  display: flex;
+}
  </style>
+ 	<img style="width:100%" class="whole_width" src="http://localhost:8080\themes\myTheme\images\trustpilot.png">
 <div class="container footer-container-before">
   <div class="row">
     {block name='hook_footer_before'}
       {hook h='displayFooterBefore'}
     {/block}
+  </div>
+</div>
+
+<div class="four-col-container">
+  <div class="four-col">
+    <p>
+    Hobbii.pl to kompleksowy sklep dla miłośników włóczek z całego świata! Mamy wszystko, czego potrzebujesz do swojego kolejnego projektu na drutach lub szydełku. Znajdujemy się w pięknej Kopenhadze w Danii, gdzie wszystkie produkty są projektowane, a wszystkie zamówienia są pakowane i wysyłane.
+    </p>
+  </div>
+  <div class="four-col">
+    <div class="four2-col">
+      <p>
+        Dortheavej 8-12A
+        DK - 2400 København
+        Org. nr: 36909587
+      </p>
+    </div>
+    <div class="four2-col">
+      <h2>Hobbii</h2>
+      <ul>
+        <li>Zarejestruj się za darmo</li>
+        <li>Blod</li>
+        <li>Nowe produkty</li>
+        <li>Nowe wzory</li>
+        <li>Karta podarukowa</li>
+        <li>O Hobbii </li>
+      </ul>
+    </div>
   </div>
 </div>
 <div class="footer-container">

@@ -38,6 +38,7 @@
 	width: 100%;
 	border-radius: 10px;
 }
+
 </style>
 <div class="block_newsletter col-lg-8 col-md-12 col-sm-12" id="blockEmailSubscription_{$hookName}">
 <img src="http://localhost:8080\themes\myTheme\images\emma_1-2.webp">
@@ -101,3 +102,4 @@
       </form>
     </div>
 </div>
+
