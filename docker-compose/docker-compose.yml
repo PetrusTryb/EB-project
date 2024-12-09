@@ -68,7 +68,7 @@ services:
       a2enmod ssl &&
       a2ensite server &&
       a2enmod headers &&
-      apache2-foreground
+      /tmp/docker_run.sh
       "
 networks:
   prestashop_network:
