@@ -22,7 +22,6 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
-
 <div class="block_newsletter" id="blockEmailSubscription_{$hookName}">
   <form action="{$urls.current_url}#blockEmailSubscription_{$hookName}" method="post">
     <div class="row">

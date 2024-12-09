@@ -28,6 +28,7 @@
 <link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/main_menu.css" type="text/css" media="all">
 <link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/header.css" type="text/css" media="all">
 <link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/main_content.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://localhost:8080/themes/myTheme/assets/css/slider.css" type="text/css" media="all">
 {foreach $stylesheets.inline as $stylesheet}
   <style>
     {$stylesheet.content}
