@@ -31,6 +31,11 @@
   justify-content: center;
     background-color: rgba(0,185,205,.1)
  }
+ .footer-container-before > .row {
+	width: 1170px;
+	display: flex;
+	justify-content: center;
+ }
  </style>
 <div class="container footer-container-before">
   <div class="row">
