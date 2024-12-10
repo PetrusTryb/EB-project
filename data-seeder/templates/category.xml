@@ -1,0 +1,14 @@
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+  <category>
+    <id_parent><![CDATA[{{ id_parent }}]]></id_parent>
+    <active>1</active>
+    <name>
+      <language id="1"><![CDATA[{{ name }}]]></language>
+      <language id="2"><![CDATA[{{ name }}]]></language>
+    </name>
+    <link_rewrite>
+      <language id="1"><![CDATA[{{ link }}]]></language>
+      <language id="2"><![CDATA[{{ link }}]]></language>
+    </link_rewrite>
+  </category>
+</prestashop>

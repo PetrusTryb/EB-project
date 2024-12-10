@@ -17,6 +17,8 @@ services:
         PMA_HOST: some-mysql
         PMA_PORT: 3306
         PMA_ARBITRARY: 1
+        MEMORY_LIMIT: 512M
+        UPLOAD_LIMIT: 1G
       restart: unless-stopped
       ports:
         - 8081:80
@@ -63,12 +65,13 @@ services:
       - ./cert.pem:/etc/ssl/certs/cert.pem
       - ./key.pem:/etc/ssl/private/key.pem
       - ./StreamBuffer.php:/var/www/html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+      - ./prod_images:/var/www/html/img/p
     command: >
       bash -c "
       a2enmod ssl &&
       a2ensite server &&
       a2enmod headers &&
-      apache2-foreground
+      /tmp/docker_run.sh
       "
 networks:
   prestashop_network:

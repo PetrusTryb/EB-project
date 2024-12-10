@@ -1,34 +1,40 @@
 #wrapper {
 	padding-top: 0;
+	background: white;
+	width: 100%;
+}
+#_desktop_top_menu {
+	width: 100%;
 }
 
-#_desktop_top_menu ul {
-	display: flex;
-	width: 920px;
-	justify-content: space-around
-}
 
 #_desktop_top_menu ul li a {
 	color: white;
 }
 
-#top_menu {
-	position: relative;
-	width: calc(100vw - 8px);
+.top-menu {
 	height: 56px;
-	left: calc((-100vw + 1140px) / 2 - 16px);
 	background-color: #303030;
-	margin-bottom: 15px;
 	display: flex;
 	align-items: center;
-	justify-content: center;
+	justify-content: space-around;
+	width: 100%;
+	margin-bottom: 16px;
 }
 
-#top_menu a {
+.top-menu a {
 	display: flex;
 	align-items: center;
 }
 
-.top-menu .sub-menu.collapse {
+/*.top-menu .sub-menu.collapse {
 	display: none;
+}*/
+
+.first {
+	background: white;
+}
+
+.first ul li a {
+	color: black;
 }

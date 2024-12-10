@@ -49,4 +49,4 @@
 	{renderLogo}
 	{hook h='displaySearchBasket'}
 </div>
-
+{hook h='displayHome'}
