@@ -1,0 +1,40 @@
+#wrapper {
+	padding-top: 0;
+	background: white;
+	width: 100%;
+}
+#_desktop_top_menu {
+	width: 100%;
+}
+
+
+#_desktop_top_menu ul li a {
+	color: white;
+}
+
+.top-menu {
+	height: 56px;
+	background-color: #303030;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 100%;
+	margin-bottom: 16px;
+}
+
+.top-menu a {
+	display: flex;
+	align-items: center;
+}
+
+/*.top-menu .sub-menu.collapse {
+	display: none;
+}*/
+
+.first {
+	background: white;
+}
+
+.first ul li a {
+	color: black;
+}

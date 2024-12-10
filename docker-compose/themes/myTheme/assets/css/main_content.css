@@ -1,0 +1,20 @@
+#bf_big_banner {
+	border-radius: 0.375rem;
+	margin-bottom: 1.5rem;
+	margin-top: 16px;
+}
+
+.bf_smaller {
+	width: calc(25% - .25rem);
+	height: 273px !important;
+	border-radius: 0.375rem;
+}
+
+#custom-text {
+	padding: 0;
+}
+
+.bf_smaller_container {
+	display: flex;
+	gap: 1rem;
+}

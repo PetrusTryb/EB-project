@@ -1,0 +1,80 @@
+services:
+  mysql:
+    container_name: some-mysql
+    image: mysql:5.7
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_DATABASE: prestashop
+    networks:
+      - prestashop_network
+    volumes:
+      - dbdata:/var/lib/mysql
+  phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      container_name: phpmyadmin
+      environment:
+        PMA_HOST: some-mysql
+        PMA_PORT: 3306
+        PMA_ARBITRARY: 1
+        MEMORY_LIMIT: 512M
+        UPLOAD_LIMIT: 1G
+      restart: unless-stopped
+      ports:
+        - 8081:80
+      networks:
+        - prestashop_network
+ 
+  prestashop:
+    container_name: prestashop
+    image: prestashop/prestashop:1.7.8.10-7.3-apache
+    restart: unless-stopped
+    depends_on:
+      - mysql
+    ports:
+      - 8080:80
+      - 8443:443
+    environment:
+      DB_SERVER: some-mysql
+      DB_NAME: prestashop
+      DB_USER: root
+      DB_PASSWD: admin
+      PS_FOLDER_ADMIN: admin4577
+      PS_FOLDER_INSTALL: install4577
+      PS_INSTALL_AUTO: 1
+      #PS_DOMAIN: localhost:8080
+    networks:
+      - prestashop_network
+    volumes:
+      - type: bind
+        source: ./modules/testModule # local path to the module
+        target: /var/www/html/modules/testModule # path to be mounted in the container
+      - type: bind
+        source: ./modules/ps_cashondelivery
+        target: /var/www/html/modules/ps_cashondelivery
+      - type: bind
+        source: ./themes/myTheme # local path to the theme
+        target:  /var/www/html/themes/myTheme # path to be mounted in the container
+      - psdata:/var/www/html
+      - type: bind
+        source: ./translations
+        target: /var/www/html/translations
+      - type: bind
+        source: ./server.conf
+        target: /etc/apache2/sites-available/server.conf
+      - ./cert.pem:/etc/ssl/certs/cert.pem
+      - ./key.pem:/etc/ssl/private/key.pem
+      - ./StreamBuffer.php:/var/www/html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+      - ./prod_images:/var/www/html/img/p
+    command: >
+      bash -c "
+      a2enmod ssl &&
+      a2ensite server &&
+      a2enmod headers &&
+      /tmp/docker_run.sh
+      "
+networks:
+  prestashop_network:
+volumes:
+  psdata:
+  dbdata:
