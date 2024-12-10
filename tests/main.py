@@ -32,6 +32,24 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     """
     def test_1_add_product_to_basket(self):
         self.browser.get(PRESTASHOP_URL)
+        # TODO: zmiana zapytanie po dodaniu produktów
+        self.browser.find_element(by=By.NAME, value='s').send_keys('sym', Keys.ENTER)
+        available_products = self.browser.find_elements(by=By.CLASS_NAME, value='product-miniature')
+        selected_random = available_products[randint(0, len(available_products)-1)]
+        #selected_random = available_products[1]
+        
+        selected_name = selected_random.find_element(by=By.CLASS_NAME, value='product-title').text.lower()
+        print(f'Selected product: {selected_name}')
+        selected_name_frag = selected_name[:22]+'...'
+        selected_random.click()
+        
+        self.browser.find_element(by=By.NAME, value='qty').send_keys(Keys.DELETE, '10')
+        self.browser.find_element(by=By.CLASS_NAME, value='add-to-cart').click()
+        sleep(3)
+        self.assertIn(f' 10 ', self.browser.find_elements(by=By.CLASS_NAME, value='cart-products-count')[1].text)
+        #print("\n#### Test 1 completed\n")
+        """
+        self.browser.get(PRESTASHOP_URL)
         self.browser.find_elements(by=By.CLASS_NAME, value='category')[0].click()
         self.browser.find_elements(by=By.CLASS_NAME, value='product-miniature')[0].click()
         # TODO: dodawanie RÓŻNYCH produktów
@@ -40,6 +58,7 @@ class PrestashopFrontendTestCase(unittest.TestCase):
         sleep(3)
         self.assertIn(f' 10 ', self.browser.find_elements(by=By.CLASS_NAME, value='cart-products-count')[1].text)
         #print("\n#### Test 1 completed\n")
+        """
     
     """
     Wyszukanie produktu po nazwie i dodanie do koszyka losowego produktu spośród znalezionych
@@ -47,12 +66,14 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     def test_2_search_product_by_name_and_add_random_product_to_basket(self):
         self.browser.get(PRESTASHOP_URL)
         # TODO: zmiana zapytanie po dodaniu produktów
-        self.browser.find_element(by=By.NAME, value='s').send_keys('mug', Keys.ENTER)
+        self.browser.find_element(by=By.NAME, value='s').send_keys('sym', Keys.ENTER)
         available_products = self.browser.find_elements(by=By.CLASS_NAME, value='product-miniature')
         selected_random = available_products[randint(0, len(available_products)-1)]
         #selected_random = available_products[1]
+        
         selected_name = selected_random.find_element(by=By.CLASS_NAME, value='product-title').text.lower()
         print(f'Selected product: {selected_name}')
+        selected_name_frag = selected_name[:22]+'...'
         selected_random.click()
         self.browser.find_element(by=By.CLASS_NAME, value='add-to-cart').click()
         self.browser.find_element(by=By.CLASS_NAME, value='cart-content-btn').click()
@@ -142,9 +163,9 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     def test_8_place_an_order(self):
         self.browser.find_element(by=By.CSS_SELECTOR, value='#payment-confirmation button[type="submit"]').click()
         order_confirmation = self.browser.find_element(by=By.CSS_SELECTOR, value='#content-hook_order_confirmation').text.lower()
-        
-        #self.assertIn('twoje zamówienie zostało potwierdzone', order_confirmation)
-        self.assertIn('your order is confirmed', order_confirmation)        # currently no PL avaliable
+
+        self.assertIn('twoje zamówienie zostało potwierdzone', order_confirmation)
+        #self.assertIn('your order is confirmed', order_confirmation)        # currently no PL avaliable
 
     """
     Sprawdzenie statusu zamówienia i pobranie FV
