@@ -71,11 +71,32 @@
         {/block}
         </div>
         <div class="col-md-6">
+        <span style="color: blue>Hobbii</span>
           {block name='page_header_container'}
             {block name='page_header'}
               <h1 class="h1">{block name='page_title'}{$product.name}{/block}</h1>
             {/block}
           {/block}
+                            <span>Ilość</span>
+                  <div class="qty">
+
+          <input
+            type="number"
+            name="qty"
+            id="quantity_wanted"
+            inputmode="numeric"
+            pattern="[0-9]*"
+            {if $product.quantity_wanted}
+              value="{$product.quantity_wanted}"
+              min="{$product.minimal_quantity}"
+            {else}
+              value="1"
+              min="1"
+            {/if}
+            class="input-group"
+            aria-label="{l s='Quantity' d='Shop.Theme.Actions'}"
+          >
+        </div>
           {block name='product_prices'}
             {include file='catalog/_partials/product-prices.tpl'}
           {/block}
