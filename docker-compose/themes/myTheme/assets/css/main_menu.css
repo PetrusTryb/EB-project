@@ -30,3 +30,11 @@
 /*.top-menu .sub-menu.collapse {
 	display: none;
 }*/
+
+.first {
+	background: white;
+}
+
+.first ul li a {
+	color: black;
+}
