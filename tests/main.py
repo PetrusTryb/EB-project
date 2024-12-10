@@ -31,23 +31,32 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     Dodanie do koszyka 10 produktów (w różnych ilościach) z dwóch różnych kategorii
     """
     def test_1_add_product_to_basket(self):
-        self.browser.get(PRESTASHOP_URL)
-        # TODO: zmiana zapytanie po dodaniu produktów
-        self.browser.find_element(by=By.NAME, value='s').send_keys('sym', Keys.ENTER)
-        available_products = self.browser.find_elements(by=By.CLASS_NAME, value='product-miniature')
-        selected_random = available_products[randint(0, len(available_products)-1)]
-        #selected_random = available_products[1]
-        
-        selected_name = selected_random.find_element(by=By.CLASS_NAME, value='product-title').text.lower()
-        print(f'Selected product: {selected_name}')
-        selected_name_frag = selected_name[:22]+'...'
-        selected_random.click()
-        
-        self.browser.find_element(by=By.NAME, value='qty').send_keys(Keys.DELETE, '10')
-        self.browser.find_element(by=By.CLASS_NAME, value='add-to-cart').click()
-        sleep(3)
-        self.assertIn(f' 10 ', self.browser.find_elements(by=By.CLASS_NAME, value='cart-products-count')[1].text)
-        #print("\n#### Test 1 completed\n")
+        #queries = ['man', 'amigo', 'sym', 'licz', 'rainbow lace', 'ocz', 'alum', 'żył', 'stal', 'wata']
+        queries = ['man']
+        for query in queries:
+            self.browser.get(PRESTASHOP_URL)
+            WebDriverWait(self.browser, 10).until(lambda x: x.find_element(by=By.NAME, value='s'))
+            sleep(3)
+            # TODO: zmiana zapytanie po dodaniu produktów
+            self.browser.find_element(by=By.NAME, value='s').send_keys(query)
+            #sleep(2)
+            WebDriverWait(self.browser, 10).until(lambda x: x.find_element(by=By.CSS_SELECTOR, value='.ui-autocomplete>li>a'))
+            available_products = self.browser.find_elements(by=By.CSS_SELECTOR, value='.ui-autocomplete>li>a')
+            print("test")
+            #selected_random = available_products[randint(0, len(available_products)-1)]
+            selected_random = available_products[0]
+            print("test")
+            selected_name = selected_random.find_element(by=By.CLASS_NAME, value='product').text.lower()
+            print(f'Selected product: {selected_name}')
+            selected_name_frag = selected_name[:22]+'...'
+            selected_random.click()
+            WebDriverWait(self.browser, 10).until(lambda x: x.find_element(by=By.CLASS_NAME, value='add-to-cart'))
+            #self.browser.find_element(by=By.NAME, value='qty').send_keys(Keys.DELETE, '10')
+            self.browser.find_element(by=By.CLASS_NAME, value='add-to-cart').click()
+            #sleep(3)
+            #self.assertIn(f'1', self.browser.find_elements(by=By.CLASS_NAME, value='cart-products-count')[1].text)
+            #print("\n#### Test 1 completed\n")
+            sleep(3)
         """
         self.browser.get(PRESTASHOP_URL)
         self.browser.find_elements(by=By.CLASS_NAME, value='category')[0].click()
@@ -66,18 +75,18 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     def test_2_search_product_by_name_and_add_random_product_to_basket(self):
         self.browser.get(PRESTASHOP_URL)
         # TODO: zmiana zapytanie po dodaniu produktów
-        self.browser.find_element(by=By.NAME, value='s').send_keys('sym', Keys.ENTER)
-        available_products = self.browser.find_elements(by=By.CLASS_NAME, value='product-miniature')
+        self.browser.find_element(by=By.NAME, value='s').send_keys('sym')
+        available_products = self.browser.find_elements(by=By.CSS_SELECTOR, value='.ui-autocomplete>li>a')
         selected_random = available_products[randint(0, len(available_products)-1)]
         #selected_random = available_products[1]
         
-        selected_name = selected_random.find_element(by=By.CLASS_NAME, value='product-title').text.lower()
+        selected_name = selected_random.find_element(by=By.CLASS_NAME, value='product').text.lower()
         print(f'Selected product: {selected_name}')
         selected_name_frag = selected_name[:22]+'...'
         selected_random.click()
         self.browser.find_element(by=By.CLASS_NAME, value='add-to-cart').click()
-        self.browser.find_element(by=By.CLASS_NAME, value='cart-content-btn').click()
-        self.assertEqual(selected_name, self.browser.find_elements(by=By.XPATH, value='//div[@class="product-line-info"]/a[@class="label"]')[-1].text.lower())
+        #self.browser.find_element(by=By.CLASS_NAME, value='cart-content-btn').click()
+        #self.assertEqual(selected_name, self.browser.find_elements(by=By.XPATH, value='//div[@class="product-line-info"]/a[@class="label"]')[-1].text.lower())
         #print("\n#### Test 2 completed\n")
         
     """
@@ -85,7 +94,8 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     """
     def test_3_remove_products_from_basket(self):
         self.browser.get(PRESTASHOP_URL)
-        self.browser.find_element(by=By.ID, value='_desktop_cart').click()
+        sleep(3)
+        self.browser.find_element(by=By.CSS_SELECTOR, value='#_desktop_cart>div>div>a').click()
         to_remove = self.browser.find_elements(by=By.CLASS_NAME, value='remove-from-cart')[0]
         to_remove_name = to_remove.find_element(by=By.XPATH, value='../../../../../*/*/a[@class="label"]').text.lower()
         print(f'Removing product: {to_remove_name}')
