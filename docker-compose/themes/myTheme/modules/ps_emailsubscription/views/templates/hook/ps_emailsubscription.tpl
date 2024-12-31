@@ -41,7 +41,7 @@
 
 </style>
 <div class="block_newsletter col-lg-8 col-md-12 col-sm-12" id="blockEmailSubscription_{$hookName}">
-<img src="http://localhost:8080\themes\myTheme\images\emma_1-2.webp">
+<img src="\themes\myTheme\images\emma_1-2.webp">
     <div class="col-md-7 col-xs-12 second_column">
       <form action="{$urls.current_url}#blockEmailSubscription_{$hookName}" method="post">
         <div class="row">

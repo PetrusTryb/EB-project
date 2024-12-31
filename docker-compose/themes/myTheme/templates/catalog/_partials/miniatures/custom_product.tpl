@@ -1,6 +1,6 @@
 {if $type eq 'best'}
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\alpaca-blaze-frontjpg.webp">
+    <img width="273" height="273" src="\themes\myTheme\images\alpaca-blaze-frontjpg.webp">
     <div class="product_desc">
         <h3 class="product_title">Alpaca Blaze - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -14,7 +14,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\c71f213f15fbbc13ab8f3c48b0967564.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\c71f213f15fbbc13ab8f3c48b0967564.jpg">
     <div class="product_desc">
         <h3 class="product_title">Amigo - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -28,7 +28,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image01.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image01.jpg">
     <div class="product_desc">
         <h3 class="product_title">Amigo Chunky - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -42,7 +42,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image02.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image02.jpg">
     <div class="product_desc">
         <h3 class="product_title">Azalea - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -56,7 +56,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image03.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image03.jpg">
     <div class="product_desc">
         <h3 class="product_title">Baby Cotton Organic - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -70,7 +70,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image04.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image04.jpg">
     <div class="product_desc">
         <h3 class="product_title">Baby Cotton Organic Print - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -84,7 +84,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image05.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image05.jpg">
     <div class="product_desc">
         <h3 class="product_title">Baby Snuggle Print - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -100,7 +100,7 @@
 
 {if $type eq 'popular'}
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image13.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image13.jpg">
     <div class="product_desc">
         <h3 class="product_title">Friends Cotton 8/4 - Friends</h3>
         <span class="product_desc_2"> 
@@ -114,7 +114,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image14.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image14.jpg">
     <div class="product_desc">
         <h3 class="product_title">Friends Cotton 8/8 - Friends</h3>
         <span class="product_desc_2"> 
@@ -128,7 +128,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image15.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image15.jpg">
     <div class="product_desc">
         <h3 class="product_title">Friends Cotton 8/6 - Friends</h3>
         <span class="product_desc_2"> 
@@ -142,7 +142,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image16.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image16.jpg">
     <div class="product_desc">
         <h3 class="product_title">Rainbow Cotton 8/4 - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -156,7 +156,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image17.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image17.jpg">
     <div class="product_desc">
         <h3 class="product_title">Snowstorm - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -170,7 +170,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image18.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image18.jpg">
     <div class="product_desc">
         <h3 class="product_title">Amigo XL - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -184,7 +184,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image19.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image19.jpg">
     <div class="product_desc">
         <h3 class="product_title">Rainbow Cotton 8/8 - Hobbii</h3>
         <span class="product_desc_2"> 
@@ -200,7 +200,7 @@
 
 {if $type eq 'crochet'}
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image20.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image20.jpg">
     <div class="product_desc">
         <h3 class="product_title">Szydełko Easy Touch - Hobbii</h3>
         <span> 
@@ -215,7 +215,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image21.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image21.jpg">
     <div class="product_desc">
         <h3 class="product_title">Szydełko Alu - Hobbii</h3>
         <span> 
@@ -230,7 +230,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image22.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image22.jpg">
     <div class="product_desc">
         <h3 class="product_title">Duo Touch Szydełko - Hobbii</h3>
         <span> 
@@ -245,7 +245,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image23.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image23.jpg">
     <div class="product_desc">
         <h3 class="product_title">Szydełko Aluminiowe - KnitPro</h3>
         <span> 
@@ -260,7 +260,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image24.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image24.jpg">
     <div class="product_desc">
         <h3 class="product_title">Brokatowe Szydełko - Hobbii</h3>
         <span> 
@@ -275,7 +275,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image25.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image25.jpg">
     <div class="product_desc">
         <h3 class="product_title">Szydełka Waves - KnitPro</h3>
         <span class="product_desc_2"> 
@@ -293,7 +293,7 @@
 </div>
 
 <div class="product">
-    <img width="273" height="273" src="http://localhost:8080\themes\myTheme\images\slider_images\image26.jpg">
+    <img width="273" height="273" src="\themes\myTheme\images\slider_images\image26.jpg">
     <div class="product_desc">
         <h3 class="product_title">Szydełka Soft Touch - Clover</h3>
         <div class="prices">
