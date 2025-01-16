@@ -24,12 +24,12 @@
  *}
 
 <div id="custom-text">
-  <img id="bf_big_banner" src="http://localhost:8080/themes/myTheme/images/BlackFriday_HeroBanner_Desktop_PL_7e00a4f6-ba9f-4631-93f2-c7e2129cc385.webp">
+  <img id="bf_big_banner" src="/themes/myTheme/images/BlackFriday_HeroBanner_Desktop_PL_7e00a4f6-ba9f-4631-93f2-c7e2129cc385.webp">
 	<div class="bf_smaller_container">
 	<img style="width:240px" src="xd" class="bf_smaller" alt="Black Friday">
-	<img class="bf_smaller" src="http://localhost:8080\themes\myTheme\images\BlackFriday2024_Frontbox_Amigo2_PL.avif">
-	<img class="bf_smaller" src="http://localhost:8080\themes\myTheme\images\BlackNovember_BlackFridayGarner2_Frontbox_PL.avif">
-	<img class="bf_smaller" src="http://localhost:8080\themes\myTheme\images\Gratis_PL.avif">
+	<img class="bf_smaller" src="\themes\myTheme\images\BlackFriday2024_Frontbox_Amigo2_PL.avif">
+	<img class="bf_smaller" src="\themes\myTheme\images\BlackNovember_BlackFridayGarner2_Frontbox_PL.avif">
+	<img class="bf_smaller" src="\themes\myTheme\images\Gratis_PL.avif">
 	</div>
 
 </div>
