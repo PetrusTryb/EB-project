@@ -1,0 +1,32 @@
+name: BE_184623
+services:
+  prestashop:
+    #use local image TODO: change to dockerhub image when pipeline is ready
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["bash", "-c", "/tmp/docker_run.sh"]
+    restart: unless-stopped
+    ports:
+      - 18462:443
+    environment:
+      DB_SERVER: admin-mysql_db
+      DB_NAME: BE_184623
+      DB_USER: root
+      DB_PASSWD: student
+      PS_FOLDER_ADMIN: admin4577
+      PS_FOLDER_INSTALL: install4577
+      PS_ERASE_DB: 1
+      PS_INSTALL_DB: 1
+      PS_INSTALL_AUTO: 1
+      PS_DOMAIN: localhost:18462
+      PS_LANGUAGE: pl
+      PS_COUNTRY: PL
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 256M
+        reservations:
+          cpus: '0.25'
+          memory: 128M
