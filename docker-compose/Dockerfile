@@ -17,6 +17,7 @@ RUN sed -r -i '/INSERT INTO `ps_connections_source`/,/;/d' /seed/prestashop.sql
 RUN sed -r -i '/INSERT INTO `ps_connections`/,/;/d' /seed/prestashop.sql
 COPY --chown=www-data:www-data database-init.sh /tmp/init-scripts/database-init.sh
 COPY --chown=www-data:www-data install.sh /tmp/docker_run.sh
+RUN chmod +x /tmp/docker_run.sh
 
 RUN mv /var/www/html/install /var/www/html/install4577/
 RUN mv /var/www/html/admin /var/www/html/admin4577/
