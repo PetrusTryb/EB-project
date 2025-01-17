@@ -91,7 +91,7 @@ if [ ! -f ./config/settings.inc.php ] && [ ! -f ./install.lock ]; then
         --domain="$PS_DOMAIN" --db_server=$DB_SERVER:$DB_PORT --db_name="$DB_NAME" --db_user=$DB_USER \
         --db_password=$DB_PASSWD --prefix="$DB_PREFIX" --language=$PS_LANGUAGE --country=$PS_COUNTRY \
         --all_languages=$PS_ALL_LANGUAGES --newsletter=0 --send_email=0 --ssl=$PS_ENABLE_SSL --fixtures=0 \
-		
+		--modules=blockwishlist,contactform,dashactivity,dashtrends,dashgoals,dashproducts,graphnvd3,gridhtml,gsitemap,pagesnotfound,productcomments,ps_banner,ps_categorytree,ps_checkpayment,ps_contactinfo,ps_crossselling,ps_currencyselector,ps_customeraccountlinks,ps_customersignin,ps_customtext,ps_dataprivacy,ps_emailsubscription,ps_faviconnotificationbo,ps_featuredproducts,ps_imageslider,ps_languageselector,ps_linklist,ps_mainmenu,ps_searchbar,ps_sharebuttons,ps_shoppingcart,ps_socialfollow,ps_themecusto,ps_wirepayment,statsbestcategories,statsbestcustomers,statsbestproducts,statsbestsuppliers,statsbestvouchers,statscarrier,statscatalog,statscheckup,statsdata,statsforecast,statsnewsletter,statspersonalinfos,statsproduct,statsregistrations,statssales,statssearch,statsstock,welcome,psgdpr,ps_buybuttonlite,ps_metrics,ps_facebook,psxmarketingwithgoogle,blockreassurance,ps_facetedsearch,ps_mbo,ps_checkout,ps_cashondelivery,ps_accounts,ps_eventbus,ps_googleanalytics
 
         if [ $? -ne 0 ]; then
             echo 'warning: PrestaShop installation failed.'

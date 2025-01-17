@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 if [ "$DB_DONT_TOUCH" != "1" ]; then
 echo "DB_DONT_TOUCH is set to 0, initializing database"
 mysql -h "$DB_SERVER" -u "$DB_USER" -p"$DB_PASSWD" <<EOF
