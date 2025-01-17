@@ -1,4 +1,4 @@
-name: BE_184623
+#name: BE_184623
 services:
   prestashop:
     #use local image TODO: change to dockerhub image when pipeline is ready
@@ -30,3 +30,10 @@ services:
         reservations:
           cpus: '0.25'
           memory: 128M
+    networks:
+      - admin-mysql_default
+      - BE_18462_prestashop_network
+networks:
+  BE_18462_prestashop_network:
+  admin-mysql_default:
+    external: true
