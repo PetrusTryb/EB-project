@@ -31,8 +31,8 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     Dodanie do koszyka 10 produktów (w różnych ilościach) z dwóch różnych kategorii
     """
     def test_1_add_product_to_basket(self):
-        #queries = ['man', 'amigo', 'sym', 'licz', 'rainbow lace', 'ocz', 'alum', 'żył', 'stal', 'wata']
-        queries = ['man']
+        queries = ['mana', 'amigo size', 'santa', 'udon', 'acac', 'mem', 'diablo pri', 'blend', 'klin', 'wata']
+        #queries = ['man']
         for query in queries:
             self.browser.get(PRESTASHOP_URL)
             WebDriverWait(self.browser, 10).until(lambda x: x.find_element(by=By.NAME, value='s'))
@@ -42,16 +42,17 @@ class PrestashopFrontendTestCase(unittest.TestCase):
             #sleep(2)
             WebDriverWait(self.browser, 10).until(lambda x: x.find_element(by=By.CSS_SELECTOR, value='.ui-autocomplete>li>a'))
             available_products = self.browser.find_elements(by=By.CSS_SELECTOR, value='.ui-autocomplete>li>a')
-            print("test")
-            #selected_random = available_products[randint(0, len(available_products)-1)]
-            selected_random = available_products[0]
-            print("test")
+            #print("test")
+            selected_random = available_products[randint(0, len(available_products)-1)]
+            #selected_random = available_products[0]
+            #print("test")
             selected_name = selected_random.find_element(by=By.CLASS_NAME, value='product').text.lower()
             print(f'Selected product: {selected_name}')
             selected_name_frag = selected_name[:22]+'...'
             selected_random.click()
             WebDriverWait(self.browser, 10).until(lambda x: x.find_element(by=By.CLASS_NAME, value='add-to-cart'))
             #self.browser.find_element(by=By.NAME, value='qty').send_keys(Keys.DELETE, '10')
+            self.browser.find_element(by=By.NAME, value='qty').send_keys(Keys.DELETE, randint(1,9))
             self.browser.find_element(by=By.CLASS_NAME, value='add-to-cart').click()
             #sleep(3)
             #self.assertIn(f'1', self.browser.find_elements(by=By.CLASS_NAME, value='cart-products-count')[1].text)
