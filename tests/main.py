@@ -32,11 +32,12 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     """
     def test_1_add_product_to_basket(self):
         queries = ['mana', 'amigo size', 'santa', 'udon', 'acac', 'mem', 'diablo pri', 'blend', 'klin', 'wata']
+        #queries = ['mana', 'amigo size', 'santa']
         #queries = ['man']
         for query in queries:
             self.browser.get(PRESTASHOP_URL)
             WebDriverWait(self.browser, 10).until(lambda x: x.find_element(by=By.NAME, value='s'))
-            sleep(3)
+            #sleep(3)
             # TODO: zmiana zapytanie po dodaniu produktów
             self.browser.find_element(by=By.NAME, value='s').send_keys(query)
             #sleep(2)
@@ -52,12 +53,15 @@ class PrestashopFrontendTestCase(unittest.TestCase):
             selected_random.click()
             WebDriverWait(self.browser, 10).until(lambda x: x.find_element(by=By.CLASS_NAME, value='add-to-cart'))
             #self.browser.find_element(by=By.NAME, value='qty').send_keys(Keys.DELETE, '10')
-            self.browser.find_element(by=By.NAME, value='qty').send_keys(Keys.DELETE, randint(1,9))
+            
+            # add random number of products to basket
+            value = randint(1,9)
+            self.browser.find_element(by=By.NAME, value='qty').send_keys(Keys.DELETE, str(value))
             self.browser.find_element(by=By.CLASS_NAME, value='add-to-cart').click()
             #sleep(3)
             #self.assertIn(f'1', self.browser.find_elements(by=By.CLASS_NAME, value='cart-products-count')[1].text)
             #print("\n#### Test 1 completed\n")
-            sleep(3)
+            #sleep(3)
         """
         self.browser.get(PRESTASHOP_URL)
         self.browser.find_elements(by=By.CLASS_NAME, value='category')[0].click()
@@ -96,15 +100,17 @@ class PrestashopFrontendTestCase(unittest.TestCase):
     def test_3_remove_products_from_basket(self):
         self.browser.get(PRESTASHOP_URL)
         sleep(3)
+       
         self.browser.find_element(by=By.CSS_SELECTOR, value='#_desktop_cart>div>div>a').click()
-        to_remove = self.browser.find_elements(by=By.CLASS_NAME, value='remove-from-cart')[0]
-        to_remove_name = to_remove.find_element(by=By.XPATH, value='../../../../../*/*/a[@class="label"]').text.lower()
-        print(f'Removing product: {to_remove_name}')
-        to_remove.click()
-        WebDriverWait(self.browser, 10).until(staleness_of(to_remove))
-        cart_contents = self.browser.find_elements(by=By.XPATH, value='//div[@class="product-line-info"]/a[@class="label"]')
-        cart_contents_names = [x.text.lower() for x in cart_contents]
-        self.assertNotIn(to_remove_name, cart_contents_names)
+        for i in range(3):
+            to_remove = self.browser.find_elements(by=By.CLASS_NAME, value='remove-from-cart')[0]
+            to_remove_name = to_remove.find_element(by=By.XPATH, value='../../../../../*/*/a[@class="label"]').text.lower()
+            print(f'Removing product: {to_remove_name}')
+            to_remove.click()
+            WebDriverWait(self.browser, 10).until(staleness_of(to_remove))
+            cart_contents = self.browser.find_elements(by=By.XPATH, value='//div[@class="product-line-info"]/a[@class="label"]')
+            cart_contents_names = [x.text.lower() for x in cart_contents]
+            self.assertNotIn(to_remove_name, cart_contents_names)
         #self.browser.find_elements(by=By.CLASS_NAME, value='remove-from-cart')[1].click()
         # TODO: usunięcie większej ilości produktów gdy będzie to możliwe
 
