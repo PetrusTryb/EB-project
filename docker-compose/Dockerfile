@@ -26,3 +26,7 @@ RUN mv /var/www/html/admin /var/www/html/admin4577/
 RUN a2enmod ssl
 RUN a2ensite server
 RUN a2enmod headers
+
+RUN apt-get update && apt-get install -y libmemcached-dev zlib1g-dev
+RUN pecl install memcached
+RUN docker-php-ext-enable memcached

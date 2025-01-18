@@ -6,7 +6,6 @@ services:
       context: .
       dockerfile: Dockerfile
     command: ["bash", "-c", "/tmp/docker_run.sh"]
-    restart: unless-stopped
     ports:
       - 18462:443
     environment:
@@ -25,14 +24,40 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '2.0'
+          cpus: '1.0'
           memory: 256M
         reservations:
           cpus: '0.25'
           memory: 128M
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 180s
     networks:
       - admin-mysql_default
       - BE_18462_prestashop_network
+  memcached:
+    image: memcached:1.6-alpine
+    container_name: BE_184623_memcached
+    command: 
+      -vv
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 64M
+        reservations:
+          cpus: '0.25'
+          memory: 32M
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 180s
+    networks:
+      - BE_18462_prestashop_network
+
 networks:
   BE_18462_prestashop_network:
   admin-mysql_default:
