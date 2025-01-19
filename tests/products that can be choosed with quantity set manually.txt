@@ -1,0 +1,41 @@
+Products with quaintity set manually and being > 10:
+
+mana:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11234?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11008?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+amigo size:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11021?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+santa:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11497?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/10865?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+udon:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11019?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+acac:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11101?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11098?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+mem:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/10779?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/10805?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/10776?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+diablo pri:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11037?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11169?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+blend:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11043?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11047?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11077?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+klin:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/10988?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/11312?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+
+wata:
+https://localhost:18462/admin4577/index.php/sell/catalog/products/10599?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
+https://localhost:18462/admin4577/index.php/sell/catalog/products/10595?_token=rfvyXo6f_WFA-Ndcev9PnlBf4_GlSKxYgdiHP3vxkis
