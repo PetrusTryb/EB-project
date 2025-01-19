@@ -200,7 +200,8 @@ class PrestashopFrontendTestCase(unittest.TestCase):
         """
         Pobranie faktury VAT
         """
-        self.browser.find_element(by = By.CSS_SELECTOR, value='table.table tbody td:has(span.label) + td a').click()
+        #self.browser.find_element(by = By.CSS_SELECTOR, value='table.table tbody td:has(span.label) + td a').click()
+        self.browser.find_element(by = By.XPATH, value='/html/body/main/section/div/div/section/section[1]/table/tbody/tr/td[5]/a').click()
         #x.find_element(By.TAG, 'a').click()
     
         invoice_folder = os.path.expanduser('~\\Downloads')
